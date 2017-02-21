@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  origin: one
+  destination: one
+  carrier: one
+  shipment_category: one
+  cost: 9.99
+  uni_of_measure: one
+
+two:
+  origin: two
+  destination: two
+  carrier: two
+  shipment_category: two
+  cost: 9.99
+  uni_of_measure: two

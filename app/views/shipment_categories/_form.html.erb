@@ -1,0 +1,27 @@
+<%= form_for(shipment_category) do |f| %>
+  <% if shipment_category.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(shipment_category.errors.count, "error") %> prohibited this shipment_category from being saved:</h2>
+
+      <ul>
+      <% shipment_category.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :shipment_type_id %>
+    <%= f.collection_select :shipment_type_id, ShipmentType.all, :id, :name %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

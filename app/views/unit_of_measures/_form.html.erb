@@ -1,0 +1,22 @@
+<%= form_for(unit_of_measure) do |f| %>
+  <% if unit_of_measure.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(unit_of_measure.errors.count, "error") %> prohibited this unit_of_measure from being saved:</h2>
+
+      <ul>
+      <% unit_of_measure.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

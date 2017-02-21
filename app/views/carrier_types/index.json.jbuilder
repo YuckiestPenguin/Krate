@@ -1,0 +1,1 @@
+json.array! @carrier_types, partial: 'carrier_types/carrier_type', as: :carrier_type

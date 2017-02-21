@@ -1,0 +1,2 @@
+module ShipmentCategoriesHelper
+end

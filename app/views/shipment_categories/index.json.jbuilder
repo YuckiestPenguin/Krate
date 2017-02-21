@@ -1,0 +1,1 @@
+json.array! @shipment_categories, partial: 'shipment_categories/shipment_category', as: :shipment_category

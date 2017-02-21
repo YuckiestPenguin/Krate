@@ -1,0 +1,1 @@
+json.partial! "carrier_types/carrier_type", carrier_type: @carrier_type

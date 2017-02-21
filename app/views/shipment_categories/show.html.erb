@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @shipment_category.name %>
+</p>
+
+<p>
+  <strong>Shipment type:</strong>
+  <%= @shipment_category.shipment_type %>
+</p>
+
+<%= link_to 'Edit', edit_shipment_category_path(@shipment_category) %> |
+<%= link_to 'Back', shipment_categories_path %>
