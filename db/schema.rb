@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170221140211) do
+ActiveRecord::Schema.define(version: 20170221151404) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -44,6 +44,8 @@ ActiveRecord::Schema.define(version: 20170221140211) do
     t.integer  "shipment_type_id"
     t.datetime "created_at",       null: false
     t.datetime "updated_at",       null: false
+    t.integer  "country_id"
+    t.index ["country_id"], name: "index_ports_on_country_id", using: :btree
     t.index ["shipment_type_id"], name: "index_ports_on_shipment_type_id", using: :btree
   end
 
@@ -85,6 +87,7 @@ ActiveRecord::Schema.define(version: 20170221140211) do
 
   add_foreign_key "carriers", "carrier_types"
   add_foreign_key "carriers", "shipment_types"
+  add_foreign_key "ports", "countries"
   add_foreign_key "ports", "shipment_types"
   add_foreign_key "rates", "carriers"
   add_foreign_key "rates", "shipment_categories"

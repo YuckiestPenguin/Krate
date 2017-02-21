@@ -69,6 +69,6 @@ class PortsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def port_params
-      params.require(:port).permit(:name, :port_code, :shipment_type_id)
+      params.require(:port).permit(:name, :port_code, :shipment_type_id, :country_id)
     end
 end
