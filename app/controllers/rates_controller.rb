@@ -4,7 +4,8 @@ class RatesController < ApplicationController
   # GET /rates
   # GET /rates.json
   def index
-    @rates = Rate.all
+    @search = Rate.search(params[:q])
+    @rates =  @search.result
   end
 
   # GET /rates/1

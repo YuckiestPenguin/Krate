@@ -1,8 +1,51 @@
 <p id="notice"><%= notice %></p>
 <div class="jumbotron text-center">
-  <h1>Rates</h1>
-  <p></p>
+    <h1>Rates</h1>
+    <div class="container-fluid">
+        <%= search_form_for @search do |f| %>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="field">
+                    <h3>ORIGIN</h3>
+                    <%= f.text_field :origin_country_country_code_or_origin_country_name_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, US", class: "input-lg form-control" %>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="field">
+                    <h3>DESTINATION</h3>
+                    <%= f.text_field :destination_country_country_code_or_destination_country_name_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Shanghai, China", class: "input-lg form-control" %>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="field">
+                    <h3>SHIPMENT CATEGORY</h3>
+                    <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Type", class: "form-control"%>
+
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="field">
+                    <h3>CARRIER</h3>
+                    <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
+
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <br>
+        <div class="row">
+            <div class="col-md-12">
+                <div><%= f.submit "Search", class: "btn btn-lg btn-primary actions" %>
+                    <%= link_to "Clear Search", request.path, class:"btn btn-lg btn-warning" %></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    <% end %>
 </div>
+
+
 <section>
   <div class="container-fluid">
     <div class="row">
@@ -38,7 +81,7 @@
     </div>
     <div class="row">
       <div class="col-sm-12 text-center">
-        <%= link_to 'New Rate', new_rate_path, class: "btn btn-lg btn-primary" %>
+        <%= link_to 'New Rate', new_rate_path, class: "btn btn-success" %>
 
       </div>
     </div>
