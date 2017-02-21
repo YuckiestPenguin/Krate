@@ -24,9 +24,7 @@
         <td><%= rate.shipment_category.name %></td>
         <td><%= rate.cost %></td>
         <td><%= rate.unit_of_measure.name %></td>
-        <td><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %></td>
-        <td><%= link_to 'Edit', edit_rate_path(rate) %></td>
-        <td><%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %> <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %> <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
       </tr>
     <% end %>
   </tbody>
