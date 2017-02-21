@@ -13,22 +13,24 @@
 
   <div class="field">
     <%= f.label :origin_id %>
-    <%= f.text_field :origin_id %>
+    <%= f.collection_select :origin_id, Port.all, :id, :port_code %>
   </div>
 
   <div class="field">
     <%= f.label :destination_id %>
-    <%= f.text_field :destination_id %>
+    <%= f.collection_select :destination_id, Port.all, :id, :port_code %>
   </div>
 
   <div class="field">
     <%= f.label :carrier_id %>
-    <%= f.text_field :carrier_id %>
+    <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
+
   </div>
 
   <div class="field">
     <%= f.label :shipment_category_id %>
-    <%= f.text_field :shipment_category_id %>
+    <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
+
   </div>
 
   <div class="field">
@@ -38,7 +40,8 @@
 
   <div class="field">
     <%= f.label :unit_of_measure_id %>
-    <%= f.text_field :unit_of_measure_id %>
+    <%= f.collection_select :unit_of_measure_id, UnitOfMeasure.all, :id, :name %>
+
   </div>
 
   <div class="actions">

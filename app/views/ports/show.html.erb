@@ -12,7 +12,12 @@
 
 <p>
   <strong>Shipment type:</strong>
-  <%= @port.shipment_type %>
+  <%= @port.shipment_type.name %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @port.country.name %>
 </p>
 
 <%= link_to 'Edit', edit_port_path(@port) %> |

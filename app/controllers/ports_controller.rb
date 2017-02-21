@@ -7,6 +7,8 @@ class PortsController < ApplicationController
     @ports = Port.all
   end
 
+
+
   # GET /ports/1
   # GET /ports/1.json
   def show
