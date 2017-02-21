@@ -1,35 +1,46 @@
 <p id="notice"><%= notice %></p>
+<div class="jumbotron text-center">
+  <h1>Rates</h1>
+  <p></p>
+</div>
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Origin</th>
+              <th>Destination</th>
+              <th>Carrier</th>
+              <th>Shipment category</th>
+              <th>Cost</th>
+              <th>Unit of measure</th>
+              <th colspan="3"></th>
+            </tr>
+          </thead>
 
-<h1>Rates</h1>
+          <tbody>
+            <% @rates.each do |rate| %>
+              <tr>
+                <td><%= rate.origin.name %></td>
+                <td><%= rate.destination.name %></td>
+                <td><%= rate.carrier.name %></td>
+                <td><%= rate.shipment_category.name %></td>
+                <td><%= rate.cost %></td>
+                <td><%= rate.unit_of_measure.name %></td>
+                <td><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %> <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %> <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <%= link_to 'New Rate', new_rate_path, class: "btn btn-lg btn-primary" %>
 
-<table class="table">
-  <thead>
-    <tr>
-      <th>Origin</th>
-      <th>Destination</th>
-      <th>Carrier</th>
-      <th>Shipment category</th>
-      <th>Cost</th>
-      <th>Unit of measure</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @rates.each do |rate| %>
-      <tr>
-        <td><%= rate.origin.name %></td>
-        <td><%= rate.destination.name %></td>
-        <td><%= rate.carrier.name %></td>
-        <td><%= rate.shipment_category.name %></td>
-        <td><%= rate.cost %></td>
-        <td><%= rate.unit_of_measure.name %></td>
-        <td><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %> <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %> <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
-
-<br>
-
-<%= link_to 'New Rate', new_rate_path %>
+      </div>
+    </div>
+  </div>
+</section>
