@@ -56,3 +56,5 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 # Ransack is used for creating the search and filter.
 gem 'ransack'
+
+gem 'devise'
