@@ -1,5 +1,7 @@
 class PagesController < ApplicationController
-  def show
+  before_action :authenticate_user!, :except => [:index]
+
+  def index
     if valid_page?
       render template: "pages/#{params[:page]}"
     else
