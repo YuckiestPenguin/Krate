@@ -45,7 +45,18 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-sm-12">
+      <div class="col-sm-2">
+        <ul><h4>Sort by:</h4>
+        <li><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></li>
+        <li><%= sort_link(@search, :destination_port_code, "Destination Port Code") %></li>
+        <li><%= sort_link(@search, :origin_name, "Origin Name") %></li>
+        <li><%= sort_link(@search, :destination_name, "Destination Name") %></li>
+        <li><%= sort_link(@search, :carrier_name, "Carrier") %></li>
+        <li><%= sort_link(@search, :shipment_category_name, "Category") %></li>
+        <li><%= sort_link(@search, :cost, "Cost") %></li>
+      </ul>
+      </div>
+        <div class="col-sm-10">
             <div id="no-more-tables">
                 <table class="table table-bordered table-striped table-condensed cf">
                     <thead class="cf">
@@ -63,7 +74,7 @@
                     <tbody class="cf">
                         <% @rates.each do |rate| %>
                         <tr>
-                            <td data-title="Origin"><%= rate.origin.name %></td>
+                            <td data-title="Origin"><%= rate.origin.port_code %> | <%= rate.origin.name %></td>
                             <td data-title="Destination"><%= rate.destination.name %></td>
                             <td data-title="Carrier"><%= rate.carrier.name %></td>
                             <td data-title="Shipment Category"><%= rate.shipment_category.name %></td>
