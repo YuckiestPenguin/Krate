@@ -1,76 +1,80 @@
-<p id="notice"><%= notice %></p>
-<div class="jumbotron text-center">
-    <h1>Rates</h1>
-    <div class="container-fluid">
-        <%= search_form_for @search do |f| %>
-        <div class="row">
-            <div class="col-md-6">
-                <div class="field">
-                    <h4>ORIGIN</h4>
-                    <%= f.text_field :origin_country_country_code_or_origin_country_name_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, US", class: "input-lg form-control" %>
+
+<section class="splash">
+    <div class="container">
+        <div class="container-fluid">
+          <h1 class="intro-title">RATE CELLAR.</h1>
+          <h1>All your rates, in one safe place.</h1>
+          <hr>
+            <%= search_form_for @search do |f| %>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="field">
+                        <h4>ORIGIN</h4>
+                        <div><%= f.text_field :origin_country_country_code_or_origin_country_name_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, US", class: "input-lg form-control" %></div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="field">
+                        <h4>DESTINATION</h4>
+                        <%= f.text_field :destination_country_country_code_or_destination_country_name_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Shanghai, China", class: "input-lg form-control" %>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="field">
-                    <h4>DESTINATION</h4>
-                    <%= f.text_field :destination_country_country_code_or_destination_country_name_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Shanghai, China", class: "input-lg form-control" %>
+            <div class="row">
+              <br>
+
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>SHIPMENT TYPE</h4>
+                      <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
+                  </div>
+              </div>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>SHIPMENT CATEGORY</h4>
+                      <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
+                  </div>
+              </div>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>CARRIER</h4>
+                      <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
+
+                  </div>
+              </div>
+            </div>
+            <br>
+
+            <br>
+            <div class="row">
+                <div class="col-md-12">
+                    <div><%= f.submit "Search", class: "btn btn-lg btn-primary actions" %>
+                    <%= link_to "Clear Search", request.path, class:"btn btn-lg btn-warning" %></div>
                 </div>
             </div>
         </div>
-        <hr>
-        <div class="row">
-
-          <div class="col-md-3">
-              <div class="field">
-                  <h4>SHIPMENT TYPE</h4>
-                  <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
-              </div>
-          </div>
-          <div class="col-md-3">
-              <div class="field">
-                  <h4>SHIPMENT CATEGORY</h4>
-                  <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
-              </div>
-          </div>
-          <div class="col-md-3">
-              <div class="field">
-                  <h4>CARRIER</h4>
-                  <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
-
-              </div>
-          </div>
-        </div>
-        <br>
-
-        <br>
-        <div class="row">
-            <div class="col-md-12">
-                <div><%= f.submit "Search", class: "btn btn-lg btn-primary actions" %></div><hr>
-                <div><%= link_to "Clear Search", request.path, class:"btn btn-lg btn-warning" %></div>
-            </div>
-        </div>
+        <% end %>
     </div>
-    <% end %>
-</div>
+</section>
 <div class="container-fluid">
     <div class="row">
-      <div class="col-sm-2">
-        <ul><h4>Sort by:</h4>
-        <li><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></li>
-        <li><%= sort_link(@search, :destination_port_code, "Destination Port Code") %></li>
-        <li><%= sort_link(@search, :origin_name, "Origin Name") %></li>
-        <li><%= sort_link(@search, :destination_name, "Destination Name") %></li>
-        <li><%= sort_link(@search, :carrier_name, "Carrier") %></li>
-        <li><%= sort_link(@search, :shipment_category_name, "Category") %></li>
+      <div class="col-sm-12">
+        <ul class="list-inline"><h4>Sort by:</h4>
+        <li class=""><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></li> |
+        <li><%= sort_link(@search, :destination_port_code, "Destination Port Code") %></li> |
+        <li><%= sort_link(@search, :origin_name, "Origin Name") %></li> |
+        <li><%= sort_link(@search, :destination_name, "Destination Name") %></li> |
+        <li><%= sort_link(@search, :carrier_name, "Carrier") %></li> |
+        <li><%= sort_link(@search, :shipment_category_name, "Category") %></li> |
         <li><%= sort_link(@search, :cost, "Cost") %></li>
       </ul>
       </div>
-        <div class="col-sm-10">
+        <div class="col-sm-12">
             <div id="no-more-tables">
                 <table class="table table-bordered table-striped table-condensed cf">
                     <thead class="cf">
                         <tr>
-                            <th>Origin</th>
+                            <th><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></th>
                             <th>Destination</th>
                             <th>Carrier</th>
                             <th>Shipment category</th>
