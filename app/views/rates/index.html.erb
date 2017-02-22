@@ -36,54 +36,53 @@
         <br>
         <div class="row">
             <div class="col-md-12">
-                <div><%= f.submit "Search", class: "btn btn-lg btn-primary actions" %>
-                    <%= link_to "Clear Search", request.path, class:"btn btn-lg btn-warning" %></div>
-                <div></div>
+                <div><%= f.submit "Search", class: "btn btn-lg btn-primary actions" %></div><hr>
+                <div><%= link_to "Clear Search", request.path, class:"btn btn-lg btn-warning" %></div>
             </div>
         </div>
     </div>
     <% end %>
 </div>
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-sm-12">
-      <div id="no-more-tables">
-          <table class="table table-bordered table-striped table-condensed cf">
-              <thead class="cf">
-                  <tr>
-                      <th>Origin</th>
-                      <th>Destination</th>
-                      <th>Carrier</th>
-                      <th>Shipment category</th>
-                      <th>Cost</th>
-                      <th>Unit of measure</th>
-                      <th colspan="3"></th>
-                  </tr>
-              </thead>
+    <div class="row">
+        <div class="col-sm-12">
+            <div id="no-more-tables">
+                <table class="table table-bordered table-striped table-condensed cf">
+                    <thead class="cf">
+                        <tr>
+                            <th>Origin</th>
+                            <th>Destination</th>
+                            <th>Carrier</th>
+                            <th>Shipment category</th>
+                            <th>Cost</th>
+                            <th>Unit of measure</th>
+                            <th colspan="1"></th>
+                        </tr>
+                    </thead>
 
-              <tbody>
-                  <% @rates.each do |rate| %>
-                  <tr>
-                      <td><%= rate.origin.name %></td>
-                      <td><%= rate.destination.name %></td>
-                      <td><%= rate.carrier.name %></td>
-                      <td><%= rate.shipment_category.name %></td>
-                      <td><%= rate.cost %></td>
-                      <td><%= rate.unit_of_measure.name %></td>
-                      <td><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %>
-                          <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %>
-                          <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
-                  </tr>
-                  <% end %>
-              </tbody>
-          </table>
-      </div>
+                    <tbody class="cf">
+                        <% @rates.each do |rate| %>
+                        <tr>
+                            <td data-title="Origin"><%= rate.origin.name %></td>
+                            <td data-title="Destination"><%= rate.destination.name %></td>
+                            <td data-title="Carrier"><%= rate.carrier.name %></td>
+                            <td data-title="Shipment Category"><%= rate.shipment_category.name %></td>
+                            <td data-title="Cost"><%= rate.cost %></td>
+                            <td data-title="Unit of Measure"><%= rate.unit_of_measure.name %></td>
+                            <td class="text-center"><%= link_to 'Show', rate, class: "btn btn-xs btn-info" %>
+                                <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %>
+                                <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
+                        </tr>
+                        <% end %>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="row">
-      <div class="col-sm-12 text-center">
-          <%= link_to 'New Rate', new_rate_path, class: "btn btn-success" %>
+    <div class="row">
+        <div class="col-sm-12 text-center">
+            <%= link_to 'New Rate', new_rate_path, class: "btn btn-success" %>
 
-      </div>
-  </div>
+        </div>
+    </div>
 </div>
