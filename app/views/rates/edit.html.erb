@@ -1,10 +1,25 @@
 
+      <section class="splash">
+          <div class="container text-center">
+            <div class="row">
+              <div class="col-sm-12">
+                <h1 class="intro-title">Edit Rate</h1>
+                <hr>
 
-      <h1>Editing Rate</h1>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12">
+                <%= render 'form', rate: @rate %>
 
-      <%= render 'form', rate: @rate %>
-      <br>
-      <div>
-        <%= link_to 'Show', @rate, class: "btn btn-default" %> 
-        <%= link_to 'Back', rates_path, class: "btn btn-primary" %>
-      </div>
+              </div>
+              <div class="col-sm-12">
+                <br>
+                <%= link_to 'Back', rates_path, class: "btn btn-sm- btn-info" %>
+
+              </div>
+            </div>
+
+
+          </div>
+      </section>
