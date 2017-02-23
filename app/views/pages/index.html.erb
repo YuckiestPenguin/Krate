@@ -44,7 +44,7 @@
                 <li>
                     <i class="fa fa-css3"></i>
                     <h3>Customizable</h3>
-                    <p>We understand that everyone has their own system. Wine Cellar makes it easy to integrate and fit to your specifications.</p>
+                    <p>We understand that everyone has their own system. Rate Cellar makes it easy to integrate and fit to your specifications.</p>
                 </li>
                 <li>
                     <i class="fa fa-code"></i>
@@ -60,7 +60,12 @@
     <div class="container">
         <h1>Research Less, Move More.</h1>
         <h2>Instead of wasting time researching rates, use that time to win more bids.</h2>
+        <% if user_signed_in? %>
+        <%= link_to 'Get Started!', rates_path, class: "btn btn-lg btn-success" %>
+        <% else %>
         <%= link_to 'Get Started!', new_user_registration_path, class: "btn btn-lg btn-success" %>
+        <% end %>
+
     </a>
 </div>
 </section>

@@ -33,7 +33,7 @@
               <div class="col-md-3">
                   <div class="field">
                       <h4>SHIPMENT CATEGORY</h4>
-                      <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => false, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
+                      <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Category Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
                   </div>
               </div>
               <div class="col-md-3">
@@ -67,7 +67,7 @@
         <li><%= sort_link(@search, :destination_name, "Destination Name") %></li> |
         <li><%= sort_link(@search, :carrier_name, "Carrier") %></li> |
         <li><%= sort_link(@search, :shipment_category_name, "Category") %></li> |
-        <li><%= sort_link(@search, :cost, "Cost") %></li>
+        <li><%= sort_link(@search, :cost, "Base Cost") %></li>
       </ul>
       </div>
         <div class="col-sm-12">
@@ -75,11 +75,11 @@
                 <table class="table table-bordered table-striped table-condensed cf">
                     <thead class="cf">
                         <tr>
-                            <th><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></th>
+                            <th>Origin</th>
                             <th>Destination</th>
                             <th>Carrier</th>
                             <th>Shipment category</th>
-                            <th>Cost</th>
+                            <th>Base Cost</th>
                             <th>Unit of measure</th>
                             <th colspan="1"></th>
                         </tr>
