@@ -1,0 +1,1 @@
+json.array! @extra_charge_ranges, partial: 'extra_charge_ranges/extra_charge_range', as: :extra_charge_range
