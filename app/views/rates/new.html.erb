@@ -1,5 +1,24 @@
-<h1>New Rate</h1>
+<section class="splash">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1 class="intro-title">New Rate.</h1>
+          <hr>
 
-<%= render 'form', rate: @rate %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <%= render 'form', rate: @rate %>
 
-<%= link_to 'Back', rates_path %>
+        </div>
+        <div class="col-sm-12">
+          <br>
+          <%= link_to 'Back', rates_path, class: "btn btn-sm- btn-info" %>
+
+        </div>
+      </div>
+
+
+    </div>
+</section>
