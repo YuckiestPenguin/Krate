@@ -1,35 +1,41 @@
-<p id="notice"><%= notice %></p>
-
-
-
-                <p>
-                    <strong>Origin:</strong>
-                    <%= @rate.origin.name %>
-                </p>
-
-                <p>
-                    <strong>Destination:</strong>
-                    <%= @rate.destination.name %>
-                </p>
-
-                <p>
-                    <strong>Carrier:</strong>
-                    <%= @rate.carrier.name %>
-                </p>
-
-                <p>
-                    <strong>Shipment category:</strong>
-                    <%= @rate.shipment_category.name %>
-                </p>
-
-                <p>
-                    <strong>Cost:</strong>
-                    <%= @rate.cost %>
-                </p>
-
-                <p>
-                    <strong>Uni of measure:</strong>
-                    <%= @rate.unit_of_measure.name %>
-                </p>
-                <%= link_to 'Edit', edit_rate_path(@rate), class: "btn btn-warning" %>
-                <%= link_to 'Back', rates_path, class: "btn btn-info" %>
+<section class="splash">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-sm-4">
+                <h1 class="intro-title"><%= @rate.origin.port_code %></h1>
+                <h2><%= @rate.origin.name %></h2>
+            </div>
+            <div class="col-sm-4 ">
+                <h1>
+                    <i class="glyphicon glyphicon-arrow-right intro-title"></i>
+                </h1>
+            </div>
+            <div class="col-sm-4">
+                <h1 class="intro-title"><%= @rate.destination.port_code %></h1>
+                <h2><%= @rate.destination.name %></h2>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-3">
+                <h1>MODE</h1>
+                <h1 style="color: rgb(51, 122, 183)"><%= @rate.shipment_category.name %></h1>
+            </div>
+            <div class="col-sm-3">
+              <h1>VIA</h1>
+                <h1 style="color: rgb(51, 122, 183)"><%= @rate.carrier.name %></h1>
+            </div>
+            <div class="col-sm-3">
+              <h1 >FOR</h1>
+                <h1 style="color: rgb(51, 122, 183)"><%= number_to_currency(@rate.cost) %></h1>
+            </div>
+            <div class="col-sm-3">
+              <h1>PER</h1>
+              <h1 style="color: rgb(51, 122, 183)"><%= @rate.unit_of_measure.name %></h1>
+            </div>
+        </div>
+        <br>
+        <%= link_to 'Edit', edit_rate_path(@rate), class: "btn btn-warning" %>
+        <%= link_to 'Back', rates_path, class: "btn btn-info" %>
+    </div>
+</section>
