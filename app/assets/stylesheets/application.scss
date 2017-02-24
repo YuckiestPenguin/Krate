@@ -16,7 +16,27 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
-// title and intro
+
+
+// custom navbar
+
+.navbar-custom {
+    background-color:#555;
+    color:rgb(51, 122, 183);
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fbc93d;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: rgb(51, 122, 183);
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#fbc93d;
+}
+// title and intro: ;
 .intro-title{
      font-size: 75px;
      line-height: 65px;
