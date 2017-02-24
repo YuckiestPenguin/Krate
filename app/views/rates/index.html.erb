@@ -96,7 +96,7 @@
                             <td data-title="Unit of Measure"><%= rate.unit_of_measure.name %></td>
                             <td class="text-center"><%= link_to 'Info', rate, class: "btn btn-xs btn-info" %>
                                 <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %>
-                                <%= link_to 'Destroy', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
+                                <%= link_to 'Delete', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
                         </tr>
                         <% end %>
                     </tbody>
