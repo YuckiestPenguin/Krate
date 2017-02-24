@@ -287,20 +287,20 @@ header .toggle-menu{
 .splash:after{
     content: "";
     display: block;
-    position: absolute;
+    position: fixed;
     top: -40px; right: -40px; bottom: -40px; left: -40px;
     background: rgba(255,255,255,0.08);
     transform: rotate(30deg);
-    animation: spin 60s infinite linear;
+    animation: spin 20s infinite linear;
 }
 .splash:before{
     content: "";
     display: block;
-    position: absolute;
+    position: fixed;
     top: -40px; right: -40px; bottom: -40px; left: -40px;
     background: rgba(255,255,255,0.08);
     transform: rotate(150deg);
-    animation: spin2 50s infinite linear;
+    animation: spin2 10s infinite linear;
 }
 .splash .container{
     position: relative;
@@ -538,7 +538,7 @@ header .toggle-menu{
 }
 
 footer{
-    background: #222;
+    background: #555;
     color: #ccc;
     padding: 0 20px;
 }
