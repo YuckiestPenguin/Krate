@@ -31,7 +31,7 @@
 }
 .navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
     color: rgb(51, 122, 183);
-    background-color:transparent;
+    background-color: transparent;
 }
 .navbar-custom .navbar-brand {
     color:#fbc93d;
@@ -50,7 +50,7 @@
 //removing the white gap under navbar
 
 .navbar {
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 // Override the Bootstrap navbar border
@@ -287,7 +287,7 @@ header .toggle-menu{
 .splash:after{
     content: "";
     display: block;
-    position: fixed;
+    position: absolute;
     top: -40px; right: -40px; bottom: -40px; left: -40px;
     background: rgba(255,255,255,0.08);
     transform: rotate(30deg);
@@ -296,7 +296,7 @@ header .toggle-menu{
 .splash:before{
     content: "";
     display: block;
-    position: fixed;
+    position: absolute;
     top: -40px; right: -40px; bottom: -40px; left: -40px;
     background: rgba(255,255,255,0.08);
     transform: rotate(150deg);
