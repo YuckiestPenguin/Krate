@@ -1,1 +1,0 @@
-json.partial! "extra_charge_ranges/extra_charge_range", extra_charge_range: @extra_charge_range
