@@ -3,7 +3,7 @@ class Users::RegistrationsController < Devise::RegistrationsController
 # before_action :configure_account_update_params, only: [:update]
 
   # GET /resource/sign_up
-  This will restrict access to sign up.
+  # This will restrict access to sign up.
   def new
     flash[:failure] = t('registrations.registrations_disabled')
     redirect_to root_path
