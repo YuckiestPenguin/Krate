@@ -49,9 +49,9 @@ ActiveRecord::Schema.define(version: 20170223175434) do
     t.string   "name"
     t.string   "port_code"
     t.integer  "shipment_type_id"
-    t.integer  "country_id"
     t.datetime "created_at",       null: false
     t.datetime "updated_at",       null: false
+    t.integer  "country_id"
     t.index ["country_id"], name: "index_ports_on_country_id", using: :btree
     t.index ["shipment_type_id"], name: "index_ports_on_shipment_type_id", using: :btree
   end

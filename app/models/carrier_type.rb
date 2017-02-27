@@ -1,3 +1,3 @@
 class CarrierType < ApplicationRecord
-  has_many :carriers
+  has_many :carriers, dependent: :destroy
 end

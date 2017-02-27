@@ -5,5 +5,4 @@ class Rate < ApplicationRecord
   belongs_to :shipment_category
   belongs_to :shipment_category
   belongs_to :unit_of_measure
-  has_many :additional_items
 end

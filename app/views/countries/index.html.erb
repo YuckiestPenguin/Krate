@@ -5,6 +5,7 @@
 <table>
   <thead>
     <tr>
+      <th>ID</th>
       <th>Name</th>
       <th><%= sort_link(@search, :country_code, "Category") %></th>
       <th colspan="3"></th>
@@ -14,6 +15,7 @@
   <tbody>
     <% @countries.each do |country| %>
       <tr>
+        <td><%= country.id %></td>
         <td><%= country.name %></td>
         <td><%= country.country_code %></td>
         <td><%= link_to 'Show', country %></td>
@@ -26,4 +28,10 @@
 
 <br>
 
-<%= link_to 'New Country', new_country_path %>
+<h3>Import Countries</h3>
+<%= form_tag import_countries_path, multipart: true do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag "Upload Countries", class: "btn btn-primary" %>
+<% end %>
+
+<%= link_to 'New Country', new_country_path, class: "btn btn-success" %>
