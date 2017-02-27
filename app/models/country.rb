@@ -1,4 +1,5 @@
 class Country < ApplicationRecord
+  has_many :ports, dependent: :destroy
   def self.import(file)
     #code
     CSV.foreach(file.path, headers: true) do |row|
@@ -6,5 +7,4 @@ class Country < ApplicationRecord
     end
   end
 
-  has_many :ports, dependent: :destroy
 end
