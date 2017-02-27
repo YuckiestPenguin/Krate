@@ -1,0 +1,3 @@
+class ExtraChargeRange < ApplicationRecord
+
+end

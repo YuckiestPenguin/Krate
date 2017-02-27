@@ -1,9 +1,13 @@
 class Port < ApplicationRecord
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of b4101f6... added csv upload for countries and ports
   belongs_to :shipment_type
   belongs_to :country
   has_many :origins, :class_name => 'Rate'
   has_many :destinations, :class_name => 'Rate'
+<<<<<<< HEAD
 
   def shipment_type_name
     shipment_type.try(:name)
@@ -27,4 +31,6 @@ class Port < ApplicationRecord
   end
 
 
+=======
+>>>>>>> parent of b4101f6... added csv upload for countries and ports
 end

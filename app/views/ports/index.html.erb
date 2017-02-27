@@ -18,8 +18,13 @@
       <tr>
         <td><%= port.name %></td>
         <td><%= port.port_code %></td>
+<<<<<<< HEAD
         <td><%= port.shipment_type.name%></td>
         <td><%= port.country.country_code%></td>
+=======
+        <td><%= port.shipment_type.name %></td>
+        <td><%= port.country.name %></td>
+>>>>>>> parent of b4101f6... added csv upload for countries and ports
         <td><%= link_to 'Show', port %></td>
         <td><%= link_to 'Edit', edit_port_path(port) %></td>
         <td><%= link_to 'Destroy', port, method: :delete, data: { confirm: 'Are you sure?' } %></td>
@@ -30,11 +35,5 @@
 </table>
 
 <br>
-
-<h3>Import Ports</h3>
-<%= form_tag import_ports_path, multipart: true do %>
-  <%= file_field_tag :file %>
-  <%= submit_tag "Upload Ports", class: "btn btn-primary" %>
-<% end %>
 
 <%= link_to 'New Port', new_port_path %>

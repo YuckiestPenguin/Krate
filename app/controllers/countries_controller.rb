@@ -62,12 +62,6 @@ class CountriesController < ApplicationController
     end
   end
 
-  def import
-    Country.import(params[:file])
-    redirect_to countries_path, notice: "Countries Added Successfully"
-    #code
-  end
-
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_country
