@@ -4,10 +4,10 @@ class Users::RegistrationsController < Devise::RegistrationsController
 
   # GET /resource/sign_up
   # This will restrict access to sign up.
-  def new
-    flash[:failure] = t('registrations.registrations_disabled')
-    redirect_to root_path
-  end
+  # def new
+  #   flash[:failure] = t('registrations.registrations_disabled')
+  #   redirect_to root_path
+  # end
 
   # POST /resource
   # def create
