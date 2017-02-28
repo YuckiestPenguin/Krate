@@ -25,7 +25,11 @@
 </table>
 
 <br>
-
+<h3>Import Countries</h3>
+<%= form_tag import_countries_path, multipart: true do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag "Import Countries" %>
+<% end %>
 
 
 <%= link_to 'New Country', new_country_path %>
