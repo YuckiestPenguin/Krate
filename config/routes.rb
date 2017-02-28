@@ -3,7 +3,9 @@ Rails.application.routes.draw do
   resources :rates
   resources :carrier_types
   resources :carriers
-  resources :ports
+  resources :ports do
+    collection { post :import}
+  end
   resources :countries do
     collection { post :import}
 
