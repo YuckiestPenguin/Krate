@@ -2,7 +2,7 @@
 
 <h1>Shipment Categories</h1>
 
-<table>
+<table class="table">
   <thead>
     <tr>
       <th>Name</th>
@@ -15,7 +15,7 @@
     <% @shipment_categories.each do |shipment_category| %>
       <tr>
         <td><%= shipment_category.name %></td>
-        <td><%= shipment_category.shipment_type %></td>
+        <td><%= shipment_category.shipment_type.name %></td>
         <td><%= link_to 'Show', shipment_category %></td>
         <td><%= link_to 'Edit', edit_shipment_category_path(shipment_category) %></td>
         <td><%= link_to 'Destroy', shipment_category, method: :delete, data: { confirm: 'Are you sure?' } %></td>

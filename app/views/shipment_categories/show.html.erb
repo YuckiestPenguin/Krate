@@ -7,7 +7,7 @@
 
 <p>
   <strong>Shipment type:</strong>
-  <%= @shipment_category.shipment_type %>
+  <%= @shipment_category.shipment_type.name %>
 </p>
 
 <%= link_to 'Edit', edit_shipment_category_path(@shipment_category) %> |
