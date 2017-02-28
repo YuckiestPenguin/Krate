@@ -1,6 +1,10 @@
 Rails.application.routes.draw do
   get "/pages/:page" => "pages#index"
-  resources :rates
+  resources :rates do
+    collection { post :import}
+
+  end
+
   resources :carrier_types
   resources :carriers
   resources :ports do

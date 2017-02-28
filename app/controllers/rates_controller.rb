@@ -62,6 +62,13 @@ class RatesController < ApplicationController
     end
   end
 
+  def import
+    Rate.import(params[:file])
+    redirect_to rates_path, notice: "Rates Imported Successfully!"
+    #code
+  end
+
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_rate
