@@ -21,9 +21,8 @@ class Port < ApplicationRecord
   end
 
   def self.import(file)
-    #code
     CSV.foreach(file.path, headers: true) do |row|
-      Port.create! row.to_hash
+      Country.create! row.to_hash
     end
   end
 
