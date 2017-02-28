@@ -4,7 +4,10 @@ Rails.application.routes.draw do
   resources :carrier_types
   resources :carriers
   resources :ports
-  resources :countries
+  resources :countries do
+    collection { post :import}
+
+  end
   resources :unit_of_measures
   resources :shipment_categories
   resources :shipment_types
