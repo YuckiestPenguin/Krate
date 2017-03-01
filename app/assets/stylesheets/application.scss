@@ -16,11 +16,22 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+// makr hr blue
+hr {
+  border-color: rgb(51, 122, 183)
+}
+
+// make font winte on hover
+ .navbar-custom .navbar-nav > li > a:hover {
+   color: white
+ }
+
 
 // highlight a square when hovering over
  .nav > li > a:hover, .nav > li > a:focus {
-     text-decoration: none;;
+     text-decoration: none;
      background-color: rgb(51, 122, 183);
+
  }
 // adding color to icon toggle span bar
 .icon-bar {
@@ -30,20 +41,20 @@
 // custom navbar
 
 .navbar-custom {
-    background-color:#555;
-    color:rgb(51, 122, 183);
-    // border-radius:0;
+    background-color:white;
+    border-radius:0;
 }
 
 .navbar-custom .navbar-nav > li > a {
-    color:white;
+    color:#555;
 }
-.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
-  text-decoration: none;;
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:focus {
+  text-decoration: none;
   background-color: rgb(51, 122, 183);
+  color: white;
 }
 .navbar-custom .navbar-brand {
-    color:white;
+    color:#555;
 }
 // title and intro: ;
 .intro-title{
@@ -289,29 +300,29 @@ header .toggle-menu{
 }
 
 .splash{
-    background: rgba(51, 123, 184, 0.75);
+    background: rgba(255, 255, 255, 1);
     height: 100vh;
     overflow: hidden;
     position: relative;
 }
-.splash:after{
-    content: "";
-    display: block;
-    position: absolute;
-    top: -40px; right: -40px; bottom: -40px; left: -40px;
-    background: rgba(255,255,255,0.08);
-    transform: rotate(30deg);
-    animation: spin 20s infinite linear;
-}
-.splash:before{
-    content: "";
-    display: block;
-    position: absolute;
-    top: -40px; right: -40px; bottom: -40px; left: -40px;
-    background: rgba(255,255,255,0.08);
-    transform: rotate(150deg);
-    animation: spin2 10s infinite linear;
-}
+// .splash:after{
+//     content: "";
+//     display: block;
+//     position: absolute;
+//     top: -40px; right: -40px; bottom: -40px; left: -40px;
+//     background: rgba(255,255,255,1);
+//     transform: rotate(30deg);
+//     animation: spin 20s infinite linear;
+// }
+// .splash:before{
+//     content: "";
+//     display: block;
+//     position: absolute;
+//     top: -40px; right: -40px; bottom: -40px; left: -40px;
+//     background: rgba(255,255,255,0.5);
+//     transform: rotate(150deg);
+//     animation: spin2 10s infinite linear;
+// }
 .splash .container{
     position: relative;
     top: 48%;
