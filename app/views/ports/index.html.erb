@@ -20,8 +20,7 @@
         <td><%= port.port_code %></td>
         <td><%= port.shipment_type.name%></td>
         <td><%= port.country.country_code%></td>
-        <td><%= port.shipment_type.name %></td>
-        <td><%= port.country.name %></td>
+
         <td><%= link_to 'Show', port %></td>
         <td><%= link_to 'Edit', edit_port_path(port) %></td>
         <td><%= link_to 'Destroy', port, method: :delete, data: { confirm: 'Are you sure?' } %></td>
