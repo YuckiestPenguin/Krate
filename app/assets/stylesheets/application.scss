@@ -16,6 +16,120 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+
+// adding small margin between buttons
+.btn-fluff {
+  margin: 2px;
+}
+
+// custom hover buttons
+/* Reset */
+button {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  outline: 0;
+  -webkit-appearance: none;
+}
+
+
+
+
+/* Custom */
+button  {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  padding: 20px 38px;
+  top: 0;
+  font-size: 30px;
+  font-family: "Open Sans", Helvetica;
+  border-radius: 4px;
+  border-bottom: 1px solid rgba( 28, 227, 125, 0.5 );
+  background: rgba( 22, 230, 137, 1 );
+  color: #fff;
+  box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.1 );
+
+  -webkit-transform: translateZ(0);
+     -moz-transform: translateZ(0);
+      -ms-transform: translateZ(0);
+          transform: translateZ(0);
+
+  -webkit-transition: all 0.2s ease;
+     -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+}
+
+button:hover {
+  top: -10px;
+  box-shadow: 0px 10px 10px rgba( 15, 165, 60, 0.2 );
+
+  -webkit-transform: rotateX(20deg);
+     -moz-transform: rotateX(20deg);
+      -ms-transform: rotateX(20deg);
+          transform: rotateX(20deg);
+}
+
+button:active {
+  top: 0px;
+  box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.0 );
+  background: rgba( 20, 224, 133, 1 );
+}
+
+
+// CUSTOM BUTTONS TO BE USED WITH LINK_TO RAILS ERB ATTRIBUTES
+.btn-fresh-warning  {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  padding: 20px 38px;
+  top: 0;
+  font-size: 2em;
+  font-family: "Open Sans", Helvetica;
+  border-radius: 4px;
+  border-bottom: 1px solid rgba(#f0ad4e, 0.5);
+  background: #f0ad4e;
+  color: white;
+  box-shadow: 0px 0px 0px rgba(#f0ad4e, 0.1);
+
+  -webkit-transform: translateZ(0);
+     -moz-transform: translateZ(0);
+      -ms-transform: translateZ(0);
+          transform: translateZ(0);
+
+  -webkit-transition: all 0.2s ease;
+     -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+}
+
+.btn-fresh-warning:hover {
+  top: -10px;
+  box-shadow: 0px 10px 10px rgba(#f0ad4e, 0.2);
+  color: white;
+  background-color: #f0ad4e;
+  text-decoration: none;
+
+
+  -webkit-transform: rotateX(20deg);
+     -moz-transform: rotateX(20deg);
+      -ms-transform: rotateX(20deg);
+          transform: rotateX(20deg);
+}
+
+.btn-fresh-warning:active {
+  top: 0px;
+  box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.0 );
+  background: #f0ad4e;
+}
+
+// END OF CUSTOM RAILS ERB BUTTONS
+
+
 // padding for the navbar
 .navbar-fluff {
   padding-top: 5px;
@@ -250,8 +364,8 @@ section{
 .btn{
     display: inline-block;
     padding: 15px 30px;
-    border-radius: 50px;
-    color: #fff;
+    // border-radius: 50px;
+    color: inherit;;
     // border: 1px solid #fff;
     transition: 200ms;
     // background: transparent;
@@ -259,7 +373,7 @@ section{
 }
 .btn:hover{
     text-decoration: none;
-    background: rgba(255,255,255,0.1);
+    background: rgba(255, 255, 255, 0.64);
 }
 .btn.yellow{
     color: #fbc93d;

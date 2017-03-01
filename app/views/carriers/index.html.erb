@@ -1,31 +1,38 @@
-<p id="notice"><%= notice %></p>
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>Carriers</h1>
 
-<h1>Carriers</h1>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Carrier type</th>
+              <th>Shipment type</th>
+              <th colspan="3"></th>
+            </tr>
+          </thead>
 
-<table class="table">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Carrier type</th>
-      <th>Shipment type</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
+          <tbody>
+            <% @carriers.each do |carrier| %>
+              <tr>
+                <td><%= carrier.name %></td>
+                <td><%= carrier.carrier_type.name %></td>
+                <td><%= carrier.shipment_type.name %></td>
+                <td><%= link_to 'Show', carrier %></td>
+                <td><%= link_to 'Edit', edit_carrier_path(carrier) %></td>
+                <td><%= link_to 'Destroy', carrier, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
 
-  <tbody>
-    <% @carriers.each do |carrier| %>
-      <tr>
-        <td><%= carrier.name %></td>
-        <td><%= carrier.carrier_type.name %></td>
-        <td><%= carrier.shipment_type.name %></td>
-        <td><%= link_to 'Show', carrier %></td>
-        <td><%= link_to 'Edit', edit_carrier_path(carrier) %></td>
-        <td><%= link_to 'Destroy', carrier, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
+        <br>
 
-<br>
+        <%= link_to 'New Carrier', new_carrier_path %>
 
-<%= link_to 'New Carrier', new_carrier_path %>
+      </div>
+    </div>
+  </div>
+</section>

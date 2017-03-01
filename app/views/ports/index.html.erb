@@ -1,46 +1,48 @@
-<div class="container">
-  <div class="row">
-    <div class="colxs-12">
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
 
-      <h1>Ports</h1>
+        <h1>Ports</h1>
 
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Port code</th>
-            <th>Shipment type</th>
-            <th>Country</th>
-            <th colspan="3"></th>
-          </tr>
-        </thead>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Port code</th>
+              <th>Shipment type</th>
+              <th>Country</th>
+              <th colspan="3"></th>
+            </tr>
+          </thead>
 
-        <tbody>
-          <% @ports.each do |port| %>
-          <tr>
-            <td><%= port.name %></td>
-            <td><%= port.port_code %></td>
-            <td><%= port.shipment_type.name%></td>
-            <td><%= port.country.country_code%></td>
+          <tbody>
+            <% @ports.each do |port| %>
+            <tr>
+              <td><%= port.name %></td>
+              <td><%= port.port_code %></td>
+              <td><%= port.shipment_type.name%></td>
+              <td><%= port.country.country_code%></td>
 
-            <td><%= link_to 'Show', port %></td>
-            <td><%= link_to 'Edit', edit_port_path(port) %></td>
-            <td><%= link_to 'Destroy', port, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-          </tr>
-          <% end %>
+              <td><%= link_to 'Show', port %></td>
+              <td><%= link_to 'Edit', edit_port_path(port) %></td>
+              <td><%= link_to 'Destroy', port, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+            </tr>
+            <% end %>
 
-        </tbody>
-      </table>
+          </tbody>
+        </table>
 
-      <br>
+        <br>
 
-      <h3>Import Ports</h3>
-      <%= form_tag import_ports_path, multipart: true do %>
-      <%= file_field_tag :file %>
-      <%= submit_tag "Import Ports" %>
-      <% end %>
+        <h3>Import Ports</h3>
+        <%= form_tag import_ports_path, multipart: true do %>
+        <%= file_field_tag :file %>
+        <%= submit_tag "Import Ports" %>
+        <% end %>
 
-      <%= link_to 'New Port', new_port_path %>
+        <%= link_to 'New Port', new_port_path %>
+      </div>
     </div>
-  </div>
-</container>
+  </container>
+</section>
