@@ -53,11 +53,11 @@
             <div class="row">
                 <div class="col-md-3 col-xs-12">
 
-                        <button class="actions btn-fluff">Submit<% f.submit "Search" %></button>
+                    <button class="actions btn-fresh-submit btn-fluff">Submit<% f.submit "Search" %></button>
 
                 </div>
                 <div class="col-md-3 col-xs-12">
-                  <%= link_to "Clear", request.path, class: "btn-fresh-warning btn-fluff"%>
+                    <%= link_to "Clear", request.path, class: "btn-fresh-warning btn-fluff"%>
 
                 </div>
             </div>
@@ -114,9 +114,11 @@
                             <td data-title="Shipment Category"><%= rate.shipment_category.name %></td>
                             <td data-title="Cost"><%= number_to_currency(rate.cost) %></td>
                             <td data-title="Unit of Measure"><%= rate.unit_of_measure.name %></td>
-                            <td class="text-center"><%= link_to 'Info', rate, class: "btn btn-xs btn-info" %>
-                                <%= link_to 'Edit', edit_rate_path(rate), class: "btn btn-xs btn-warning" %>
-                                <%= link_to 'Delete', rate, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-xs btn-danger" %></td>
+
+                            <td class="text-center"><%= link_to "<i class='glyphicon glyphicon-info-sign'></i>".html_safe, rate, class: "button info" %></td>
+
+                            <td><%= link_to "<i class='glyphicon glyphicon-check'></i>".html_safe, edit_rate_path(rate), :class => "button edit" %> <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
+
                         </tr>
                         <% end %>
                     </tbody>

@@ -17,6 +17,20 @@
  @import "bootstrap";
 
 
+// info glyph
+
+.info {
+  color: rgb(51, 122, 183);
+}
+
+.delete {
+  color: rgb(203, 42, 42)
+}
+
+.edit {
+  color: #f0ad4e;
+}
+
 // adding small margin between buttons
 .btn-fluff {
   margin: 2px;
@@ -37,7 +51,7 @@ button {
 
 
 /* Custom */
-button  {
+button.btn-fresh-submit  {
   display: inline-block;
   position: relative;
   width: 100%;
@@ -63,7 +77,7 @@ button  {
           transition: all 0.2s ease;
 }
 
-button:hover {
+button.btn-fresh-submit:hover {
   top: -10px;
   box-shadow: 0px 10px 10px rgba( 15, 165, 60, 0.2 );
 
@@ -73,7 +87,7 @@ button:hover {
           transform: rotateX(20deg);
 }
 
-button:active {
+button.btn-fresh-submit:active {
   top: 0px;
   box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.0 );
   background: rgba( 20, 224, 133, 1 );
