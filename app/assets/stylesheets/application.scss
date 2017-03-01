@@ -16,6 +16,20 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+// padding for the navbar
+.navbar-fluff {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+// centering the collapsed menu
+.container-fluid > .navbar-collapse {
+    margin-right: 2px;
+    margin-left: 2px;
+    text-align: center;
+}
+
+
 // makr hr blue
 hr {
   border-color: rgb(51, 122, 183)
@@ -31,6 +45,10 @@ hr {
  .nav > li > a:hover, .nav > li > a:focus {
      text-decoration: none;
      background-color: rgb(51, 122, 183);
+     border-top-left-radius: 5px !important;
+     border-bottom-left-radius: 5px !important;
+     border-top-right-radius: 5px !important;
+     border-bottom-right-radius: 5px !important;
 
  }
 // adding color to icon toggle span bar
@@ -52,6 +70,10 @@ hr {
   text-decoration: none;
   background-color: rgb(51, 122, 183);
   color: white;
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
 }
 .navbar-custom .navbar-brand {
     color:#555;
