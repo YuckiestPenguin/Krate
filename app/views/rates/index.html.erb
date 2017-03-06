@@ -14,13 +14,15 @@
                 <div class="col-md-6">
                     <div class="field">
                         <h4>ORIGIN</h4>
-                        <div><%= f.text_field :origin_country_country_code_or_origin_country_name_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, US", class: "input-lg form-control" %></div>
+                        <div><%= f.text_field :origin_country_country_code_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, Baltimore", class: "input-lg form-control" %></div>
+                        <%= f.collection_select :origin_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Origin Country (Optional)" %>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="field">
                         <h4>DESTINATION</h4>
-                        <%= f.text_field :destination_country_country_code_or_destination_country_name_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Shanghai, China", class: "input-lg form-control" %>
+                        <%= f.text_field :destination_country_country_code_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Port of Shanghai, Shanghai", class: "input-lg form-control" %>
+                        <%= f.collection_select :destination_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Destination Country (Optional)" %>
                     </div>
                 </div>
             </div>
@@ -30,20 +32,25 @@
                 <div class="col-md-3">
                     <div class="field">
                         <h4>SHIPMENT TYPE</h4>
-                        <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Shipment Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
+                        <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Shipment Type",  class: "form-control"%>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="field">
                         <h4>SHIPMENT CATEGORY</h4>
-                        <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Category Type", :select_prompt => "Select Shipment Category", class: "form-control"%>
+                        <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Category Type",  class: "form-control"%>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="field">
+                        <h4>Unit of Measure</h4>
+                        <%= f.collection_select :unit_of_measure_id_eq_any, UnitOfMeasure.all, :id, :name, :prompt => "Select Unit of Measure", :include_blank => true, class: "form-control" %>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="field">
                         <h4>CARRIER</h4>
                         <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
-
                     </div>
                 </div>
             </div>
@@ -81,9 +88,11 @@
                 |
                 <li><%= sort_link(@search, :carrier_name, "Carrier") %></li>
                 |
-                <li><%= sort_link(@search, :shipment_category_name, "Category") %></li>
+                <li><%= sort_link(@search, :shipment_category_name, "Shipment Category") %></li>
                 |
-                <li><%= sort_link(@search, :cost, "Base Cost") %></li>
+                <li><%= sort_link(@search, :cost, "Cost") %></li>
+                |
+                <li><%= sort_link(@search, :unit_of_measure_name, "Unit of Measure") %></li>
             </ul>
         </div>
         <div class="col-sm-12">
@@ -95,8 +104,9 @@
                             <th>Destination</th>
                             <th>Carrier</th>
                             <th>Shipment category</th>
-                            <th>Base Cost</th>
+                            <th>Cost</th>
                             <th>Unit of measure</th>
+                            <th>Date Added</th>
                             <th colspan="3"></th>
                         </tr>
                     </thead>
@@ -114,10 +124,12 @@
                             <td data-title="Shipment Category"><%= rate.shipment_category.name %></td>
                             <td data-title="Cost"><%= number_to_currency(rate.cost) %></td>
                             <td data-title="Unit of Measure"><%= rate.unit_of_measure.name %></td>
+                            <td data-title="Date Added"><%= rate.created_at.strftime("%d %b %y") %></td>
 
                             <td class="text-center"><%= link_to "<i class='glyphicon glyphicon-info-sign'></i>".html_safe, rate, class: "button info" %></td>
 
-                            <td><%= link_to "<i class='glyphicon glyphicon-check'></i>".html_safe, edit_rate_path(rate), :class => "button edit" %> <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
+                            <td><%= link_to "<i class='glyphicon glyphicon-check'></i>".html_safe, edit_rate_path(rate), :class => "button edit" %>
+                                <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
 
                         </tr>
                         <% end %>
