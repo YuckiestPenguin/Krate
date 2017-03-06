@@ -59,7 +59,7 @@
             <br>
             <div class="row">
                 <div class="col-md-3 col-xs-12">
-                    <button class="actions btn btn-lg btn-primary">Submit<% f.submit "Search"%></button>
+                    <button class="actions btn btn-lg btn-success">Search<% f.submit "Search"%></button>
                     <%= link_to "Clear", request.path, class: "btn btn-lg btn-warning"%>
                 </div>
                 <div class="col-md-3 col-xs-12"></div>
@@ -137,11 +137,8 @@
     </div>
     <div class="row">
         <div class="col-sm-12">
-            <%= link_to 'New Rate', new_rate_path, class: "btn btn-primary" %>
-            <%= form_tag import_rates_path, multipart: true do %>
-            <%= file_field_tag :file %>
-            <%= submit_tag "Import Rates", class: "btn btn-info" %>
-            <% end %>
+            <%= link_to 'New Rate', new_rate_path, class: "btn btn-lg btn-primary" %>
+
         </div>
     </div>
 </div>

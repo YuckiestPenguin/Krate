@@ -35,11 +35,6 @@
 
         <br>
 
-        <h3>Import Ports</h3>
-        <%= form_tag import_ports_path, multipart: true do %>
-        <%= file_field_tag :file %>
-        <%= submit_tag "Import Ports" %>
-        <% end %>
 
         <%= link_to 'New Port', new_port_path %>
       </div>
