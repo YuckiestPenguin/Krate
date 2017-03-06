@@ -1,9 +1,11 @@
 <section>
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-12">
-        <h1>Documentation</h1>
-      </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>Documentation</h1>
+                <%= pie_chart Port.group(:name).count(:ports) %>
+                <%= pie_chart Country.group(:name).count(@ports_name) %>
+            </div>
+        </div>
     </div>
-  </div>
 </section>

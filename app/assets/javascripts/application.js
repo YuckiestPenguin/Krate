@@ -15,5 +15,7 @@
 //= require turbolinks
 //= require_tree .
 //= require bootstrap
+//= require Chart.bundle
+//= require chartkick
 
 // This is for the MAGLEV Theme
