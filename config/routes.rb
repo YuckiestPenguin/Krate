@@ -21,4 +21,5 @@ Rails.application.routes.draw do
 
   root "pages#index", page: "index"
   get "/pages/documentation", page: "documentation"
+  get "/pages/import", page: "import"
 end
