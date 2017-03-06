@@ -59,14 +59,10 @@
             <br>
             <div class="row">
                 <div class="col-md-3 col-xs-12">
-
-                    <button class="actions btn-fresh-submit btn-fluff">Submit<% f.submit "Search" %></button>
-
+                    <button class="actions btn btn-lg btn-primary">Submit<% f.submit "Search"%></button>
+                    <%= link_to "Clear", request.path, class: "btn btn-lg btn-warning"%>
                 </div>
-                <div class="col-md-3 col-xs-12">
-                    <%= link_to "Clear", request.path, class: "btn-fresh-warning btn-fluff"%>
-
-                </div>
+                <div class="col-md-3 col-xs-12"></div>
             </div>
         </div>
         <% end %>
@@ -78,7 +74,7 @@
         <div class="col-sm-12">
             <ul class="list-inline">
                 <h4>Sort by:</h4>
-                <li class=""><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></li>
+                <li><%= sort_link(@search, :origin_port_code, "Origin Port Code") %></li>
                 |
                 <li><%= sort_link(@search, :destination_port_code, "Destination Port Code") %></li>
                 |
@@ -131,6 +127,7 @@
                             <td><%= link_to "<i class='glyphicon glyphicon-check'></i>".html_safe, edit_rate_path(rate), :class => "button edit" %>
                                 <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
 
+
                         </tr>
                         <% end %>
                     </tbody>
@@ -139,14 +136,12 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-12 text-center">
-            <%= link_to 'New Rate', new_rate_path, class: "btn btn-success" %>
-            <h3>Import Rates</h3>
+        <div class="col-sm-12">
+            <%= link_to 'New Rate', new_rate_path, class: "btn btn-primary" %>
             <%= form_tag import_rates_path, multipart: true do %>
             <%= file_field_tag :file %>
-            <%= submit_tag "Import Rates" %>
+            <%= submit_tag "Import Rates", class: "btn btn-info" %>
             <% end %>
-
         </div>
     </div>
 </div>
