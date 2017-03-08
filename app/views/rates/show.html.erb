@@ -34,8 +34,11 @@
               <h1 style="color: rgb(51, 122, 183)"><%= @rate.unit_of_measure.name %></h1>
             </div>
         </div>
-
-
+        <div class="row">
+          <div class="col-xs-12">
+            <%= @rate.id %>
+          </div>
+        </div>
         <br>
         <%= link_to 'Edit', edit_rate_path(@rate), class: "btn btn-lg btn-warning" %>
         <%= link_to 'Back', rates_path, class: "btn btn-lg btn-info" %>
