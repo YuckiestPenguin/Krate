@@ -42,6 +42,17 @@ end
     #code
   end
 
+  def seller_name
+    seller_name.try(:name)
+    #code
+  end
+  def seller_name=(name)
+    self.seller = Carrier.where(:name => name).first
+    #code
+  end
+
+
+
 
 # associating Shipment Category Name
   def shipment_category_name
