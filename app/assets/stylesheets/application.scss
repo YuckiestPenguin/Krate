@@ -98,8 +98,8 @@ hr {
 }
 // title and intro: ;
 .intro-title{
-     font-size: 75px;
-     line-height: 65px;
+    //  font-size: 5px;
+     line-height: 80px;
      font-weight: 600;
  }
  .intro-description{
@@ -316,8 +316,27 @@ header .toggle-menu{
     display: none;
 }
 
-.splash{
-    // background: rgba(59, 167, 255, 1);
+.rates-cover{
+  background-color: rgba(255, 255, 255, 0.47);
+  background-image: image-url('rates-cover.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: top;
+  background-size: cover;
+  background-blend-mode: overlay ;
+}
+
+.home-cover{
+  background-color: rgba(255, 255, 255, 0.47);
+  background-image: image-url('home-cover.jpeg');
+  background-repeat: no-repeat;
+  width: 100%;
+  background-position: top;
+  background-size: cover;
+  background-blend-mode: overlay ;
+}
+
+.splash {
     height: 100vh;
     overflow: hidden;
     position: relative;

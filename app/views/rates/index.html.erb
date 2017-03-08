@@ -1,75 +1,78 @@
-<section class="splash">
+<section class="splash rates-cover">
     <div class="container">
-        <div class="container-fluid">
-            <h1 class="intro-title">RATE CELLAR.</h1>
-            <h1 class="intro-description">Pick
-                <color style="color: rgb(51, 122, 183)">A</color>
-                to
-                <color style="color: rgb(51, 122, 183)">B</color>, to see your
-                <color style="color: rgb(51, 122, 183)">C</color>ost!</h1>
+      <div class="row">
+        <div class="col-xs-12">
+          <h1 class="intro-title" style="color: rgb(51, 122, 183)">RATE CELLAR.</h1>
+          <h1 class="intro-description">From
+              <color style="color: rgb(189, 60, 60)">A</color>
+              to
+              <color style="color: rgb(189, 60, 60)">B</color>, in one
+              <color style="color: rgb(189, 60, 60)">C</color>lick!</h1>
 
-            <hr>
-            <%= search_form_for @search do |f| %>
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="field">
-                        <h4>ORIGIN</h4>
-                        <div><%= f.text_field :origin_country_country_code_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, Baltimore", class: "input-lg form-control" %></div>
-                        <%= f.collection_select :origin_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Origin Country (Optional)" %>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="field">
-                        <h4>DESTINATION</h4>
-                        <%= f.text_field :destination_country_country_code_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Port of Shanghai, Shanghai", class: "input-lg form-control" %>
-                        <%= f.collection_select :destination_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Destination Country (Optional)" %>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <br>
+          <hr>
+          <%= search_form_for @search do |f| %>
+          <div class="row">
+              <div class="col-md-6">
+                  <div class="field">
+                      <h4>ORIGIN</h4>
+                      <div><%= f.text_field :origin_country_country_code_or_origin_name_or_origin_port_code_cont, placeholder: "Ex: BAL, Port of Baltimore, Baltimore", class: "input-lg form-control" %></div>
+                      <%= f.collection_select :origin_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Origin Country (Optional)" %>
+                  </div>
+              </div>
+              <div class="col-md-6">
+                  <div class="field">
+                      <h4>DESTINATION</h4>
+                      <%= f.text_field :destination_country_country_code_or_destination_name_or_destination_port_code_cont, placeholder: "Ex: PVG, Port of Shanghai, Shanghai", class: "input-lg form-control" %>
+                      <%= f.collection_select :destination_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Destination Country (Optional)" %>
+                  </div>
+              </div>
+          </div>
+          <div class="row">
+              <br>
 
-                <div class="col-md-3">
-                    <div class="field">
-                        <h4>SHIPMENT TYPE</h4>
-                        <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Shipment Type",  class: "form-control"%>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="field">
-                        <h4>SHIPMENT CATEGORY</h4>
-                        <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Category Type",  class: "form-control"%>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="field">
-                        <h4>Unit of Measure</h4>
-                        <%= f.collection_select :unit_of_measure_id_eq_any, UnitOfMeasure.all, :id, :name, :prompt => "Select Unit of Measure", :include_blank => true, class: "form-control" %>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="field">
-                        <h4>CARRIER</h4>
-                        <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
-                    </div>
-                </div>
-            </div>
-            <br>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>SHIPMENT TYPE</h4>
+                      <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Shipment Type",  class: "form-control"%>
+                  </div>
+              </div>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>SHIPMENT CATEGORY</h4>
+                      <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Select Category Type",  class: "form-control"%>
+                  </div>
+              </div>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>Unit of Measure</h4>
+                      <%= f.collection_select :unit_of_measure_id_eq_any, UnitOfMeasure.all, :id, :name, :prompt => "Select Unit of Measure", :include_blank => true, class: "form-control" %>
+                  </div>
+              </div>
+              <div class="col-md-3">
+                  <div class="field">
+                      <h4>CARRIER</h4>
+                      <%= f.text_field :carrier_name_cont, placeholder: "Ex: United Cargo, Carotrans, Seacorp", class: "input-lg form-control" %>
+                  </div>
+              </div>
+          </div>
+          <br>
 
-            <br>
-            <div class="row">
-                <div class="col-md-3 col-xs-12">
-                    <button class="actions btn btn-lg btn-success">Search<% f.submit "Search"%></button>
-                    <%= link_to "Clear", request.path, class: "btn btn-lg btn-warning"%>
-                </div>
-                <div class="col-md-3 col-xs-12"></div>
-            </div>
+          <br>
+          <div class="row">
+              <div class="col-md-3 col-xs-12">
+                  <button class="actions btn btn-lg btn-success">Search<% f.submit "Search"%></button>
+                  <%= link_to "Clear", request.path, class: "btn btn-lg btn-warning"%>
+              </div>
+              <div class="col-md-3 col-xs-12"></div>
+          </div>
+      <% end %>
         </div>
-        <% end %>
-
+      </div>
     </div>
 </section>
-<div class="container-fluid">
+<section>
+
+  <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12">
             <ul class="list-inline">
@@ -142,3 +145,4 @@
         </div>
     </div>
 </div>
+</section>
