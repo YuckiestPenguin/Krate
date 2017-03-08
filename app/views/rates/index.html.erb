@@ -101,6 +101,7 @@
                         <tr>
                             <th>Origin</th>
                             <th>Destination</th>
+                            <th>Seller</th>
                             <th>Carrier</th>
                             <th>Shipment category</th>
                             <th>Cost</th>
@@ -119,6 +120,7 @@
                             <td data-title="Destination"><%= rate.destination.port_code %>
                                 |
                                 <%= rate.destination.name %></td>
+                                <td><%= rate.seller.name %></td>
                             <td data-title="Carrier"><%= rate.carrier.name %></td>
                             <td data-title="Shipment Category"><%= rate.shipment_category.name %></td>
                             <td data-title="Cost"><%= number_to_currency(rate.cost) %></td>

@@ -26,9 +26,14 @@
     <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
   </div>
   <div class="col-sm-4">
+    <%= f.label :seller_id %>
+    <%= f.collection_select :seller_id, Carrier.all, :id, :name %>
+  </div>
+  <div class="col-sm-4">
     <%= f.label :carrier_id %>
     <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
   </div>
+
   <div class="col-sm-4">
     <%= f.label :cost %>
     <%= f.text_field :cost %>

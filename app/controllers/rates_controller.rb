@@ -77,6 +77,6 @@ class RatesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def rate_params
-      params.require(:rate).permit(:origin_id, :destination_id, :carrier_id, :shipment_category_id, :cost, :unit_of_measure_id)
+      params.require(:rate).permit(:origin_id, :destination_id, :carrier_id, :seller_id, :shipment_category_id, :cost, :unit_of_measure_id)
     end
 end
