@@ -13,269 +13,309 @@
  *= require_tree .
  *= require_self
  */
- @import "bootstrap-sprockets";
- @import "bootstrap";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+// hide when mobile
 
+// navbar settings when on mobile
+@media only screen and (max-width: 1000px) and (max-height: 1000px) {
+    .invisible-nav {
+        background-color: white;
 
+        .navbar-custom .navbar-nav > li > a {
+            color: rgb(51, 122, 183);
+            background-color: white;
+        }
 
-
+        .navbar-custom .navbar-nav > .active > a,
+        .navbar-nav > .active > a:focus {
+            text-decoration: none;
+            background-color: rgb(51, 122, 183);
+            color: white;
+            border-top-left-radius: 5px !important;
+            border-bottom-left-radius: 5px !important;
+            border-top-right-radius: 5px !important;
+            border-bottom-right-radius: 5px !important;
+        }
+    }
+}
 // info glyph
-
 .info {
-  color: rgb(51, 122, 183);
+    color: rgb(51, 122, 183);
 }
 
 .delete {
-  color: rgb(203, 42, 42)
+    color: rgb(203, 42, 42);
 }
 
 .edit {
-  color: #f0ad4e;
+    color: #f0ad4e;
 }
-
-
 // padding for the navbar
 .navbar-fluff {
-  padding-top: 5px;
-  padding-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
-
 // centering the collapsed menu
 .container-fluid > .navbar-collapse {
     margin-right: 2px;
     margin-left: 2px;
     text-align: center;
 }
-
-
 // makr hr blue
 hr {
-  border-color: rgb(51, 122, 183)
+    border-color: rgb(51, 122, 183);
 }
-
 // make font winte on hover
- .navbar-custom .navbar-nav > li > a:hover {
-   color: white
- }
-
-
+.navbar-custom .navbar-nav > li > a:hover {
+    color: white;
+}
 // highlight a square when hovering over
- .nav > li > a:hover, .nav > li > a:focus {
-     text-decoration: none;
-     background-color: rgb(51, 122, 183);
-     border-top-left-radius: 5px !important;
-     border-bottom-left-radius: 5px !important;
-     border-top-right-radius: 5px !important;
-     border-bottom-right-radius: 5px !important;
-
- }
+.nav > li > a:focus,
+.nav > li > a:hover {
+    text-decoration: none;
+    background-color: rgb(51, 122, 183);
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
 // adding color to icon toggle span bar
 .icon-bar {
-  background-color: rgb(51, 122, 183);
+    background-color: rgb(51, 122, 183);
 }
-
-// custom navbar
-
+// makes navbar invisible.
 .navbar-custom {
-    background-color:white;
-    border-radius:0;
+    border-radius: 0;
+
+    .invisible-nav {
+        background-color: rgba(255, 255, 255, 0);
+    }
+}
+// color of regular navbar text
+.navbar-custom .navbar-nav > li > a {
+    color: rgb(51, 122, 183);
+    font-size: 1.5em;
 }
 
-.navbar-custom .navbar-nav > li > a {
-    color:#555;
+.navbar-custom .navbar-nav > .active > a,
+.navbar-nav > .active > a:focus {
+    text-decoration: none;
+    // background-color: rgb(51, 122, 183);
+    color: rgb(51, 122, 183);
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    border: 2px solid;
 }
-.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:focus {
-  text-decoration: none;
-  background-color: rgb(51, 122, 183);
-  color: white;
-  border-top-left-radius: 5px !important;
-  border-bottom-left-radius: 5px !important;
-  border-top-right-radius: 5px !important;
-  border-bottom-right-radius: 5px !important;
-}
+
 .navbar-custom .navbar-brand {
-    color:#555;
+    color: #555;
 }
 // title and intro: ;
-.intro-title{
+.intro-title {
     //  font-size: 5px;
-     line-height: 80px;
-     font-weight: 600;
- }
- .intro-description{
-      line-height: 40px;
-      font-weight: 600;
-  }
-
-//removing the white gap under navbar
-
-.navbar {
-    margin-bottom: 0px;
+    line-height: 80px;
+    font-weight: 600;
+    color: rgb(51, 122, 183);
 }
 
+.intro-description {
+    line-height: 40px;
+    font-weight: 600;
+}
+//removing the white gap under navbar
+.navbar {
+    margin-bottom: 0;
+}
 // Override the Bootstrap navbar border
-
-
 // THIS IS TO MAKE THE TABLES RESPONSIVE
- @media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
+    /* Force table to not be like tables anymore */
+    #no-more-tables table,
+    #no-more-tables tbody,
+    #no-more-tables td,
+    #no-more-tables th,
+    #no-more-tables thead,
+    #no-more-tables tr {
+        display: block;
+    }
+    /* Hide table headers (but not display: none;, for accessibility) */
+    #no-more-tables thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
 
-     /* Force table to not be like tables anymore */
- 	#no-more-tables table,
- 	#no-more-tables thead,
- 	#no-more-tables tbody,
- 	#no-more-tables th,
- 	#no-more-tables td,
- 	#no-more-tables tr {
- 		display: block;
- 	}
+    #no-more-tables tr {
+        border: 1px solid #ccc;
+    }
 
- 	/* Hide table headers (but not display: none;, for accessibility) */
- 	#no-more-tables thead tr {
- 		position: absolute;
- 		top: -9999px;
- 		left: -9999px;
- 	}
+    #no-more-tables td {
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 50%;
+        white-space: normal;
+        text-align: left;
+    }
 
- 	#no-more-tables tr { border: 1px solid #ccc; }
-
- 	#no-more-tables td {
- 		/* Behave  like a "row" */
- 		border: none;
- 		border-bottom: 1px solid #eee;
- 		position: relative;
- 		padding-left: 50%;
- 		white-space: normal;
- 		text-align:left;
- 	}
-
- 	#no-more-tables td:before {
- 		/* Now like a table header */
- 		position: absolute;
- 		/* Top/left values mimic padding */
- 		top: 6px;
- 		left: 6px;
- 		width: 45%;
- 		padding-right: 10px;
- 		white-space: nowrap;
- 		text-align:left;
- 		font-weight: bold;
- 	}
-
- 	/*
+    #no-more-tables td:before {
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        text-align: left;
+        font-weight: bold;
+    }
+    /*
  	Label the data
  	*/
- 	#no-more-tables td:before { content: attr(data-title); }
- }
-
-// -----
-
-// This is the MAGLEV THEME CSS
-
-/* Animations */
-
-@keyframes pulse {
-  0%   { transform: scale(1); }
-  50% { transform: scale(0.8); }
-  100% { transform: scale(1); }
+    #no-more-tables td:before {
+        content: attr(data-title);
+    }
 }
+// -----
+// This is the MAGLEV THEME CSS
+/* Animations */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
 
+    50% {
+        transform: scale(0.8);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
 @keyframes spin {
-  0%   { transform: rotate(30deg); }
-  100% { transform: rotate(210deg); }
+    0% {
+        transform: rotate(30deg);
+    }
+
+    100% {
+        transform: rotate(210deg);
+    }
 }
 @keyframes spin2 {
-  0%   { transform: rotate(150deg); }
-  100% { transform: rotate(330deg); }
+    0% {
+        transform: rotate(150deg);
+    }
+
+    100% {
+        transform: rotate(330deg);
+    }
 }
-
 /* End Animations */
-
 /* Resets, Clears & Defaults */
-
-*, *:after, *:before {
+*,
+*:after,
+*:before {
     // box-sizing: border-box;
 }
 
-body, input, textarea{
-    padding: 0; margin: 0;
+body,
+input,
+textarea {
+    padding: 0;
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 30px;
     color: #555;
     font-weight: 400;
 }
-input:focus, textarea:focus{
+
+input:focus,
+textarea:focus {
     outline: 0;
 }
 
-h1, h2, h3, p{
-    margin: 0 0 20px 0;
+h1,
+h2,
+h3,
+p {
+    margin: 0 0 20px;
     position: relative;
     z-index: 6;
 }
 
-h1{
+h1 {
     font-size: 40px;
     line-height: 46px;
     font-weight: 600;
 }
-h2{
+
+h2 {
     font-size: 28px;
     line-height: 36px;
     font-weight: 400;
 }
-h3{
+
+h3 {
     font-size: 20px;
     font-weight: 600;
 }
 
-a{
+a {
     color: #999;
     text-decoration: none;
 }
-a:hover{
-    text-decoration: underline;
 
+a:hover {
+    text-decoration: underline;
 }
 
-img{
+img {
     max-width: 100%;
 }
 
 ::selection {
-  background: #eee; /* WebKit/Blink Browsers */
+    background: #eee;
+    /* WebKit/Blink Browsers */
 }
+
 ::-moz-selection {
-  background: #eee; /* Gecko Browsers */
+    background: #eee;
+    /* Gecko Browsers */
 }
-
 /* End Resets, Clears & Defaults */
-
-.container{
+.container {
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
 }
-.container:after{
+
+.container:after {
     content: "";
     display: block;
     clear: both;
 }
-section{
+
+section {
     padding: 100px 20px;
 }
 
-
-
-header{
+header {
     background: #222;
     padding: 0 20px;
     position: fixed;
-    top: 0; left: 0;
+    top: 0;
+    left: 0;
     width: 100%;
     z-index: 200;
 }
-header .logo{
+
+header .logo {
     float: left;
     font-family: 'Open Sans', sans-serif;
     padding: 13px 0;
@@ -285,55 +325,63 @@ header .logo{
     line-height: 30px;
     margin: 0;
 }
-header .logo .fa{
+
+header .logo .fa {
     font-size: 16px;
     position: relative;
     top: -1px;
     margin-right: 7px;
 }
-header nav{
+
+header nav {
     float: right;
 }
-header nav ul{
+
+header nav ul {
     padding: 0;
     margin: 0;
 }
-header nav ul li{
+
+header nav ul li {
     display: inline-block;
     float: left;
 }
-header nav ul li a{
+
+header nav ul li a {
     display: inline-block;
     padding: 15px 20px;
     color: #555;
     transition: 200ms;
 }
-header nav ul li a:hover, header nav ul li a.active{
+
+header nav ul li a.active,
+header nav ul li a:hover {
     text-decoration: none;
     background: rgba(255,255,255,0.1);
 }
-header .toggle-menu{
+
+header .toggle-menu {
     display: none;
 }
 
-.rates-cover{
-  background-color: rgba(255, 255, 255, 0.47);
-  background-image: image-url('rates-cover.png');
-  background-repeat: no-repeat;
-  width: 100%;
-  background-position: top;
-  background-size: cover;
-  background-blend-mode: overlay ;
+.rates-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('rates-cover.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    background-blend-mode: overlay;
 }
 
-.home-cover{
-  background-color: rgba(255, 255, 255, 0.47);
-  background-image: image-url('home-cover.jpeg');
-  background-repeat: no-repeat;
-  width: 100%;
-  background-position: top;
-  background-size: cover;
-  background-blend-mode: overlay ;
+.home-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('home-cover.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    background-blend-mode: overlay;
 }
 
 .splash {
@@ -359,25 +407,29 @@ header .toggle-menu{
 //     transform: rotate(150deg);
 //     animation: spin2 10s infinite linear;
 // }
-.splash .container{
+
+.splash .container {
     position: relative;
     top: 48%;
     transform: translateY(-50%);
     z-index: 5;
 }
-.splash h2{
+
+.splash h2 {
     margin-bottom: 40px;
 }
 
-.overview{
+.overview {
     text-align: center;
 }
-.overview > div > div{
+
+.overview > div > div {
     float: left;
     width: 33%;
-    padding: 0 40px 0 40px;
+    padding: 0 40px;
 }
-.overview .fa{
+
+.overview .fa {
     display: inline-block;
     font-size: 50px;
     width: 100px;
@@ -387,58 +439,71 @@ header .toggle-menu{
     margin-bottom: 20px;
     padding-top: 25px;
 }
-.overview p{
+
+.overview p {
     margin-bottom: 0;
 }
 
-.feature.greybg{
+.feature.greybg {
     background: #f6f6f6;
 }
-.feature{
+
+.feature {
     position: relative;
     overflow: hidden;
 }
-.feature img{
+
+.feature img {
     position: absolute;
     top: 100px;
     right: 55%;
 }
-.feature:nth-of-type(even) img{
+
+.feature:nth-of-type(even) img {
     right: auto;
     left: 55%;
 }
-.feature > div > div{
+
+.feature > div > div {
     width: 50%;
     float: right;
 }
-.feature > div > div > p{
+
+.feature > div > div > p {
     margin-bottom: 40px;
 }
-.feature:nth-of-type(even) > div > div{
+
+.feature:nth-of-type(even) > div > div {
     float: left;
 }
-.feature ul{
+
+.feature ul {
     margin: 0;
     padding: 0;
 }
-.feature ul li{
+
+.feature ul li {
     display: block;
     margin-bottom: 20px;
     padding-bottom: 20px;
     // border-bottom: 1px solid #eee;
 }
-.feature ul li:last-child{
+
+.feature ul li:last-child {
     margin-bottom: 0;
     padding-bottom: 0;
     border-bottom: 0;
 }
-.feature ul li h3{
-    margin: 0 0 5px 0;
+
+.feature ul li h3 {
+    margin: 0 0 5px;
 }
-.feature ul li p:last-child{
+
+.feature ul li p:last-child {
     margin: 0;
 }
-.feature ul li .fa{
+
+.feature ul li .fa {
     float: left;
     font-size: 30px;
     background: #fbc93d;
@@ -452,67 +517,83 @@ header .toggle-menu{
     margin-right: 20px;
     margin-top: 7px;
 }
-.feature ul li p{
+
+.feature ul li p {
     overflow: hidden;
 }
 
-.cta{
+.cta {
     background: #fbc93d;
     position: relative;
     overflow: hidden;
     text-align: center;
 }
-.cta:after{
+
+.cta:after {
     content: "";
     display: block;
     position: absolute;
-    top: -40px; right: -40px; bottom: -40px; left: -40px;
+    top: -40px;
+    right: -40px;
+    bottom: -40px;
+    left: -40px;
     background: rgba(255,255,255,0.1);
     transform: rotate(30deg);
 }
-.cta .container{
+
+.cta .container {
     position: relative;
     z-index: 10;
 }
-.cta h2{
+
+.cta h2 {
     margin-bottom: 40px;
 }
 
-.contact{
+.contact {
     background: #fbc93d;
     position: relative;
     overflow: hidden;
     text-align: center;
 }
-.contact:after{
+
+.contact:after {
     content: "";
     display: block;
     position: absolute;
-    top: -40px; right: -40px; bottom: -40px; left: -40px;
+    top: -40px;
+    right: -40px;
+    bottom: -40px;
+    left: -40px;
     background: rgba(255,255,255,0.1);
     transform: rotate(30deg);
 }
-.contact .input{
+
+.contact .input {
     width: 47%;
     float: left;
 }
-.contact .input:nth-of-type(odd){
+
+.contact .input:nth-of-type(odd) {
     margin-right: 6%;
 }
-.contact .message{
+
+.contact .message {
     display: block;
     clear: both;
     float: none;
     padding-top: 10px;
 }
-.contact .input input{
+
+.contact .input input {
     display: block;
     width: 100%;
     background: rgba(255,255,255,0.3);
     border: 0;
     padding: 10px 15px;
 }
-.contact .message textarea{
+
+.contact .message textarea {
     display: block;
     width: 100%;
     height: 200px;
@@ -521,181 +602,219 @@ header .toggle-menu{
     padding: 10px 15px;
     resize: vertical;
 }
-.contact label{
+
+.contact label {
     position: relative;
     z-index: 10;
 }
-.contact label span{
+
+.contact label span {
     display: block;
     text-align: left;
     font-size: 14px;
 }
-.contact label span .fa{
+
+.contact label span .fa {
     margin-right: 7px;
 }
-.contact .submit{
+
+.contact .submit {
     display: block;
     text-align: center;
     padding-top: 40px;
 }
-.contact h2{
+
+.contact h2 {
     margin-bottom: 40px;
 }
 
-.pricing{
+.pricing {
     text-align: center;
 }
-.pricing > div > div{
+
+.pricing > div > div {
     float: left;
     width: 33%;
     margin-top: 60px;
     background: #f6f6f6;
     padding: 40px;
 }
-.pricing > div > div h3{
+
+.pricing > div > div h3 {
     background: #555;
     color: #fff;
     display: block;
-    margin: -40px -40px 35px -40px;
+    margin: -40px -40px 35px;
     padding: 30px;
     position: relative;
 }
-.pricing > div > div h3 span{
+
+.pricing > div > div h3 span {
     display: block;
 }
-.pricing > div > div h3 span .fa{
+
+.pricing > div > div h3 span .fa {
     margin: 0 1px;
 }
-.pricing > div > div .price{
+
+.pricing > div > div .price {
     font-size: 40px;
 }
-.pricing > div > div:nth-of-type(2){
+
+.pricing > div > div:nth-of-type(2) {
     width: calc(34% + 20px);
-    margin: 40px -10px 0 -10px;
-    box-shadow: 0px 5px 20px -5px rgba(0,0,0,0.3);
+    margin: 40px -10px 0;
+    box-shadow: 0 5px 20px -5px rgba(0,0,0,0.3);
     position: relative;
     z-index: 50;
 }
-.pricing > div > div:nth-of-type(2) h3{
+
+.pricing > div > div:nth-of-type(2) h3 {
     background: #fbc93d;
     color: #555;
     display: block;
 }
-.pricing ul{
+
+.pricing ul {
     padding: 0;
     margin: 27px 0;
 }
-.pricing ul li{
+
+.pricing ul li {
     display: block;
     line-height: 40px;
     border-bottom: 1px solid #eee;
 }
-.pricing ul li:last-child{
+
+.pricing ul li:last-child {
     border-bottom: 0;
 }
 
-footer{
+footer {
     background: #555;
     color: #ccc;
     padding: 0 20px;
 }
-footer .copyright{
+
+footer .copyright {
     float: left;
     padding: 15px 0;
 }
-footer .copyright p{
+
+footer .copyright p {
     margin: 0;
 }
-footer .copyright a{
+
+footer .copyright a {
     color: #fff;
 }
-footer .social{
+
+footer .social {
     float: right;
     padding: 15px 0;
 }
-footer .social a{
+
+footer .social a {
     margin-left: 10px;
     font-size: 20px;
     color: #ccc;
 }
-footer .social a:hover{
+
+footer .social a:hover {
     color: #fff;
 }
-
-@media (max-width: 800px){
-    section{
+@media (max-width: 800px) {
+    section {
         padding: 80px 10px;
     }
-    header, footer{
+
+    footer,
+    header {
         padding: 0 10px;
     }
-    .splash{
+
+    .splash {
         height: auto;
-        padding: 150px 10px 80px 10px;
+        padding: 150px 10px 80px;
         text-align: center;
     }
-    .splash .container{
+
+    .splash .container {
         position: relative;
         top: 0;
         transform: none;
     }
-    .overview > div > div{
+
+    .overview > div > div {
         padding: 0 20px;
     }
-    .feature img{
+
+    .feature img {
         right: 65%;
     }
-    .feature:nth-of-type(even) img{
+
+    .feature:nth-of-type(even) img {
         left: 65%;
     }
-    .feature > div > div{
+
+    .feature > div > div {
         width: 60%;
     }
-    header nav ul li a{
+
+    header nav ul li a {
         padding: 15px;
     }
-    .pricing > div > div{
+
+    .pricing > div > div {
         width: 100% !important;
         float: none;
-        margin: 0 0 20px 0 !important;
+        margin: 0 0 20px !important;
         box-shadow: none !important;
     }
-    .pricing > div > div h3{
+
+    .pricing > div > div h3 {
         background: #555 !important;
         color: #fff !important;
     }
-    .pricing h2{
+
+    .pricing h2 {
         margin-bottom: 40px;
     }
 }
-
-@media (max-width: 600px){
-    section{
+@media (max-width: 600px) {
+    section {
         padding: 40px 10px;
     }
-    .splash{
-        padding: 100px 10px 40px 10px;
+
+    .splash {
+        padding: 100px 10px 40px;
     }
-    .overview > div > div{
+
+    .overview > div > div {
         float: none;
         width: 100%;
         margin-bottom: 40px;
         padding: 0;
     }
-    .overview > div > div:last-child{
+
+    .overview > div > div:last-child {
         margin-bottom: 0;
     }
-    .overview p{
+
+    .overview p {
         overflow: hidden;
     }
-    .feature img{
+
+    .feature img {
         display: none;
     }
-    .feature > div > div{
+
+    .feature > div > div {
         width: 100%;
         float: none;
     }
-    header nav{
+
+    header nav {
         float: none;
         position: fixed;
         top: 56px;
@@ -706,20 +825,24 @@ footer .social a:hover{
         background: #333;
         transition: 200ms;
     }
-    header nav.visible{
-        left: 0px;
+
+    header nav.visible {
+        left: 0;
     }
-    header nav ul li{
+
+    header nav ul li {
         display: block;
         float: none;
         width: 100%;
     }
-    header nav ul li a{
+
+    header nav ul li a {
         display: block;
         width: 100%;
         // border-bottom: 1px solid rgba(255,255,255,0.1);
     }
-    header .toggle-menu{
+
+    header .toggle-menu {
         display: block;
         color: #fff;
         position: absolute;
@@ -727,28 +850,35 @@ footer .social a:hover{
         top: 13px;
         font-size: 28px;
     }
-    footer{
+
+    footer {
         text-align: center;
     }
-    footer .copyright, footer .social{
+
+    footer .copyright,
+    footer .social {
         float: none;
     }
-    footer .social{
+
+    footer .social {
         padding-top: 0;
     }
 
-    .contact .input{
+    .contact .input {
         display: block;
         width: 100%;
         float: none;
     }
-    .contact .input:nth-of-type(odd){
+
+    .contact .input:nth-of-type(odd) {
         margin-right: 0;
     }
-    .contact label{
+
+    .contact label {
         padding-top: 10px;
     }
-    .contact label:first-of-type{
+
+    .contact label:first-of-type {
         padding-top: 0;
     }
 }
