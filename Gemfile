@@ -58,3 +58,4 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'ransack'
 
 gem "chartkick"
+gem "font-awesome-rails"
