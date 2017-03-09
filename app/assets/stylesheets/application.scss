@@ -15,30 +15,36 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
-// hide when mobile
 
-// navbar settings when on mobile
-@media only screen and (max-width: 1000px) and (max-height: 1000px) {
-    .invisible-nav {
-        background-color: white;
 
-        .navbar-custom .navbar-nav > li > a {
-            color: rgb(51, 122, 183);
-            background-color: white;
-        }
 
-        .navbar-custom .navbar-nav > .active > a,
-        .navbar-nav > .active > a:focus {
-            text-decoration: none;
-            background-color: rgb(51, 122, 183);
-            color: white;
-            border-top-left-radius: 5px !important;
-            border-bottom-left-radius: 5px !important;
-            border-top-right-radius: 5px !important;
-            border-bottom-right-radius: 5px !important;
-        }
-    }
-}
+
+// @media only screen and (max-width: 1000px) and (max-height: 1000px) {
+//
+//   .mobile-brand {
+//     display:block;
+//   }
+//     .clear-nav {
+//         background-color: white;
+//
+//         .navbar-custom .navbar-nav > li > a {
+//             color: rgb(51, 122, 183);
+//             background-color: white;
+//         }
+//
+//         .navbar-custom .navbar-nav > .active > a,
+//         .navbar-nav > .active > a:focus {
+//             text-decoration: none;
+//             background-color: rgb(51, 122, 183);
+//             color: white;
+//             border-top-left-radius: 5px !important;
+//             border-bottom-left-radius: 5px !important;
+//             border-top-right-radius: 5px !important;
+//             border-bottom-right-radius: 5px !important;
+//         }
+//     }
+// }
+
 // info glyph
 .info {
     color: rgb(51, 122, 183);
@@ -71,48 +77,14 @@ hr {
     color: white;
 }
 // highlight a square when hovering over
-.nav > li > a:focus,
-.nav > li > a:hover {
-    text-decoration: none;
-    background-color: rgb(51, 122, 183);
-    border-top-left-radius: 5px !important;
-    border-bottom-left-radius: 5px !important;
-    border-top-right-radius: 5px !important;
-    border-bottom-right-radius: 5px !important;
-}
 // adding color to icon toggle span bar
 .icon-bar {
     background-color: rgb(51, 122, 183);
 }
 // makes navbar invisible.
-.navbar-custom {
-    border-radius: 0;
 
-    .invisible-nav {
-        background-color: rgba(255, 255, 255, 0);
-    }
-}
 // color of regular navbar text
-.navbar-custom .navbar-nav > li > a {
-    color: rgb(51, 122, 183);
-    font-size: 1.5em;
-}
 
-.navbar-custom .navbar-nav > .active > a,
-.navbar-nav > .active > a:focus {
-    text-decoration: none;
-    // background-color: rgb(51, 122, 183);
-    color: rgb(51, 122, 183);
-    border-top-left-radius: 5px !important;
-    border-bottom-left-radius: 5px !important;
-    border-top-right-radius: 5px !important;
-    border-bottom-right-radius: 5px !important;
-    border: 2px solid;
-}
-
-.navbar-custom .navbar-brand {
-    color: #555;
-}
 // title and intro: ;
 .intro-title {
     //  font-size: 5px;
@@ -305,68 +277,11 @@ section {
     padding: 100px 20px;
 }
 
-header {
-    background: #222;
-    padding: 0 20px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 200;
-}
 
-header .logo {
-    float: left;
-    font-family: 'Open Sans', sans-serif;
-    padding: 13px 0;
-    color: #fbc93d;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 30px;
-    margin: 0;
-}
-
-header .logo .fa {
-    font-size: 16px;
-    position: relative;
-    top: -1px;
-    margin-right: 7px;
-}
-
-header nav {
-    float: right;
-}
-
-header nav ul {
-    padding: 0;
-    margin: 0;
-}
-
-header nav ul li {
-    display: inline-block;
-    float: left;
-}
-
-header nav ul li a {
-    display: inline-block;
-    padding: 15px 20px;
-    color: #555;
-    transition: 200ms;
-}
-
-header nav ul li a.active,
-header nav ul li a:hover {
-    text-decoration: none;
-    background: rgba(255,255,255,0.1);
-}
-
-header .toggle-menu {
-    display: none;
-}
 
 .rates-cover {
     background-color: rgba(255, 255, 255, 0.47);
-    background-image: image-url('rates-cover.png');
+    background-image: image-url('rates-cover-3.jpg');
     background-repeat: no-repeat;
     width: 100%;
     background-position: top;
