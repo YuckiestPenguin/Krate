@@ -8,7 +8,9 @@ Rails.application.routes.draw do
   resources :carrier_types do
     collection { post :import}
   end
-  resources :carriers
+  resources :carriers do
+    collection  { post :import}
+  end
   resources :ports do
     collection { post :import}
   end

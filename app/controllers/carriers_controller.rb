@@ -61,6 +61,12 @@ class CarriersController < ApplicationController
     end
   end
 
+  def import
+    Carrier.import(params[:file])
+    redirect_to carriers_path, notice: "Carriers Imported Successfully!"
+    #code
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_carrier

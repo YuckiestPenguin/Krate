@@ -37,6 +37,13 @@
         <% end %>
       </div>
       <div class="col-xs-12">
+        <h1>Import Carriers</h1>
+        <%= form_tag import_carriers_path, multipart: true do %>
+        <%= file_field_tag :file %>
+        <%= submit_tag "Import Carriers", class: "btn btn-lg btn-success" %>
+        <% end %>
+      </div>
+      <div class="col-xs-12">
         <h1>Import Rates</h1>
         <%= form_tag import_rates_path, multipart: true do %>
         <%= file_field_tag :file %>
