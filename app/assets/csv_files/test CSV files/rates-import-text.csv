@@ -1,0 +1,7 @@
+origin_port_code,destination_port_code,carrier_name,seller_name,shipment_category_name,cost,unit_of_measure_name
+BAL,SHA,Carotrans,United Cargo,LCL,5.25,CBM
+BWI,PVG,United Cargo,HAE Group,Airfreight,2.5,45 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,2.35,100 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,1.95,300 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,1.55,500 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,235,Minimum
