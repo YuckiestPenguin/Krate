@@ -5,7 +5,9 @@ Rails.application.routes.draw do
 
   end
 
-  resources :carrier_types
+  resources :carrier_types do
+    collection { post :import}
+  end
   resources :carriers
   resources :ports do
     collection { post :import}
@@ -14,8 +16,12 @@ Rails.application.routes.draw do
     collection { post :import}
 
   end
-  resources :unit_of_measures
-  resources :shipment_categories
+  resources :unit_of_measures do
+    collection { post :import}
+  end
+  resources :shipment_categories do
+    collection { post :import}
+  end
   resources :shipment_types
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 

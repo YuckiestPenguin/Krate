@@ -1,0 +1,4 @@
+name,shipment_type_name
+FCL,Ocean
+LCL,Ocean
+Airfreight,Air

@@ -61,6 +61,12 @@ class UnitOfMeasuresController < ApplicationController
     end
   end
 
+  def import
+    UnitOfMeasure.import(params[:file])
+    redirect_to unit_of_measures_path, notice: "Units of Measure Imported Successfully!"
+    #code
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_unit_of_measure

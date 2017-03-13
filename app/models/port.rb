@@ -16,7 +16,7 @@ class Port < ApplicationRecord
   end
 
   def shipment_type_name=(name)
-    self.shipment_type = ShipmentType.where(:name => name).first_or_create
+    self.shipment_type = ShipmentType.where(:name => name).first
   end
 
     def country_country_code

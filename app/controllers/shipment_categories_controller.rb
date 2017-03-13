@@ -61,6 +61,12 @@ class ShipmentCategoriesController < ApplicationController
     end
   end
 
+  def import
+    ShipmentCategory.import(params[:file])
+    redirect_to shipment_categories_path, notice: "Shipment Categories Imported Successfully!"
+    #code
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_shipment_category
