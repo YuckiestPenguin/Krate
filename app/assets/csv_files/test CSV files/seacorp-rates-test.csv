@@ -1,0 +1,4 @@
+origin_port_code,destination_port_code,seller_name,carrier_name,shipment_category_name,cost,unit_of_measure_name
+ORF,DLA,Seacorp,A.P. Moller–Maersk Group,FCL,4713,20 STD
+ORF,DLA,Seacorp,A.P. Moller–Maersk Group,FCL,7260,40 STD
+ORF,DLA,Seacorp,A.P. Moller–Maersk Group,FCL,7260,40 HC
