@@ -37,6 +37,7 @@ end
     carrier_name.try(:name)
     #code
   end
+  
   def carrier_name=(name)
     self.carrier = Carrier.where(:name => name).first
     #code

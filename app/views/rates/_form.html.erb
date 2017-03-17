@@ -12,36 +12,46 @@
       </ul>
   </div>
   <% end %>
+  <section>
+    <div class="row">
+      <div class="col-sm-4">
+        <%= f.collection_select :origin_id, Port.all, :id, :port_code, include_blank: true, prompt: "Origin Port" %>
+      </div>
+      <div class="col-sm-4">
+        <%= f.label :destination_id %>
+        <%= f.collection_select :destination_id, Port.all, :id, :port_code %>
+      </div>
+      <div class="col-sm-4">
+        <%= f.label :shipment_category_id %>
+        <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6">
+        <%= f.label :seller_id %>
+        <%= f.collection_select :seller_id, Carrier.all, :id, :name %>
+      </div>
+      <div class="col-sm-6">
+        <%= f.label :carrier_id %>
+        <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6">
+        <%= f.label :cost %>
+        <%= f.text_field :cost %>
+      </div>
+      <div class="col-sm-6">
+        <%= f.label :unit_of_measure_id %>
+        <%= f.collection_select :unit_of_measure_id, UnitOfMeasure.all, :id, :name, prompt: "UOM", include_blank: true %>
+      </div>
+    </div>
+  </section>
 
-  <div class="col-sm-4">
-    <%= f.label :origin_id %>
-    <%= f.collection_select :origin_id, Port.all, :id, :port_code %>
-  </div>
-  <div class="col-sm-4">
-    <%= f.label :destination_id %>
-    <%= f.collection_select :destination_id, Port.all, :id, :port_code %>
-  </div>
-  <div class="col-sm-4">
-    <%= f.label :shipment_category_id %>
-    <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
-  </div>
-  <div class="col-sm-4">
-    <%= f.label :seller_id %>
-    <%= f.collection_select :seller_id, Carrier.all, :id, :name %>
-  </div>
-  <div class="col-sm-4">
-    <%= f.label :carrier_id %>
-    <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
-  </div>
 
-  <div class="col-sm-4">
-    <%= f.label :cost %>
-    <%= f.text_field :cost %>
-  </div>
-  <div class="col-sm-4">
-    <%= f.label :unit_of_measure_id %>
-    <%= f.collection_select :unit_of_measure_id, UnitOfMeasure.all, :id, :name %>
-  </div>
+
+
+
   <div class="col-sm-12">
     <br>
     <div class="actions">
