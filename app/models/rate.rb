@@ -13,7 +13,6 @@ class Rate < ApplicationRecord
   belongs_to :carrier
   belongs_to :shipment_category
   belongs_to :unit_of_measure
-  has_many :additional_items
 
 # associatiing Origin and Destination Port Code
 def origin_port_code
@@ -37,7 +36,7 @@ end
     carrier_name.try(:name)
     #code
   end
-  
+
   def carrier_name=(name)
     self.carrier = Carrier.where(:name => name).first
     #code
