@@ -248,6 +248,15 @@ section {
     padding: 100px 20px;
 }
 
+.edit-user-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('edit-user-cover.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    // background-blend-mode: overlay;
+}
 
 .restricted-access-cover {
     background-color: rgba(255, 255, 255, 0.47);

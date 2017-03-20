@@ -19,7 +19,7 @@
       </div>
       <div class="col-sm-4">
         <%= f.label :destination_id %>
-        <%= f.collection_select :destination_id, Port.all, :id, :port_code %>
+        <%= f.collection_select :destination_id, Port.all, :id, :port_code, include_blank: true, prompt: "Destination Port" %>
       </div>
       <div class="col-sm-4">
         <%= f.label :shipment_category_id %>
