@@ -59,3 +59,4 @@ gem 'ransack'
 
 gem "chartkick"
 gem "font-awesome-rails"
+gem 'devise'
