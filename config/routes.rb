@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
   devise_for :users
-  get "/pages/:page" => "pages#index"
   resources :rates do
     collection { post :import}
 
@@ -30,7 +29,9 @@ Rails.application.routes.draw do
 
 
   root "pages#index", page: "index"
+  # get "/pages/:page" => "pages#index"
   get "/pages/documentation", page: "documentation"
   get "/pages/import", page: "import"
+  get "/pages/restricted_access", page: "restricted_access"
 
 end

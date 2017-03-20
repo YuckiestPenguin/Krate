@@ -249,6 +249,16 @@ section {
 }
 
 
+.restricted-access-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('restricted-access-cover.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    // background-blend-mode: overlay;
+}
+
 .sign-in-cover {
     background-color: rgba(255, 255, 255, 0.47);
     background-image: image-url('sign-in-cover.jpeg');

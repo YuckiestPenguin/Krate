@@ -9,6 +9,18 @@ class PagesController < ApplicationController
     end
   end
 
+  def import
+    if current_user.admin
+    else
+      redirect_to pages_restricted_access_path
+    end
+    #code
+  end
+
+  def documentation
+    #code
+  end
+
   private
   def valid_page?
     File.exist?(Pathname.new(Rails.root + "app/views/pages/#{params[:page]}.html.erb"))

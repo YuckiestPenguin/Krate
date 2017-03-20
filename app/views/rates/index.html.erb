@@ -130,9 +130,10 @@
                                 <td data-title="Date Updated"><%= rate.updated_at.strftime("%d %b %y") %></td>
 
                                 <td class="text-center"><%= link_to "<i class='glyphicon glyphicon-info-sign'></i>".html_safe, rate, class: "button info" %></td>
-
+                                <% if current_user.admin?%>
                                 <td><%= link_to "<i class='glyphicon glyphicon-check'></i>".html_safe, edit_rate_path(rate), :class => "button edit" %>
-                                    <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
+                                  <%= link_to "<i class='glyphicon glyphicon-remove-circle'></i>".html_safe, rate, method: :delete, data: { confirm: 'Are you sure?' }, :class => "button delete" %></td>
+                                <% end %>
 
                             </tr>
                             <% end %>
