@@ -249,6 +249,25 @@ section {
 }
 
 
+.sign-in-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('sign-in-cover.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.sign-up-cover {
+    background-color: rgba(255, 255, 255, 0.47);
+    background-image: image-url('sign-up-cover.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    // background-blend-mode: overlay;
+}
 
 .rates-cover {
     background-color: rgba(255, 255, 255, 0.47);

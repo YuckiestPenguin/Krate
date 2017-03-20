@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   get "/pages/:page" => "pages#index"
   resources :rates do
     collection { post :import}
