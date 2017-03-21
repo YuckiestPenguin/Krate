@@ -1,0 +1,11 @@
+origin_port_code,destination_port_code,carrier_name,seller_name,shipment_category_name,cost,unit_of_measure_name
+BWI,PVG,United Cargo,HAE Group,Airfreight,2.75,45 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,2.45,100 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,2.05,300 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,1.65,500 KG +
+BWI,PVG,United Cargo,HAE Group,Airfreight,255,Min
+BWI,PVG,United Cargo,United Cargo,Airfreight,2.35,45 KG +
+BWI,PVG,United Cargo,United Cargo,Airfreight,2.2,100 KG +
+BWI,PVG,United Cargo,United Cargo,Airfreight,1.8,300 KG +
+BWI,PVG,United Cargo,United Cargo,Airfreight,1.4,500 KG +
+BWI,PVG,United Cargo,United Cargo,Airfreight,200,Min
