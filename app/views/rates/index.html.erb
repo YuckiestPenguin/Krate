@@ -124,9 +124,9 @@
                                 <td><%= rate.seller.name %></td>
                                 <td data-title="Carrier"><%= rate.carrier.name %></td>
                                 <% if rate.shipment_category.shipment_type.name == "Air"%>
-                                <td><%= fa_icon "plane" %> <%= rate.shipment_category.name %></td>
+                                <td><%= fa_icon "plane lg", style: "color: rgb(72, 171, 88)" %> <%= rate.shipment_category.name %></td>
                                 <% else %>
-                                <td><%= fa_icon "ship lg" %> <%= rate.shipment_category.name %></td>
+                                <td><%= fa_icon "ship lg", style: " color: rgb(82, 154, 177)" %> <%= rate.shipment_category.name %></td>
                                 <% end %>
 
                                 <td data-title="Cost"><%= number_to_currency(rate.cost) %></td>
