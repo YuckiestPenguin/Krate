@@ -16,6 +16,7 @@
 //= require_tree .
 //= require bootstrap
 //= require Chart.bundle
+//= require highcharts
 //= require chartkick
 
 // This is for the MAGLEV Theme

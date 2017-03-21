@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <h1>Documentation</h1>
-                <%= pie_chart Port.group(:name).count(:ports) %>
-                <%= pie_chart Country.group(:name).count(@ports_name) %>
+                <%= column_chart Rate.group_by_day(:created_at).count(@rates), label: "Rates Added", title: "Rates Added per Day"  %>
+
             </div>
         </div>
     </div>

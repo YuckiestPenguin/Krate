@@ -58,6 +58,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'ransack'
 
 gem "chartkick"
+gem 'highcharts-rails'
+gem 'groupdate'
 gem "font-awesome-rails"
 gem 'devise'
 

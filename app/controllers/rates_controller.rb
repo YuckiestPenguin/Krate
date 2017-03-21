@@ -6,6 +6,7 @@ class RatesController < ApplicationController
   def index
     @search = Rate.search(params[:q])
     @rates =  @search.result
+
   end
 
   # GET /rates/1
