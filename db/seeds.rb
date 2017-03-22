@@ -8,4 +8,4 @@
 
 user = User.create! :username => 'administrator', :email => 'administrator@test.com', :password => 'P@ssw0rd', :password_confirmation => 'P@ssw0rd', admin: true
 
-user2 = User.create! :username => 'user', :email => 'user@test.com', :password => 'password', :password_confirmation => 'password', admin: true
+user2 = User.create! :username => 'user', :email => 'user@test.com', :password => 'password', :password_confirmation => 'password', admin: false
