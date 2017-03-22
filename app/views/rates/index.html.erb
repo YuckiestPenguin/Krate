@@ -43,20 +43,20 @@
                             <%= f.collection_select :destination_country_id_eq_any, Country.order('name ASC'), :id, :name, class: "form-control", include_blank: true, prompt: "Destination Country" %>
                         </div>
                         <div class="col-xs-12">
-                          <%= f.collection_select :seller_id_eq_any, Carrier.all, :id, :name, include_blank: true, prompt: "Seller: United Cargo, Seacorp" %>
+                          <%= f.collection_select :seller_id_eq_any, Carrier.order('name ASC'), :id, :name, include_blank: true, prompt: "Seller: United Cargo, Seacorp" %>
 
                         </div>
                         <div class="col-xs-12">
-                            <%= f.collection_select :carrier_id_eq_any, Carrier.all, :id, :name, include_blank: true, prompt: "Carrier: United Cargo, Seacorp" %>
+                            <%= f.collection_select :carrier_id_eq_any, Carrier.order('name ASC'), :id, :name, include_blank: true, prompt: "Carrier: United Cargo, Seacorp" %>
                         </div>
                         <div class="col-xs-12">
-                            <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Type: Air, Ocean",  class: "form-control"%>
+                            <%= f.collection_select :shipment_category_shipment_type_id_eq_any, ShipmentType.order('name ASC'), :id, :name, :include_blank => true, :multiple => true, :prompt => "Type: Air, Ocean",  class: "form-control"%>
                         </div>
                         <div class="col-xs-12">
-                            <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.all, :id, :name, :include_blank => true, :multiple => true, :prompt => "Category: FCL, LCL, Airfreight",  class: "form-control"%>
+                            <%= f.collection_select :shipment_category_id_eq_any, ShipmentCategory.order('shipment_type_id ASC'), :id, :name, :include_blank => true, :multiple => true, :prompt => "Category: FCL, LCL, Airfreight",  class: "form-control"%>
                         </div>
                         <div class="col-xs-12">
-                            <%= f.collection_select :unit_of_measure_id_eq_any, UnitOfMeasure.all, :id, :name, :prompt => "UOM", :include_blank => true, class: "form-control" %>
+                            <%= f.collection_select :unit_of_measure_id_eq_any, UnitOfMeasure.order('id ASC'), :id, :name, :prompt => "UOM", :include_blank => true, class: "form-control" %>
                         </div>
 
                     </div>
