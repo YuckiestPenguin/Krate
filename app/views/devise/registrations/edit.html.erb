@@ -7,6 +7,9 @@
                   <%= devise_error_messages! %>
 
 
+                <div class="field">
+                  <%= f.email_field :username, autofocus: true, class: "form-group input-lg", placeholder: "Username" %>
+                </div>
                   <div class="field">
                     <%= f.email_field :email, autofocus: true, class: "form-group input-lg", placeholder: "Email" %>
                   </div>
