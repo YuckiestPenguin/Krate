@@ -106,8 +106,8 @@
                                 <th>Shipment category</th>
                                 <th>Cost</th>
                                 <th>Unit of measure</th>
+                                <th>Commodity</th>
                                 <th>Date Added</th>
-                                <th>Date Updated</th>
                                 <th colspan="3"></th>
                             </tr>
                         </thead>
@@ -132,8 +132,8 @@
                                 <td data-title="Cost"><%= number_to_currency(rate.cost) %></td>
                                 <td data-title="Unit of Measure"><%= rate.unit_of_measure.name %></td>
 
+                                <td data-title="Commodity"><%= rate.commodity.name %></td>
                                 <td data-title="Date Added"><%= rate.created_at.strftime("%d %b %y") %></td>
-                                <td data-title="Date Updated"><%= rate.updated_at.strftime("%d %b %y") %></td>
 
                                 <td class="text-center"><%= link_to "<i class='glyphicon glyphicon-info-sign'></i>".html_safe, rate, class: "button info" %></td>
                                 <% if current_user.admin?%>

@@ -17,21 +17,33 @@
         </div>
         <hr>
         <div class="row">
-            <div class="col-sm-3">
-                <h1>MODE</h1>
-                <h1 style="color: rgb(51, 122, 183)"><%= @rate.shipment_category.name %></h1>
+            <div class="col-sm-6">
+              <h1>Seller</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= @rate.seller.name %></h2>
             </div>
-            <div class="col-sm-3">
-              <h1>VIA</h1>
-                <h1 style="color: rgb(51, 122, 183)"><%= @rate.carrier.name %></h1>
+            <div class="col-sm-6">
+              <h1>Carrier</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= @rate.carrier.name %></h2>
             </div>
-            <div class="col-sm-3">
-              <h1 >FOR</h1>
-                <h1 style="color: rgb(51, 122, 183)"><%= number_to_currency(@rate.cost) %></h1>
+            <div class="col-sm-4">
+                <h1>Mode</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= @rate.shipment_category.shipment_type.name %></h2>
             </div>
-            <div class="col-sm-3">
-              <h1>PER</h1>
-              <h1 style="color: rgb(51, 122, 183)"><%= @rate.unit_of_measure.name %></h1>
+            <div class="col-sm-4">
+                <h1>Category</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= @rate.shipment_category.name %></h2>
+            </div>
+            <div class="col-sm-4">
+                <h1>Commodity</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= @rate.commodity.name %></h2>
+            </div>
+            <div class="col-sm-6">
+              <h1 >Cost</h1>
+                <h2 style="color: rgb(51, 122, 183)"><%= number_to_currency(@rate.cost) %></h2>
+            </div>
+            <div class="col-sm-6">
+              <h1>U.O.M.</h1>
+              <h2 style="color: rgb(51, 122, 183)"><%= @rate.unit_of_measure.name %></h2>
             </div>
         </div>
         <br>

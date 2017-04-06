@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @commodity.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @commodity.description %>
+</p>
+
+<%= link_to 'Edit', edit_commodity_path(@commodity) %> |
+<%= link_to 'Back', commodities_path %>

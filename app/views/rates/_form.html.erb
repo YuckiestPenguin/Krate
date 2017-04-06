@@ -1,61 +1,55 @@
+<%= form_for(rate) do |f| %>
+<% if rate.errors.any? %>
+<div id="error_explanation">
+    <h2><%= pluralize(rate.errors.count, "error") %>
+        prohibited this rate from being saved:</h2>
 
-  <%= form_for(rate) do |f| %>
-  <% if rate.errors.any? %>
-  <div id="error_explanation">
-      <h2><%= pluralize(rate.errors.count, "error") %>
-          prohibited this rate from being saved:</h2>
-
-      <ul>
-          <% rate.errors.full_messages.each do |message| %>
-          <li><%= message %></li>
-          <% end %>
-      </ul>
-  </div>
-  <% end %>
-  <section>
+    <ul>
+        <% rate.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+        <% end %>
+    </ul>
+</div>
+<% end %>
+<section>
     <div class="row">
-      <div class="col-sm-4">
-        <%= f.collection_select :origin_id, Port.all, :id, :port_code, include_blank: true, prompt: "Origin Port" %>
-      </div>
-      <div class="col-sm-4">
-        <%= f.label :destination_id %>
-        <%= f.collection_select :destination_id, Port.all, :id, :port_code, include_blank: true, prompt: "Destination Port" %>
-      </div>
-      <div class="col-sm-4">
-        <%= f.label :shipment_category_id %>
-        <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6">
-        <%= f.label :seller_id %>
-        <%= f.collection_select :seller_id, Carrier.all, :id, :name %>
-      </div>
-      <div class="col-sm-6">
-        <%= f.label :carrier_id %>
-        <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6">
-        <%= f.label :cost %>
-        <%= f.text_field :cost %>
-      </div>
-      <div class="col-sm-6">
-        <%= f.label :unit_of_measure_id %>
-        <%= f.collection_select :unit_of_measure_id, UnitOfMeasure.all, :id, :name, prompt: "UOM", include_blank: true %>
-      </div>
-    </div>
-  </section>
+        <div class="col-xs-12">
+            <%= f.collection_select :origin_id, Port.all, :id, :port_code, include_blank: true, prompt: "Origin Port" %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :destination_id %>
+            <%= f.collection_select :destination_id, Port.all, :id, :port_code, include_blank: true, prompt: "Destination Port" %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :shipment_category_id %>
+            <%= f.collection_select :shipment_category_id, ShipmentCategory.all, :id, :name %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :seller_id %>
+            <%= f.collection_select :seller_id, Carrier.all, :id, :name %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :carrier_id %>
+            <%= f.collection_select :carrier_id, Carrier.all, :id, :name %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :cost %>
+            <%= f.text_field :cost %>
+        </div>
+        <div class="col-xs-12">
+            <%= f.label :unit_of_measure_id %>
+            <%= f.collection_select :unit_of_measure_id, UnitOfMeasure.all, :id, :name, prompt: "UOM", include_blank: true %>
+        </div>
+        <div class="col-xs-12">
+          <%= f.label :commodity_id %>
+          <%= f.collection_select :commodity_id, Commodity.all, :id, :name, prompt: "Commodity", include_blank: true %>
+        </div>
+</section>
 
-
-
-
-
-  <div class="col-sm-12">
+<div class="col-sm-12">
     <br>
     <div class="actions">
         <%= f.submit :Submit, class: "btn btn-lg btn-success" %>
     </div>
-  </div>
-  <% end %>
+</div>
+<% end %>
