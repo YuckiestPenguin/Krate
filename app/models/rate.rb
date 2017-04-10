@@ -76,5 +76,15 @@ end
     #code
   end
 
+  # associating commodity
+  def commodity_name
+    commodity.try(:name)
+    #code
+  end
+  def commodity_name=(name)
+    self.commodity = Commodity.where(:name => name).first
+    #code
+  end
+
 
 end

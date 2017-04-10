@@ -61,6 +61,12 @@ class CommoditiesController < ApplicationController
     end
   end
 
+  def import
+    Commodity.import(params[:file])
+    redirect_to commodities_path, notice: "Commodity Imported Successfully!"
+    #code
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_commodity
