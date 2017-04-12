@@ -44,6 +44,10 @@
           <%= f.label :commodity_id %>
           <%= f.collection_select :commodity_id, Commodity.all, :id, :name, prompt: "Commodity", include_blank: true %>
         </div>
+        <div class="col-xs-12">
+          <p>US Flag? <%= f.check_box :us_flag %></p>
+
+        </div>
 </section>
 
 <div class="col-sm-12">

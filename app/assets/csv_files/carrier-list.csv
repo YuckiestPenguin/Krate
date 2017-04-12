@@ -1,0 +1,32 @@
+name,carrier_type_name,shipment_type_name
+United Cargo,Airline,Air
+UPS,Airline,Air
+Fedex,Airline,Air
+Lufthansa,Airline,Air
+Seacorp,NVOCC,Ocean
+Carotrans,NVOCC,Ocean
+Econocaribe,NVOCC,Ocean
+A.P. Moller–Maersk Group,Ocean Carrier,Ocean
+MSC (Mediterranean Shipping Company S.A.),Ocean Carrier,Ocean
+CMA CGM Group,Ocean Carrier,Ocean
+COSCO (China Ocean Shipping Company),Ocean Carrier,Ocean
+Evergreen Marine,Ocean Carrier,Ocean
+Hapag-Lloyd,Ocean Carrier,Ocean
+Hamburg Süd Group,Ocean Carrier,Ocean
+Hanjin Shipping,Ocean Carrier,Ocean
+OOCL (Orient Overseas Container Line),Ocean Carrier,Ocean
+UASC (United Arab Shipping Company),Ocean Carrier,Ocean
+"MOL (Mitsui O.S.K. Lines, Ltd.)",Ocean Carrier,Ocean
+APL (American President Lines),Ocean Carrier,Ocean
+Yang Ming Marine Transport Corporation,Ocean Carrier,Ocean
+NYK Line (Nippon Yusen Kabushiki Kaisha),Ocean Carrier,Ocean
+HMM (Hyundai Merchant Marine),Ocean Carrier,Ocean
+K Line (Kawasaki Kisen Kaisha),Ocean Carrier,Ocean
+PIL (Pacific International Lines),Ocean Carrier,Ocean
+Zim,Ocean Carrier,Ocean
+Wan Hai Lines,Ocean Carrier,Ocean
+X-Press Feeders Group,Ocean Carrier,Ocean
+HAE Group,Freight Forwarder,Air and Ocean
+Delta Stallion,Agent,Air and Ocean
+Stallion Freight,Agent,Air and Ocean
+AGS,Agent,Air and Ocean

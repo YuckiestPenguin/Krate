@@ -1,0 +1,889 @@
+id,name,port_code,shipment_type_name,country_country_code
+,Abu Dhabi,AUH,Ocean,AE
+,Abudhabikhalifa,KHL,Ocean,AE
+,Al Fujairah,FJR,Ocean,AE
+,Dubai,DXB,Ocean,AE
+,Jebelali,JE4,Ocean,AE
+,Jebelali,JE3,Ocean,AE
+,Jebelali,JEA,Ocean,AE
+,Jebelali,JAL,Ocean,AE
+,Jebelali,JE2,Ocean,AE
+,Jebelali,JE1,Ocean,AE
+,Khor Al Fakkan,KLF,Ocean,AE
+,Mina Qaboos,MQA,Ocean,AE
+,Sharjah,SHJ,Ocean,AE
+,Aruba,AUA,Ocean,AN
+,Curacao,CUR,Ocean,AN
+,Lobito,LOB,Ocean,AO
+,Luanda,LAD,Ocean,AO
+,Buenos Aires,BUE,Ocean,AR
+,Pago Pago,PPG,Ocean,AS
+,Adelaide,ADL,Ocean,AU
+,Albany,ALH,Ocean,AU
+,Bellbay,BEL,Ocean,AU
+,Brisbane,BNE,Ocean,AU
+,Broome,BME,Ocean,AU
+,Burnie,BUR,Ocean,AU
+,Cairns,CNS,Ocean,AU
+,Darwin,DRW,Ocean,AU
+,Devonport,DPO,Ocean,AU
+,Fremantle,FRE,Ocean,AU
+,Geelong,GEX,Ocean,AU
+,Hobart,HBA,Ocean,AU
+,Launceston,LST,Ocean,AU
+,Melbourne,MEL,Ocean,AU
+,Newcastle,NTL,Ocean,AU
+,Port Hedland,PHE,Ocean,AU
+,Sydney,SYD,Ocean,AU
+,Townsville,TSV,Ocean,AU
+,Bahrain,KBS,Ocean,BA
+,Bahrain,BAH,Ocean,BA
+,Bridgetown,BGI,Ocean,BB
+,Chalna,CHL,Ocean,BD
+,Chittagong,CGP,Ocean,BD
+,Mongla/Chalna,MON,Ocean,BD
+,Antwerpen,ANR,Ocean,BE
+,Gent,GNE,Ocean,BE
+,Zeebrugge,ZEE,Ocean,BE
+,Varna,VAR,Ocean,BG
+,Bahrain,BAH,Ocean,BH
+,Cotonou,COO,Ocean,BJ
+,Brunei Town,BTN,Ocean,BN
+,Seria,SER,Ocean,BN
+,Brrsh,RSH,Ocean,BR
+,Fortaleza,FOR,Ocean,BR
+,Itaguai,IGI,Ocean,BR
+,Itajai,ITJ,Ocean,BR
+,Itaqui,ITQ,Ocean,BR
+,Manaus,MAO,Ocean,BR
+,Navegantes,NVT,Ocean,BR
+,Paranagua,PNG,Ocean,BR
+,Pecem,PEC,Ocean,BR
+,Porto Alegre,POA,Ocean,BR
+,Recife,REC,Ocean,BR
+,Rio De Janeiro,RIO,Ocean,BR
+,Rio Grande,RIG,Ocean,BR
+,Salvador,SSA,Ocean,BR
+,Santos,SSZ,Ocean,BR
+,Sao Francisco,QFS,Ocean,BR
+,Sepetiba,SPB,Ocean,BR
+,Suape,SUA,Ocean,BR
+,Vitoria,VIX,Ocean,BR
+,Freeport,FPO,Ocean,BS
+,Nassau,NAS,Ocean,BS
+,Belize City,BZE,Ocean,BZ
+,Edmonton,EDM,Ocean,CA
+,Halifax,HAL,Ocean,CA
+,Longbeach,LMN,Ocean,CA
+,Montral,MTL,Ocean,CA
+,Montreal,MTR,Ocean,CA
+,Portland,PT1,Ocean,CA
+,Quebec,QUE,Ocean,CA
+,St Johns,SJE,Ocean,CA
+,Toronto,TOR,Ocean,CA
+,Vancouver,VA1,Ocean,CA
+,Vancouver,VAN,Ocean,CA
+,Vancouver,VCP,Ocean,CA
+,Vancouver,VA4,Ocean,CA
+,Vancouver,VA3,Ocean,CA
+,Vancouver,YV1,Ocean,CA
+,Vancouver,VA2,Ocean,CA
+,Vancouver 1,YCR,Ocean,CA
+,Vancouver 2,KCR,Ocean,CA
+,Vancouver 3,VCR,Ocean,CA
+,Vancouver4,VCJ,Ocean,CA
+,Vancouver4,VTM,Ocean,CA
+,Vancouvera,VAA,Ocean,CA
+,Vancouverb,VAB,Ocean,CA
+,Vancouverc,VAC,Ocean,CA
+,Vancouverd,VAD,Ocean,CA
+,Vancouvere,VAE,Ocean,CA
+,Pointe Noire,PNR,Ocean,CG
+,Chiwan,IWA,Ocean,CH
+,Abidjan,ABJ,Ocean,CI
+,Antofagasta,ANF,Ocean,CL
+,Arica,ARI,Ocean,CL
+,Iquique,IQQ,Ocean,CL
+,Lirquen,LQN,Ocean,CL
+,Mejillones,MJS,Ocean,CL
+,Puartoangamos,PAG,Ocean,CL
+,San Antonio,SAI,Ocean,CL
+,San Antoonio,QTN,Ocean,CL
+,Sanvincente,SVE,Ocean,CL
+,Talcahuano,THO,Ocean,CL
+,Valparaiso,VAP,Ocean,CL
+,Douala,DLA,Ocean,CM
+,Chiwan,CWN,Ocean,CN
+,Dachanbay,DCB,Ocean,CN
+,Dafeng,DFL,Ocean,CN
+,Dafeng,DFE,Ocean,CN
+,Dalian,DLC,Ocean,CN
+,Fangcheng,FAN,Ocean,CN
+,Fuqing,FUG,Ocean,CN
+,Fuzhou,FOC,Ocean,CN
+,Gznansha,GNS,Ocean,CN
+,Huang Pu,HUA,Ocean,CN
+,Huangpu,HUP,Ocean,CN
+,Jintang,JIT,Ocean,CN
+,Jinzhou,JNZ,Ocean,CN
+,Lianyungang,LYG,Ocean,CN
+,Longkou,LKU,Ocean,CN
+,Nanjing,NKG,Ocean,CN
+,Nanjing,CNJ,Ocean,CN
+,Nansha,NNS,Ocean,CN
+,Nansha,NSA,Ocean,CN
+,Ningbo,NGB,Ocean,CN
+,Ningbo,NBO,Ocean,CN
+,Qingtao,TAO,Ocean,CN
+,Qinhuangdao,QHA,Ocean,CN
+,Quanzhou,QZJ,Ocean,CN
+,Rizhao,RZH,Ocean,CN
+,Shanghai,SH1,Ocean,CN
+,Shanghai,SH2,Ocean,CN
+,Shanghai,SHA,Ocean,CN
+,Shanghai,SGH,Ocean,CN
+,Shantou,SWA,Ocean,CN
+,Shekou,SHK,Ocean,CN
+,Shekou,SKO,Ocean,CN
+,Shenzen,SZX,Ocean,CN
+,Shidao,SHD,Ocean,CN
+,Sku,SKU,Ocean,CN
+,Taicang,TAG,Ocean,CN
+,Tanggu,TGA,Ocean,CN
+,Tianjin,TSN,Ocean,CN
+,Vancouver,VAA,Ocean,CN
+,Weifang,WFG,Ocean,CN
+,Weihai,WEI,Ocean,CN
+,Xiaman,XMN,Ocean,CN
+,Xingang,XGG,Ocean,CN
+,Xingang,TXG,Ocean,CN
+,Xingang,XNG,Ocean,CN
+,Xingang,TXG,Ocean,CN
+,Xingang,XIN,Ocean,CN
+,Xingang,XIG,Ocean,CN
+,Xinggang,ZIN,Ocean,CN
+,Yangsan,YAN,Ocean,CN
+,Yangshan,SHY,Ocean,CN
+,Yangtai,YAI,Ocean,CN
+,Yantaichina,YNT,Ocean,CN
+,Yantian China,YTN,Ocean,CN
+,Yingkou,YIK,Ocean,CN
+,Zhang Zhou,ZZU,Ocean,CN
+,Zhang-Jia-Gang,CZG,Ocean,CN
+,Zjangjagang,ZJG,Ocean,CN
+,Barranquilla,BAQ,Ocean,CO
+,Buenaventura,BUN,Ocean,CO
+,Cartagena,CTG,Ocean,CO
+,Santa Marta,SMR,Ocean,CO
+,Port Caldera,PCD,Ocean,CR
+,Puerpo Caldera,CAL,Ocean,CR
+,Puerto Caldera,PLD,Ocean,CR
+,Puntarenas,PAS,Ocean,CR
+,Habana,HAV,Ocean,CU
+,Famagusta,FMG,Ocean,CY
+,Larnaca,LCA,Ocean,CY
+,Limassol,LMS,Ocean,CY
+,Willemstad,WIL,Ocean,CZ
+,Rostock,RSK,Ocean,DE
+,Bremerhaven,BRV,Ocean,DE
+,Hamburg,HAM,Ocean,DE
+,Harburg,HBU,Ocean,DE
+,Husum,HUS,Ocean,DE
+,Djibouti,JIB,Ocean,DJ
+,Aalborg,AAL,Ocean,DK
+,Aarhus,AAR,Ocean,DK
+,Esbjerg,EBJ,Ocean,DK
+,Kobenhavn,CPH,Ocean,DK
+,Santo Domingo,DOM,Ocean,DO
+,Santo Domingo,SDQ,Ocean,DO
+,Annaba,AAE,Ocean,DZ
+,Bejaia,BJA,Ocean,DZ
+,Oran,ORN,Ocean,DZ
+,Esmeraldas,ESM,Ocean,EC
+,Guayaquil,GYE,Ocean,EC
+,Adabiya,ADA,Ocean,EG
+,Alexandria,ALY,Ocean,EG
+,Damietta,DAM,Ocean,EG
+,Eldekheila,EDK,Ocean,EG
+,Manta,MEC,Ocean,EG
+,Port Said,PSD,Ocean,EG
+,Sokhna,SOK,Ocean,EG
+,Sokhna,AIS,Ocean,EG
+,Suez,SUZ,Ocean,EG
+,Ucsam,UCS,Ocean,EG
+,Algeciras,ALG,Ocean,ES
+,Algmed,AMD,Ocean,ES
+,Barcelona,BCN,Ocean,ES
+,Bilbao,BIO,Ocean,ES
+,Ceuta,CEU,Ocean,ES
+,Las Palmas,LPA,Ocean,ES
+,Malaga,AGP,Ocean,ES
+,Melilla,MLN,Ocean,ES
+,Palma De Mallorca,PMI,Ocean,ES
+,Valencia,VLC,Ocean,ES
+,Assab,ASA,Ocean,ET
+,Helsinki,HEL,Ocean,FI
+,Rauma,RAU,Ocean,FI
+,Turku,TKU,Ocean,FI
+,Lautoka,LTK,Ocean,FJ
+,Su5,SU5,Ocean,FJ
+,Suva,SUV,Ocean,FJ
+,Bordeaux,BOD,Ocean,FR
+,Cherbourg,CER,Ocean,FR
+,Fos,FOS,Ocean,FR
+,Lavera,LAV,Ocean,FR
+,Le Havre,LEH,Ocean,FR
+,Marseille,MRS,Ocean,FR
+,Libreville,LBV,Ocean,GA
+,Aberdeen,ABD,Ocean,GB
+,Avonmouth,AVO,Ocean,GB
+,Edinburgh,EDI,Ocean,GB
+,Felixstowe,FXT,Ocean,GB
+,Garston,GTN,Ocean,GB
+,Glasgow,GLW,Ocean,GB
+,Grangemouth,GRG,Ocean,GB
+,Hartlepool,HTP,Ocean,GB
+,Harwich,HRW,Ocean,GB
+,Holyhead,HHD,Ocean,GB
+,Hull,HUL,Ocean,GB
+,Ipswich,IPS,Ocean,GB
+,Leith,LEI,Ocean,GB
+,Liverpool,LIV,Ocean,GB
+,London,LON,Ocean,GB
+,Manchester,MNC,Ocean,GB
+,Newcastle Upon Tyne,NCL,Ocean,GB
+,Portsmouth,PME,Ocean,GB
+,Southampton,SOU,Ocean,GB
+,Tems Port,THP,Ocean,GB
+,Tilbury,TIL,Ocean,GB
+,Tyne,TYN,Ocean,GB
+,Takoradi,TKD,Ocean,GH
+,Tema,TEM,Ocean,GH
+,Gibraltar,GIB,Ocean,GI
+,Banjul,BJL,Ocean,GM
+,Conakry,CKY,Ocean,GN
+,Pointe A Pitre,PTP,Ocean,GP
+,Ast,AST,Ocean,GR
+,Athens,ATH,Ocean,GR
+,Her,HER,Ocean,GR
+,Piraeus,PIR,Ocean,GR
+,Thessaloniki,SKG,Ocean,GR
+,Pueroto-Quetzal,PTQ,Ocean,GT
+,Puerto Quetzal,PRQ,Ocean,GT
+,San Jose,SNJ,Ocean,GT
+,Guam,GUM,Ocean,GU
+,Georgetown,GEO,Ocean,GY
+,Hongkong,HKM,Ocean,HK
+,Hongkong,HIT,Ocean,HK
+,Hongkong,HKG,Ocean,HK
+,Hongkong,KWN,Ocean,HK
+,Amapala,AMP,Ocean,HN
+,Puerto Cortes,PCR,Ocean,HN
+,San Lorenzo,SLO,Ocean,HN
+,Rijeka,RJK,Ocean,HR
+,Port Au Prince,PAP,Ocean,HT
+,Balikpapan,BPN,Ocean,ID
+,Belawan,BLW,Ocean,ID
+,Dumai,DUM,Ocean,ID
+,Jakartta,JKT,Ocean,ID
+,Medan,MES,Ocean,ID
+,Padang,PDG,Ocean,ID
+,Palembang,PLM,Ocean,ID
+,Pontianak,PNK,Ocean,ID
+,Semarang,SRG,Ocean,ID
+,Surabaya,SUB,Ocean,ID
+,Ujung Pandang,UPG,Ocean,ID
+,Cork,ORK,Ocean,IE
+,Dublin,DUB,Ocean,IE
+,Ashdod,ASH,Ocean,IL
+,Elat,ETH,Ocean,IL
+,Haifa,HFA,Ocean,IL
+,Bombay,BOM,Ocean,IN
+,Calcutta,CCU,Ocean,IN
+,Cochin,COK,Ocean,IN
+,Jawaharlal Nehru,JHT,Ocean,IN
+,Kandla,IXY,Ocean,IN
+,Madras,MAA,Ocean,IN
+,Mahe,MAH,Ocean,IN
+,Mangalore,IXE,Ocean,IN
+,Mun,MUN,Ocean,IN
+,Mundra,MDA,Ocean,IN
+,Nansha,NSH,Ocean,IN
+,Nhavasheva,NSA,Ocean,IN
+,Visakhapatnam,VTZ,Ocean,IN
+,Baghdad,BGW,Ocean,IQ
+,Bandar Khomeini,BKM,Ocean,IR
+,Bandarabbas,BSR,Ocean,IR
+,Bandarabbas,BND,Ocean,IR
+,Bandarabbas,SRP,Ocean,IR
+,Khorramshahr,KHO,Ocean,IR
+,Reykjavik,REK,Ocean,IS
+,Cagliari,CAG,Ocean,IT
+,Catania,CTA,Ocean,IT
+,Genoa,GOA,Ocean,IT
+,Gioia Tauro,GIT,Ocean,IT
+,Gioiataro,GTO,Ocean,IT
+,La Spezia,SPE,Ocean,IT
+,Napoli,NPO,Ocean,IT
+,Napoli,NAP,Ocean,IT
+,Other-Port,ZZZ,Ocean,IT
+,Palermo,PMO,Ocean,IT
+,Ravenna,RAN,Ocean,IT
+,Salerno,SAL,Ocean,IT
+,Savona,SVN,Ocean,IT
+,Taranto,TAR,Ocean,IT
+,Terminiimeress,TRI,Ocean,IT
+,Trieste,TRS,Ocean,IT
+,Venezia,VCE,Ocean,IT
+,Vpi,VPI,Ocean,IT
+,Kingston,KIN,Ocean,JM
+,Aqaba,AQJ,Ocean,JO
+,Aburachu,ABR,Ocean,JP
+,Aburatsu,ABU,Ocean,JP
+,Akita,AXT,Ocean,JP
+,Aoi,AIO,Ocean,JP
+,Chiba,CHB,Ocean,JP
+,Dejima,DEJ,Ocean,JP
+,Fukuyama,FKY,Ocean,JP
+,Funabashi,FNB,Ocean,JP
+,Fushiki,FSK,Ocean,JP
+,Hachinohe,HHE,Ocean,JP
+,Hakata,HKT,Ocean,JP
+,Hakodate,HKP,Ocean,JP
+,Hakodate,HKD,Ocean,JP
+,Hamada,HMD,Ocean,JP
+,Hibiki,TBT,Ocean,JP
+,Hibiki,HBK,Ocean,JP
+,Hirohata,HRH,Ocean,JP
+,Hiroshima,HIR,Ocean,JP
+,Hiroshima,HIJ,Ocean,JP
+,Hitachinaka,HIC,Ocean,JP
+,Hososhima,HSM,Ocean,JP
+,Imabari,IMB,Ocean,JP
+,Imari,IMI,Ocean,JP
+,Ishikari,ISI,Ocean,JP
+,Ishikariwan-Shinko,ISS,Ocean,JP
+,Iwakuni,IWK,Ocean,JP
+,Iyomishima,IYM,Ocean,JP
+,Iyomishima,MKX,Ocean,JP
+,Kagoshima,KOJ,Ocean,JP
+,Kagoshima Sendai,SEN,Ocean,JP
+,Kanazawa,KNZ,Ocean,JP
+,Kashima,KSM,Ocean,JP
+,Kawasaki,KWS,Ocean,JP
+,Kinuura,KNU,Ocean,JP
+,Kobe,UBK,Ocean,JP
+,Kobe,UKB,Ocean,JP
+,Kobe,KOB,Ocean,JP
+,Kokura,KOK,Ocean,JP
+,Koti,KCZ,Ocean,JP
+,Kure,KRE,Ocean,JP
+,Kushiro,KUH,Ocean,JP
+,Maizuru,MAI,Ocean,JP
+,Matsuyama,MYJ,Ocean,JP
+,Miike,MII,Ocean,JP
+,Mishima-Kawanoe,MKK,Ocean,JP
+,Misumi,MIS,Ocean,JP
+,Miyagi Sendai,SDJ,Ocean,JP
+,Mizushima,MIJ,Ocean,JP
+,Mizushima,MIZ,Ocean,JP
+,Moji,MOJ,Ocean,JP
+,Muroran,MUR,Ocean,JP
+,Nagasaki,NGS,Ocean,JP
+,Nagoya,NGO,Ocean,JP
+,Nakanoseki,NKN,Ocean,JP
+,Nakanoseki,NAN,Ocean,JP
+,Naoetsu,NAO,Ocean,JP
+,Nigata,NIH,Ocean,JP
+,Nigata,KIJ,Ocean,JP
+,Oita,OIP,Ocean,JP
+,Oita,OIT,Ocean,JP
+,Okinawa,NAH,Ocean,JP
+,Onahama,ONA,Ocean,JP
+,Osaka,OSA,Ocean,JP
+,Otake,OTK,Ocean,JP
+,Saeki,SAE,Ocean,JP
+,Saka,SMN,Ocean,JP
+,Sakaide,SKD,Ocean,JP
+,Sakata,SKT,Ocean,JP
+,Sasebo,SSB,Ocean,JP
+,Sendaishinko,SDS,Ocean,JP
+,Sendaishiogamako,SGM,Ocean,JP
+,Shibushi,SBS,Ocean,JP
+,Shimizu,SMZ,Ocean,JP
+,Shimonoseki,SHS,Ocean,JP
+,Takamatsu,TAK,Ocean,JP
+,Takuma,TKM,Ocean,JP
+,Tokushima,TKS,Ocean,JP
+,Tokuyama,TKY,Ocean,JP
+,Tokyo,TYO,Ocean,JP
+,Tokyo,TOK,Ocean,JP
+,Tomakomai,TMK,Ocean,JP
+,Toyamashinko,TOS,Ocean,JP
+,Toyamashinko,TOY,Ocean,JP
+,Toyamashinko,TSH,Ocean,JP
+,Toyohashi,THS,Ocean,JP
+,Tsuruga,TRG,Ocean,JP
+,Ube,UBJ,Ocean,JP
+,Uno,UNO,Ocean,JP
+,Wakayama,WAK,Ocean,JP
+,Yatsushiro,YAT,Ocean,JP
+,Yawatahama,YWH,Ocean,JP
+,Yokkaichi,YKK,Ocean,JP
+,Yokohama,YOK,Ocean,JP
+,Mombasa,MBA,Ocean,KE
+,Kostm,KOS,Ocean,KH
+,Sihanoukville,SHV,Ocean,KH
+,Sihanoukville,SIH,Ocean,KH
+,Tarawa,TRW,Ocean,KI
+,Moroni,YVA,Ocean,KM
+,Cheongin,JC*,Ocean,KP
+,Chinnampo,HC*,Ocean,KP
+,Chong Jin,CHO,Ocean,KP
+,Haeju,JH*,Ocean,KP
+,Hungnam,HGM,Ocean,KP
+,Najin,JN*,Ocean,KP
+,Nampo,NAM,Ocean,KP
+,Sinpo,NS*,Ocean,KP
+,Sinuiju,JS*,Ocean,KP
+,Weonsan,SW*,Ocean,KP
+,All Ports,ALL,Ocean,KR
+,Cheju,CHA,Ocean,KR
+,Chungmu,CM*,Ocean,KR
+,Daesan,DAS,Ocean,KR
+,Donghae,DH*,Ocean,KR
+,Gamman Port,GAM,Ocean,KR
+,Incheun,INC,Ocean,KR
+,Jangseungpo,JP*,Ocean,KR
+,Jinhae,CHF,Ocean,KR
+,Kohyun,KH*,Ocean,KR
+,Kojung,KJ*,Ocean,KR
+,Kunsan,KUV,Ocean,KR
+,Kwang Yang,KAN,Ocean,KR
+,Kwang Yang,KWY,Ocean,KR
+,Masan,MAS,Ocean,KR
+,Mipo,MI*,Ocean,KR
+,Mokpo,MOK,Ocean,KR
+,Mukho,MUK,Ocean,KR
+,Okpo,OP*,Ocean,KR
+,Onsan,OS*,Ocean,KR
+,Pect Port,PET,Ocean,KR
+,Pohang,KPO,Ocean,KR
+,Punsannewport,PNC,Ocean,KR
+,Pusan,KJC,Ocean,KR
+,Pusan,PUS,Ocean,KR
+,Pusannewport,PU1,Ocean,KR
+,Pusannewport,PUN,Ocean,KR
+,Pyeongtaek,PYT,Ocean,KR
+,Pyongtack,PTK,Ocean,KR
+,Samcheonpo,SP*,Ocean,KR
+,Samchok,SUK,Ocean,KR
+,Seogwipo,SG*,Ocean,KR
+,Sinhang,SH*,Ocean,KR
+,Sockcho,SHO,Ocean,KR
+,Ulsan,USN,Ocean,KR
+,Wando,WD*,Ocean,KR
+,Yeocheon,YC*,Ocean,KR
+,Yosu,YOS,Ocean,KR
+,Kuwait,KWI,Ocean,KW
+,Beirut,BEY,Ocean,LB
+,Colombo,CMB,Ocean,LK
+,Trincomalee,TRR,Ocean,LK
+,Monrovia,MLW,Ocean,LR
+,Misratah,MRA,Ocean,LY
+,Tripoli,TIP,Ocean,LY
+,Casablanca,CAS,Ocean,MA
+,Majunga,MJN,Ocean,MG
+,Tamatave,TMM,Ocean,MG
+,Majuro,MAJ,Ocean,MH
+,Rangoon,RGN,Ocean,MM
+,Macau,MAC,Ocean,MO
+,Nouakchott,NKC,Ocean,MR
+,Malta,MLA,Ocean,MT
+,Malta,MAR,Ocean,MT
+,Port Louis,PLU,Ocean,MU
+,Acapulco,ACA,Ocean,MX
+,Ensenada,ESE,Ocean,MX
+,Guaymas,GYM,Ocean,MX
+,Lazallino,ZL2,Ocean,MX
+,Lazaro,LCS,Ocean,MX
+,Lazaro Cardenas,LZC,Ocean,MX
+,Lazarocaroenas,LZ2,Ocean,MX
+,Lazarocaroenas,LZ1,Ocean,MX
+,Lazarocaroenas,ZLC,Ocean,MX
+,Manzanillo,ZLO,Ocean,MX
+,Mazatlan,MZT,Ocean,MX
+,Pantaco,PAN,Ocean,MX
+,Salina Cruz,SAC,Ocean,MX
+,Tampico,TAM,Ocean,MX
+,Veracruz,VER,Ocean,MX
+,Bintulu,BTU,Ocean,MY
+,Jambongan,JAM,Ocean,MY
+,Johor,JOH,Ocean,MY
+,Kota Kinabalu,BKI,Ocean,MY
+,Kuching,KCH,Ocean,MY
+,Kudat,KUD,Ocean,MY
+,Labuan,LBU,Ocean,MY
+,Lahad Datu,LDU,Ocean,MY
+,Lawas,LWY,Ocean,MY
+,Limbang,LMN,Ocean,MY
+,Miri,MYY,Ocean,MY
+,Pasir Gudang,PGU,Ocean,MY
+,Penang,PEN,Ocean,MY
+,Portkelang,PKG,Ocean,MY
+,Portkelang,PKL,Ocean,MY
+,Sandakan,SDK,Ocean,MY
+,Sibu,SBW,Ocean,MY
+,Tanjung Pelepas,TPP,Ocean,MY
+,Tawau,TWU,Ocean,MY
+,Weston,WES,Ocean,MY
+,Beira,BEW,Ocean,MZ
+,Maputo,MPM,Ocean,MZ
+,Walvis Bay,WVB,Ocean,NA
+,Noumea,NOU,Ocean,NC
+,Apapa,APP,Ocean,NG
+,Calabar,CBG,Ocean,NG
+,Lagos,LOS,Ocean,NG
+,Port Harcourt,PHC,Ocean,NG
+,Tincanisland,TIN,Ocean,NG
+,Warri,WAR,Ocean,NG
+,Corinto,CIO,Ocean,NI
+,Amsterdam,AMS,Ocean,NL
+,Rotterdam,RTM,Ocean,NL
+,Alesund,AES,Ocean,NO
+,Drammen,DRM,Ocean,NO
+,Oslo,OSL,Ocean,NO
+,Nauru Island,INU,Ocean,NR
+,Auckland,AKL,Ocean,NZ
+,Bluff Harbour,BLU,Ocean,NZ
+,Christchurch,CHC,Ocean,NZ
+,Dunedin,DUD,Ocean,NZ
+,Lyttelton,LYT,Ocean,NZ
+,Napier,NPE,Ocean,NZ
+,Nelson,NSN,Ocean,NZ
+,New Plymouth,NPL,Ocean,NZ
+,Otago Harbour,ORR,Ocean,NZ
+,Port Chalmers,POE,Ocean,NZ
+,Tauranga,TRG,Ocean,NZ
+,Timaru,TIU,Ocean,NZ
+,Wellington,WLG,Ocean,NZ
+,Muscat,MCT,Ocean,OM
+,Salalah,SLL,Ocean,OM
+,Salalah,SLV,Ocean,OM
+,Sohar,SOH,Ocean,OM
+,Null,SHQ,Ocean,OM
+,Balboa,BLB,Ocean,PA
+,Colon,ONX,Ocean,PA
+,Cristobal,CTB,Ocean,PA
+,Manzanillo,MIT,Ocean,PA
+,Manzanillo,MAN,Ocean,PA
+,Pamzx,MZX,Ocean,PA
+,Panama City,PTY,Ocean,PA
+,Ponape,PNI,Ocean,PC
+,Saipan,SPN,Ocean,PC
+,Truk,TKK,Ocean,PC
+,Yap,YAP,Ocean,PC
+,Callao,CLF,Ocean,PE
+,Callao,CLL,Ocean,PE
+,Chimbote,CHM,Ocean,PE
+,Illo,PIL,Ocean,PE
+,Ilo,ILO,Ocean,PE
+,Matarani,MRI,Ocean,PE
+,Paita,PAI,Ocean,PE
+,Sanjuan,SJA,Ocean,PE
+,Null,NOR,Ocean,PE
+,Papeete,PPT,Ocean,PF
+,Pp5,PP5,Ocean,PF
+,Alotau,GUR,Ocean,PG
+,Kavieng,KVG,Ocean,PG
+,Kimbe,KIM,Ocean,PG
+,Lae,LAE,Ocean,PG
+,Madang,MAG,Ocean,PG
+,Orobay,ROR,Ocean,PG
+,Port Moresby,POM,Ocean,PG
+,Rabaul,RAB,Ocean,PG
+,Wewak,WWK,Ocean,PG
+,Batangas,BTG,Ocean,PH
+,Bugo,BUG,Ocean,PH
+,Cagayan De Oro,CGY,Ocean,PH
+,Cebu,CEB,Ocean,PH
+,Davao,DVO,Ocean,PH
+,General Santos,GES,Ocean,PH
+,Lugait,LUG,Ocean,PH
+,Manila,MNN,Ocean,PH
+,Manila,MNL,Ocean,PH
+,Manila,MLL,Ocean,PH
+,Manila South Port,MJJ,Ocean,PH
+,Poro,PRO,Ocean,PH
+,Puerto Princesa,PPS,Ocean,PH
+,San Fernando,SFE,Ocean,PH
+,Sangi,SNG,Ocean,PH
+,South Manila,MIP,Ocean,PH
+,South Manila,MNS,Ocean,PH
+,Subic,SBC,Ocean,PH
+,Tigard,TGO,Ocean,PH
+,Null,SFS,Ocean,PH
+,Karachi,KHI,Ocean,PK
+,Portqasim,BQM,Ocean,PK
+,Portqasim,PQ1,Ocean,PK
+,Gdansk,GDN,Ocean,PL
+,Gdynia,GDY,Ocean,PL
+,Sanjuan,SJU,Ocean,PR
+,Lisbon,LIS,Ocean,PT
+,Sines,SIE,Ocean,PT
+,Asuncion,ASU,Ocean,PY
+,Doha,DOH,Ocean,QA
+,Constanta,CND,Ocean,RO
+,Vicsani,VIS,Ocean,RO
+,Fisheryport,VFP,Ocean,RU
+,Korsakov,KOR,Ocean,RU
+,Nakhodka,NJK,Ocean,RU
+,Novorossiysk,NVS,Ocean,RU
+,Pevek,PWE,Ocean,RU
+,St. Petersburg,LED,Ocean,RU
+,Vlidivostok,VVO,Ocean,RU
+,Vostochny,VYP,Ocean,RU
+,Damman,DMN,Ocean,SA
+,Damman,DMM,Ocean,SA
+,Fujairah,FUJ,Ocean,SA
+,Gizan,GIZ,Ocean,SA
+,Jeddah,JED,Ocean,SA
+,Jubail,JUB,Ocean,SA
+,Riyadh,RIY,Ocean,SA
+,Yanbu,YNB,Ocean,SA
+,Honiara,HIR,Ocean,SB
+,Mahe,HAW,Ocean,SC
+,Port Sudan,PZU,Ocean,SD
+,Gotherburg,GOT,Ocean,SE
+,Malmo,MMA,Ocean,SE
+,Seool,null,Ocean,SE
+,Stockholm,STO,Ocean,SE
+,Jurong,JUR,Ocean,SG
+,Singapore,SI3,Ocean,SG
+,Singapore,SG3,Ocean,SG
+,Singapore,SI1,Ocean,SG
+,Singapore,SIN,Ocean,SG
+,Singapore,SI4,Ocean,SG
+,Singapore,SI2,Ocean,SG
+,Koper,KOP,Ocean,SI
+,Freetown,FNA,Ocean,SL
+,Dakar,DKR,Ocean,SN
+,Kismayu,KMU,Ocean,SO
+,Mogadishu,MGQ,Ocean,SO
+,Paramaribo,PBM,Ocean,SR
+,Sao Tome Island,TMS,Ocean,ST
+,Acajutla,AQJ,Ocean,SV
+,Lome,LFW,Ocean,TG
+,Bangkok,BKK,Ocean,TH
+,Leamcharbang,LEM,Ocean,TH
+,Leam Char Bang,LCH,Ocean,TH
+,Sattahip,SAT,Ocean,TH
+,Tunis,TUN,Ocean,TN
+,Nukualofa,TBU,Ocean,TO
+,Ayt,AYT,Ocean,TR
+,Derince,DRC,Ocean,TR
+,Gemlik,GEM,Ocean,TR
+,Iskenderun,ISK,Ocean,TR
+,Istanbul,IST,Ocean,TR
+,Izmir,IZM,Ocean,TR
+,Kumport,KPX,Ocean,TR
+,Mersin,MER,Ocean,TR
+,Port Of Spain,POS,Ocean,TT
+,Hualien,HUN,Ocean,TW
+,Kaohsiung,KAO,Ocean,TW
+,Kaohsiung,KHH,Ocean,TW
+,Kaohsiung,KHG,Ocean,TW
+,Kaohsiung(Oocl),KHS,Ocean,TW
+,Kaohsiung1,KH1,Ocean,TW
+,Kaohsiung1,KA1,Ocean,TW
+,Keelung,KEL,Ocean,TW
+,Keelung1,KEG,Ocean,TW
+,Khh No.2,KA2,Ocean,TW
+,Other-Port,ZZZ,Ocean,TW
+,Suao,SUO,Ocean,TW
+,Tachung,TCG,Ocean,TW
+,Taichung,TXJ,Ocean,TW
+,Taichung,TAI,Ocean,TW
+,Taipai,TPE,Ocean,TW
+,Taitung,TTT,Ocean,TW
+,Dar Es Salaam,DAR,Ocean,TZ
+,Tanga,TGT,Ocean,TZ
+,Zanzibar,ZNZ,Ocean,TZ
+,Illychevsk,ILK,Ocean,UA
+,Odessa,ODS,Ocean,UA
+,Anchorage,ANC,Ocean,US
+,Baltimore,BAL,Ocean,US
+,Bbls,BBL,Ocean,US
+,Beaumont,BPT,Ocean,US
+,Boston,BOS,Ocean,US
+,Camden,CDE,Ocean,US
+,Carb,CAR,Ocean,US
+,Charleston,CHS,Ocean,US
+,Chicago,CHI,Ocean,US
+,Cl1,CL1,Ocean,US
+,Cl2,CL2,Ocean,US
+,Cl3,CL3,Ocean,US
+,Cl4,CL4,Ocean,US
+,Cl7,CL7,Ocean,US
+,Cl9,CL9,Ocean,US
+,Csh,CSH,Ocean,US
+,Dallas,DFW,Ocean,US
+,Detroit,DET,Ocean,US
+,Dutch Harbor,DUT,Ocean,US
+,Dutch Harbor,DHC,Ocean,US
+,Ecsa,ECS,Ocean,US
+,Elizabeth,ELZ,Ocean,US
+,Everett,PAE,Ocean,US
+,Freeport,FRP,Ocean,US
+,Galveston,GLS,Ocean,US
+,Georgetown,GGE,Ocean,US
+,Gulfport,GPT,Ocean,US
+,Honolulu,HNL,Ocean,US
+,Houston,HOU,Ocean,US
+,Houston1,HST,Ocean,US
+,Inland,IPI,Ocean,US
+,Ipds,IPD,Ocean,US
+,Jacksonville,JAX,Ocean,US
+,Kspan,KSP,Ocean,US
+,Lams,LAM,Ocean,US
+,Lar,LAR,Ocean,US
+,Lat,LAT,Ocean,US
+,Lgb Chicago,LDC,Ocean,US
+,Lgb Inland,LBI,Ocean,US
+,Lgb Newyork,LDN,Ocean,US
+,Lgbnorth,LGN,Ocean,US
+,Lgbsouth,LGS,Ocean,US
+,Long Beach 1,LGC,Ocean,US
+,Long Beach 2,LGT,Ocean,US
+,Long Beach 3,LMW,Ocean,US
+,Long Beach North,LXN,Ocean,US
+,Long Beach South,LXS,Ocean,US
+,Longbeach,LG4,Ocean,US
+,Longbeach,KXW,Ocean,US
+,Longbeach,LG5,Ocean,US
+,Longbeach,OSM,Ocean,US
+,Longbeach,AFM,Ocean,US
+,Longbeach,CLQ,Ocean,US
+,Longbeach,KX1,Ocean,US
+,Longbeach,KX0,Ocean,US
+,Longbeach,YDO,Ocean,US
+,Longbeach,KX2,Ocean,US
+,Longbeach,LG1,Ocean,US
+,Longbeach,LGB,Ocean,US
+,Longbeach,LG2,Ocean,US
+,Longbeach,LG3,Ocean,US
+,Longbeach Inland,LGI,Ocean,US
+,Longbeachus,SEX,Ocean,US
+,Longview,LGV,Ocean,US
+,Losangeles,KDO,Ocean,US
+,Losangeles,LA6,Ocean,US
+,Losangeles,LA5,Ocean,US
+,Losangeles,LA4,Ocean,US
+,Losangeles,LA3,Ocean,US
+,Losangeles,LHT,Ocean,US
+,Losangeles,LAX,Ocean,US
+,Losangeles,LAC,Ocean,US
+,Losangeles,LAL,Ocean,US
+,Losangeles,KKI,Ocean,US
+,Losangeles,LAS,Ocean,US
+,Losangeles,LAN,Ocean,US
+,Losangeles,LA2,Ocean,US
+,Losangeleslocal,LA1,Ocean,US
+,Mbs Of La,MBS,Ocean,US
+,Memphis,MEM,Ocean,US
+,Miami,MIA,Ocean,US
+,Micro Land Bridge,MCB,Ocean,US
+,Midland,MWS,Ocean,US
+,Milwaukee,MKE,Ocean,US
+,Mini Land Bridge,MLB,Ocean,US
+,Mobile,MOB,Ocean,US
+,New Orleans,NEW,Ocean,US
+,New York,NYC,Ocean,US
+,Newark,EWR,Ocean,US
+,Newport News,NEN,Ocean,US
+,Norfolk,ORF,Ocean,US
+,Oakland,OAC,Ocean,US
+,Oakland,OKM,Ocean,US
+,Oakland,OAK,Ocean,US
+,Oakland,OAT,Ocean,US
+,Oakland,OKC,Ocean,US
+,Oakland,OKD,Ocean,US
+,Oakland,OAI,Ocean,US
+,Palm Beach,PAB,Ocean,US
+,Philadelphia,PHL,Ocean,US
+,Port Everglades,PEF,Ocean,US
+,Portland,PDX,Ocean,US
+,Portland,YP1,Ocean,US
+,Portland,PWM,Ocean,US
+,Portsmouth,PSM,Ocean,US
+,San Francisco,SFO,Ocean,US
+,San Pedro,SPQ,Ocean,US
+,San Pedro5,SP5,Ocean,US
+,San Pedro6,SP6,Ocean,US
+,Savannah,SAV,Ocean,US
+,Seachi,STC,Ocean,US
+,Seaind,STI,Ocean,US
+,Seatlle5,SE5,Ocean,US
+,Seattle,SEA,Ocean,US
+,Seattle,SE3,Ocean,US
+,Seattle,SE1,Ocean,US
+,Seattle,SE2,Ocean,US
+,Seattle Chicago,SEC,Ocean,US
+,Seattle New York,SEK,Ocean,US
+,Seattle4,SE4,Ocean,US
+,Seattle6,SE6,Ocean,US
+,St Louis,STL,Ocean,US
+,Stockton,SCK,Ocean,US
+,Tacoma,TI1,Ocean,US
+,Tacoma,TI2,Ocean,US
+,Tacoma,YT2,Ocean,US
+,Tacoma,TW2,Ocean,US
+,Tacoma,TCM,Ocean,US
+,Tacoma,TW1,Ocean,US
+,Tacoma,TW3,Ocean,US
+,Tacoma,YT1,Ocean,US
+,Tacoma,TIW,Ocean,US
+,Tampa,TPA,Ocean,US
+,Tcb Of Tacoma,TCB,Ocean,US
+,Tcd Of Tacoma,TCD,Ocean,US
+,Us Gulf,GLF,Ocean,US
+,Us Middle West,MIW,Ocean,US
+,Vancouver,BCB,Ocean,US
+,Wcca,WCC,Ocean,US
+,Wcsa,WCS,Ocean,US
+,Wilmington,ILM,Ocean,US
+,Wilmington,WTN,Ocean,US
+,Wsca,WSC,Ocean,US
+,Wss,WSS,Ocean,US
+,Yyg,YYG,Ocean,US
+,Yyi,YYI,Ocean,US
+,Yyw,YYW,Ocean,US
+,Montevideo,MVD,Ocean,UY
+,St Vincent,SVD,Ocean,VC
+,El Guamache,EGU,Ocean,VE
+,La Guaira,LAG,Ocean,VE
+,Maracaibo,MAR,Ocean,VE
+,Matanzas,MTV,Ocean,VE
+,Puerto Cabello,PBL,Ocean,VE
+,Da Nang,DAD,Ocean,VN
+,Da-Nang,TOU,Ocean,VN
+,Haiphong,HPH,Ocean,VN
+,Hochiminh,SGN,Ocean,VN
+,Hochiminh,SGC,Ocean,VN
+,Hochiminh,VIC,Ocean,VN
+,Hochiminh,CLP,Ocean,VN
+,Hochiminh,HCM,Ocean,VN
+,Vungtau,VUT,Ocean,VN
+,Portvila,PVI,Ocean,VU
+,Santo,SAN,Ocean,VU
+,Vila,VLI,Ocean,VU
+,Apia,APW,Ocean,WS
+,Aden,ADE,Ocean,YE
+,Hodeidah,HOD,Ocean,YE
+,Mina Qaboos,MNQ,Ocean,YE
+,Capetown,CPT,Ocean,ZA
+,Durban,DUR,Ocean,ZA
+,East London,ELS,Ocean,ZA
+,Mossel Bay,MZY,Ocean,ZA
+,Ngqura,ZBA,Ocean,ZA
+,Port Elizabeth,PLZ,Ocean,ZA

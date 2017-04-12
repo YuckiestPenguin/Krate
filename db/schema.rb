@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170406135044) do
+ActiveRecord::Schema.define(version: 20170412142801) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -63,10 +63,11 @@ ActiveRecord::Schema.define(version: 20170406135044) do
     t.integer  "shipment_category_id"
     t.decimal  "cost",                 precision: 10, scale: 2
     t.integer  "unit_of_measure_id"
-    t.datetime "created_at",                                    null: false
-    t.datetime "updated_at",                                    null: false
+    t.datetime "created_at",                                                    null: false
+    t.datetime "updated_at",                                                    null: false
     t.integer  "seller_id"
     t.integer  "commodity_id"
+    t.boolean  "us_flag",                                       default: false
     t.index ["carrier_id"], name: "index_rates_on_carrier_id", using: :btree
     t.index ["commodity_id"], name: "index_rates_on_commodity_id", using: :btree
     t.index ["destination_id"], name: "index_rates_on_destination_id", using: :btree
