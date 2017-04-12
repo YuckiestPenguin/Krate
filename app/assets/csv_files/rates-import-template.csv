@@ -1,0 +1,8 @@
+origin_port_code,destination_port_code,seller_name,carrier_name,shipment_category_name,cost,unit_of_measure_name,commodity_name,us_flag
+BWI,ABZ,UPS,UPS,Freighter,135,Min,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,1.35,100 KG +,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,1.25,300 KG +,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,1.15,500 KG +,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,1.05,1000 KG +,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,0.95,2000 KG +,General Cargo,yes
+BWI,ABZ,UPS,UPS,Freighter,0.85,5000 KG +,General Cargo,yes

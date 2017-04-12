@@ -122,7 +122,11 @@
                                     |
                                     <%= rate.destination.name %></td>
                                 <td><%= rate.seller.name %></td>
+                                <% if rate.us_flag?%>
+                                <td data-title="Carrier"><%= rate.carrier.name %> <%= image_tag 'us_flag.png' %></td>
+                                <% else %>
                                 <td data-title="Carrier"><%= rate.carrier.name %></td>
+                                <% end %>
                                 <% if rate.shipment_category.shipment_type.name == "Air"%>
                                 <td><%= fa_icon "plane lg", style: "color: rgb(72, 171, 88)" %> <%= rate.shipment_category.name %></td>
                                 <% else %>
