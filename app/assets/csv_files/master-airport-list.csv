@@ -1898,6 +1898,61 @@ Thicket Portage,YTD,Air,CD
 Thompson,YTH,Air,CD
 Thunder Bay,YQT,Air,CD
 Timmins,YTS,Air,CD
+Kolwezi,KWZ,Air,CD
+Kongolo,KOO,Air,CD
+Kota Koli,KLI,Air,CD
+Libenge,LIE,Air,CD
+Lisala,LIQ,Air,CD
+Lodja,LJA,Air,CD
+Luano,FBM,Air,CD
+Luiza,LZA,Air,CD
+Luozi,LZI,Air,CD
+Lusambo,LBO,Air,CD
+Lusanga,LUS,Air,CD
+Manono,MNO,Air,CD
+Masi Manimba,MSM,Air,CD
+Matadi,MAT,Air,CD
+Mbandaka,MDK,Air,CD
+Mbuji Mayi,MJM,Air,CD
+Moanda,MNB,Air,CD
+Moba,BDV,Air,CD
+Mweka,MEW,Air,CD
+Nioki,NIO,Air,CD
+Nkolo,NKL,Air,CD
+Punia,PUN,Air,CD
+Pweto,PWO,Air,CD
+Yangambi,YAN,Air,CD
+Chingola,CGJ,Air,CD
+Chipata,CIP,Air,CD
+Kalabo,KLB,Air,CD
+Kaoma,KMZ,Air,CD
+Kasaba Bay,ZKB,Air,CD
+Kasama,KAA,Air,CD
+Kasompe,ZKP,Air,CD
+Southdowns,KIW,Air,CD
+Livingstone,LVI,Air,CD
+Lukulu,LXU,Air,CD
+Lusaka,LUN,Air,CD
+Mansa,MNS,Air,CD
+Mbala,MMQ,Air,CD
+Mfuwe,MFU,Air,CD
+Mongu,MNR,Air,CD
+Ndola,NLA,Air,CD
+Ngoma,ZGM,Air,CD
+Senanga,SXG,Air,CD
+Sesheke,SJQ,Air,CD
+Solwezi,SLI,Air,CD
+Zambezi,BBZ,Air,CD
+Buffalo Range,BFO,Air,CD
+Bulawayo,BUQ,Air,CD
+Bumi Hills,BZH,Air,CD
+Chipinge,CHJ,Air,CD
+Gweru,GWE,Air,CD
+Harare,HRE,Air,CD
+Hwange,WKI,Air,CD
+Hwange Nat Park,HWN,Air,CD
+Kariba,KAB,Air,CD
+Mahenye,MJW,Air,CD
 Tisdale,YTT,Air,CF
 Seaplane Base,YTP,Air,CF
 Tofino Airport,YAZ,Air,CF
@@ -2464,19 +2519,6 @@ Rarotonga,RAR,Air,CR
 Barra Colorado,BCL,Air,CR
 Buenos Aires,BAI,Air,CR
 Canas,CSC,Air,CR
-Carrillo,RIK,Air,CS
-Coto 47,OTR,Air,CS
-Flamingo,FMG,Air,CS
-Fortuna,FON,Air,CS
-Golfito,GLF,Air,CS
-Guapiles,GPL,Air,CS
-Las Canas,LCS,Air,CS
-Liberia,LIR,Air,CS
-Limon,LIO,Air,CS
-Los Chiles,LSL,Air,CS
-Guanacaste,NCT,Air,CS
-Nosara Beach,NOB,Air,CS
-Palmar Sur,PMZ,Air,CS
 Playa Samara,PLD,Air,CU
 Puerto Jimenez,PJM,Air,CU
 Punta Islita,PBP,Air,CU
@@ -2694,7 +2736,6 @@ Bole,ADD,Air,DO
 Arba Mintch,AMH,Air,DO
 Asela,ALK,Air,DO
 Asmara International,ASM,Air,DO
-Asosa,ASO,Air,DR
 Assab,ASA,Air,DZ
 Awareh,AWH,Air,DZ
 Awassa,AWA,Air,DZ
@@ -6329,7 +6370,7 @@ Saint-Pierre Pointe-Blanche,FSP,Air,SC
 Ad-Dabbah,AAD,Air,SC
 Atbara,ATB,Air,SC
 Galegu,DNX,Air,SC
-Dongola,DOG,Air,SCG
+Dongola,DOG,Air,SC
 El Fasher,ELF,Air,SD
 El Obeid,EBD,Air,SD
 Eldebba,EDB,Air,SD
@@ -9442,61 +9483,6 @@ Kikwit,KKW,Air,ZM
 Kilwa,KIL,Air,ZM
 Kindu,KND,Air,ZM
 Kiri,KRZ,Air,ZM
-Kolwezi,KWZ,Air,ZR
-Kongolo,KOO,Air,ZR
-Kota Koli,KLI,Air,ZR
-Libenge,LIE,Air,ZR
-Lisala,LIQ,Air,ZR
-Lodja,LJA,Air,ZR
-Luano,FBM,Air,ZR
-Luiza,LZA,Air,ZR
-Luozi,LZI,Air,ZR
-Lusambo,LBO,Air,ZR
-Lusanga,LUS,Air,ZR
-Manono,MNO,Air,ZR
-Masi Manimba,MSM,Air,ZR
-Matadi,MAT,Air,ZR
-Mbandaka,MDK,Air,ZR
-Mbuji Mayi,MJM,Air,ZR
-Moanda,MNB,Air,ZR
-Moba,BDV,Air,ZR
-Mweka,MEW,Air,ZR
-Nioki,NIO,Air,ZR
-Nkolo,NKL,Air,ZR
-Punia,PUN,Air,ZR
-Pweto,PWO,Air,ZR
-Yangambi,YAN,Air,ZR
-Chingola,CGJ,Air,ZR
-Chipata,CIP,Air,ZR
-Kalabo,KLB,Air,ZR
-Kaoma,KMZ,Air,ZR
-Kasaba Bay,ZKB,Air,ZR
-Kasama,KAA,Air,ZR
-Kasompe,ZKP,Air,ZR
-Southdowns,KIW,Air,ZR
-Livingstone,LVI,Air,ZR
-Lukulu,LXU,Air,ZR
-Lusaka,LUN,Air,ZR
-Mansa,MNS,Air,ZR
-Mbala,MMQ,Air,ZR
-Mfuwe,MFU,Air,ZR
-Mongu,MNR,Air,ZR
-Ndola,NLA,Air,ZR
-Ngoma,ZGM,Air,ZR
-Senanga,SXG,Air,ZR
-Sesheke,SJQ,Air,ZR
-Solwezi,SLI,Air,ZR
-Zambezi,BBZ,Air,ZR
-Buffalo Range,BFO,Air,ZR
-Bulawayo,BUQ,Air,ZR
-Bumi Hills,BZH,Air,ZR
-Chipinge,CHJ,Air,ZR
-Gweru,GWE,Air,ZR
-Harare,HRE,Air,ZR
-Hwange,WKI,Air,ZR
-Hwange Nat Park,HWN,Air,ZR
-Kariba,KAB,Air,ZR
-Mahenye,MJW,Air,ZR
 Masvingo,MVZ,Air,ZW
 Mutare,UTA,Air,ZW
 Victoria Falls,VFA,Air,ZW
@@ -9510,6 +9496,3 @@ Hlavni N. Railway,XYG,Air,ZW
 Holosovice Railway,XYJ,Air,ZW
 Network Service Code,QSP,Air,ZW
 San Marino,SAI,Air,ZW
-Teniente R. Marsh,TNM,Air,ZZ
-Tessenei,TES,Air,ZZ
-Tshikapa,TSH,Air,ZZ

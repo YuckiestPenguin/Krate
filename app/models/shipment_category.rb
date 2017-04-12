@@ -3,7 +3,6 @@ class ShipmentCategory < ApplicationRecord
 
   def self.import(file)
     CSV.foreach(file.path, headers: true) do |row|
-      shipment_category = find_by_id(row["id"])
       ShipmentCategory.create! row.to_hash
     end
   end
