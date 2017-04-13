@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+2500,Punta Alegre,UPA,Air,CU
+2501,Punta De Maisi,UMA,Air,CU
+2502,San Julian,SNJ,Air,CU
+2503,Sancti Spiritus,USS,Air,CU
+2504,Santa Clara,SNU,Air,CU
+2505,Antonio Maceo,SCU,Air,CU
+2506,Siguanea,SZJ,Air,CU
+2507,Trinidad,TND,Air,CU
+2508,Juan Gualberto Gomez,VRA,Air,CU
+2509,Rabil,BVC,Air,CV
+2510,Esperadinha,BVR,Air,CV
+2511,Vila Do Maio,MMO,Air,CV
+2512,Mosteiros,MTI,Air,CV
+2513,Francisco Mendes,RAI,Air,CV
+2514,Amilcar Cabral Intl,SID,Air,CV
+2515,Santo Antao,NTO,Air,CV
+2516,Sao Filipe,SFL,Air,CV
+2517,Preguica,SNE,Air,CV
+2518,San Pedro,VXE,Air,CV
+2519,Christmas Island,XCH,Air,CX
+2520,Akrotiri RAF,AKT,Air,CY
+2521,Episkopi,EPK,Air,CY
+2522,Ercan,ECN,Air,CY
+2523,Gecitkale,GEC,Air,CY
+2524,Larnaca,LCA,Air,CY
+2525,Nicosia,NIC,Air,CY
+2526,International,PFO,Air,CY
+2527,Mosnov,OSR,Air,CZ
+2528,Pardubice,PED,Air,CZ
+2529,Hlavni N. Railway,XYG,Air,CZ
+2530,Holosovice Railway,XYJ,Air,CZ
+2531,Aachen/Merzbruck,AAH,Air,DE
+2532,Railway,ZIU,Air,DE
+2533,Railway Station,XHJ,Air,DE
+2534,Altenburg Nobitz,AOC,Air,DE
+2535,Sachsen Railway Stn.,ZAU,Air,DE
+2536,Baltrum,BMR,Air,DE
+2537,Barth,BBH,Air,DE
+2538,Bindlacher-Berg,BYU,Air,DE
+2539,Berlin Zoo,QWC,Air,DE
+2540,RAF Gatow,GWW,Air,DE
+2541,Schoenefeld,SXF,Air,DE
+2542,Tegel,TXL,Air,DE
+2543,Tempelhof,THF,Air,DE
+2544,Bielefeld,BFE,Air,DE
+2545,Bitburg Air Base,BBJ,Air,DE
+2546,Boeblingen,PHM,Air,DE
+2547,Borkum,BMK,Air,DE
+2548,Braunschweig,BWE,Air,DE
+2549,Bremen,BRE,Air,DE
+2550,Bremerhaven,BRV,Air,DE
+2551,R.A.F.,BGN,Air,DE
+2552,Burg Feuerstein,URD,Air,DE
+2553,Chemnitz Railway Stn.,ZTZ,Air,DE
+2554,Cochstedt,CSO,Air,DE
+2555,Cologne/bonn,CGN,Air,DE
+2556,Cottbus,CBU,Air,DE
+2557,Cottbus Railway Stn.,ZTT,Air,DE
+2558,Cuxhaven/Nordholz,FCN,Air,DE
+2559,Dessau Railway Stn.,ZSU,Air,DE
+2560,Dortmund,DTM,Air,DE
+2561,Dresden Arpt,DRS,Air,DE
+2562,Düsseldorf International Airport (Rhein-Ruhr),DUS,Air,DE
+2563,Moenchen-Gl. - DUS Exp,MGL,Air,DE
+2564,Weeze,NRN,Air,DE
+2565,Station,QDU,Air,DE
+2566,Eisenach,EIB,Air,DE
+2567,Emden,EME,Air,DE
+2568,Erfurt,ERF,Air,DE
+2569,Essen,ESS,Air,DE
+2570,GermanRail Pass,ZGZ,Air,DE
+2571,Fictitious Point/LH,QFP,Air,DE
+2572,Finkenwerder,XFW,Air,DE
+2573,Schaferhaus,FLF,Air,DE
+2574,Hahn,HHN,Air,DE
+2575,Frankfurt International Airport (Rhein-Main),FRA,Air,DE
+2576,Neu Isenburg,QGV,Air,DE
+2577,Rhein-Main AFB,FRF,Air,DE
+2578,Frankfurt/Oder Railway,ZFR,Air,DE
+2579,Friedrichshafen,FDH,Air,DE
+2580,Fritzlar Airbase,FRZ,Air,DE
+2581,Fuerstenfeldbruck,FEL,Air,DE
+2582,Geilenkirchen,GKE,Air,DE
+2583,Gera Railway,ZGA,Air,DE
+2584,Giebelstadt,GHF,Air,DE
+2585,Goerlitz Railway,ZGE,Air,DE
+2586,Gotha Railway,ZGO,Air,DE
+2587,Greifswald Railway,ZGW,Air,DE
+2588,Guetersloh,GUT,Air,DE
+2589,Guettin,GTI,Air,DE
+2590,Halle Railway,ZHZ,Air,DE
+2591,Hamburg,HAM,Air,DE
+2592,Lübeck Blankensee,LBC,Air,DE
+2593,Hanover Arpt,HAJ,Air,DE
+2594,Hanover Railway,ZVR,Air,DE
+2595,Messe-BF Railway Servi,ZVM,Air,DE
+2596,Heide-Buesum,HEI,Air,DE
+2597,Heidelberg,HDB,Air,DE
+2598,Helgoland,HGL,Air,DE
+2599,Heringsdorf,HDF,Air,DE
+2600,Hof,HOQ,Air,DE
+2601,Husum,QHU,Air,DE
+2602,Illis Airbase,ILH,Air,DE
+2603,Ingolstadt-Manching,IGS,Air,DE
+2604,Jena Railway,ZJS,Air,DE
+2605,Juist,JUI,Air,DE
+2606,Kaiserslautern,KLT,Air,DE
+2607,Soellingen,FKB,Air,DE
+2608,Kassel-Calden,KSF,Air,DE
+2609,Holtenau,KEL,Air,DE
+2610,Kitzingen,KZG,Air,DE
+2611,Koethen,KOQ,Air,DE
+2612,R.A.F.,LRC,Air,DE
+2613,Lahr,LHA,Air,DE
+2614,Langeoog,LGO,Air,DE
+2615,Leipzig/Halle,LEJ,Air,DE
+2616,Lemwerder,XLW,Air,DE
+2617,Mannheim Arpt,MHG,Air,DE
+2618,Mian Yang,MIG,Air,DE
+2619,Muenster,FMO,Air,DE
+2620,Augsburg - Muehlhausen,AGB,Air,DE
+2621,Franz Josef Strauss,MUC,Air,DE
+2622,Neubrandenburg,FNB,Air,DE
+2623,Neumuenster,EUM,Air,DE
+2624,Norddeich,NOE,Air,DE
+2625,Norden,NOD,Air,DE
+2626,Norderney,NRD,Air,DE
+2627,Cuxhaven,NDZ,Air,DE
+2628,Oberpfaffenhofen,OBF,Air,DE
+2629,Paderborn,PAD,Air,DE
+2630,Peenemuende,PEF,Air,DE
+2631,Pforheim,UPF,Air,DE
+2632,Off line Point,XZE,Air,DE
+2633,Ramstein,RMS,Air,DE
+2634,Rechlin,REB,Air,DE
+2635,Rheindahlen,GMY,Air,DE
+2636,Riesa,IES,Air,DE
+2637,Laage,RLG,Air,DE
+2638,Ensheim,SCN,Air,DE
+2639,Schleswig-Jagel,WBG,Air,DE
+2640,Parchim Airport,SZW,Air,DE
+2641,Sembach,SEX,Air,DE
+2642,Siegerland Airport,SGE,Air,DE
+2643,Spangdahlem,SPM,Air,DE
+2644,St Peter,PSH,Air,DE
+2645,Wallmuhle,RBM,Air,DE
+2646,Echterdingen,STR,Air,DE
+2647,Varrelbusch,VAC,Air,DE
+2648,Flugplatz,AGE,Air,DE
+2649,Westerland - Sylt,GWT,Air,DE
+2650,Air Base,WIE,Air,DE
+2651,Wildenrath,WID,Air,DE
+2652,Wilhelmshaven,WVN,Air,DE
+2653,Wyk Auf Foehr,OHR,Air,DE
+2654,Nuremberg,NUE,Air,DE
+2655,Alisabieh,AII,Air,DJ
+2656,Ambouli,JIB,Air,DJ
+2657,Musha,MHI,Air,DJ
+2658,Obock,OBC,Air,DJ
+2659,Tadjoura,TDJ,Air,DJ
+2660,Aalborg,AAL,Air,DK
+2661,Tirstrup,AAR,Air,DK
+2662,Aarhus Limo,ZBU,Air,DK
+2663,Billund,BLL,Air,DK
+2664,Bornholm,RNN,Air,DK
+2665,Copenhagen Airport,CPH,Air,DK
+2666,Roskilde Airport,RKE,Air,DK
+2667,Esbjerg,EBJ,Air,DK
+2668,Karup,KRP,Air,DK
+2669,Laeso Airport,BYR,Air,DK
+2670,Maribo,MRW,Air,DK
+2671,Beldringe,ODE,Air,DK
+2672,Heliport,PQT,Air,DK
+2673,Sindal,CNL,Air,DK
+2674,Limousine Service,QJV,Air,DK
+2675,Skive Airport,SQW,Air,DK
+2676,Sonderborg,SGD,Air,DK
+2677,Sonderborg,QSG,Air,DK
+2678,Stauning Vestjyllands Airport,STA,Air,DK
+2679,Thisted,TED,Air,DK
+2680,Vejle,VEJ,Air,DK
+2681,Vojens,SKS,Air,DK
+2682,Rialway Service,XJE,Air,DK
+2683,Cane Field,DCF,Air,DM
+2684,Melville Hall,DOM,Air,DM
+2685,Barahona,BRX,Air,DO
+2686,Cabo Rojo,CBJ,Air,DO
+2687,Constanza,COZ,Air,DO
+2688,El Portillo,EPS,Air,DO
+2689,La Romana,LRM,Air,DO
+2690,La Union,POP,Air,DO
+2691,Punta Cana,PUJ,Air,DO
+2692,Sabana De Mar,SNX,Air,DO
+2693,San Juan,SJM,Air,DO
+2694,Municipal,STI,Air,DO
+2695,Herrera,HEX,Air,DO
+2696,Las Americas,SDQ,Air,DO
+2697,Adrar,AZR,Air,DZ
+2698,Houari Boumediene,ALG,Air,DZ
+2699,Les Salines,AAE,Air,DZ
+2700,Batna,BLJ,Air,DZ
+2701,Leger,CBH,Air,DZ
+2702,Bejaia,BJA,Air,DZ
+2703,Biskra,BSK,Air,DZ
+2704,Bordj Badji Mokhtar,BMW,Air,DZ
+2705,Ain Eddis,BUJ,Air,DZ
+2706,Abou Bakr Belkaid,CFK,Air,DZ
+2707,Ain El Bey,CZL,Air,DZ
+2708,Inedbirenne,DJG,Air,DZ
+2709,El Golea,ELG,Air,DZ
+2710,Guemar,ELU,Air,DZ
+2711,Gara Djebilet,GBB,Air,DZ
+2712,Noumerate,GHA,Air,DZ
+2713,Oued Irara Apt,HME,Air,DZ
+2714,Illizi,VVZ,Air,DZ
+2715,In Amenas,IAM,Air,DZ
+2716,In Guezzam,INF,Air,DZ
+2717,In Salah,INZ,Air,DZ
+2718,Jijel,GJL,Air,DZ
+2719,Kouba,KDF,Air,DZ
+2720,Mascara,MUW,Air,DZ
+2721,Mechria,MZW,Air,DZ
+2722,Mostaganem,MQV,Air,DZ
+2723,Es Senia,ORN,Air,DZ
+2724,Tafaraoui,TAF,Air,DZ
+2725,Ain Beida,OGX,Air,DZ
+2726,Setif,QSF,Air,DZ
+2727,Sidi Belabbes,BFW,Air,DZ
+2728,Skikda,SKI,Air,DZ
+2729,Aguemar,TMR,Air,DZ
+2730,Tbessa,TEE,Air,DZ
+2731,Bouchekif,TID,Air,DZ
+2732,Timimoun,TMX,Air,DZ
+2733,Tindouf,TIN,Air,DZ
+2734,Zenata,TLM,Air,DZ
+2735,Touggourt,TGR,Air,DZ
+2736,Chachoan,ATF,Air,EC
+2737,Bahia De Caraquez,BHA,Air,EC
+2738,Coca,OCC,Air,EC
+2739,Cuenca,CUE,Air,EC
+2740,Esmeraldas,ESM,Air,EC
+2741,Baltra,GPS,Air,EC
+2742,Simon Bolivar,GYE,Air,EC
+2743,Jipijapa,JIP,Air,EC
+2744,Lago Agrio,LGQ,Air,EC
+2745,Cotopaxi International,LTX,Air,EC
+2746,Loja,LOH,Air,EC
+2747,Macara,MRR,Air,EC
+2748,Macas,XMS,Air,EC
+2749,Machala,MCH,Air,EC
+2750,Manta,MEC,Air,EC
+2751,Mendez,MZD,Air,EC
+2752,Pastaza,PTZ,Air,EC
+2753,Portoviejo,PVO,Air,EC
+2754,Putumayo,PYO,Air,EC
+2755,Mariscal Sucr,UIO,Air,EC
+2756,Salinas,SNC,Air,EC
+2757,San Cristobal Airport,SCY,Air,EC
+2758,Sucua,SUQ,Air,EC
+2759,Taisha,TSC,Air,EC
+2760,Tarapoa,TPC,Air,EC
+2761,Tiputini,TPN,Air,EC
+2762,Tulcan,TUA,Air,EC
+2763,Kardla,KDL,Air,EE
+2764,Kuressaare,URE,Air,EE
+2765,Parnu,EPU,Air,EE
+2766,Pirita Harbour,QUF,Air,EE
+2767,Ulemiste,TLL,Air,EE
+2768,Tartu,TAY,Air,EE
+2769,Abu Rudeis,AUE,Air,EG
+2770,Abu Simbel,ABS,Air,EG
+2771,Al Arish,AAC,Air,EG
+2772,Borg El Arab,HBE,Air,EG
+2773,El Nohza,ALY,Air,EG
+2774,Assiut,ATZ,Air,EG
+2775,Aswan,ASW,Air,EG
+2776,International,CAI,Air,EG
+2777,Alalamain Intl.,DBB,Air,EG
+2778,Dakhla,DAK,Air,EG
+2779,El Minya,EMY,Air,EG
+2780,Hurghada,HRG,Air,EG
+2781,Kharga,UVL,Air,EG
+2782,Luxor,LXR,Air,EG
+2783,Manguna,MFO,Air,EG
+2784,Marsa Alam,RMF,Air,EG
+2785,Mersa Matruh,MUH,Air,EG
+2786,Port Said,PSD,Air,EG
+2787,Ramadan,TFR,Air,EG
+2788,Mount Sinai,SKV,Air,EG
+2789,Shark Elowainat,GSQ,Air,EG
+2790,Ophira,SSH,Air,EG
+2791,Sidi Barani,SQK,Air,EG
+2792,Siwa,SEW,Air,EG
+2793,Taba International,TCP,Air,EG
+2794,Tour Sinai City,ELT,Air,EG
+2795,Tessenei,TES,Air,ER
+2796,Los Llanos,ABC,Air,ES
+2797,Algeciras,AEI,Air,ES
+2798,Alicante,ALC,Air,ES
+2799,Almeria,LEI,Air,ES
+2800,Asturias,OVD,Air,ES
+2801,Talaveral La Real,BJZ,Air,ES
+2802,El Prat De Llobregat,BCN,Air,ES
+2803,Bilbao,BIO,Air,ES
+2804,Bobadilla,OZI,Air,ES
+2805,Cadiz,CDZ,Air,ES
+2806,Ceuta Heliport,JCU,Air,ES
+2807,Ciudad Real,CJI,Air,ES
+2808,Cordoba,ODB,Air,ES
+2809,Fuengirola,FGR,Air,ES
+2810,Costa Brava,GRO,Air,ES
+2811,Granada,GRX,Air,ES
+2812,Huelva,HEV,Air,ES
+2813,Huesca,HSK,Air,ES
+2814,Ibiza,IBZ,Air,ES
+2815,Jerez De La Frontera,XRY,Air,ES
+2816,La Coruna,LCG,Air,ES
+2817,La Palma Del Condado,NDO,Air,ES
+2818,Lanzarote,ACE,Air,ES
+2819,Arpt De Gran Canaria,LPA,Air,ES
+2820,Aeropuero de Bajio,LEN,Air,ES
+2821,Agoncillo,RJL,Air,ES
+2822,Barajas,MAD,Air,ES
+2823,Torrejon AFB,TOJ,Air,ES
+2824,Malaga,AGP,Air,ES
+2825,Melilla,MLN,Air,ES
+2826,Menorca,MAH,Air,ES
+2827,Montilla,OZU,Air,ES
+2828,Moron,OZP,Air,ES
+2829,San Javier,MJV,Air,ES
+2830,Palma Mallorca,PMI,Air,ES
+2831,Pamplona,PNA,Air,ES
+2832,Puerto De Santa Maria,PXS,Air,ES
+2833,Fuerteventura,FUE,Air,ES
+2834,Puerto La Cruz,UPC,Air,ES
+2835,Puertollano,UER,Air,ES
+2836,Reus,REU,Air,ES
+2837,Ronda,RRA,Air,ES
+2838,Matacan,SLM,Air,ES
+2839,San Fernando,FES,Air,ES
+2840,San Pablo,SPO,Air,ES
+2841,Bus Station,ZRC,Air,ES
+2842,La Gomera,GMZ,Air,ES
+2843,San Sebastian,EAS,Air,ES
+2844,La Palma,SPC,Air,ES
+2845,Santander,SDR,Air,ES
+2846,Santiago De Compostela,SCQ,Air,ES
+2847,Aeroport De La Seu,LEU,Air,ES
+2848,San Pablo,SVQ,Air,ES
+2849,Norte Los Rodeos,TFN,Air,ES
+2850,Sur Reina Sofia,TFS,Air,ES
+2851,Torremolinos,UTL,Air,ES
+2852,Valencia,VLC,Air,ES
+2853,Valladolid,VLL,Air,ES
+2854,Hierro,VDE,Air,ES
+2855,Vigo,VGO,Air,ES
+2856,Vitoria.,VIT,Air,ES
+2857,Zaragoza,ZAZ,Air,ES
+2858,Bole,ADD,Air,ET
+2859,Arba Mintch,AMH,Air,ET
+2860,Asela,ALK,Air,ET
+2861,Asmara International,ASM,Air,ET
+2862,Asosa,ASO,Air,ET
+2863,Assab,ASA,Air,ET
+2864,Awareh,AWH,Air,ET
+2865,Awassa,AWA,Air,ET
+2866,Axum,AXU,Air,ET
+2867,Bahar Dar,BJR,Air,ET
+2868,Beica,BEI,Air,ET
+2869,Bulchi,BCY,Air,ET
+2870,Buno Bedelle,XBL,Air,ET
+2871,Chagni,MKD,Air,ET
+2872,Debra Marcos,DBM,Air,ET
+2873,Debra Tabor,DBT,Air,ET
+2874,Degahbur,DGC,Air,ET
+2875,Dembidollo,DEM,Air,ET
+2876,Combolcha,DSE,Air,ET
+2877,Aba Tenna D Yilma,DIR,Air,ET
+2878,Fincha,FNH,Air,ET
+2879,Gambela,GMB,Air,ET
+2880,Geladi,GLC,Air,ET
+2881,Genda Wuha,ETE,Air,ET
+2882,Ghimbi,GHD,Air,ET
+2883,Ghinnir,GNN,Air,ET
+2884,Goba,GOB,Air,ET
+2885,Gode/Iddidole,GDE,Air,ET
+2886,Gondar,GDQ,Air,ET
+2887,Gore,GOR,Air,ET
+2888,Humera,HUE,Air,ET
+2889,Indaselassie,SHC,Air,ET
+2890,Jigiga,JIJ,Air,ET
+2891,Jimma,JIM,Air,ET
+2892,Jinka,BCO,Air,ET
+2893,Kabri Dar,ABK,Air,ET
+2894,Kelafo,LFO,Air,ET
+2895,Lalibela,LLI,Air,ET
+2896,Makale,MQX,Air,ET
+2897,Massawa,MSW,Air,ET
+2898,Mekane Selam,MKS,Air,ET
+2899,Mena,MZX,Air,ET
+2900,Mendi,NDM,Air,ET
+2901,Misrak Gashamo,MHJ,Air,ET
+2902,Mizan Teferi,MTF,Air,ET
+2903,Mota,OTA,Air,ET
+2904,Moyale,MYS,Air,ET
+2905,Mui,MUJ,Air,ET
+2906,Neghelli,EGL,Air,ET
+2907,Nejjo,NEJ,Air,ET
+2908,Nekemt,NEK,Air,ET
+2909,Beles,PWI,Air,ET
+2910,Semera Airport,SZE,Air,ET
+2911,Shakiso,SKR,Air,ET
+2912,Shehdi,SQJ,Air,ET
+2913,Shillavo,HIL,Air,ET
+2914,Soddu,SXU,Air,ET
+2915,Tippi,TIE,Air,ET
+2916,Tum,TUJ,Air,ET
+2917,Waca,WAC,Air,ET
+2918,Warder,WRA,Air,ET
+2919,Enontekio,ENF,Air,FI
+2920,Helsinki-Malmi,HEM,Air,FI
+2921,Helsinki-vantaa,HEL,Air,FI
+2922,Hyvinkaa,HYV,Air,FI
+2923,Ivalo,IVL,Air,FI
+2924,Joensuu,JOE,Air,FI
+2925,Jyvaskyla,JYV,Air,FI
+2926,Kajaani,KAJ,Air,FI
+2927,Kauhajoki,KHJ,Air,FI
+2928,Kauhava,KAU,Air,FI
+2929,Kemi/Tornio,KEM,Air,FI
+2930,Kitee,KTQ,Air,FI
+2931,Kittila,KTT,Air,FI
+2932,Kruunupyy,KOK,Air,FI
+2933,Bus Station,QVY,Air,FI
+2934,Utti,UTI,Air,FI
+2935,Kuopio,KUO,Air,FI
+2936,Halli,KEV,Air,FI
+2937,Kuusamo,KAO,Air,FI
+2938,Lappeenranta,LPP,Air,FI
+2939,Mariehamn,MHQ,Air,FI
+2940,Mikkeli,MIK,Air,FI
+2941,Oulu,OUL,Air,FI
+2942,Pori,POR,Air,FI
+2943,Rovaniemi,RVN,Air,FI
+2944,Savonlinna,SVL,Air,FI
+2945,Ilmajoki,SJY,Air,FI
+2946,Sodankyla,SOT,Air,FI
+2947,Tampere-Pirkkala,TMP,Air,FI
+2948,Turku,TKU,Air,FI
+2949,Vaasa,VAA,Air,FI
+2950,Varkaus,VRK,Air,FI
+2951,Ylivieska,YLI,Air,FI
+2952,Ba,BFJ,Air,FJ
+2953,Blue Lagoon,BXL,Air,FJ
+2954,Dama,BVF,Air,FJ
+2955,Levuka Airfield,LEV,Air,FJ
+2956,Castaway,CST,Air,FJ
+2957,Cicia,ICI,Air,FJ
+2958,Kandavu,KDV,Air,FJ
+2959,Koro Island,KXF,Air,FJ
+2960,Korolevu,KVU,Air,FJ
+2961,Labasa,LBS,Air,FJ
+2962,Lakeba,LKB,Air,FJ
+2963,Laucala Is,LUC,Air,FJ
+2964,Malololailai,PTF,Air,FJ
+2965,Mana Island Airstrip,MNF,Air,FJ
+2966,Moala,MFJ,Air,FJ
+2967,International,NAN,Air,FJ
+2968,Natadola,NTA,Air,FJ
+2969,Ngau Island,NGI,Air,FJ
+2970,Ono I Lau,ONU,Air,FJ
+2971,Pacific Harbor,PHR,Air,FJ
+2972,Rabi,RBI,Air,FJ
+2973,Rotuma Island,RTA,Air,FJ
+2974,Saqani,AQS,Air,FJ
+2975,Savusavu,SVU,Air,FJ
+2976,Nausori,SUV,Air,FJ
+2977,Matei,TVU,Air,FJ
+2978,Turtle Island,TTL,Air,FJ
+2979,Vanuabalavu,VBV,Air,FJ
+2980,Vatukoula,VAU,Air,FJ
+2981,Vatulele,VTF,Air,FJ
+2982,Wakaya Island,KAY,Air,FJ
+2983,Yasawa Island,YAS,Air,FJ
+2984,Mount Pleasant,MPN,Air,FK
+2985,Port Stanley,PSY,Air,FK
+2986,Kosrae,KSA,Air,FM
+2987,Pohnpei,PNI,Air,FM
+2988,Truk,TKK,Air,FM
+2989,Ulithi,ULI,Air,FM
+2990,Yap,YAP,Air,FM
+2991,Vagar,FAE,Air,FO
+2992,La Garenne,AGF,Air,FR
+2993,Campo Dell Oro,AJA,Air,FR
+2994,Le Sequestre,LBI,Air,FR
+2995,Alpe D Huez,AHZ,Air,FR
+2996,Marce,ANE,Air,FR
+2997,Brie-Champniers,ANG,Air,FR
+2998,Annecy-Meythe,NCY,Air,FR
+2999,Agora Helipad,JAH,Air,FR

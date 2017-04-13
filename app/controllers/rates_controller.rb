@@ -5,7 +5,7 @@ class RatesController < ApplicationController
   # GET /rates.json
   def index
     @search = Rate.search(params[:q])
-    @rates =  @search.result
+    @rates =  @search.result.order(:id).page(params[:page])
 
   end
 

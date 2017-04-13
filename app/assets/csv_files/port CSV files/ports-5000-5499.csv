@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+5000,Maputo International,MPM,Air,MZ
+5001,Marromeu,RRM,Air,MZ
+5002,Mocimboa Praia,MZB,Air,MZ
+5003,Moma,MMW,Air,MZ
+5004,Montepuez,MTU,Air,MZ
+5005,Mueda,MUD,Air,MZ
+5006,Nacala,MNC,Air,MZ
+5007,Nampula,APL,Air,MZ
+5008,Nangade,NND,Air,MZ
+5009,Palma,LMZ,Air,MZ
+5010,Pebane,PEB,Air,MZ
+5011,Pemba,POL,Air,MZ
+5012,Ponta de Ouro,PDD,Air,MZ
+5013,Quelimane,UEL,Air,MZ
+5014,Santa Carolina,NTC,Air,MZ
+5015,Tete,TCV,Air,MZ
+5016,Matunda,TET,Air,MZ
+5017,Vilanculos,VNX,Air,MZ
+5018,Xai Xai,VJB,Air,MZ
+5019,Ai-Ais,AIW,Air,NA
+5020,Arandis,ADI,Air,NA
+5021,Bagani,BQI,Air,NA
+5022,Lianshulu,LHU,Air,NA
+5023,Gobabis,GOG,Air,NA
+5024,Grootfontein,GFY,Air,NA
+5025,Halali,HAL,Air,NA
+5026,Karasburg,KAS,Air,NA
+5027,J.G.H. Van Der Wath,KMP,Air,NA
+5028,Luderitz,LUD,Air,NA
+5029,Midgard,MQG,Air,NA
+5030,Mokuti Lodge,OKU,Air,NA
+5031,Mount Etjo Lodge,MJO,Air,NA
+5032,Mpacha,MPA,Air,NA
+5033,Namutoni,NNI,Air,NA
+5034,Okaukuejo,OKF,Air,NA
+5035,Omega,OMG,Air,NA
+5036,Ondangwa,OND,Air,NA
+5037,Ongava Game Reserve,OGV,Air,NA
+5038,Opuwa,OPW,Air,NA
+5039,Oranjemund,OMD,Air,NA
+5040,Oshakati,OHI,Air,NA
+5041,Otjiwarongo,OTJ,Air,NA
+5042,Rosh Pina,RHN,Air,NA
+5043,Rundu,NDU,Air,NA
+5044,Sesriem,SZM,Air,NA
+5045,Swakopmund,SWP,Air,NA
+5046,Railway Station,ZSZ,Air,NA
+5047,Terrace Bay,TCY,Air,NA
+5048,Tsumeb,TSB,Air,NA
+5049,Eros,ERS,Air,NA
+5050,Railway Station,ZWH,Air,NA
+5051,Hosea Kutako International Airport,WDH,Air,NA
+5052,Belep Island,BMY,Air,NC
+5053,Hienghene,HNG,Air,NC
+5054,Houailou,HLU,Air,NC
+5055,Ile Des Pins,ILP,Air,NC
+5056,Ile Ouen,IOU,Air,NC
+5057,Kone,KNQ,Air,NC
+5058,Koumac,KOC,Air,NC
+5059,Lifou,LIF,Air,NC
+5060,Mare,MEE,Air,NC
+5061,Mueo,PDC,Air,NC
+5062,Magenta,GEA,Air,NC
+5063,Tontouta,NOU,Air,NC
+5064,Ouvea,UVE,Air,NC
+5065,Poum,PUV,Air,NC
+5066,Tiga,TGJ,Air,NC
+5067,Touho,TOU,Air,NC
+5068,Agades,AJY,Air,NE
+5069,Arlit,RLT,Air,NE
+5070,Birni Nkoni,BKN,Air,NE
+5071,Maradi,MFQ,Air,NE
+5072,Niamey,NIM,Air,NE
+5073,Tahoua,THZ,Air,NE
+5074,Zinder,ZND,Air,NE
+5075,Norfolk Island,NLK,Air,NF
+5076,International,ABV,Air,NG
+5077,Akure,AKR,Air,NG
+5078,Bauchi,BCU,Air,NG
+5079,Benin City,BNI,Air,NG
+5080,Calabar,CBQ,Air,NG
+5081,Enugu,ENU,Air,NG
+5082,Ibadan,IBA,Air,NG
+5083,Ilorin,ILR,Air,NG
+5084,Jos,JOS,Air,NG
+5085,Kaduna,KAD,Air,NG
+5086,Aminu Kano Intl Apt,KAN,Air,NG
+5087,Murtala Muhammed,LOS,Air,NG
+5088,Maiduguri,MIU,Air,NG
+5089,Makurdi,MDI,Air,NG
+5090,Minna,MXJ,Air,NG
+5091,Port Harcourt,PHC,Air,NG
+5092,Port Harcourt City,PHG,Air,NG
+5093,Sokoto,SKO,Air,NG
+5094,Victoria Island,QVL,Air,NG
+5095,Warri,QRW,Air,NG
+5096,Yola,YOL,Air,NG
+5097,Zaria,ZAR,Air,NG
+5098,Bluefields,BEF,Air,NI
+5099,San Pedro,BZA,Air,NI
+5100,Corn Island,RNI,Air,NI
+5101,Augusto C Sandino,MGA,Air,NI
+5102,Nueva Guinea,NVG,Air,NI
+5103,Puerto Cabezas,PUZ,Air,NI
+5104,Rosita,RFS,Air,NI
+5105,San Carlos,NCR,Air,NI
+5106,Siuna,SIU,Air,NI
+5107,Waspam,WSP,Air,NI
+5108,Woensdrecht,BZM,Air,NL
+5109,Gilze-Rijen,GLZ,Air,NL
+5110,De Kooy,DHR,Air,NL
+5111,Eindhoven,EIN,Air,NL
+5112,Twente,ENS,Air,NL
+5113,Eelde,GRQ,Air,NL
+5114,Leeuwarden,LWR,Air,NL
+5115,Valkenburg,LID,Air,NL
+5116,Lelystad,LEY,Air,NL
+5117,Maastricht/aachen,MST,Air,NL
+5118,Rotterdam,RTM,Air,NL
+5119,Central Station,QRH,Air,NL
+5120,Holland Spoor Rail Stn,ZYH,Air,NL
+5121,Volkel,UDE,Air,NL
+5122,Soesterberg,UTC,Air,NL
+5123,Woensdrecht AB,WOE,Air,NL
+5124,Amsterdam-Schiphol,AMS,Air,NL
+5125,Vigra,AES,Air,NO
+5126,Al Railway,XXR,Air,NO
+5127,Alta,ALF,Air,NO
+5128,Railway,XJA,Air,NO
+5129,Andenes,ANX,Air,NO
+5130,Railway,XHT,Air,NO
+5131,Bardufoss,BDU,Air,NO
+5132,Batsfjord,BJF,Air,NO
+5133,"Bergen Airport, Flesland",BGO,Air,NO
+5134,Berkak Railway,XUB,Air,NO
+5135,Berlevag,BVG,Air,NO
+5136,Railway,ZMZ,Air,NO
+5137,Bodo,BOO,Air,NO
+5138,Bronnoy,BNN,Air,NO
+5139,Brumunddal Railway,ZVB,Air,NO
+5140,Elverum Railway,XUC,Air,NO
+5141,Valdres,VDB,Air,NO
+5142,Lista,FAN,Air,NO
+5143,Flora,FRO,Air,NO
+5144,Bringeland,FDE,Air,NO
+5145,Fredrikstad Rail Stn.,XKF,Air,NO
+5146,Dagali Airport,DLD,Air,NO
+5147,Railway,ZYG,Air,NO
+5148,Klanten Arpt,GLL,Air,NO
+5149,Hamar Arpt,HMR,Air,NO
+5150,Hammerfest,HFT,Air,NO
+5151,Evenes,EVE,Air,NO
+5152,Hasvik,HAA,Air,NO
+5153,Haugesund,HAU,Air,NO
+5154,Heimdal Railway,XUE,Air,NO
+5155,Railway,YVH,Air,NO
+5156,Holmestrand Railway,XUG,Air,NO
+5157,Honefoss Rail Stn.,XHF,Air,NO
+5158,Valan,HVG,Air,NO
+5159,Hoeybuktmoen,KKN,Air,NO
+5160,Railway,YVK,Air,NO
+5161,Kjevik,KRS,Air,NO
+5162,Kristiansand Rail,XKR,Air,NO
+5163,Kvernberget,KSU,Air,NO
+5164,Banak,LKL,Air,NO
+5165,Leknes,LKN,Air,NO
+5166,Levanger Railway,XUH,Air,NO
+5167,Lillehammer Rail,XXL,Air,NO
+5168,Lillestrom Rail Stn.,XKI,Air,NO
+5169,Svalbard,LYR,Air,NO
+5170,Lysaker Railway,XUI,Air,NO
+5171,Harbour,QFQ,Air,NO
+5172,Mehamn,MEH,Air,NO
+5173,Mo I Rana,MQN,Air,NO
+5174,Moelv Railway,XUJ,Air,NO
+5175,Aro,MOL,Air,NO
+5176,Kjaerstad,MJF,Air,NO
+5177,Namsos,OSY,Air,NO
+5178,Framnes,NVK,Air,NO
+5179,Nationaltheatret,ZZN,Air,NO
+5180,Nesbyen Railway,XUL,Air,NO
+5181,Neslandsvatn Railway,XUM,Air,NO
+5182,Nordagutu Railway,XUO,Air,NO
+5183,Notodden,NTB,Air,NO
+5184,Orland,OLA,Air,NO
+5185,Hovden,HOV,Air,NO
+5186,"Oslo Airport, Gardermoen",OSL,Air,NO
+5187,Oslo Central Station,XZO,Air,NO
+5188,Sandefjord,TRF,Air,NO
+5189,Porsgrunn Rail St.,XKP,Air,NO
+5190,Puente Genil,GEN,Air,NO
+5191,Railway,ZMQ,Air,NO
+5192,Ringebu Railway,XUQ,Air,NO
+5193,Ryumsjoen Aprt,RVK,Air,NO
+5194,Roros,RRS,Air,NO
+5195,Stolport,RET,Air,NO
+5196,Sandane,SDN,Air,NO
+5197,Sandefjord Railway Svc,ZYS,Air,NO
+5198,Sandnes Rail St.,XKC,Air,NO
+5199,Stokka,SSJ,Air,NO
+5200,Sarpsborg Rail St.,XKQ,Air,NO
+5201,Harbour,QFK,Air,NO
+5202,Railway,YVS,Air,NO
+5203,Skien,SKE,Air,NO
+5204,Skoppum Railway,XUR,Air,NO
+5205,Snartemo Railway,XUS,Air,NO
+5206,Haukasen,SOG,Air,NO
+5207,Sorkjosen,SOJ,Air,NO
+5208,Sola,SVG,Air,NO
+5209,Stjordal Railway,XUU,Air,NO
+5210,Skagen,SKN,Air,NO
+5211,Stord Airport,SRP,Air,NO
+5212,Storekvina Railway,XUV,Air,NO
+5213,Storen Railway,XUW,Air,NO
+5214,Spitsberg,SYG,Air,NO
+5215,Helle,SVJ,Air,NO
+5216,Tonsberg Rail St.,XKW,Air,NO
+5217,Tromso/langnes,TOS,Air,NO
+5218,Vaernes,TRD,Air,NO
+5219,Railway,ZMX,Air,NO
+5220,Ustaoset Railway,XUX,Air,NO
+5221,Vadso,VDS,Air,NO
+5222,Stolport,VRY,Air,NO
+5223,Vardoe,VAW,Air,NO
+5224,Vennesla Railway,XXE,Air,NO
+5225,Verdal Railway,XXG,Air,NO
+5226,Baglung,BGL,Air,NP
+5227,Baitadi,BIT,Air,NP
+5228,Bajhang,BJH,Air,NP
+5229,Bajura Arpt,BJU,Air,NP
+5230,Bhadrapur,BDP,Air,NP
+5231,Bhairawa,BWA,Air,NP
+5232,Bharatpur,BHR,Air,NP
+5233,Bhojpur,BHP,Air,NP
+5234,Biratnagar,BIR,Air,NP
+5235,Chaurjhari,HRJ,Air,NP
+5236,Dang,DNP,Air,NP
+5237,Darchula,DAP,Air,NP
+5238,Dhangarhi,DHI,Air,NP
+5239,Dolpa,DOP,Air,NP
+5240,Gorkha,GKH,Air,NP
+5241,Janakpur,JKR,Air,NP
+5242,Jiri,JIR,Air,NP
+5243,Jomsom,JMO,Air,NP
+5244,Jumla,JUM,Air,NP
+5245,Tribhuvan,KTM,Air,NP
+5246,Lamidanda,LDN,Air,NP
+5247,Langtang,LTG,Air,NP
+5248,Lukla,LUA,Air,NP
+5249,Mahendranagar,XMG,Air,NP
+5250,Manang,NGX,Air,NP
+5251,Meghauli,MEY,Air,NP
+5252,Mountain,MWP,Air,NP
+5253,Nepalganj,KEP,Air,NP
+5254,Phaplu,PPL,Air,NP
+5255,Pokhara,PKR,Air,NP
+5256,Rajbiraj,RJB,Air,NP
+5257,Ramechhap,RHP,Air,NP
+5258,Rolpa,RPA,Air,NP
+5259,Rukumkot,RUK,Air,NP
+5260,Rumjatar,RUM,Air,NP
+5261,Sanfebagar,FEB,Air,NP
+5262,Silgadi Doti,SIH,Air,NP
+5263,Simara,SIF,Air,NP
+5264,Simikot,IMK,Air,NP
+5265,Kadmandu,SKH,Air,NP
+5266,Syangboche,SYH,Air,NP
+5267,Taplejung Suketar,TPJ,Air,NP
+5268,Tikapur,TPU,Air,NP
+5269,Tumling Tar,TMI,Air,NP
+5270,International,INU,Air,NR
+5271,Hanan,IUE,Air,NU
+5272,Dunedin International,DUD,Air,NZ
+5273,Alexandra,ALR,Air,NZ
+5274,Ardmore,AMZ,Air,NZ
+5275,Ashburton,ASG,Air,NZ
+5276,Auckland International,AKL,Air,NZ
+5277,Mechanics Bay,MHB,Air,NZ
+5278,Blenheim,BHE,Air,NZ
+5279,Karewa,CHT,Air,NZ
+5280,Christchurch International,CHC,Air,NZ
+5281,Coromandel,CMV,Air,NZ
+5282,Dargaville,DGR,Air,NZ
+5283,Fox Glacier,FGL,Air,NZ
+5284,Franz Josef,WHO,Air,NZ
+5285,Gisborne,GIS,Air,NZ
+5286,Great Barrier Island,GBZ,Air,NZ
+5287,Greymouth,GMN,Air,NZ
+5288,Hamilton,HLZ,Air,NZ
+5289,Hokitika Arpt,HKK,Air,NZ
+5290,Invercargill,IVC,Air,NZ
+5291,Kaikohe,KKO,Air,NZ
+5292,Kaikoura,KBZ,Air,NZ
+5293,Kaitaia,KAT,Air,NZ
+5294,Kawau Island,KUI,Air,NZ
+5295,Kerikeri,KKE,Air,NZ
+5296,Mansion House,KWU,Air,NZ
+5297,Masterton,MRO,Air,NZ
+5298,Matamata,MTA,Air,NZ
+5299,Milford Sound,MFN,Air,NZ
+5300,Motueka,MZP,Air,NZ
+5301,Glentanner,GTN,Air,NZ
+5302,Mount Cook Airport,MON,Air,NZ
+5303,Pukaki/Twizel,TWZ,Air,NZ
+5304,Hawkes Bay,NPE,Air,NZ
+5305,Nelson,NSN,Air,NZ
+5306,New Plymouth,NPL,Air,NZ
+5307,Oamaru,OAM,Air,NZ
+5308,Royal Air Force Base,OHA,Air,NZ
+5309,Pakatoa Island,PKL,Air,NZ
+5310,Palmerston North,PMR,Air,NZ
+5311,Paraparaumu,PPQ,Air,NZ
+5312,Koromiko,PCN,Air,NZ
+5313,Port Fitzroy,GBS,Air,NZ
+5314,Frankton,ZQN,Air,NZ
+5315,Raglan,RAG,Air,NZ
+5316,Rotorua,ROT,Air,NZ
+5317,Stewart Island,SZS,Air,NZ
+5318,Surfdale,WIK,Air,NZ
+5319,Taharoa,THH,Air,NZ
+5320,Takaka,KTF,Air,NZ
+5321,Taupo,TUO,Air,NZ
+5322,Tauranga City,TRG,Air,NZ
+5323,Manapouri,TEU,Air,NZ
+5324,Thames,TMZ,Air,NZ
+5325,Timaru,TIU,Air,NZ
+5326,Tokoroa,TKZ,Air,NZ
+5327,Wairoa,WIR,Air,NZ
+5328,Waitangi,WGN,Air,NZ
+5329,Wanaka,WKA,Air,NZ
+5330,Wanganui,WAG,Air,NZ
+5331,Wellington International,WLG,Air,NZ
+5332,Westport,WSZ,Air,NZ
+5333,Whakatane,WHK,Air,NZ
+5334,Whangarei,WRE,Air,NZ
+5335,Whitianga,WTZ,Air,NZ
+5336,Al Koude,WWG,Air,OM
+5337,Buraimi,RMB,Air,OM
+5338,Dibaa,BYB,Air,OM
+5339,Khasab,KHS,Air,OM
+5340,Marmul,OMM,Air,OM
+5341,Masirah,MSH,Air,OM
+5342,Seeb,MCT,Air,OM
+5343,Salalah,SLL,Air,OM
+5344,Sur,SUH,Air,OM
+5345,Thumrait,TTH,Air,OM
+5346,Achutupo,ACU,Air,PA
+5347,Ailigandi,AIL,Air,PA
+5348,Bahia Pinas,BFQ,Air,PA
+5349,Balboa,BLB,Air,PA
+5350,Bocas Del Toro,BOC,Air,PA
+5351,Caledonia,CDE,Air,PA
+5352,Carti,CTE,Air,PA
+5353,Changuinola,CHX,Air,PA
+5354,Chitre,CTD,Air,PA
+5355,Colon,ONX,Air,PA
+5356,Contadora,OTD,Air,PA
+5357,Corazon De Jesus,CZJ,Air,PA
+5358,Enrique Malek,DAV,Air,PA
+5359,El Porvenir,PVE,Air,PA
+5360,El Real,ELE,Air,PA
+5361,Howard Afb,HOW,Air,PA
+5362,Garachine,GHE,Air,PA
+5363,Jaque,JQE,Air,PA
+5364,La Palma,PLP,Air,PA
+5365,Mamitupo,MPI,Air,PA
+5366,Mulatupo,MPP,Air,PA
+5367,Nargana,NGN,Air,PA
+5368,Paitilla,PAC,Air,PA
+5369,Tocumen International,PTY,Air,PA
+5370,Playon Chico,PYC,Air,PA
+5371,Puerto Armuellas,AML,Air,PA
+5372,Puerto Obaldia,PUE,Air,PA
+5373,Rio Alzucar,RIZ,Air,PA
+5374,Rio Sidra,RSI,Air,PA
+5375,Rio Tigre,RIT,Air,PA
+5376,Sambu,SAX,Air,PA
+5377,San Blas,NBL,Air,PA
+5378,San Miguel,NMG,Air,PA
+5379,Santa Fe,SFW,Air,PA
+5380,Santiago,SYP,Air,PA
+5381,Ticantiki,TJC,Air,PA
+5382,Tubala,TUW,Air,PA
+5383,Tupile,TUE,Air,PA
+5384,Ustupo,UTU,Air,PA
+5385,Yaviza,PYV,Air,PA
+5386,Alerta,ALD,Air,PE
+5387,Andahuaylas,ANS,Air,PE
+5388,Anta,ATA,Air,PE
+5389,Rodriguez Ballon,AQP,Air,PE
+5390,Yanamilla,AYP,Air,PE
+5391,Bellavista,BLP,Air,PE
+5392,Cajamarca,CJA,Air,PE
+5393,Chachapoyas,CHH,Air,PE
+5394,Cornel Ruiz,CIX,Air,PE
+5395,Chimbote,CHM,Air,PE
+5396,Velazco Astete,CUZ,Air,PE
+5397,Huanuco,HUU,Air,PE
+5398,Iberia,IBP,Air,PE
+5399,Ilo,ILQ,Air,PE
+5400,C.F. Secada,IQT,Air,PE
+5401,Jauja,JAU,Air,PE
+5402,Juanjui,JJI,Air,PE
+5403,Juliaca,JUL,Air,PE
+5404,J Chavez Intl,LIM,Air,PE
+5405,Machu Picchu,MFT,Air,PE
+5406,Moyobamba,MBP,Air,PE
+5407,Pisco,PIO,Air,PE
+5408,Piura,PIU,Air,PE
+5409,Capitan Rolden,PCL,Air,PE
+5410,Puerto Maldonado,PEM,Air,PE
+5411,Quincemil,UMI,Air,PE
+5412,Rioja,RIJ,Air,PE
+5413,Rodriguez De Men,RIM,Air,PE
+5414,San Juan,SJA,Air,PE
+5415,San Juan Aposento,APE,Air,PE
+5416,Santa Maria,SMG,Air,PE
+5417,Saposoa,SQU,Air,PE
+5418,Shiringayoc,SYC,Air,PE
+5419,Tacna,TCQ,Air,PE
+5420,Talara,TYL,Air,PE
+5421,Tarapoto,TPP,Air,PE
+5422,Tingo Maria,TGI,Air,PE
+5423,Trujillo,TRU,Air,PE
+5424,Tumbes,TBP,Air,PE
+5425,Yurimaguas,YMS,Air,PE
+5426,Ahe Airport,AHE,Air,PF
+5427,Anaa,AAA,Air,PF
+5428,Apataki,APK,Air,PF
+5429,Arutua,AXR,Air,PF
+5430,Atuona,AUQ,Air,PF
+5431,Motu-mute,BOB,Air,PF
+5432,Faaite,FAC,Air,PF
+5433,Fakahina,FHZ,Air,PF
+5434,Fakarava,FAV,Air,PF
+5435,Fangatau,FGU,Air,PF
+5436,Gambier Is,GMR,Air,PF
+5437,Hao Island,HOI,Air,PF
+5438,Hikueru,HHZ,Air,PF
+5439,Hiva Oa,HIX,Air,PF
+5440,Huahine,HUH,Air,PF
+5441,Katiu,KXU,Air,PF
+5442,Kauehi,KHZ,Air,PF
+5443,Kaukura Atoll,KKR,Air,PF
+5444,Makemo,MKP,Air,PF
+5445,Manihi,XMH,Air,PF
+5446,Mataiva,MVT,Air,PF
+5447,Maupiti,MAU,Air,PF
+5448,Temae,MOZ,Air,PF
+5449,Napuka Island,NAU,Air,PF
+5450,Nuku Hiva,NHV,Air,PF
+5451,Nukutavake,NUK,Air,PF
+5452,Faaa,PPT,Air,PF
+5453,Puka Puka,PKP,Air,PF
+5454,Pukarua,PUK,Air,PF
+5455,Raiatea,RFP,Air,PF
+5456,Raivavae,RVV,Air,PF
+5457,Rangiroa,RGI,Air,PF
+5458,Reao,REA,Air,PF
+5459,Rurutu,RUR,Air,PF
+5460,Takapoto,TKP,Air,PF
+5461,Takaroa,TKX,Air,PF
+5462,Takume,TJN,Air,PF
+5463,Tatakoto,TKV,Air,PF
+5464,Tetiaroa Is,TTI,Air,PF
+5465,Tikehau Atoll,TIH,Air,PF
+5466,Tubuai,TUB,Air,PF
+5467,Tupai,TPX,Air,PF
+5468,Tureira,ZTA,Air,PF
+5469,Ua Huka,UAH,Air,PF
+5470,Ua Pou,UAP,Air,PF
+5471,Vahitahi,VHZ,Air,PF
+5472,Abau,ABW,Air,PG
+5473,Afore,AFR,Air,PG
+5474,Agaun,AUP,Air,PG
+5475,Aiambak,AIH,Air,PG
+5476,Aiome,AIE,Air,PG
+5477,Airstrip,ATP,Air,PG
+5478,Tadji,TAJ,Air,PG
+5479,Aiyura,AYU,Air,PG
+5480,Gurney,GUR,Air,PG
+5481,Ama,AMF,Air,PG
+5482,Amanab,AMU,Air,PG
+5483,Amazon Bay,AZB,Air,PG
+5484,Amboin,AMG,Air,PG
+5485,Ambunti,AUJ,Air,PG
+5486,Andakombe,ADC,Air,PG
+5487,Angoram,AGG,Air,PG
+5488,Anguganak,AKG,Air,PG
+5489,Annanberg,AOB,Air,PG
+5490,April River,APR,Air,PG
+5491,Aragip,ARP,Air,PG
+5492,Arawa,RAW,Air,PG
+5493,Aroa,AOA,Air,PG
+5494,Arona,AON,Air,PG
+5495,Asapa,APP,Air,PG
+5496,Aseki,AEK,Air,PG
+5497,Asirim,ASZ,Air,PG
+5498,Atkamba,ABP,Air,PG
+5499,Aua Island,AUI,Air,PG

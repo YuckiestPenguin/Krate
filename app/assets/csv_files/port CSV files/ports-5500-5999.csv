@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+5500,Aumo,AUV,Air,PG
+5501,Awaba,AWB,Air,PG
+5502,Awar,AWR,Air,PG
+5503,Baibara,BAP,Air,PG
+5504,Baimuru,VMU,Air,PG
+5505,Baindoung,BDZ,Air,PG
+5506,Bali,BAJ,Air,PG
+5507,Balimo,OPU,Air,PG
+5508,Bambu,BCP,Air,PG
+5509,Bamu,BMZ,Air,PG
+5510,Banz,BNZ,Air,PG
+5511,Bapi,BPD,Air,PG
+5512,Bawan,BWJ,Air,PG
+5513,Bensbach,BSP,Air,PG
+5514,Bereina,BEA,Air,PG
+5515,Besakoa,BSV,Air,PG
+5516,Bewani,BWP,Air,PG
+5517,Bialla,BAA,Air,PG
+5518,Biangabip,BPK,Air,PG
+5519,Biaru,BRP,Air,PG
+5520,Biliau,BIJ,Air,PG
+5521,Bimin,BIZ,Air,PG
+5522,Biniguni,XBN,Air,PG
+5523,Boana,BNV,Air,PG
+5524,Boang,BOV,Air,PG
+5525,Bodinumu,BNM,Air,PG
+5526,Boku,BOQ,Air,PG
+5527,Bolovip,BVP,Air,PG
+5528,Bomai,BMH,Air,PG
+5529,Boridi,BPB,Air,PG
+5530,Boset,BOT,Air,PG
+5531,Brahman,BRH,Air,PG
+5532,Buin,UBI,Air,PG
+5533,Buka,BUA,Air,PG
+5534,Bulolo,BUL,Air,PG
+5535,Bundi,BNT,Air,PG
+5536,Bunsil,BXZ,Air,PG
+5537,Cape Gloucester,CGC,Air,PG
+5538,Cape Orford,CPI,Air,PG
+5539,Cape Rodney,CPN,Air,PG
+5540,Cape Vogel,CVL,Air,PG
+5541,Chungribu,CVB,Air,PG
+5542,Dabo,DAO,Air,PG
+5543,Dalbertis,DLB,Air,PG
+5544,Daru,DAU,Air,PG
+5545,Daugo,DGG,Air,PG
+5546,Daup,DAF,Air,PG
+5547,Debepare,DBP,Air,PG
+5548,Derim,DER,Air,PG
+5549,Dinangat,DNU,Air,PG
+5550,Dios,DOS,Air,PG
+5551,Dodoima,DDM,Air,PG
+5552,Doini,DOI,Air,PG
+5553,Dorobisoro,DOO,Air,PG
+5554,Dumpu,DPU,Air,PG
+5555,Efogi,EFG,Air,PG
+5556,Popondetta,EIA,Air,PG
+5557,Eliptamin,EPT,Air,PG
+5558,Embessa,EMS,Air,PG
+5559,Emirau,EMI,Air,PG
+5560,Emo,EMO,Air,PG
+5561,Engati,EGA,Air,PG
+5562,Erave,ERE,Air,PG
+5563,Erume,ERU,Air,PG
+5564,Fane,FNE,Air,PG
+5565,Feramin,FRQ,Air,PG
+5566,Finschhafen,FIN,Air,PG
+5567,Freida River,FAQ,Air,PG
+5568,Fulleborn,FUB,Air,PG
+5569,Fuma,FUM,Air,PG
+5570,Garaina,GAR,Air,PG
+5571,Garasa,GRL,Air,PG
+5572,Garuahi,GRH,Air,PG
+5573,Gasmata Island,GMI,Air,PG
+5574,Gasuke,GBC,Air,PG
+5575,Gewoia,GEW,Air,PG
+5576,Gnarowein,GWN,Air,PG
+5577,Gonalia,GOE,Air,PG
+5578,Gora,GOC,Air,PG
+5579,Goroka,GKA,Air,PG
+5580,Green Islands,GEI,Air,PG
+5581,Green River,GVI,Air,PG
+5582,Guari,GUG,Air,PG
+5583,Guasopa,GAZ,Air,PG
+5584,Gulgubip,GLP,Air,PG
+5585,Guriaso,GUE,Air,PG
+5586,Gusap,GAP,Air,PG
+5587,Habi,HBD,Air,PG
+5588,Haelogo,HEO,Air,PG
+5589,Hatzfeldthaven,HAZ,Air,PG
+5590,Hawabango,HWA,Air,PG
+5591,Hayfields,HYF,Air,PG
+5592,Heiweni,HNI,Air,PG
+5593,Hivaro,HIT,Air,PG
+5594,Honinabi,HNN,Air,PG
+5595,Hoskins,HKN,Air,PG
+5596,Iamalele,IMA,Air,PG
+5597,Iaura,IAU,Air,PG
+5598,Iboki,IBI,Air,PG
+5599,Ihu,IHU,Air,PG
+5600,Ileg,ILX,Air,PG
+5601,Imane,IMN,Air,PG
+5602,Imonda,IMD,Air,PG
+5603,Indagen,IDN,Air,PG
+5604,Inus,IUS,Air,PG
+5605,Iokea,IOK,Air,PG
+5606,Ioma,IOP,Air,PG
+5607,Itokama,ITK,Air,PG
+5608,Jacquinot Bay,JAQ,Air,PG
+5609,Josephstaal,JOP,Air,PG
+5610,Kabwum,KBM,Air,PG
+5611,Kagi,KGW,Air,PG
+5612,Kagua,AGK,Air,PG
+5613,Kaiapit,KIA,Air,PG
+5614,Kaintiba,KZF,Air,PG
+5615,Kamberatoro,KDQ,Air,PG
+5616,Kamina,KMF,Air,PG
+5617,Kamiraba,KJU,Air,PG
+5618,Kamulai,KAQ,Air,PG
+5619,Kanabea,KEX,Air,PG
+5620,Kanainj,KNE,Air,PG
+5621,Kandep,KDP,Air,PG
+5622,Kandrian,KDR,Air,PG
+5623,Kanua,KTK,Air,PG
+5624,Kapal,KPL,Air,PG
+5625,Kar,KAK,Air,PG
+5626,Kar Kar,KRX,Air,PG
+5627,Karato,KAF,Air,PG
+5628,Karawari,KRJ,Air,PG
+5629,Karimui,KMR,Air,PG
+5630,Karoola,KXR,Air,PG
+5631,Kasanombe,KSB,Air,PG
+5632,Kavieng,KVG,Air,PG
+5633,Kawito,KWO,Air,PG
+5634,Keglsugl,KEG,Air,PG
+5635,Kelanoa,KNL,Air,PG
+5636,Kerau,KRU,Air,PG
+5637,Kerema,KMA,Air,PG
+5638,Kibuli,KII,Air,PG
+5639,Aropa,KIE,Air,PG
+5640,Kikinonda,KIZ,Air,PG
+5641,Kikori,KRI,Air,PG
+5642,Kira,KIQ,Air,PG
+5643,Kisengan,KSG,Air,PG
+5644,Kitava,KVE,Air,PG
+5645,Kiunga,UNG,Air,PG
+5646,Kiwai Island,KWX,Air,PG
+5647,Koinambe,KMB,Air,PG
+5648,Kokoda,KKD,Air,PG
+5649,Kokoro,KOR,Air,PG
+5650,Kol,KQL,Air,PG
+5651,Komaio,KCJ,Air,PG
+5652,Komako,HOC,Air,PG
+5653,Komo-Manda,KOM,Air,PG
+5654,Kompiam,KPM,Air,PG
+5655,Kondubol,KPF,Air,PG
+5656,Konge,KGB,Air,PG
+5657,Kopiago,KPA,Air,PG
+5658,Koroba,KDE,Air,PG
+5659,Kosipe,KSP,Air,PG
+5660,Kugururok River,KUW,Air,PG
+5661,Chimbu,CMU,Air,PG
+5662,Kungum,KGM,Air,PG
+5663,Kupiano,KUP,Air,PG
+5664,Kuri,KUQ,Air,PG
+5665,Kurwina,KWV,Air,PG
+5666,Kuyol,KUX,Air,PG
+5667,Lablab,LAB,Air,PG
+5668,Nadzab,LAE,Air,PG
+5669,Laiagam,LGM,Air,PG
+5670,Lake Murray,LMY,Air,PG
+5671,Lamassa,LMG,Air,PG
+5672,Langimar,LNM,Air,PG
+5673,Lehu,LHP,Air,PG
+5674,Leitre,LTF,Air,PG
+5675,Lengbati,LNC,Air,PG
+5676,Leron Plains,LPN,Air,PG
+5677,Lese,LNG,Air,PG
+5678,Lihir Island,LNV,Air,PG
+5679,Linga Linga,LGN,Air,PG
+5680,Loani,LNQ,Air,PG
+5681,Long Island,LSJ,Air,PG
+5682,Losuia,LSA,Air,PG
+5683,Lowai,LWI,Air,PG
+5684,Lumi,LMI,Air,PG
+5685,Madang,MAG,Air,PG
+5686,Makini,MPG,Air,PG
+5687,Mal,MMV,Air,PG
+5688,Malalaua,MLQ,Air,PG
+5689,Malam,MQO,Air,PG
+5690,Malekolon,MKN,Air,PG
+5691,Mamai,MAP,Air,PG
+5692,Manare,MRM,Air,PG
+5693,Manetai,MVI,Air,PG
+5694,Manga,MGP,Air,PG
+5695,Manumu,UUU,Air,PG
+5696,Momote,MAS,Air,PG
+5697,Mapoda,MPF,Air,PG
+5698,Mapua,MPU,Air,PG
+5699,Maramuni,MWI,Air,PG
+5700,Marawaka,MWG,Air,PG
+5701,Margarima,MGG,Air,PG
+5702,Maron,MNP,Air,PG
+5703,Masa,MBV,Air,PG
+5704,May River,MRH,Air,PG
+5705,Mendi,MDU,Air,PG
+5706,Menyamya,MYX,Air,PG
+5707,Mesalia,MFZ,Air,PG
+5708,Mindik,MXK,Air,PG
+5709,Minj,MZN,Air,PG
+5710,Misima Island,MIS,Air,PG
+5711,Miyanmin,MPX,Air,PG
+5712,Moki,MJJ,Air,PG
+5713,Morehead,MHY,Air,PG
+5714,Moro,MXH,Air,PG
+5715,Morobe,OBM,Air,PG
+5716,Mougulu,GUV,Air,PG
+5717,Mount Aue,UAE,Air,PG
+5718,Kagamuga,HGU,Air,PG
+5719,Munbil,LNF,Air,PG
+5720,Munduku,MDM,Air,PG
+5721,Mussau,MWU,Air,PG
+5722,Nadunumu,NDN,Air,PG
+5723,Namatanai,ATN,Air,PG
+5724,Nambaiyufa,NBA,Air,PG
+5725,Namudi,NDI,Air,PG
+5726,Nankina,NKN,Air,PG
+5727,Naoro,NOO,Air,PG
+5728,Negarbo,GBF,Air,PG
+5729,Ningerum,NGR,Air,PG
+5730,Nipa,NPG,Air,PG
+5731,Nissan Island,IIS,Air,PG
+5732,Nomad River,NOM,Air,PG
+5733,Nomane,NMN,Air,PG
+5734,Nowata,NWT,Air,PG
+5735,Nuguria,NUG,Air,PG
+5736,Nuku,UKU,Air,PG
+5737,Nutuve,NUT,Air,PG
+5738,Obo,OBX,Air,PG
+5739,Ogeranang,OGE,Air,PG
+5740,Okao,OKV,Air,PG
+5741,Oksapmin,OKP,Air,PG
+5742,Olsobip,OLQ,Air,PG
+5743,Omkalai,OML,Air,PG
+5744,Omora,OSE,Air,PG
+5745,Ononge,ONB,Air,PG
+5746,Open Bay,OPB,Air,PG
+5747,Oram,RAX,Air,PG
+5748,Oria,OTY,Air,PG
+5749,Ossima,OSG,Air,PG
+5750,Paiela,PLE,Air,PG
+5751,Pambwa,PAW,Air,PG
+5752,Pangia,PGN,Air,PG
+5753,Pangoa,PGB,Air,PG
+5754,Param,PPX,Air,PG
+5755,Pimaga,PMP,Air,PG
+5756,Pindiu,PDI,Air,PG
+5757,Girua,PNP,Air,PG
+5758,Porgera,RGE,Air,PG
+5759,Jackson Fld,POM,Air,PG
+5760,Puas,PUA,Air,PG
+5761,Pumani,PMN,Air,PG
+5762,Pureni,PUI,Air,PG
+5763,Rabaraba,RBP,Air,PG
+5764,Tokua,RAB,Air,PG
+5765,Rakanda,RAA,Air,PG
+5766,Robinson River,RNR,Air,PG
+5767,Rumginae,RMN,Air,PG
+5768,Ruti,RUU,Air,PG
+5769,Sabah,SBV,Air,PG
+5770,Safia,SFU,Air,PG
+5771,Sagarai,SGJ,Air,PG
+5772,Saidor,SDI,Air,PG
+5773,Salamo,SAM,Air,PG
+5774,China Straits Airstrip,SQT,Air,PG
+5775,Sangapi,SGK,Air,PG
+5776,Sapmanga,SMH,Air,PG
+5777,Sasereme,TDS,Air,PG
+5778,Satwag,SWG,Air,PG
+5779,Sauren,SXW,Air,PG
+5780,Sehulea,SXH,Air,PG
+5781,Selbang,SBC,Air,PG
+5782,Sepik Plains,SPV,Air,PG
+5783,Sialum,SXA,Air,PG
+5784,Siassi,SSS,Air,PG
+5785,Sila,SIL,Air,PG
+5786,Silur,SWR,Air,PG
+5787,Sim,SMJ,Air,PG
+5788,Simbai,SIM,Air,PG
+5789,Simberi,NIS,Air,PG
+5790,Singaua,SGB,Air,PG
+5791,Sissano,SIZ,Air,PG
+5792,Siwea,SWE,Air,PG
+5793,Sopu,SPH,Air,PG
+5794,Stockholm,SMP,Air,PG
+5795,Suabi,SBE,Air,PG
+5796,Suki,SKC,Air,PG
+5797,Sule,ULE,Air,PG
+5798,Suria,SUZ,Air,PG
+5799,Tabibuga,TBA,Air,PG
+5800,Tabubil,TBG,Air,PG
+5801,Tagula,TGL,Air,PG
+5802,Talasea,TLW,Air,PG
+5803,Tapini,TPI,Air,PG
+5804,Tarabo,TBQ,Air,PG
+5805,Tarakbits,TRJ,Air,PG
+5806,Tari,TIZ,Air,PG
+5807,Taskul,TSK,Air,PG
+5808,Tauta,TUT,Air,PG
+5809,Tawa,TWY,Air,PG
+5810,Tekadu,TKB,Air,PG
+5811,Tekin,TKW,Air,PG
+5812,Telefomin,TFM,Air,PG
+5813,Teptep,TEP,Air,PG
+5814,Terapo,TEO,Air,PG
+5815,Tetabedi,TDB,Air,PG
+5816,Tifalmin,TFB,Air,PG
+5817,Timbunke,TBE,Air,PG
+5818,Tinboli Airport,TCK,Air,PG
+5819,Tingwon,TIG,Air,PG
+5820,Tol,TLO,Air,PG
+5821,Tonu,TON,Air,PG
+5822,Torembi Airport,TCJ,Air,PG
+5823,Torokina,TOK,Air,PG
+5824,Tsewi,TSW,Air,PG
+5825,Tsili Tsili,TSI,Air,PG
+5826,Tufi,TFI,Air,PG
+5827,Tumolbil,TLP,Air,PG
+5828,Umba,UMC,Air,PG
+5829,Upiara,UPR,Air,PG
+5830,Uroubi,URU,Air,PG
+5831,Usino,USO,Air,PG
+5832,Uvol,UVO,Air,PG
+5833,Vanimo,VAI,Air,PG
+5834,Vivigani,VIV,Air,PG
+5835,Wabag,WAB,Air,PG
+5836,Wabo,WAO,Air,PG
+5837,Wagau,WGU,Air,PG
+5838,Wakunai,WKN,Air,PG
+5839,Wanigela,AGL,Air,PG
+5840,Wantoat,WTT,Air,PG
+5841,Wanuma,WNU,Air,PG
+5842,Wapenamanda,WBM,Air,PG
+5843,Wapolu,WBC,Air,PG
+5844,Wasu,WSU,Air,PG
+5845,Wasua,WSA,Air,PG
+5846,Wasum,WUM,Air,PG
+5847,Wau,WUG,Air,PG
+5848,Wawoi Falls,WAJ,Air,PG
+5849,Weam,WEP,Air,PG
+5850,Wedau,WED,Air,PG
+5851,Boram,WWK,Air,PG
+5852,Wipim,WPM,Air,PG
+5853,Witu,WIU,Air,PG
+5854,Woitape,WTP,Air,PG
+5855,Wonenara,WOA,Air,PG
+5856,Wuvulu Is,WUV,Air,PG
+5857,Yalumet,KYX,Air,PG
+5858,Yapsiei,KPE,Air,PG
+5859,Yasuru,KSX,Air,PG
+5860,Yegepa,PGE,Air,PG
+5861,Yellow River,XYR,Air,PG
+5862,Yenkis,YEQ,Air,PG
+5863,Yeva,YVD,Air,PG
+5864,Yongai,KGH,Air,PG
+5865,Kairuku,RKU,Air,PG
+5866,Zenag,ZEN,Air,PG
+5867,Alah,AAV,Air,PH
+5868,Evelio Javier,EUQ,Air,PH
+5869,Bacolod,BCD,Air,PH
+5870,Baganga,BNQ,Air,PH
+5871,Loakan,BAG,Air,PH
+5872,Baler,BQA,Air,PH
+5873,Basco,BSO,Air,PH
+5874,Bislig,BPH,Air,PH
+5875,Busuanga,USU,Air,PH
+5876,Butuan,BXU,Air,PH
+5877,Lumbia,CGY,Air,PH
+5878,Cagayan De Sulu,CDY,Air,PH
+5879,Calbayog,CYP,Air,PH
+5880,Mambajao,CGM,Air,PH
+5881,Casiguran,CGG,Air,PH
+5882,National,CRM,Air,PH
+5883,Malay,MPH,Air,PH
+5884,Cauayan,CYZ,Air,PH
+5885,Mactan International,CEB,Air,PH
+5886,Naia,XCN,Air,PH
+5887,Awang,CBO,Air,PH
+5888,Culion,CUJ,Air,PH
+5889,Cuyo,CYU,Air,PH
+5890,Camarines Norte,DTE,Air,PH
+5891,Francisco Bangoy International Airport,DVO,Air,PH
+5892,Dilasag,DSG,Air,PH
+5893,Dipolog,DPL,Air,PH
+5894,Dumaguete,DGT,Air,PH
+5895,El Nido,ENI,Air,PH
+5896,Buayan,GES,Air,PH
+5897,Maria Cristina,IGN,Air,PH
+5898,Mandurriao,ILO,Air,PH
+5899,Ipil,IPE,Air,PH
+5900,Jolo,JOL,Air,PH
+5901,Kalibo,KLO,Air,PH
+5902,Laoag,LAO,Air,PH
+5903,Legazpi,LGP,Air,PH
+5904,Lubang,LBX,Air,PH
+5905,Diosdado Macapagal International (Clark Int),CRK,Air,PH
+5906,Cubi Pt NAS,NCP,Air,PH
+5907,Lwbak,LWA,Air,PH
+5908,Malabang,MLP,Air,PH
+5909,Mamburao,MBO,Air,PH
+5910,Ninoy Aquino Intl,MNL,Air,PH
+5911,Sangley Point NAS,SGL,Air,PH
+5912,Maramag,XMA,Air,PH
+5913,Marinduque,MRQ,Air,PH
+5914,Masbate,MBT,Air,PH
+5915,Mati,MXI,Air,PH
+5916,Naga,WNP,Air,PH
+5917,Ormoc,OMC,Air,PH
+5918,Labo,OZC,Air,PH
+5919,Pagadian,PAG,Air,PH
+5920,Puerto Princesa,PPS,Air,PH
+5921,Roxas City,RXS,Air,PH
+5922,San Fernando,SFE,Air,PH
+5923,Mcguire Fld,SJI,Air,PH
+5924,Sanga Sanga,SGS,Air,PH
+5925,NAF,NSP,Air,PH
+5926,Siasi,SSV,Air,PH
+5927,Sicogon Island,ICO,Air,PH
+5928,Siocon,XSO,Air,PH
+5929,Surigao,SUG,Air,PH
+5930,Tablas,TBH,Air,PH
+5931,D.Z. Romualdez,TAC,Air,PH
+5932,Tagbilaran,TAG,Air,PH
+5933,Tagbita,TGB,Air,PH
+5934,Tandag,TDG,Air,PH
+5935,Tawitawi,TWT,Air,PH
+5936,CLR Airport,RZP,Air,PH
+5937,Tuguegarao,TUG,Air,PH
+5938,Virac,VRC,Air,PH
+5939,Zamboanga,ZAM,Air,PH
+5940,Mumbai,AAW,Air,PK
+5941,Attock,ATG,Air,PK
+5942,Talhar,BDN,Air,PK
+5943,Bahawalnagar,WGB,Air,PK
+5944,Bahawalpur,BHV,Air,PK
+5945,Bannu,BNP,Air,PK
+5946,Campbellpore,CWP,Air,PK
+5947,Chilas,CHB,Air,PK
+5948,Chitral,CJL,Air,PK
+5949,Dadu,DDU,Air,PK
+5950,Dalbandin,DBA,Air,PK
+5951,Dera Ghazi Khan,DEA,Air,PK
+5952,Dera Ismail Khan,DSK,Air,PK
+5953,Faisalabad,LYP,Air,PK
+5954,Gilgit,GIL,Air,PK
+5955,Gujrat,GRT,Air,PK
+5956,Gwadar,GWD,Air,PK
+5957,Hyderabad,HDD,Air,PK
+5958,Islamabad Intl,ISB,Air,PK
+5959,Jacobabad,JAG,Air,PK
+5960,Jiwani,JIW,Air,PK
+5961,Kadanwari,KCF,Air,PK
+5962,Kalat,KBH,Air,PK
+5963,Quaid-E-Azam Intl,KHI,Air,PK
+5964,Khuzdar,KDD,Air,PK
+5965,Kohat,OHT,Air,PK
+5966,Alama Iqbal International,LHE,Air,PK
+5967,Lora Lai,LRG,Air,PK
+5968,Mangla,XJM,Air,PK
+5969,Mansehra,HRA,Air,PK
+5970,Mianwali,MWD,Air,PK
+5971,Mirpur Khas,MPD,Air,PK
+5972,Mohenjodaro,MJD,Air,PK
+5973,Multan,MUX,Air,PK
+5974,Muzaffarabad,MFG,Air,PK
+5975,Nawabshah,WNS,Air,PK
+5976,Nushki,NHS,Air,PK
+5977,Ormara,ORW,Air,PK
+5978,Panjgur,PJG,Air,PK
+5979,Para Chinar,PAJ,Air,PK
+5980,Pasni,PSI,Air,PK
+5981,Peshawar,PEW,Air,PK
+5982,Quetta,UET,Air,PK
+5983,Rahim Yar Khan,RYK,Air,PK
+5984,Rawala Kot,RAZ,Air,PK
+5985,Sahiwal,SWN,Air,PK
+5986,Saidu Sharif,SDT,Air,PK
+5987,Bhagatanwala Apt,BHW,Air,PK
+5988,Sargodha Apt,SGI,Air,PK
+5989,Sawan,RZS,Air,PK
+5990,Sehwen Sharif,SYW,Air,PK
+5991,Shikarpur,SWV,Air,PK
+5992,Sialkot International Airport,SKT,Air,PK
+5993,Sibi,SBQ,Air,PK
+5994,Skardu,KDU,Air,PK
+5995,Sui,SUL,Air,PK
+5996,Sukkur,SKZ,Air,PK
+5997,Taftan,TFT,Air,PK
+5998,Tarbela,TLB,Air,PK
+5999,Turbat,TUK,Air,PK

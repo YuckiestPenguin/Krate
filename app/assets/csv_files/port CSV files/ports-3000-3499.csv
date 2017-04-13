@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+3000,Vals-Lanas,OBS,Air,FR
+3001,Aurillac,AUR,Air,FR
+3002,Auxerre Branches,AUF,Air,FR
+3003,Avignon Railway,XZN,Air,FR
+3004,Avignon-Caum,AVN,Air,FR
+3005,Avoriaz,AVF,Air,FR
+3006,Barcelonnette,BAE,Air,FR
+3007,Poretta,BIA,Air,FR
+3008,Fontaine,BOR,Air,FR
+3009,Roumanieres,EGC,Air,FR
+3010,Beziers Vias,BZR,Air,FR
+3011,Biarritz Parme,BIQ,Air,FR
+3012,Bordeaux Airport,BOD,Air,FR
+3013,Gare de Bordeaux,ZFQ,Air,FR
+3014,Bourges,BOU,Air,FR
+3015,Guipavas,BES,Air,FR
+3016,Laroche,BVE,Air,FR
+3017,Carpiquet,CFR,Air,FR
+3018,Laberandie,ZAO,Air,FR
+3019,Calais,CQF,Air,FR
+3020,Ste Catherine,CLY,Air,FR
+3021,Croisette Heliport,JCA,Air,FR
+3022,Mandelieu,CEQ,Air,FR
+3023,Vieux Port,QYW,Air,FR
+3024,Salvaza,CCF,Air,FR
+3025,Mazamet,DCM,Air,FR
+3026,Vatry Airport,XCR,Air,FR
+3027,Chambery,CMF,Air,FR
+3028,Chateauroux,CHR,Air,FR
+3029,Maupertus,CER,Air,FR
+3030,Le Pontreau,CET,Air,FR
+3031,Aulnat,CFE,Air,FR
+3032,Parvaud,CNG,Air,FR
+3033,Colmar-Houssen,CMR,Air,FR
+3034,Courchevel,CVF,Air,FR
+3035,Creil,CSF,Air,FR
+3036,St Gatien,DOL,Air,FR
+3037,Deux Alpes,DXA,Air,FR
+3038,Dieppe,DPE,Air,FR
+3039,Dijon,DIJ,Air,FR
+3040,Pleurtuit,DNR,Air,FR
+3041,Disneyland Paris,DLP,Air,FR
+3042,Tavaux,DLE,Air,FR
+3043,Mirecourt,EPL,Air,FR
+3044,Evreux,EVX,Air,FR
+3045,Heliport,JEV,Air,FR
+3046,Sud Corse,FSC,Air,FR
+3047,Frejus,FRJ,Air,FR
+3048,Tallard,GAT,Air,FR
+3049,Granville,GFR,Air,FR
+3050,Merville/Calonne,HZB,Air,FR
+3051,Juan Les Pins,JLP,Air,FR
+3052,Montoir,LBY,Air,FR
+3053,La Plagne,PLG,Air,FR
+3054,Les Ajoncs,EDM,Air,FR
+3055,Laleu,LRH,Air,FR
+3056,Landivisiau,LDV,Air,FR
+3057,Servel,LAI,Air,FR
+3058,Entrammes,LVA,Air,FR
+3059,Le Castellet,CTT,Air,FR
+3060,Octeville,LEH,Air,FR
+3061,Arnage,LME,Air,FR
+3062,Loudes,LPY,Air,FR
+3063,Le Touquet,LTQ,Air,FR
+3064,Talmont,LSO,Air,FR
+3065,Lesquin,LIL,Air,FR
+3066,Lille Europe Rail Svc,XDB,Air,FR
+3067,Lille Flanders Rail Sv,XFA,Air,FR
+3068,Bellegarde,LIG,Air,FR
+3069,Lann Bihoue,LRT,Air,FR
+3070,Tarbes Ossun Lourdes,LDE,Air,FR
+3071,Bron,LYN,Air,FR
+3072,Lyon Part-Dieu Rail Sv,XYD,Air,FR
+3073,Lyon Perrache Rail Svc,XYL,Air,FR
+3074,Lyon Satolas Rail Svc,XYV,Air,FR
+3075,Saint Geoirs,GNB,Air,FR
+3076,Satolas,LYS,Air,FR
+3077,Marseille Provence Airport,MRS,Air,FR
+3078,Marseille Railway,XRF,Air,FR
+3079,Megeve,MVV,Air,FR
+3080,Brenoux,MEN,Air,FR
+3081,Meribel,MFX,Air,FR
+3082,Frescaty,MZM,Air,FR
+3083,Metz-Nancy-Lorraine,ETZ,Air,FR
+3084,Gueret (Lepaud),MCU,Air,FR
+3085,Montpellier Méditerranée,MPL,Air,FR
+3086,Montpellier Railway,XPJ,Air,FR
+3087,Morlaix,MXN,Air,FR
+3088,Euroairport,MLH,Air,FR
+3089,Essey,ENC,Air,FR
+3090,Nantes Atlantique,NTE,Air,FR
+3091,Nevers,NVS,Air,FR
+3092,Garons,FNI,Air,FR
+3093,Railway,ZYN,Air,FR
+3094,Niort,NIT,Air,FR
+3095,Orleans,ORE,Air,FR
+3096,Aerogare des Invalides,XEX,Air,FR
+3097,Beauvais-Tille,BVA,Air,FR
+3098,C.de G. /TGV Rail Svc,XDT,Air,FR
+3099,Charles De Gaulle,CDG,Air,FR
+3100,Etoile,XTT,Air,FR
+3101,Gare du Nord Rail Stn,XPG,Air,FR
+3102,Gare Montparnasse,XGB,Air,FR
+3103,Heliport De Paris,JDP,Air,FR
+3104,La Defense Heliport,JPU,Air,FR
+3105,Le Bourget,LBG,Air,FR
+3106,Orly,ORY,Air,FR
+3107,Paris Cergy Pontoise,POX,Air,FR
+3108,Villa Coublay,VIY,Air,FR
+3109,Uzein,PUF,Air,FR
+3110,Perigueux,PGX,Air,FR
+3111,Llabanere,PGF,Air,FR
+3112,Biard,PIS,Air,FR
+3113,Propriano,PRP,Air,FR
+3114,Pluguffan,UIP,Air,FR
+3115,Reims,RHE,Air,FR
+3116,Gare de Rennes,ZFJ,Air,FR
+3117,St Jacques,RNS,Air,FR
+3118,Renaison,RNE,Air,FR
+3119,Saint Agnant,RCO,Air,FR
+3120,Marcillac,RDZ,Air,FR
+3121,Boos,URO,Air,FR
+3122,Medis,RYN,Air,FR
+3123,Harbour,XPZ,Air,FR
+3124,La Mole,LTT,Air,FR
+3125,Charolais Bourgogne S.,SYT,Air,FR
+3126,Serre Chevalier,SEC,Air,FR
+3127,Solenzara,SOZ,Air,FR
+3128,Sophia Antipolis,SXD,Air,FR
+3129,Tremuson,SBK,Air,FR
+3130,St Crepin,SCP,Air,FR
+3131,Boutheon,EBU,Air,FR
+3132,Montoir,SNR,Air,FR
+3133,Entzheim,SXB,Air,FR
+3134,Tignes,TGF,Air,FR
+3135,Hyeres,TLN,Air,FR
+3136,TGV Station,XZV,Air,FR
+3137,Blagnac,TLS,Air,FR
+3138,Montaudran,XYT,Air,FR
+3139,St Symphorien,TUF,Air,FR
+3140,Toussus-le-noble,TNF,Air,FR
+3141,Chabeuil,VAF,Air,FR
+3142,Meucon,VNE,Air,FR
+3143,Charmeil,VHY,Air,FR
+3144,Vittel,VTL,Air,FR
+3145,Cote d'Azur International Airport,NCE,Air,FR
+3146,Akieni,AKE,Air,GA
+3147,Alowe,AWE,Air,GA
+3148,Biawonque,BAW,Air,GA
+3149,Bitam,BMM,Air,GA
+3150,Bongo,BGP,Air,GA
+3151,Booue,BGB,Air,GA
+3152,Fougamou,FOU,Air,GA
+3153,Franceville/Mvengue,MVB,Air,GA
+3154,Gamba,GAX,Air,GA
+3155,Iguela,IGE,Air,GA
+3156,Kongoboumba,GKO,Air,GA
+3157,Koulamoutou,KOU,Air,GA
+3158,Lambarene,LBQ,Air,GA
+3159,Lastourville,LTL,Air,GA
+3160,Leconi,LEO,Air,GA
+3161,Libreville,LBV,Air,GA
+3162,Makokou,MKU,Air,GA
+3163,Mandji,KMD,Air,GA
+3164,Manega,MGO,Air,GA
+3165,Mayoumba,MYB,Air,GA
+3166,Mbigou,MBC,Air,GA
+3167,Medouneu,MDV,Air,GA
+3168,Mekambo,MKB,Air,GA
+3169,Mevang,MVG,Air,GA
+3170,Miele Mimbale,GIM,Air,GA
+3171,Minvoul,MVX,Air,GA
+3172,Mitzic,MZC,Air,GA
+3173,Moabi,MGX,Air,GA
+3174,Moanda,MFF,Air,GA
+3175,Mouila,MJL,Air,GA
+3176,Ndende,KDN,Air,GA
+3177,Nkan,NKA,Air,GA
+3178,Okondja,OKN,Air,GA
+3179,Omboue,OMB,Air,GA
+3180,Ouanga,OUU,Air,GA
+3181,Owendo,OWE,Air,GA
+3182,Oyem,OYE,Air,GA
+3183,Port Gentil,POG,Air,GA
+3184,Sette Cama,ZKM,Air,GA
+3185,Tchibanga,TCH,Air,GA
+3186,Wagny,WGY,Air,GA
+3187,Wora Na Ye,WNE,Air,GA
+3188,Dyce,ABZ,Air,GB
+3189,RAF Station,ABB,Air,GB
+3190,RAF Station,AYH,Air,GB
+3191,The Blaye,ACI,Air,GB
+3192,Andover,ADV,Air,GB
+3193,Bally Kelly,BOL,Air,GB
+3194,North Bay,BRR,Air,GB
+3195,Walney Island,BWF,Air,GB
+3196,Belfast City Airport,BHD,Air,GB
+3197,Belfast Aldergrove International,BFS,Air,GB
+3198,Bembridge,BBP,Air,GB
+3199,Benbecula,BEB,Air,GB
+3200,RAF Station,BEX,Air,GB
+3201,Colmore Row Bus Stn,ZBC,Air,GB
+3202,Birmingham International,BHX,Air,GB
+3203,Blackbushe,BBS,Air,GB
+3204,Blackpool,BLK,Air,GB
+3205,Bournemouth International,BOH,Air,GB
+3206,Bradford,BRF,Air,GB
+3207,Bus Station,ZFC,Air,GB
+3208,Wether Fld RAF,WXF,Air,GB
+3209,Lakenheath RAF,LKZ,Air,GB
+3210,Brighton,BSH,Air,GB
+3211,Bristol,BRS,Air,GB
+3212,London St. Pancras,QQS,Air,GB
+3213,Raf Station,BZZ,Air,GB
+3214,Burtonwood,BUT,Air,GB
+3215,Honington,BEQ,Air,GB
+3216,Cambridge,CBG,Air,GB
+3217,Machrihanish,CAL,Air,GB
+3218,Cardiff-wales Arpt,CWL,Air,GB
+3219,Carlisle,CAX,Air,GB
+3220,Chester,CEG,Air,GB
+3221,Isle Of Coll,COL,Air,GB
+3222,Isle Of Colonsay,CSA,Air,GB
+3223,Coventry - West Midlands International Airport,CVT,Air,GB
+3224,Cromarty,CRN,Air,GB
+3225,Bus Station,ZEQ,Air,GB
+3226,Robin Hood International,DSA,Air,GB
+3227,Dornoch,DOC,Air,GB
+3228,Dundee,DND,Air,GB
+3229,ScotRail,ZDU,Air,GB
+3230,Durham Tees Valley,MME,Air,GB
+3231,Eday,EOI,Air,GB
+3232,Turnhouse,EDI,Air,GB
+3233,ScotRail,ZXE,Air,GB
+3234,Enniskillen,ENK,Air,GB
+3235,Exeter,EXT,Air,GB
+3236,Fair Isle,FIE,Air,GB
+3237,RAF Station,FFD,Air,GB
+3238,Sculthorp RAF,FKH,Air,GB
+3239,Farnborough,FAB,Air,GB
+3240,Fetlar,FEA,Air,GB
+3241,Filton,FZO,Air,GB
+3242,Flotta,FLH,Air,GB
+3243,Kinloss,FSS,Air,GB
+3244,Heliport,FWM,Air,GB
+3245,Foula,FOA,Air,GB
+3246,Glasgow International,GLA,Air,GB
+3247,Prestwick,PIK,Air,GB
+3248,ScotRail,ZGG,Air,GB
+3249,Gloucestershire,GLO,Air,GB
+3250,Binbrook,GSY,Air,GB
+3251,Guernsey,GCI,Air,GB
+3252,Off Line Point,WUK,Air,GB
+3253,Linton-On-Ouse,HRT,Air,GB
+3254,Hatfield,HTF,Air,GB
+3255,Haverfordwest,HAW,Air,GB
+3256,Hendon,HEN,Air,GB
+3257,High Wycombe,HYC,Air,GB
+3258,Holyhead,HLY,Air,GB
+3259,Hoy Island,HOY,Air,GB
+3260,Humberside Arpt,HUY,Air,GB
+3261,Inverness,INV,Air,GB
+3262,ScotRail,ZIV,Air,GB
+3263,Ipswich (Closed),IPW,Air,GB
+3264,Glenegedale,ILY,Air,GB
+3265,Ronaldsway,IOM,Air,GB
+3266,Broadford,SKL,Air,GB
+3267,St Marys,ISC,Air,GB
+3268,Tresco,TSO,Air,GB
+3269,States,JER,Air,GB
+3270,Marham RAF,KNF,Air,GB
+3271,Lands End,LEQ,Air,GB
+3272,Leeds/Bradford,LBA,Air,GB
+3273,Liverpool John Lennon (Speke),LPL,Air,GB
+3274,Heliport,LPH,Air,GB
+3275,Biggin Hill,BQH,Air,GB
+3276,British Rail Terminal,ZLX,Air,GB
+3277,Gatwick,LGW,Air,GB
+3278,Heathrow,LHR,Air,GB
+3279,London City Airport,LCY,Air,GB
+3280,London-Waterloo,QQW,Air,GB
+3281,Luton Airport,LTN,Air,GB
+3282,Stansted,STN,Air,GB
+3283,Victoria Railway Stn.,ZEP,Air,GB
+3284,Eglinton (City Of Londonderry),LDY,Air,GB
+3285,RAF Station,LMO,Air,GB
+3286,RAF Station,LYE,Air,GB
+3287,RAF Station,GQJ,Air,GB
+3288,Manchester,MAN,Air,GB
+3289,Manchester Bus Stn.,ZMP,Air,GB
+3290,Kent International,MSE,Air,GB
+3291,Mildenhall Arpt,MHZ,Air,GB
+3292,NAF,GXH,Air,GB
+3293,Milton Keynes,KYN,Air,GB
+3294,Mull,ULL,Air,GB
+3295,Greenham RAF,EWY,Air,GB
+3296,Newcastle Airport,NCL,Air,GB
+3297,St Mawgan,NQY,Air,GB
+3298,North Ronaldsay,NRL,Air,GB
+3299,Northampton,ORM,Air,GB
+3300,Northolt,NHT,Air,GB
+3301,Norwich Arpt,NWI,Air,GB
+3302,Nottingham Airport,NQT,Air,GB
+3303,Nottingham E. Midlands,EMA,Air,GB
+3304,Railway Station,XQI,Air,GB
+3305,Railway Station,XQH,Air,GB
+3306,Cottesmor RAF,OKH,Air,GB
+3307,Oban Airport,OBN,Air,GB
+3308,Heliport,OHP,Air,GB
+3309,RAF Station,ODH,Air,GB
+3310,Orkney Island,KOI,Air,GB
+3311,Outer Skerries,OUK,Air,GB
+3312,Kidlington,OXF,Air,GB
+3313,Papa Stour,PSV,Air,GB
+3314,Papa Westray,PPW,Air,GB
+3315,Penzance,PZE,Air,GB
+3316,Perth,PSL,Air,GB
+3317,ScotRail,ZXP,Air,GB
+3318,Plymouth,PLH,Air,GB
+3319,Portsmouth,PME,Air,GB
+3320,Rochester,RCS,Air,GB
+3321,Heliport,RAY,Air,GB
+3322,Sanday,NDY,Air,GB
+3323,RAF Station,SQZ,Air,GB
+3324,Sheffield City Airport,SZD,Air,GB
+3325,Lerwick/Tingwall,LWK,Air,GB
+3326,Scatsta,SCS,Air,GB
+3327,Sumburgh,LSI,Air,GB
+3328,Shoreham,ESH,Air,GB
+3329,Eastleigh,SOU,Air,GB
+3330,London Southend,SEN,Air,GB
+3331,Leuchars,ADX,Air,GB
+3332,Stornoway,SYY,Air,GB
+3333,Stronsay,SOY,Air,GB
+3334,Woodbridge RAF,WOB,Air,GB
+3335,Fairwood Comm,SWS,Air,GB
+3336,Swindon,SWI,Air,GB
+3337,Railway Station,XWS,Air,GB
+3338,Tiree,TRE,Air,GB
+3339,Baltasound,UNT,Air,GB
+3340,Upavon,UPV,Air,GB
+3341,RAF Station,UHF,Air,GB
+3342,RAF Station,WTN,Air,GB
+3343,West Malling,WEM,Air,GB
+3344,Westray,WRY,Air,GB
+3345,Whalsay,WHS,Air,GB
+3346,Wick,WIC,Air,GB
+3347,Bentwaters St,BWY,Air,GB
+3348,Woodford,WFD,Air,GB
+3349,Yeovilton,YEO,Air,GB
+3350,Carriacou Is,CRU,Air,GD
+3351,Point Saline Intl,GND,Air,GD
+3352,Batumi,BUS,Air,GE
+3353,Kopitnari,KUT,Air,GE
+3354,Babusheri,SUI,Air,GE
+3355,Novo Alexeyevka,TBS,Air,GE
+3356,Rochambeau,CAY,Air,GF
+3357,Maripasoula,MPY,Air,GF
+3358,Regina,REI,Air,GF
+3359,Saul,XAU,Air,GF
+3360,St-Georges de lOyapock,OYP,Air,GF
+3361,St-Laurent du Maroni,LDX,Air,GF
+3362,Kotoka,ACC,Air,GH
+3363,Kumasi,KMS,Air,GH
+3364,Sunyani,NYI,Air,GH
+3365,Takoradi,TKD,Air,GH
+3366,Tamale,TML,Air,GH
+3367,North Front,GIB,Air,GI
+3368,Aasiaat,JEG,Air,GL
+3369,Heliport,QCU,Air,GL
+3370,Alluitsup Paa,LLU,Air,GL
+3371,Arsuk,JRK,Air,GL
+3372,Heliport,QGQ,Air,GL
+3373,Dundas,DUN,Air,GL
+3374,Heliport,JGR,Air,GL
+3375,Heliport,QFI,Air,GL
+3376,Heliport,QJI,Air,GL
+3377,Heliport,QRY,Air,GL
+3378,Harbour,XIQ,Air,GL
+3379,Ilulissat,JAV,Air,GL
+3380,Ittoqqortoormiit,OBY,Air,GL
+3381,Heliport,QPW,Air,GL
+3382,Kangerlussuaq,SFJ,Air,GL
+3383,Heliport,QJE,Air,GL
+3384,Kulusuk,KUS,Air,GL
+3385,Heliport,JSU,Air,GL
+3386,Nanortalik,JNN,Air,GL
+3387,Heliport,JNS,Air,GL
+3388,Narsarsuaq,UAK,Air,GL
+3389,Neerlerit Inaat,CNP,Air,GL
+3390,Heliport,QMK,Air,GL
+3391,Nuuk,GOH,Air,GL
+3392,Harbour,XEO,Air,GL
+3393,Paamiut,JFR,Air,GL
+3394,Pituffik,THU,Air,GL
+3395,Qaanaaq,NAQ,Air,GL
+3396,Qaarsut,JQA,Air,GL
+3397,Heliport,JJU,Air,GL
+3398,Qasigiannguit,JCH,Air,GL
+3399,Qeqertarsuaq,JGO,Air,GL
+3400,Heliport,QUP,Air,GL
+3401,Sisimiut,JHS,Air,GL
+3402,Tasiilaq,AGM,Air,GL
+3403,Harbour,XEQ,Air,GL
+3404,Heliport,JUV,Air,GL
+3405,Uummannaq,UMD,Air,GL
+3406,Yundum International,BJL,Air,GM
+3407,Boke,BKJ,Air,GN
+3408,Conakry,CKY,Air,GN
+3409,Faranah,FAA,Air,GN
+3410,Fria,FIG,Air,GN
+3411,Kankan,KNN,Air,GN
+3412,Kissidougou,KSI,Air,GN
+3413,Sambailo,SBI,Air,GN
+3414,Labe,LEK,Air,GN
+3415,Macenta,MCA,Air,GN
+3416,Nzerekore,NZE,Air,GN
+3417,Siguiri,GII,Air,GN
+3418,Baillif,BBR,Air,GP
+3419,La Desirade,DSD,Air,GP
+3420,Les Bases,GBJ,Air,GP
+3421,Le Raizet,PTP,Air,GP
+3422,St Barthelemy,SBH,Air,GP
+3423,St Francois,SFC,Air,GP
+3424,Esperance,SFG,Air,GP
+3425,Grand Case,CCE,Air,GP
+3426,Marigot SPB,MSB,Air,GP
+3427,Terre-de-Bas,HTB,Air,GP
+3428,Terre-de-Haut,LSS,Air,GP
+3429,Bata,BSG,Air,GQ
+3430,Santa Isabel,SSG,Air,GQ
+3431,Agrinion,AGQ,Air,GR
+3432,Demokritos Airport,AXD,Air,GR
+3433,Astypalaia,JTY,Air,GR
+3434,Eleftherios Venizelos,ATH,Air,GR
+3435,Hellinikon (Closed),HEW,Air,GR
+3436,Souda,CHQ,Air,GR
+3437,Chios,JKH,Air,GR
+3438,Drama,DRM,Air,GR
+3439,N. Kazantzakis Apt.,HER,Air,GR
+3440,Ikaria,JIK,Air,GR
+3441,Ioannina,IOA,Air,GR
+3442,Kalamata,KLX,Air,GR
+3443,Karpathos,AOK,Air,GR
+3444,Kasos Island,KSJ,Air,GR
+3445,Kastelorizo,KZS,Air,GR
+3446,Aristoteles Airport,KSO,Air,GR
+3447,Megas Alexandros Apt.,KVA,Air,GR
+3448,Argostolion,EFL,Air,GR
+3449,I. Kapodistrias,CFU,Air,GR
+3450,Kithira,KIT,Air,GR
+3451,Kos,KGS,Air,GR
+3452,Philippos Airport,KZI,Air,GR
+3453,Larisa,LRA,Air,GR
+3454,Leros,LRS,Air,GR
+3455,Limnos,LXS,Air,GR
+3456,Mikonos,JMK,Air,GR
+3457,Milos,MLO,Air,GR
+3458,Mytilene,MJT,Air,GR
+3459,Naxos Airport,JNX,Air,GR
+3460,Paros,PAS,Air,GR
+3461,Araxos Airport,GPA,Air,GR
+3462,Alexion,PKH,Air,GR
+3463,Aktion,PVK,Air,GR
+3464,Andravida,PYR,Air,GR
+3465,Diagoras Airport,RHO,Air,GR
+3466,Samos,SMI,Air,GR
+3467,Sitia,JSH,Air,GR
+3468,Skiathos,JSI,Air,GR
+3469,Skiros,SKU,Air,GR
+3470,Eleftherios Venizelos,SPJ,Air,GR
+3471,Spetsai Island,JSS,Air,GR
+3472,Syros Island,JSY,Air,GR
+3473,Thessaloniki International Airport 'Makedonia',SKG,Air,GR
+3474,Thira,JTR,Air,GR
+3475,Nea Anchialos,VOL,Air,GR
+3476,Zakinthos Is,ZTH,Air,GR
+3477,Carmelita,CMM,Air,GT
+3478,Chiquimula,CIQ,Air,GT
+3479,Coatepeque Airport,CTF,Air,GT
+3480,Coban,CBV,Air,GT
+3481,Dos Lagunas,DON,Air,GT
+3482,El Naranjo,ENJ,Air,GT
+3483,Santa Elena,FRS,Air,GT
+3484,La Aurora,GUA,Air,GT
+3485,Huehuetenango,HUG,Air,GT
+3486,Los Tablones Airport,LOX,Air,GT
+3487,Melchor De Menco,MCR,Air,GT
+3488,Paso Caballos,PCG,Air,GT
+3489,Playa Grande,PKJ,Air,GT
+3490,Poptun,PON,Air,GT
+3491,Puerto Barrios,PBR,Air,GT
+3492,Quetzaltenango Airport,AAZ,Air,GT
+3493,Quiche Airport,AQB,Air,GT
+3494,Base Aerea Del Sur,RER,Air,GT
+3495,Las Vegas,LCF,Air,GT
+3496,Rubelsanto,RUV,Air,GT
+3497,El Peten,TKM,Air,GT
+3498,Uaxactun,UAX,Air,GT
+3499,Uscg Shore St,NRV,Air,GU

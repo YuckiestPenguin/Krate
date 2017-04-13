@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+4500,Tapeta,TPT,Air,LR
+4501,Tchien,THC,Air,LR
+4502,Voinjama,VOI,Air,LR
+4503,Weasua,WES,Air,LR
+4504,Wologissi,WOI,Air,LR
+4505,Lebakeng,LEF,Air,LS
+4506,Leribe,LRB,Air,LS
+4507,Lesobeng,LES,Air,LS
+4508,Mafeteng,MFC,Air,LS
+4509,Moshoeshoe Intl,MSU,Air,LS
+4510,Matsaile,MSG,Air,LS
+4511,Mokhotlong,MKH,Air,LS
+4512,Nkaus,NKU,Air,LS
+4513,Pelaneng,PEL,Air,LS
+4514,Qachas Nek,UNE,Air,LS
+4515,Quthing,UTG,Air,LS
+4516,Sehonghong,SHK,Air,LS
+4517,Sekakes,SKQ,Air,LS
+4518,Semongkong,SOK,Air,LS
+4519,Seshutes,SHZ,Air,LS
+4520,Thaba-Tseka,THB,Air,LS
+4521,Tlokoeng,TKO,Air,LS
+4522,Kaunas,KUN,Air,LT
+4523,Palanga International,PLQ,Air,LT
+4524,Panevezys,PNV,Air,LT
+4525,Siauliai,SQQ,Air,LT
+4526,Vilnius,VNO,Air,LT
+4527,Findel,LUX,Air,LU
+4528,Daugavpils,DGP,Air,LV
+4529,Liepaya,LPX,Air,LV
+4530,Riga International Airport,RIX,Air,LV
+4531,La Braq,LAQ,Air,LY
+4532,Benina Intl,BEN,Air,LY
+4533,Brack,BCQ,Air,LY
+4534,Martuba,DNF,Air,LY
+4535,Ghadames,LTD,Air,LY
+4536,Ghat,GHT,Air,LY
+4537,Houn,HUQ,Air,LY
+4538,Kufrah,AKF,Air,LY
+4539,Marsa Brega,LMQ,Air,LY
+4540,Misurata,MRA,Air,LY
+4541,Mitiga,MJI,Air,LY
+4542,Murzuq,QMQ,Air,LY
+4543,Nafoora,NFR,Air,LY
+4544,Sebha,SEB,Air,LY
+4545,Sert,SRX,Air,LY
+4546,Tobruk,TOB,Air,LY
+4547,International,TIP,Air,LY
+4548,Ubari,QUB,Air,LY
+4549,Agadir Almassira,AGA,Air,MA
+4550,Charif Al Idrissi,AHU,Air,MA
+4551,Anfa,CAS,Air,MA
+4552,Mohamed V,CMN,Air,MA
+4553,Dakhla,VIL,Air,MA
+4554,Errachidia,ERH,Air,MA
+4555,Essaouira,ESU,Air,MA
+4556,Sais,FEZ,Air,MA
+4557,Goulimime,GLN,Air,MA
+4558,NAF,NNA,Air,MA
+4559,Ksar Es Souk,SEK,Air,MA
+4560,Hassan I,EUN,Air,MA
+4561,Menara,RAK,Air,MA
+4562,Meknes,MEK,Air,MA
+4563,Nador,NDR,Air,MA
+4564,Ouarzazate,OZZ,Air,MA
+4565,Les Angades,OUD,Air,MA
+4566,Sale,RBA,Air,MA
+4567,Safi,SFI,Air,MA
+4568,Sidi Ifni,SII,Air,MA
+4569,Smara,SMW,Air,MA
+4570,Tan Tan,TTA,Air,MA
+4571,Boukhalef,TNG,Air,MA
+4572,Tarfaya,TFY,Air,MA
+4573,Sania Ramel,TTU,Air,MA
+4574,Heliport,MCM,Air,MC
+4575,Beltsy,BZY,Air,MD
+4576,Chisinau,KIV,Air,MD
+4577,Ambanja,IVA,Air,MG
+4578,Ambatolahy,AHY,Air,MG
+4579,Ambatomainty,AMY,Air,MG
+4580,Ambatondrazaka,WAM,Air,MG
+4581,Ambilobe,AMB,Air,MG
+4582,Ampanihy,AMP,Air,MG
+4583,Analalava,HVA,Air,MG
+4584,Andapa,ZWA,Air,MG
+4585,Andriamena,WAD,Air,MG
+4586,Ankavandra,JVA,Air,MG
+4587,Ankazoabo,WAK,Air,MG
+4588,Ankokoambo,NKO,Air,MG
+4589,Moramba,WOR,Air,MG
+4590,Antsirabato,ANM,Air,MG
+4591,Antananarivo,TNR,Air,MG
+4592,Antsalova,WAQ,Air,MG
+4593,Antsirabe,ATJ,Air,MG
+4594,Antsiranana/Arrachart,DIE,Air,MG
+4595,Antsohihy,WAI,Air,MG
+4596,Bealanana,WBE,Air,MG
+4597,Befandriana,WBD,Air,MG
+4598,Bekily,OVA,Air,MG
+4599,Belo,BMD,Air,MG
+4600,Beroroha,WBO,Air,MG
+4601,Besalampy,BPY,Air,MG
+4602,Betioky,BKU,Air,MG
+4603,Doany,DOA,Air,MG
+4604,Farafangana,RVA,Air,MG
+4605,Fianarantsoa,WFI,Air,MG
+4606,Marillac,FTU,Air,MG
+4607,Ihosy,IHO,Air,MG
+4608,Ilaka,ILK,Air,MG
+4609,Madirovalo,WMV,Air,MG
+4610,Mahanoro,VVB,Air,MG
+4611,Maintirano,MXT,Air,MG
+4612,Amborovy,MJN,Air,MG
+4613,Malaimbandy,WML,Air,MG
+4614,Mampikony,WMP,Air,MG
+4615,Manakara,WVK,Air,MG
+4616,Mananara,WMR,Air,MG
+4617,Mananjary,MNJ,Air,MG
+4618,Mandabe,WMD,Air,MG
+4619,Mandritsara,WMA,Air,MG
+4620,Manja,MJA,Air,MG
+4621,Maroantsetra,WMN,Air,MG
+4622,Miandrivazo,ZVA,Air,MG
+4623,Morafenobe,TVA,Air,MG
+4624,Morombe,MXM,Air,MG
+4625,Morondava,MOQ,Air,MG
+4626,Fascene,NOS,Air,MG
+4627,Port Berge,WPB,Air,MG
+4628,Sainte Marie,SMS,Air,MG
+4629,Sambava,SVB,Air,MG
+4630,Soalala,DWB,Air,MG
+4631,Tamatave,TMM,Air,MG
+4632,Tambohorano,WTA,Air,MG
+4633,Tanandava,TDV,Air,MG
+4634,Tsaratanana,TTS,Air,MG
+4635,Tsiroanomandidy,WTS,Air,MG
+4636,Tulear,TLE,Air,MG
+4637,Vangaindrano,VND,Air,MG
+4638,Vatomandry,VAT,Air,MG
+4639,Vohemar,VOH,Air,MG
+4640,Ailinglapalap Island,AIP,Air,MH
+4641,Ailuk Island,AIM,Air,MH
+4642,Airok,AIC,Air,MH
+4643,Arno,AMR,Air,MH
+4644,Aur Island,AUL,Air,MH
+4645,Enyu Airfield,BII,Air,MH
+4646,Ebadon,EBN,Air,MH
+4647,Ebon Airport,EBO,Air,MH
+4648,Enewetak Island,ENT,Air,MH
+4649,Ine Island,IMI,Air,MH
+4650,Jabot,JAT,Air,MH
+4651,Jaluit Island,UIT,Air,MH
+4652,Jeh,JEJ,Air,MH
+4653,Kaben,KBT,Air,MH
+4654,Kili Island,KIO,Air,MH
+4655,Kwajalein,KWA,Air,MH
+4656,Elenak,EAL,Air,MH
+4657,Lae Island,LML,Air,MH
+4658,Likiep Island,LIK,Air,MH
+4659,Loen,LOF,Air,MH
+4660,Majkin,MJE,Air,MH
+4661,Amata Kabua Intl,MAJ,Air,MH
+4662,Maloelap Island,MAV,Air,MH
+4663,Mejit Island,MJB,Air,MH
+4664,Enijet,EJT,Air,MH
+4665,Mili Island,MIJ,Air,MH
+4666,Namdrik Island,NDK,Air,MH
+4667,Namu,NMU,Air,MH
+4668,Rongelap Island,RNP,Air,MH
+4669,Tabal,TBV,Air,MH
+4670,Tinak Island,TIC,Air,MH
+4671,Ujae Island,UJE,Air,MH
+4672,Utirik Island,UTK,Air,MH
+4673,Woja,WJA,Air,MH
+4674,Wotho Island,WTO,Air,MH
+4675,Wotje Island,WTE,Air,MH
+4676,Petrovec,SKP,Air,MK
+4677,Bamako,BKO,Air,ML
+4678,Gao,GAQ,Air,ML
+4679,Goundam,GUD,Air,ML
+4680,Kayes,KYS,Air,ML
+4681,Kenieba,KNZ,Air,ML
+4682,Koutiala,KTX,Air,ML
+4683,Mopti,MZI,Air,ML
+4684,Nara,NRM,Air,ML
+4685,Nioro,NIX,Air,ML
+4686,Segou,SZU,Air,ML
+4687,Sikasso,KSS,Air,ML
+4688,Tombouctou,TOM,Air,ML
+4689,Yelimane,EYL,Air,ML
+4690,Bagan,BPE,Air,MM
+4691,Bassein,BSX,Air,MM
+4692,Bhamo,BMO,Air,MM
+4693,Dawe,TVY,Air,MM
+4694,Gangaw,GAW,Air,MM
+4695,Gwa,GWA,Air,MM
+4696,Heho,HEH,Air,MM
+4697,Henzada,HEB,Air,MM
+4698,Homalin,HOX,Air,MM
+4699,Kalemyo,KMV,Air,MM
+4700,Kawthaung,KAW,Air,MM
+4701,Keng Tung,KET,Air,MM
+4702,Khamti,KHM,Air,MM
+4703,Kyaukpyu,KYP,Air,MM
+4704,Kyauktaw,KYT,Air,MM
+4705,Lashio,LSH,Air,MM
+4706,Loikaw,LIW,Air,MM
+4707,Magwe,MWQ,Air,MM
+4708,Manaung,MGU,Air,MM
+4709,Mandalay International,MDL,Air,MM
+4710,Maulmyine,MNU,Air,MM
+4711,Momeik,MOE,Air,MM
+4712,Mong Hsat,MOG,Air,MM
+4713,Mong Ton,MGK,Air,MM
+4714,Myeik,MGZ,Air,MM
+4715,Myitkyina,MYT,Air,MM
+4716,Namsang,NMS,Air,MM
+4717,Namtu,NMT,Air,MM
+4718,Nyaung-u,NYU,Air,MM
+4719,Pa-an,PAA,Air,MM
+4720,Pakokku,PKK,Air,MM
+4721,Papun,PPU,Air,MM
+4722,Pauk,PAU,Air,MM
+4723,Prome,PRU,Air,MM
+4724,Putao,PBU,Air,MM
+4725,Civil,AKY,Air,MM
+4726,Tachilek,THL,Air,MM
+4727,Thandwe,SNW,Air,MM
+4728,Tilin,TIO,Air,MM
+4729,Mingaladon,RGN,Air,MM
+4730,Ye,XYE,Air,MM
+4731,Altai,LTI,Air,MN
+4732,Arvaikheer,AVK,Air,MN
+4733,Baruun-Urt,UUN,Air,MN
+4734,Bayankhongor,BYN,Air,MN
+4735,Bulgan,UGA,Air,MN
+4736,Choibalsan,COQ,Air,MN
+4737,Dalanzadgad,DLZ,Air,MN
+4738,Erdenet,ERT,Air,MN
+4739,Kharkhorin,KHR,Air,MN
+4740,Khatgal,HTM,Air,MN
+4741,Khovd,HVD,Air,MN
+4742,Khujirt,HJT,Air,MN
+4743,Mandalgobi,MXW,Air,MN
+4744,Moron,MXV,Air,MN
+4745,Tosontsengel,TNZ,Air,MN
+4746,Tsetserleg,TSZ,Air,MN
+4747,Buyant Uhaa,ULN,Air,MN
+4748,Ulaangom,ULO,Air,MN
+4749,Ulgit,ULG,Air,MN
+4750,Uliastai,ULZ,Air,MN
+4751,Umnugobitour,UGT,Air,MN
+4752,Underkhaan,UNR,Air,MN
+4753,Macau,MFM,Air,MO
+4754,Macau Ferry,XZM,Air,MO
+4755,Rota,ROP,Air,MP
+4756,International,SPN,Air,MP
+4757,Tinian,TIQ,Air,MP
+4758,Lamentin,FDF,Air,MQ
+4759,Aioun El Atrouss,AEO,Air,MR
+4760,Akjoujt,AJJ,Air,MR
+4761,Aleg,LEG,Air,MR
+4762,Mouakchott,ATR,Air,MR
+4763,Abbaye,BGH,Air,MR
+4764,Boutilimit,OTL,Air,MR
+4765,Chinguitti,CGT,Air,MR
+4766,El Gouera,ZLG,Air,MR
+4767,Fderik,FGD,Air,MR
+4768,Kaedi,KED,Air,MR
+4769,Kiffa,KFA,Air,MR
+4770,Mbout,MBR,Air,MR
+4771,Moudjeria,MOM,Air,MR
+4772,Nema,EMN,Air,MR
+4773,Nouadhibou,NDB,Air,MR
+4774,Nouakchott,NKC,Air,MR
+4775,Selibaby,SEY,Air,MR
+4776,Tamchakett,THT,Air,MR
+4777,Tichitt,THI,Air,MR
+4778,Tidjikja,TIY,Air,MR
+4779,Timbedra,TMD,Air,MR
+4780,Zouerate,OUZ,Air,MR
+4781,Bramble,MNI,Air,MS
+4782,Heliport,JCO,Air,MT
+4783,Gozo Heliport,GZM,Air,MT
+4784,Malta International,MLA,Air,MT
+4785,S.Seewoosagur Ram.Int,MRU,Air,MU
+4786,Rodrigues Is,RRG,Air,MU
+4787,Gan Airport,GAN,Air,MV
+4788,Hanimaadhoo,HAQ,Air,MV
+4789,Kaadedhdhoo,KDM,Air,MV
+4790,Kadhdhoo,KDO,Air,MV
+4791,International,MLE,Air,MV
+4792,Chileka,BLZ,Air,MW
+4793,Chelinda,CEH,Air,MW
+4794,Club Makokola,CMK,Air,MW
+4795,Dwangwa,DWA,Air,MW
+4796,Karonga,KGJ,Air,MW
+4797,Kasungu,KBQ,Air,MW
+4798,Likoma,LIX,Air,MW
+4799,Lilongwe International,LLW,Air,MW
+4800,Mangochi,MAI,Air,MW
+4801,Monkey Bay,MYZ,Air,MW
+4802,Mvuu Camp,VUU,Air,MW
+4803,Mzuzu,ZZU,Air,MW
+4804,Salima,LMB,Air,MW
+4805,Abreojos,AJS,Air,MX
+4806,Aguascalients,AGU,Air,MX
+4807,Alamos,XAL,Air,MX
+4808,Apatzingan,AZG,Air,MX
+4809,Bahia Angeles,BHL,Air,MX
+4810,Campeche International,CPE,Air,MX
+4811,Cananea,CNA,Air,MX
+4812,Cancun,CUN,Air,MX
+4813,Chetumal,CTM,Air,MX
+4814,Chichen Itza,CZA,Air,MX
+4815,Gen Fierro Villalobos,CUU,Air,MX
+4816,International,ACN,Air,MX
+4817,Ciudad Constitucion,CUA,Air,MX
+4818,Ciudad Del Carmen,CME,Air,MX
+4819,Intl Abraham Gonzalez,CJS,Air,MX
+4820,Ciudad Mante,MMC,Air,MX
+4821,Ciudad Obregon,CEN,Air,MX
+4822,Ciudad Victoria,CVM,Air,MX
+4823,Colima,CLQ,Air,MX
+4824,Copalar,CJT,Air,MX
+4825,Cozumel,CZM,Air,MX
+4826,General Mariano Matamoros Airport,CVJ,Air,MX
+4827,Fedl De Bachigualato,CUL,Air,MX
+4828,Guadalupe Victoria,DGO,Air,MX
+4829,Ensenada,ESE,Air,MX
+4830,Miguel Hidal,GDL,Air,MX
+4831,Gen Jose M Yanez,GYM,Air,MX
+4832,Guerrero Negro,GUB,Air,MX
+4833,Gen Pesqueira Garcia,HMO,Air,MX
+4834,Huatulco,HUX,Air,MX
+4835,Isla Mujeres,ISJ,Air,MX
+4836,Internacional,ZIH,Air,MX
+4837,Ixtepec,IZT,Air,MX
+4838,Jalapa,JAL,Air,MX
+4839,Leon,LAP,Air,MX
+4840,Francisco P. V. y R.,LOM,Air,MX
+4841,Lazaro Cardenas,LZC,Air,MX
+4842,Del Bajio,BJX,Air,MX
+4843,Loreto,LTO,Air,MX
+4844,Federal,LMM,Air,MX
+4845,Manzanillo,ZLO,Air,MX
+4846,Matamoros,MAM,Air,MX
+4847,Gen Rafael Buelna,MZT,Air,MX
+4848,Rejon,MID,Air,MX
+4849,Mexicali,MXL,Air,MX
+4850,Atizapan,AZP,Air,MX
+4851,Juarez International,MEX,Air,MX
+4852,Santa Lucia,NLU,Air,MX
+4853,Minatitlan,MTT,Air,MX
+4854,Monclova,LOV,Air,MX
+4855,Aeropuerto Del Norte,NTR,Air,MX
+4856,Gen Mariano Escobedo,MTY,Air,MX
+4857,Morelia,MLM,Air,MX
+4858,Mulege,MUG,Air,MX
+4859,Nogales,NOG,Air,MX
+4860,Nueva Casas Grandes,NCG,Air,MX
+4861,Intl Quetzalcoatl,NLD,Air,MX
+4862,Xoxocotlan,OAX,Air,MX
+4863,Palenque,PQM,Air,MX
+4864,Piedras Negras,PDS,Air,MX
+4865,Pinotepa Nacional,PNO,Air,MX
+4866,Playa Del Carmen,PCM,Air,MX
+4867,Pochutla,PUH,Air,MX
+4868,Tajin,PAZ,Air,MX
+4869,Huejotsingo,PBC,Air,MX
+4870,Puerto Escondido,PXM,Air,MX
+4871,Puerto Juarez,PJZ,Air,MX
+4872,Puerto Penasco,PPE,Air,MX
+4873,Ordaz,PVR,Air,MX
+4874,Punta Chivato,PCV,Air,MX
+4875,Punta Colorada,PCO,Air,MX
+4876,Queretaro,QRO,Air,MX
+4877,Gen Lucio Blanco,REX,Air,MX
+4878,San Cristobal Airport,SZT,Air,MX
+4879,Salina Cruz,SCX,Air,MX
+4880,Saltillo,SLW,Air,MX
+4881,San Felipe,SFH,Air,MX
+4882,San Ignacio,SGM,Air,MX
+4883,Los Cabos,SJD,Air,MX
+4884,San Luis Potosi,SLP,Air,MX
+4885,San Luis Rio Colorado,UAC,Air,MX
+4886,San Quintin,SNQ,Air,MX
+4887,Santa Rosalia,SRL,Air,MX
+4888,Gen F Javier Mina,TAM,Air,MX
+4889,Tamuin,TSL,Air,MX
+4890,Tapachula International,TAP,Air,MX
+4891,Tehuacan,TCN,Air,MX
+4892,Tepic,TPQ,Air,MX
+4893,Rodriguez,TIJ,Air,MX
+4894,Tizimin,TZM,Air,MX
+4895,Toluca,TLC,Air,MX
+4896,Torreon,TRC,Air,MX
+4897,Tulum,TUY,Air,MX
+4898,Llano San Juan,TGZ,Air,MX
+4899,Uruapan,UPN,Air,MX
+4900,Las Bajadas,VER,Air,MX
+4901,Villa Constitucion,VIB,Air,MX
+4902,Capitan Carlos Rovirosa,VSA,Air,MX
+4903,La Calera,ZCL,Air,MX
+4904,Zamora,ZMM,Air,MX
+4905,General Juan N. Alvarez International,ACA,Air,MX
+4906,Alor Setar,AOR,Air,MY
+4907,Bakalalan,BKM,Air,MY
+4908,Bario,BBN,Air,MY
+4909,Belaga,BLG,Air,MY
+4910,Bintulu,BTU,Air,MY
+4911,Bintulu Port,ZMK,Air,MY
+4912,Butterworth,BWH,Air,MY
+4913,Genting,GTB,Air,MY
+4914,Ipoh,IPH,Air,MY
+4915,Sultan Ismail Intl,JHB,Air,MY
+4916,Kapit,KPI,Air,MY
+4917,Keningau,KGU,Air,MY
+4918,Kerteh,KTE,Air,MY
+4919,Pengkalan Chepa,KBR,Air,MY
+4920,Kota Kinabalu,BKI,Air,MY
+4921,Kota Kinabalu Port,ZWR,Air,MY
+4922,Kuala Lumpur International Airport (klia),KUL,Air,MY
+4923,Sultan Abdul Aziz Shah,SZB,Air,MY
+4924,Sultan Mahmood,TGG,Air,MY
+4925,Kuantan,KUA,Air,MY
+4926,Kuantan Port,ZJB,Air,MY
+4927,Kuching,KCH,Air,MY
+4928,Kuching Port,ZGY,Air,MY
+4929,Kudat,KUD,Air,MY
+4930,Labuan,LBU,Air,MY
+4931,Lahad Datu,LDU,Air,MY
+4932,Langkawi International Airport,LGK,Air,MY
+4933,Lawas,LWY,Air,MY
+4934,Limbang,LMN,Air,MY
+4935,Long Akah,LKH,Air,MY
+4936,Long Banga Airfield,LBP,Air,MY
+4937,Long Lama,LLM,Air,MY
+4938,Long Lellang,LGL,Air,MY
+4939,Long Pasia,GSA,Air,MY
+4940,Lawas,LSM,Air,MY
+4941,Long Seridan,ODN,Air,MY
+4942,Long Sukang,LSU,Air,MY
+4943,Batu Berendum,MKZ,Air,MY
+4944,Marudi,MUR,Air,MY
+4945,Mersing,MEP,Air,MY
+4946,Miri,MYY,Air,MY
+4947,Mostyn,MZS,Air,MY
+4948,Mukah,MKM,Air,MY
+4949,Mulu,MZV,Air,MY
+4950,Pamol,PAY,Air,MY
+4951,Pangkor Airport,PKG,Air,MY
+4952,Pasir Gudang Port,ZLW,Air,MY
+4953,Penang International,PEN,Air,MY
+4954,Penang Port,ZJR,Air,MY
+4955,Ferry,XPQ,Air,MY
+4956,Layang-Layang Airstrip,LAC,Air,MY
+4957,Ranau,RNU,Air,MY
+4958,LTS Pulau Redang,RDN,Air,MY
+4959,Sahabat 16,SXS,Air,MY
+4960,Sandakan,SDK,Air,MY
+4961,Sematan,BSE,Air,MY
+4962,Semporna,SMM,Air,MY
+4963,Sepulot,SPE,Air,MY
+4964,Sibu,SBW,Air,MY
+4965,Simanggang,SGG,Air,MY
+4966,Sipitang,SPT,Air,MY
+4967,Sitiawan,SWY,Air,MY
+4968,Sungei Tekai,GTK,Air,MY
+4969,Taiping,TPG,Air,MY
+4970,Taman Negara,SXT,Air,MY
+4971,Tanjung Pelepas Port,ZJT,Air,MY
+4972,Tawau,TWU,Air,MY
+4973,Telupid,TEL,Air,MY
+4974,Tioman,TOD,Air,MY
+4975,Tomanggong,TMG,Air,MY
+4976,Alto Molocue,AME,Air,MZ
+4977,Angoche,ANO,Air,MZ
+4978,Bajone,BJN,Air,MZ
+4979,Bazaruto Island,BZB,Air,MZ
+4980,Beira,BEW,Air,MZ
+4981,Benguera Island,BCW,Air,MZ
+4982,Caia,CMZ,Air,MZ
+4983,Chimoio,VPY,Air,MZ
+4984,Chinde,INE,Air,MZ
+4985,Chokwe,TGS,Air,MZ
+4986,Cuamba,FXO,Air,MZ
+4987,Dugong,DGK,Air,MZ
+4988,Gurue,VJQ,Air,MZ
+4989,Ibo,IBO,Air,MZ
+4990,Ila Da Chilonzuene,IDC,Air,MZ
+4991,Indigo Bay Lodge,IBL,Air,MZ
+4992,Inhaca,IHC,Air,MZ
+4993,Inhambane,INH,Air,MZ
+4994,Inhaminga,IMG,Air,MZ
+4995,Lichinga,VXC,Air,MZ
+4996,Luabo,LBM,Air,MZ
+4997,Lumbo,LFB,Air,MZ
+4998,Maganja Da Costa,MJS,Air,MZ
+4999,Magaruque,MFW,Air,MZ

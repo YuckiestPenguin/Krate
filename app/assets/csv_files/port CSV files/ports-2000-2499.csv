@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+2000,Penrhyn Island,PYE,Air,CK
+2001,Puka Puka Is/Attol,PZK,Air,CK
+2002,Rarotonga,RAR,Air,CK
+2003,Alto Palena,WAP,Air,CL
+2004,Ancud,ZUD,Air,CL
+2005,Cerro Moreno,ANF,Air,CL
+2006,Chacalluta,ARI,Air,CL
+2007,Teniente Vidal,BBA,Air,CL
+2008,El Loa,CJC,Air,CL
+2009,Gamboa,WCA,Air,CL
+2010,Cerro Sombrero,SMB,Air,CL
+2011,Chaiten,WCH,Air,CL
+2012,Chanaral,CNR,Air,CL
+2013,Chile Chico,CCH,Air,CL
+2014,Chillan,YAI,Air,CL
+2015,Cochrane,LGR,Air,CL
+2016,Carriel Sur,CCP,Air,CL
+2017,Chamonate,CPO,Air,CL
+2018,Coquimbo,COW,Air,CL
+2019,Ten. Vidal,GXQ,Air,CL
+2020,Mataveri Intl,IPC,Air,CL
+2021,El Salvador,ESR,Air,CL
+2022,Frutillar,FRT,Air,CL
+2023,Futaleufu,FFU,Air,CL
+2024,Cavancha,IQQ,Air,CL
+2025,La Florida,LSC,Air,CL
+2026,Los Andes,LOB,Air,CL
+2027,Los Angeles,LSQ,Air,CL
+2028,Canal Balo,ZOS,Air,CL
+2029,Ovalle,OVL,Air,CL
+2030,Porvenir,WPR,Air,CL
+2031,Pucon,ZPC,Air,CL
+2032,Puerto Aisen,WPA,Air,CL
+2033,Tepual,PMC,Air,CL
+2034,Teniente J. Gallardo,PNT,Air,CL
+2035,Puerto Varas,PUX,Air,CL
+2036,Puerto Williams,WPU,Air,CL
+2037,Pres Ibanez,PUQ,Air,CL
+2038,Arturo Merino Benitez,SCL,Air,CL
+2039,Los Cerrillos,ULC,Air,CL
+2040,Talca,TLX,Air,CL
+2041,Taltal,TTC,Air,CL
+2042,Maquehue,ZCO,Air,CL
+2043,Barriles,TOQ,Air,CL
+2044,Pichoy,ZAL,Air,CL
+2045,Vallenar,VLR,Air,CL
+2046,Valparaiso,VAP,Air,CL
+2047,Victoria,ZIC,Air,CL
+2048,Vina del Mar,KNA,Air,CL
+2049,Bafoussam,BFX,Air,CM
+2050,Ngurah Rai,BLC,Air,CM
+2051,Bamenda,BPC,Air,CM
+2052,Batouri,OUR,Air,CM
+2053,Yaoundé,BTA,Air,CM
+2054,Douala,DLA,Air,CM
+2055,Dschang,DSC,Air,CM
+2056,Ebolowa,EBW,Air,CM
+2057,Foumban,FOM,Air,CM
+2058,Garoua,GOU,Air,CM
+2059,Kaele,KLE,Air,CM
+2060,Koutaba,KOB,Air,CM
+2061,Kribi,KBI,Air,CM
+2062,Limbe,VCC,Air,CM
+2063,Mamfe,MMF,Air,CM
+2064,Salam,MVR,Air,CM
+2065,Ngaoundere,NGE,Air,CM
+2066,Nkongsamba,NKS,Air,CM
+2067,Tiko,TKC,Air,CM
+2068,Yagoua,GXX,Air,CM
+2069,Nsimalen,NSI,Air,CM
+2070,Yaounde Airport,YAO,Air,CM
+2071,Aksu,AKU,Air,CN
+2072,Altay,AAT,Air,CN
+2073,An Shun/Huang Guo Shu,AVA,Air,CN
+2074,Ankang,AKA,Air,CN
+2075,Anqing,AQG,Air,CN
+2076,Anshan,AOG,Air,CN
+2077,Anyang,AYN,Air,CN
+2078,Bangda,BPX,Air,CN
+2079,Baoshan,BSD,Air,CN
+2080,Baotou,BAV,Air,CN
+2081,Beihai,BHY,Air,CN
+2082,Capital,PEK,Air,CN
+2083,Nanyuan Airport,NAY,Air,CN
+2084,Bengbu,BFU,Air,CN
+2085,Changchun,CGQ,Air,CN
+2086,Changde,CGD,Air,CN
+2087,Changhai,CNI,Air,CN
+2088,Changsha,CSX,Air,CN
+2089,Changzhi,CIH,Air,CN
+2090,Changzhou,CZX,Air,CN
+2091,Chaoyang Airport,CHG,Air,CN
+2092,Chengdu,CTU,Air,CN
+2093,Chifeng,CIF,Air,CN
+2094,Chongqing Jiangbei International,CKG,Air,CN
+2095,Dali,DLU,Air,CN
+2096,Dalian,DLC,Air,CN
+2097,Dandong,DDG,Air,CN
+2098,Datong,DAT,Air,CN
+2099,Daxian,DAX,Air,CN
+2100,Dayong,DYG,Air,CN
+2101,Dazu,DZU,Air,CN
+2102,Diqing,DIG,Air,CN
+2103,Dongguan,DGM,Air,CN
+2104,Dongsheng,DSN,Air,CN
+2105,Dongying,DOY,Air,CN
+2106,Dunhuang,DNH,Air,CN
+2107,Enshi,ENH,Air,CN
+2108,Foshan Ferry,ZCP,Air,CN
+2109,Fuoshan,FUO,Air,CN
+2110,Fuyang,FUG,Air,CN
+2111,Fuyun,FYN,Air,CN
+2112,Fuzhou,FOC,Air,CN
+2113,Ganzhou,KOW,Air,CN
+2114,Golmud,GOQ,Air,CN
+2115,Guang Yuan,GYS,Air,CN
+2116,Guanghan,GHN,Air,CN
+2117,Guanghua,LHK,Air,CN
+2118,Baiyun,CAN,Air,CN
+2119,Guilin,KWL,Air,CN
+2120,Guiyang,KWE,Air,CN
+2121,Haikou,HAK,Air,CN
+2122,Hailar,HLD,Air,CN
+2123,Hami,HMI,Air,CN
+2124,Hangzhou,HGH,Air,CN
+2125,Hanzhong,HZG,Air,CN
+2126,Harbin,HRB,Air,CN
+2127,Shanghai,HFE,Air,CN
+2128,Heihe,HEK,Air,CN
+2129,Hengyang,HNY,Air,CN
+2130,Hohhot,HET,Air,CN
+2131,Hotan,HTN,Air,CN
+2132,Changsha Huanghua,HHA,Air,CN
+2133,Harbour,ZMY,Air,CN
+2134,Huangyan,HYN,Air,CN
+2135,Huizhou,HUZ,Air,CN
+2136,Humen Port,ZTI,Air,CN
+2137,Ji An/Jing Gang Shan,JGS,Air,CN
+2138,Jiamusi,JMU,Air,CN
+2139,Jiang Men Ferry,ZBD,Air,CN
+2140,Jiayuguan,JGN,Air,CN
+2141,Jilin,JIL,Air,CN
+2142,Jinan,TNA,Air,CN
+2143,Jingdezhen,JDZ,Air,CN
+2144,Gasa,JHG,Air,CN
+2145,Jining,JNG,Air,CN
+2146,Jinjiang,JJN,Air,CN
+2147,Jinzhou,JNZ,Air,CN
+2148,Jiujiang,JIU,Air,CN
+2149,Jiuquan,CHW,Air,CN
+2150,Juzhou,JUZ,Air,CN
+2151,Karamay,KRY,Air,CN
+2152,Kashi,KHG,Air,CN
+2153,Korla,KRL,Air,CN
+2154,Kunming,KMG,Air,CN
+2155,Kuqa,KCA,Air,CN
+2156,Lanzhou Airport,LHW,Air,CN
+2157,Lanzhoudong,LZD,Air,CN
+2158,Zhongchuan,ZGC,Air,CN
+2159,Lhasa,LXA,Air,CN
+2160,Liangping,LIA,Air,CN
+2161,Lianhuashan Port,ZIY,Air,CN
+2162,Lianyungang,LYG,Air,CN
+2163,Lijiang,LJG,Air,CN
+2164,Lincang,LNJ,Air,CN
+2165,LingLing,LLF,Air,CN
+2166,Linxi,LXI,Air,CN
+2167,Linyi,LYI,Air,CN
+2168,Liping,HZH,Air,CN
+2169,Liuzhou,LZH,Air,CN
+2170,Liancheng,LCX,Air,CN
+2171,Luoyang,LYA,Air,CN
+2172,Lushan,LUZ,Air,CN
+2173,Mangshi,LUM,Air,CN
+2174,Luzhou,LZO,Air,CN
+2175,Manzhouli,NZH,Air,CN
+2176,Meixian,MXZ,Air,CN
+2177,Mudanjiang,MDG,Air,CN
+2178,Nanchang,KHN,Air,CN
+2179,Nanchong,NAO,Air,CN
+2180,Nanhai Ferry,ZEF,Air,CN
+2181,Nanking/nanjing,NKG,Air,CN
+2182,Nanning,NNG,Air,CN
+2183,Nantong,NTG,Air,CN
+2184,Nanyang,NNY,Air,CN
+2185,Ningbo,NGB,Air,CN
+2186,Pan Yu Ferry,ZAX,Air,CN
+2187,Pan Zhi Hua Bao AnYing,PZI,Air,CN
+2188,Peng Lai/Sha He Kou,PNJ,Air,CN
+2189,Qiemo,IQM,Air,CN
+2190,Qingdao,TAO,Air,CN
+2191,Qingyang,IQN,Air,CN
+2192,Qinhuangdao,SHP,Air,CN
+2193,Qiqihar,NDG,Air,CN
+2194,Rugao,RUG,Air,CN
+2195,Sanya,SYX,Air,CN
+2196,Hongqiao,SHA,Air,CN
+2197,Pu Dong,PVG,Air,CN
+2198,Shanhaiguan,SHF,Air,CN
+2199,Shanshan,SXJ,Air,CN
+2200,Shantou,SWA,Air,CN
+2201,Shanzhou,SZO,Air,CN
+2202,Shaoguan,HSC,Air,CN
+2203,Shashi,SHS,Air,CN
+2204,She Kou Ferry,ZCU,Air,CN
+2205,Shekou Port,ZYK,Air,CN
+2206,Shenyang,SHE,Air,CN
+2207,Shenzhen,SZX,Air,CN
+2208,Daguocun,SJW,Air,CN
+2209,Shunde Ferry,ZAS,Air,CN
+2210,Simao,SYM,Air,CN
+2211,Jiu Zhai Huang Long,JZH,Air,CN
+2212,Sui Fen He,FUD,Air,CN
+2213,Suzhou,SZV,Air,CN
+2214,Tacheng,TCG,Air,CN
+2215,Tai Shan,ZCA,Air,CN
+2216,Taiyuan,TYN,Air,CN
+2217,Tianjin,TSN,Air,CN
+2218,Econ/Tech Dev. Area,XTA,Air,CN
+2219,Port Free Trade Zone,XTF,Air,CN
+2220,Tonghua Liuhe,TNH,Air,CN
+2221,Tongliao,TGO,Air,CN
+2222,Tongren,TEN,Air,CN
+2223,Tunxi,TXN,Air,CN
+2224,Ulanhot,HLH,Air,CN
+2225,Urumqi,URC,Air,CN
+2226,Wanxian,WXN,Air,CN
+2227,Weifang,WEF,Air,CN
+2228,Weihai,WEH,Air,CN
+2229,Wenzhou,WNZ,Air,CN
+2230,Wu Hai,WUA,Air,CN
+2231,Wuhan,WUH,Air,CN
+2232,Wuhu,WHU,Air,CN
+2233,Wuxi,WUX,Air,CN
+2234,Wuyishan,WUS,Air,CN
+2235,Changzhoudao,WUZ,Air,CN
+2236,Xianyang,XIY,Air,CN
+2237,Xiguan,SIA,Air,CN
+2238,Xiamen,XMN,Air,CN
+2239,Xiangfan,XFN,Air,CN
+2240,Xichang,XIC,Air,CN
+2241,Xilinhot,XIL,Air,CN
+2242,Xin Hui Ferry,ZBZ,Air,CN
+2243,Xingcheng,XEN,Air,CN
+2244,Xingning,XIN,Air,CN
+2245,Xingtai,XNT,Air,CN
+2246,Xingyi,ACX,Air,CN
+2247,Xining,XNN,Air,CN
+2248,Xuzhou,XUZ,Air,CN
+2249,Yancheng,YNZ,Air,CN
+2250,Yanji,YNJ,Air,CN
+2251,Laishan,YNT,Air,CN
+2252,Yibin,YBP,Air,CN
+2253,Yichang,YIH,Air,CN
+2254,Yilan,YLN,Air,CN
+2255,Yinchuan,INC,Air,CN
+2256,Yining,YIN,Air,CN
+2257,Yiwu,YIW,Air,CN
+2258,Yuanmou,YUA,Air,CN
+2259,Yulin,UYN,Air,CN
+2260,Zhanjiang,ZHA,Air,CN
+2261,Zhaotong,ZAT,Air,CN
+2262,Zhengzhou,CGO,Air,CN
+2263,Zhi Jiang,HJJ,Air,CN
+2264,Zhongshan Ferry Port,ZGN,Air,CN
+2265,Zhoushan,HSN,Air,CN
+2266,Zhuhai Airport,ZUH,Air,CN
+2267,Zunyi,ZYI,Air,CN
+2268,Acandi,ACD,Air,CO
+2269,Acaricuara,ARF,Air,CO
+2270,Aguaclara,ACL,Air,CO
+2271,Amalfi,AFI,Air,CO
+2272,Andes,ADN,Air,CO
+2273,Apartado,APO,Air,CO
+2274,Apiay,API,Air,CO
+2275,Araracuara,ACR,Air,CO
+2276,Arauca,AUC,Air,CO
+2277,Arauquita,ARQ,Air,CO
+2278,Arboletas,ARO,Air,CO
+2279,Arica,ACM,Air,CO
+2280,El Eden,AXM,Air,CO
+2281,Ayacucho,AYC,Air,CO
+2282,Ayapel,AYA,Air,CO
+2283,Bahia Cupica,BHF,Air,CO
+2284,Bahia Solano,BSC,Air,CO
+2285,Barranca De Upia,BAC,Air,CO
+2286,Variguies,EJA,Air,CO
+2287,Barrancominas,NBB,Air,CO
+2288,E Cortissoz,BAQ,Air,CO
+2289,Eldorado,BOG,Air,CO
+2290,Palo Negro,BGA,Air,CO
+2291,Buenaventura,BUN,Air,CO
+2292,Alfonso B. Aragon,CLO,Air,CO
+2293,Candilejas,CJD,Air,CO
+2294,Capurgana,CPB,Air,CO
+2295,Caquetania,CQT,Air,CO
+2296,Carimagua,CCO,Air,CO
+2297,Rafael Nunez,CTG,Air,CO
+2298,Cartago,CRC,Air,CO
+2299,Caruru,CUO,Air,CO
+2300,Casuarito,CSR,Air,CO
+2301,Caucasia,CAQ,Air,CO
+2302,Chaparral,CPL,Air,CO
+2303,Chigorodo,IGO,Air,CO
+2304,Chivolo,IVO,Air,CO
+2305,Cimitarra,CIM,Air,CO
+2306,Codazzi,DZI,Air,CO
+2307,Mandinga,COG,Air,CO
+2308,Corozal,CZU,Air,CO
+2309,Covenas,CVE,Air,CO
+2310,Cravo Norte,RAV,Air,CO
+2311,Camilo Dazo,CUC,Air,CO
+2312,Currillo,CUI,Air,CO
+2313,El Bagre,EBG,Air,CO
+2314,San Bernado,ELB,Air,CO
+2315,El Charco,ECR,Air,CO
+2316,El Encanto,ECO,Air,CO
+2317,El Recreo,ELJ,Air,CO
+2318,El Yopal,EYP,Air,CO
+2319,Capitolio,FLA,Air,CO
+2320,Gamarra,GRA,Air,CO
+2321,Gilgal,GGL,Air,CO
+2322,Girardot,GIR,Air,CO
+2323,Guacamaya,GCA,Air,CO
+2324,Guamal,GAA,Air,CO
+2325,Guapi,GPI,Air,CO
+2326,Guerima,GMC,Air,CO
+2327,Hato Corozal,HTZ,Air,CO
+2328,Herrera,HRR,Air,CO
+2329,Ibague,IBE,Air,CO
+2330,San Luis,IPI,Air,CO
+2331,Iscuande,ISD,Air,CO
+2332,Jurado,JUO,Air,CO
+2333,La Chorrera,LCR,Air,CO
+2334,La Pedrera,LPD,Air,CO
+2335,La Primavera,LPE,Air,CO
+2336,La Uribe,LAT,Air,CO
+2337,Lamacarena,LMC,Air,CO
+2338,Las Gaviotas,LGT,Air,CO
+2339,Leguizamo,LGZ,Air,CO
+2340,Gen. A.V. Cobo,LET,Air,CO
+2341,Lopez De Micay,LMX,Air,CO
+2342,Lorica,LRI,Air,CO
+2343,Macanal,NAD,Air,CO
+2344,Baracoa,MGN,Air,CO
+2345,Maicao,MCJ,Air,CO
+2346,Santaguida,MZL,Air,CO
+2347,Mariquita,MQU,Air,CO
+2348,Enrique Olaya Herrera International Airport,EOH,Air,CO
+2349,Jose Marie Cordova,MDE,Air,CO
+2350,Medina,MND,Air,CO
+2351,Miraflores,MFS,Air,CO
+2352,Miriti,MIX,Air,CO
+2353,Mitu,MVP,Air,CO
+2354,Mompos,MMP,Air,CO
+2355,Monfort,MFB,Air,CO
+2356,Monte Libano,MTB,Air,CO
+2357,S. Jeronimo,MTR,Air,CO
+2358,Monterrey,MOY,Air,CO
+2359,Morichal,MHF,Air,CO
+2360,Mosquera,MQR,Air,CO
+2361,Mulatos,ULS,Air,CO
+2362,Nare,NAR,Air,CO
+2363,Necocli,NCI,Air,CO
+2364,La Marguita,NVA,Air,CO
+2365,Nunchia,NUH,Air,CO
+2366,Nuqui,NQU,Air,CO
+2367,Aguasclaras,OCV,Air,CO
+2368,Orocue,ORC,Air,CO
+2369,Otu,OTU,Air,CO
+2370,Palanquero,PAL,Air,CO
+2371,Paratebueno,EUO,Air,CO
+2372,Cano,PSO,Air,CO
+2373,Payan,PYN,Air,CO
+2374,Casanare,PZA,Air,CO
+2375,Matecana,PEI,Air,CO
+2376,Pitalito,PTX,Air,CO
+2377,Planadas,PLA,Air,CO
+2378,Planeta Rica,PLC,Air,CO
+2379,Plato,PLT,Air,CO
+2380,Machangara,PPN,Air,CO
+2381,Pore,PRE,Air,CO
+2382,Providencia,PVA,Air,CO
+2383,Puerto Asis,PUU,Air,CO
+2384,Puerto Berrio,PBE,Air,CO
+2385,Puerto Boyaca,PYA,Air,CO
+2386,Puerto Carreno,PCR,Air,CO
+2387,Puerto Inirida,PDA,Air,CO
+2388,Puerto Leguizamo,LQM,Air,CO
+2389,Puerto Rico,PCC,Air,CO
+2390,Quibdo,UIB,Air,CO
+2391,Riohacha,RCH,Air,CO
+2392,Rondon,RON,Air,CO
+2393,Sabana De Torres,SNT,Air,CO
+2394,San Andres Island,ADZ,Air,CO
+2395,San Felipe,SSD,Air,CO
+2396,San Jose Del Gua,SJE,Air,CO
+2397,San Juan D Ur,SJR,Air,CO
+2398,San Juan Del Cesar,SJH,Air,CO
+2399,San Luis De Pale,SQE,Air,CO
+2400,Santa Fe De Bogota,SRS,Air,CO
+2401,San Pedro Jagua,SJG,Air,CO
+2402,San Pedro Uraba,NPU,Air,CO
+2403,San Vicente,SVI,Air,CO
+2404,Santa Ana,SQB,Air,CO
+2405,Santa Catalina,SCA,Air,CO
+2406,Santa Maria,SMC,Air,CO
+2407,Simon Bolivar,SMR,Air,CO
+2408,Santa Rosalia,SSL,Air,CO
+2409,Santana Ramos,SRO,Air,CO
+2410,Los Colonizadores,RVE,Air,CO
+2411,Alberto Lleras Camargo,SOX,Air,CO
+2412,Solano,SQF,Air,CO
+2413,Solita,SOH,Air,CO
+2414,Tablon De Tamara,TTM,Air,CO
+2415,Tame,TME,Air,CO
+2416,Tarapaca,TCD,Air,CO
+2417,Tauramena,TAU,Air,CO
+2418,Tibu,TIB,Air,CO
+2419,Timbiqui,TBD,Air,CO
+2420,Tolu,TLU,Air,CO
+2421,Tres Esquinas,TQS,Air,CO
+2422,Trinidad,TDA,Air,CO
+2423,Farfan,ULQ,Air,CO
+2424,La Florida,TCO,Air,CO
+2425,Gonzalo,TRB,Air,CO
+2426,Unguia,UNC,Air,CO
+2427,Uribe,URI,Air,CO
+2428,Urrao,URR,Air,CO
+2429,Valledupar,VUP,Air,CO
+2430,Villagarzon,VGZ,Air,CO
+2431,La Vanguardia,VVC,Air,CO
+2432,Yaguara,AYG,Air,CO
+2433,Yari,AYI,Air,CO
+2434,Yavarate,VAB,Air,CO
+2435,Zapatoca,AZT,Air,CO
+2436,San Fernando,SFR,Air,CO
+2437,Barra Colorado,BCL,Air,CR
+2438,Buenos Aires,BAI,Air,CR
+2439,Canas,CSC,Air,CR
+2440,Carrillo,RIK,Air,CR
+2441,Coto 47,OTR,Air,CR
+2442,Flamingo,FMG,Air,CR
+2443,Fortuna,FON,Air,CR
+2444,Golfito,GLF,Air,CR
+2445,Guapiles,GPL,Air,CR
+2446,Las Canas,LCS,Air,CR
+2447,Liberia,LIR,Air,CR
+2448,Limon,LIO,Air,CR
+2449,Los Chiles,LSL,Air,CR
+2450,Guanacaste,NCT,Air,CR
+2451,Nosara Beach,NOB,Air,CR
+2452,Palmar Sur,PMZ,Air,CR
+2453,Playa Samara,PLD,Air,CR
+2454,Puerto Jimenez,PJM,Air,CR
+2455,Punta Islita,PBP,Air,CR
+2456,Punta Renes,JAP,Air,CR
+2457,Quepos,XQP,Air,CR
+2458,Rio Frio,RFR,Air,CR
+2459,Juan Santamaria Intl,SJO,Air,CR
+2460,San Vito,TOO,Air,CR
+2461,Guanacaste,SZC,Air,CR
+2462,Tamarindo,TNO,Air,CR
+2463,Tambor,TMU,Air,CR
+2464,Tortuquero,TTQ,Air,CR
+2465,Upala,UPL,Air,CR
+2466,Turany,BRQ,Air,CS
+2467,Hercegnovi,HNO,Air,CS
+2468,Karlovy Vary,KLV,Air,CS
+2469,Marianske Lazne,MKA,Air,CS
+2470,Olomouc,OLO,Air,CS
+2471,Ruzyne,PRG,Air,CS
+2472,Prerov,PRV,Air,CS
+2473,Zamość,POV,Air,CS
+2474,Kunovice,UHE,Air,CS
+2475,Dolni Benesov,ZBE,Air,CS
+2476,Holesov,GTW,Air,CS
+2477,Tivat,TIV,Air,CS
+2478,Ponikve,UZC,Air,CS
+2479,Baracoa,BCA,Air,CU
+2480,C.M. de Cespedes,BYM,Air,CU
+2481,Ign Agramonte Intl,CMW,Air,CU
+2482,Cayo Coco,CCC,Air,CU
+2483,Cayo Largo Del Sur,CYO,Air,CU
+2484,Maximo Gomez,AVI,Air,CU
+2485,Cienfuegos,CFG,Air,CU
+2486,Guantanamo NAS,NBW,Air,CU
+2487,Los Canos,GAO,Air,CU
+2488,Jose Marti Intl,HAV,Air,CU
+2489,Playa Baracoa,UPB,Air,CU
+2490,Frank Pais,HOG,Air,CU
+2491,La Coloma,LCL,Air,CU
+2492,Las Tunas,VTU,Air,CU
+2493,Sierra Maestra,MZO,Air,CU
+2494,Kawama,VRO,Air,CU
+2495,Mayajigua,MJG,Air,CU
+2496,Orestes Acosta,MOA,Air,CU
+2497,Nicaro,ICR,Air,CU
+2498,Rafael Cabrera,GER,Air,CU
+2499,Preston,PST,Air,CU

@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+4000,Bojnord,BJB,Air,IR
+4001,Bushehr,BUZ,Air,IR
+4002,Chah-Bahar,ZBR,Air,IR
+4003,Dezful,DEF,Air,IR
+4004,Fasa,FAZ,Air,IR
+4005,Gachsaran,GCH,Air,IR
+4006,Ghazvin,GZW,Air,IR
+4007,Gheshm,GSM,Air,IR
+4008,Gorgan,GBT,Air,IR
+4009,Hamadan,HDM,Air,IR
+4010,Havadarya,HDR,Air,IR
+4011,Hesa,IFH,Air,IR
+4012,Ilaam,IIL,Air,IR
+4013,Iran Shahr,IHR,Air,IR
+4014,Isfahan,IFN,Air,IR
+4015,Jiroft,JYR,Air,IR
+4016,Kalaleh,KLM,Air,IR
+4017,Jam,KNR,Air,IR
+4018,Kerman,KER,Air,IR
+4019,Kermanshah,KSH,Air,IR
+4020,Khaneh,KHA,Air,IR
+4021,Khark Island,KHK,Air,IR
+4022,Khorramabad,KHD,Air,IR
+4023,Khoy,KHY,Air,IR
+4024,Kish Island,KIH,Air,IR
+4025,Lamerd,LFM,Air,IR
+4026,Lar A/P,LRR,Air,IR
+4027,Lavan,LVP,Air,IR
+4028,Mashad,MHD,Air,IR
+4029,Nojeh,NUJ,Air,IR
+4030,Now Shahr,NSH,Air,IR
+4031,Omidieh,OMI,Air,IR
+4032,Parsabad,PFQ,Air,IR
+4033,Rafsanjan,RJN,Air,IR
+4034,Ramsar,RZR,Air,IR
+4035,Rasht,RAS,Air,IR
+4036,Sabzevar,AFZ,Air,IR
+4037,Sahand,ACP,Air,IR
+4038,Sanandaj,SDG,Air,IR
+4039,Sarakhs,CKT,Air,IR
+4040,Dashte Naz,SRY,Air,IR
+4041,Shahre-Kord,CQD,Air,IR
+4042,Shiraz,SYZ,Air,IR
+4043,Sirjan,SYJ,Air,IR
+4044,Sirri Island,SXI,Air,IR
+4045,Tabas,TCX,Air,IR
+4046,Tabriz,TBZ,Air,IR
+4047,Mehrabad,THR,Air,IR
+4048,Tohid,TEW,Air,IR
+4049,Urmieh,OMH,Air,IR
+4050,Yasouj,YES,Air,IR
+4051,Yazd,AZD,Air,IR
+4052,Zabol A/P,ACZ,Air,IR
+4053,Zahedan,ZAH,Air,IR
+4054,Zanjan,JWN,Air,IR
+4055,Akureyri,AEY,Air,IS
+4056,Bakkafjordur,BJD,Air,IS
+4057,Bildudalur,BIU,Air,IS
+4058,Blonduos,BLO,Air,IS
+4059,Borgarfjordur Eystri,BGJ,Air,IS
+4060,Breiddalsvik,BXV,Air,IS
+4061,Djupivogur,DJU,Air,IS
+4062,Egilsstadir,EGS,Air,IS
+4063,Fagurholsmyri,FAG,Air,IS
+4064,Faskrudsfjordur,FAS,Air,IS
+4065,Flateyri,FLI,Air,IS
+4066,Gjogur,GJR,Air,IS
+4067,Grimsey,GRY,Air,IS
+4068,Grundarfjordur,GUU,Air,IS
+4069,Holmavik,HVK,Air,IS
+4070,Hornafjordur,HFN,Air,IS
+4071,Husavik,HZK,Air,IS
+4072,Hvammstangi,HVM,Air,IS
+4073,Isafjordur,IFJ,Air,IS
+4074,Kopasker,OPA,Air,IS
+4075,Reykiahlid,MVA,Air,IS
+4076,Nordfjordur,NOR,Air,IS
+4077,Olafsfjordur,OFJ,Air,IS
+4078,Rif,OLI,Air,IS
+4079,Patreksfjordur,PFJ,Air,IS
+4080,Raufarhofn,RFN,Air,IS
+4081,Reykholar,RHA,Air,IS
+4082,Keflavik International,KEF,Air,IS
+4083,Reykjavik Domestic,RKV,Air,IS
+4084,Saudarkrokur,SAK,Air,IS
+4085,Seydisfjordur,SEJ,Air,IS
+4086,Siglufjordur,SIJ,Air,IS
+4087,Stykkisholmur,SYK,Air,IS
+4088,Sudureyri,SUY,Air,IS
+4089,Talknafjordur,TLK,Air,IS
+4090,Thingeyri,TEY,Air,IS
+4091,Thorshofn,THO,Air,IS
+4092,Vestmannaeyjar,VEY,Air,IS
+4093,Vopnafjordur,VPN,Air,IS
+4094,Albenga,ALL,Air,IT
+4095,Fertilia,AHO,Air,IT
+4096,Falconara,AOI,Air,IT
+4097,Corrado Gex,AOT,Air,IT
+4098,Aviano,AVB,Air,IT
+4099,Palese,BRI,Air,IT
+4100,Belluno,BLX,Air,IT
+4101,Guglielmo Marconi,BLQ,Air,IT
+4102,Bolzano,BZO,Air,IT
+4103,Bus Station,ZBN,Air,IT
+4104,Papola Casale,BDS,Air,IT
+4105,Cagliari Elmas - Mario Mameli,CAG,Air,IT
+4106,Capri,PRJ,Air,IT
+4107,Fontanarossa,CTA,Air,IT
+4108,Bus Station,ZAK,Air,IT
+4109,Comiso,CIY,Air,IT
+4110,Crotone,CRV,Air,IT
+4111,Levaldigi,CUF,Air,IT
+4112,Rafsu Decimomannu,DCI,Air,IT
+4113,Marina Di Campo,EBA,Air,IT
+4114,Galileo Galilei,PSA,Air,IT
+4115,Florence Peretola,FLR,Air,IT
+4116,S.M. Novella Rail.Svc,ZMS,Air,IT
+4117,Gino Lisa,FOG,Air,IT
+4118,Luigi Ridolfi,FRL,Air,IT
+4119,Cristoforo Colombo,GOA,Air,IT
+4120,Baccarini,GRS,Air,IT
+4121,Ischia,ISH,Air,IT
+4122,Jesolo,JLO,Air,IT
+4123,S Eufemia,SUF,Air,IT
+4124,Lampedusa,LMP,Air,IT
+4125,Galatina,LCC,Air,IT
+4126,Linosa Heliport,LIU,Air,IT
+4127,Harbour (Eolie Island),ZIP,Air,IT
+4128,Lucca,LCV,Air,IT
+4129,Marina Di Massa,QMM,Air,IT
+4130,Bus Station,ZMR,Air,IT
+4131,Central Station,XIK,Air,IT
+4132,Linate,LIN,Air,IT
+4133,Malpensa,MXP,Air,IT
+4134,Orio Al Serio,BGY,Air,IT
+4135,Giuseppe Verdi,PMF,Air,IT
+4136,Segrate,SWK,Air,IT
+4137,Bus Station,ZMO,Air,IT
+4138,Capodichino,NAP,Air,IT
+4139,Beverello Harbor,ZMF,Air,IT
+4140,Mergellina Harbour,ZMJ,Air,IT
+4141,Mergellina Railway Svc,ZMI,Air,IT
+4142,Costa Smeralda,OLB,Air,IT
+4143,Punta Raisi,PMO,Air,IT
+4144,Harbour (Eolie Island),ZJE,Air,IT
+4145,Pantelleria,PNL,Air,IT
+4146,Sant Egidio,PEG,Air,IT
+4147,Liberi,PSR,Air,IT
+4148,Peschiei,PEJ,Air,IT
+4149,Harbour,ZJY,Air,IT
+4150,Harbour,ZJJ,Air,IT
+4151,La Spreta,RAN,Air,IT
+4152,Tito Menniti,REG,Air,IT
+4153,Miramare,RMI,Air,IT
+4154,Ciampino,CIA,Air,IT
+4155,Leonardo Da Vinci (Fiumicino),FCO,Air,IT
+4156,Mestre Rail Stn.,XVY,Air,IT
+4157,Termini Rail Stn.,XRJ,Air,IT
+4158,Harbour (Eolie Island),ZIQ,Air,IT
+4159,San Domino Island,TQR,Air,IT
+4160,San Giovanni Rotondo,GBN,Air,IT
+4161,Siena,SAY,Air,IT
+4162,Sigonella NAF,NSY,Air,IT
+4163,Sorrento,RRO,Air,IT
+4164,Harbour (Eolie Island),ZJX,Air,IT
+4165,Taormina Harbour,TFC,Air,IT
+4166,M. A. Grottag,TAR,Air,IT
+4167,Arbatax,TTB,Air,IT
+4168,Birgi,TPS,Air,IT
+4169,Ronchi Dei Legionari,TRS,Air,IT
+4170,Sandro Pertini (caselle),TRN,Air,IT
+4171,Airfield,UDN,Air,IT
+4172,Marco Polo,VCE,Air,IT
+4173,Santa Lucia Rail,XVQ,Air,IT
+4174,Treviso,TSF,Air,IT
+4175,Valerio Catullo,VRN,Air,IT
+4176,Brescia Montichiari,VBS,Air,IT
+4177,Porta Nuova Rail,XIX,Air,IT
+4178,Vicenza,VIC,Air,IT
+4179,Vieste,VIF,Air,IT
+4180,Harbour (Eolie Island),ZIE,Air,IT
+4181,Norman Manley,KIN,Air,JM
+4182,Tinson,KTP,Air,JM
+4183,Marlboro,MVJ,Air,JM
+4184,Sangster International,MBJ,Air,JM
+4185,Negril,NEG,Air,JM
+4186,Boscobel,OCJ,Air,JM
+4187,Ken Jones,POT,Air,JM
+4188,Civil - Marka Airport,ADJ,Air,JO
+4189,Queen Alia Intl,AMM,Air,JO
+4190,King Hussein Intl,AQJ,Air,JO
+4191,Maan,MPQ,Air,JO
+4192,King Hussein,OMF,Air,JO
+4193,Aguni,AGJ,Air,JP
+4194,Akita,AXT,Air,JP
+4195,Amami O Shima,ASJ,Air,JP
+4196,Aomori,AOJ,Air,JP
+4197,Asahikawa,AKJ,Air,JP
+4198,NAS,NJA,Air,JP
+4199,Beppu,BPU,Air,JP
+4200,Fukue,FUJ,Air,JP
+4201,Fukui,FKJ,Air,JP
+4202,Fukuoka,FUK,Air,JP
+4203,Fukushima Airport,FKS,Air,JP
+4204,Hachijo Jima,HAC,Air,JP
+4205,Hachinohe,HHE,Air,JP
+4206,Hakodate,HKD,Air,JP
+4207,Hanamaki,HNA,Air,JP
+4208,Hateruma,HTR,Air,JP
+4209,Hiroshima West,HIW,Air,JP
+4210,International,HIJ,Air,JP
+4211,Iejima,IEJ,Air,JP
+4212,Iki,IKI,Air,JP
+4213,Ishigaki,ISG,Air,JP
+4214,Iwami,IWJ,Air,JP
+4215,Iwo Jima Airbase,IWO,Air,JP
+4216,Izumo,IZO,Air,JP
+4217,Kagoshima,KOJ,Air,JP
+4218,Kerama,KJP,Air,JP
+4219,Kikaiga Shima,KKX,Air,JP
+4220,Kita Kyushu,KKJ,Air,JP
+4221,Kitadaito,KTD,Air,JP
+4222,Kobe,UKB,Air,JP
+4223,Kochi,KCZ,Air,JP
+4224,Komatsu,KMQ,Air,JP
+4225,Kumamoto,KMJ,Air,JP
+4226,Kumejima,UEO,Air,JP
+4227,Kushimoto,KUJ,Air,JP
+4228,Kushiro,KUH,Air,JP
+4229,Kansai,UKY,Air,JP
+4230,Marcus Island,MUS,Air,JP
+4231,Matsumoto,MMJ,Air,JP
+4232,Matsuyama,MYJ,Air,JP
+4233,Memanbetsu,MMB,Air,JP
+4234,Maridor,MMD,Air,JP
+4235,Misawa,MSJ,Air,JP
+4236,Miyake Jima,MYE,Air,JP
+4237,Hirara,MMY,Air,JP
+4238,Miyazaki,KMI,Air,JP
+4239,Monbetsu,MBE,Air,JP
+4240,Nagasaki,NGS,Air,JP
+4241,Komaki AFB,NKM,Air,JP
+4242,Nakashibetsu,SHB,Air,JP
+4243,Niigata,KIJ,Air,JP
+4244,Niihama,IHA,Air,JP
+4245,Nishinoomote,IIN,Air,JP
+4246,Obihiro,OBO,Air,JP
+4247,Odate Noshiro,ONJ,Air,JP
+4248,Oita,OIT,Air,JP
+4249,Okayama,OKJ,Air,JP
+4250,Oki Island,OKI,Air,JP
+4251,Kadena AFB,DNA,Air,JP
+4252,Naha,OKA,Air,JP
+4253,Naha AFB,AHA,Air,JP
+4254,Okino Erabu,OKE,Air,JP
+4255,Okushiri,OIR,Air,JP
+4256,Omura,OMJ,Air,JP
+4257,Itami,ITM,Air,JP
+4258,Kansai International,KIX,Air,JP
+4259,Oshima,OIM,Air,JP
+4260,Off line Point,XZJ,Air,JP
+4261,Rebun,RBJ,Air,JP
+4262,Rishiri,RIS,Air,JP
+4263,Ryotsu Sado Is,SDO,Air,JP
+4264,Sado Shima,SDS,Air,JP
+4265,Saga,HSG,Air,JP
+4266,Chitose,CTS,Air,JP
+4267,Okadama,OKD,Air,JP
+4268,Sendai,SDJ,Air,JP
+4269,Shimojishima,SHI,Air,JP
+4270,Shirahama,SHM,Air,JP
+4271,Shonai,SYO,Air,JP
+4272,Takamatsu,TAK,Air,JP
+4273,Tanegashima,TNE,Air,JP
+4274,Tarama,TRA,Air,JP
+4275,Tokunoshima,TKN,Air,JP
+4276,Tokushima,TKS,Air,JP
+4277,Haneda,HND,Air,JP
+4278,Narita,NRT,Air,JP
+4279,Yokota AFB,OKO,Air,JP
+4280,Tottori,TTJ,Air,JP
+4281,Toyama,TOY,Air,JP
+4282,Tajima,TJH,Air,JP
+4283,Tsushima,TSJ,Air,JP
+4284,Ube,UBJ,Air,JP
+4285,Noto Airport,NTQ,Air,JP
+4286,Hokkaido,WKJ,Air,JP
+4287,Yakushima,KUM,Air,JP
+4288,Junmachi,GAJ,Air,JP
+4289,Yokohama,YOK,Air,JP
+4290,Miho,YGJ,Air,JP
+4291,Yonaguni Jima,OGN,Air,JP
+4292,Yoronjima,RNJ,Air,JP
+4293,Central Japan International,NGO,Air,JP
+4294,Amboseli,ASV,Air,KE
+4295,Bamburi,BMQ,Air,KE
+4296,Eldoret,EDL,Air,KE
+4297,Eliye Springs,EYS,Air,KE
+4298,Fergusons Gulf,FER,Air,KE
+4299,Garissa,GAS,Air,KE
+4300,Hola,HOA,Air,KE
+4301,Kalokol,KLK,Air,KE
+4302,Kericho,KEY,Air,KE
+4303,Kerio Valley,KRV,Air,KE
+4304,Kilaguni,ILU,Air,KE
+4305,Kisumu,KIS,Air,KE
+4306,Kitale,KTL,Air,KE
+4307,Kiunga,KIU,Air,KE
+4308,Kiwayu,KWY,Air,KE
+4309,Lake Baringo,LBN,Air,KE
+4310,Lake Rudolf,LKU,Air,KE
+4311,Lamu,LAU,Air,KE
+4312,Liboi,LBK,Air,KE
+4313,Lodwar,LOK,Air,KE
+4314,Lokichoggio,LKG,Air,KE
+4315,Loyangalani,LOY,Air,KE
+4316,Malindi,MYD,Air,KE
+4317,Mandera,NDE,Air,KE
+4318,Mara Lodges,MRE,Air,KE
+4319,Marsabit,RBT,Air,KE
+4320,Moi International,MBA,Air,KE
+4321,Moyale,OYL,Air,KE
+4322,Mumias,MUM,Air,KE
+4323,Jomo Kenyatta International,NBO,Air,KE
+4324,Wilson,WIL,Air,KE
+4325,Nakuru,NUU,Air,KE
+4326,Nanyuki,NYK,Air,KE
+4327,Nyeri,NYE,Air,KE
+4328,Nzoia,NZO,Air,KE
+4329,Samburu,UAS,Air,KE
+4330,Ukunda,UKA,Air,KE
+4331,Wajir,WJR,Air,KE
+4332,Bishkek,FRU,Air,KG
+4333,Osh,OSS,Air,KG
+4334,Battambang,BBM,Air,KH
+4335,Kampot,KMT,Air,KH
+4336,Koh Kong,KKZ,Air,KH
+4337,Kompong Thom,KZK,Air,KH
+4338,Kompong-Chhna,KZC,Air,KH
+4339,Krakor,KZD,Air,KH
+4340,Kratie,KTI,Air,KH
+4341,Mundulkiri,MWV,Air,KH
+4342,Oddor Meanche,OMY,Air,KH
+4343,Pailin,PAI,Air,KH
+4344,Phnom Penh International,PNH,Air,KH
+4345,Poipet,HPP,Air,KH
+4346,Ratanakiri,RBE,Air,KH
+4347,Siem Reap,REP,Air,KH
+4348,Sihanoukville,KOS,Air,KH
+4349,Stung Treng,TNX,Air,KH
+4350,Svay Rieng,SVR,Air,KH
+4351,Abaiang,ABF,Air,KI
+4352,Abemama Atoll,AEA,Air,KI
+4353,Aranuka,AAK,Air,KI
+4354,Arorae Island,AIS,Air,KI
+4355,Beru,BEZ,Air,KI
+4356,Butaritari,BBG,Air,KI
+4357,Canton Island,CIS,Air,KI
+4358,Christmas Island,CXI,Air,KI
+4359,Kuria,KUC,Air,KI
+4360,Maiana,MNK,Air,KI
+4361,Makin Island,MTK,Air,KI
+4362,Marakei,MZK,Air,KI
+4363,Nikunau,NIG,Air,KI
+4364,Nonouti,NON,Air,KI
+4365,Onotoa,OOT,Air,KI
+4366,Tabiteuea North,TBF,Air,KI
+4367,Tabiteuea South,TSU,Air,KI
+4368,Tabuaeran,TNV,Air,KI
+4369,Tamana Island,TMN,Air,KI
+4370,Bonriki,TRW,Air,KI
+4371,Teraina,TNQ,Air,KI
+4372,Ouani,AJN,Air,KM
+4373,Dzaoudzi,DZA,Air,KM
+4374,Moheli,NWA,Air,KM
+4375,Iconi,YVA,Air,KM
+4376,Prince Said Ibrahim In,HAH,Air,KM
+4377,Newcastle,NEV,Air,KN
+4378,Golden Rock,SKB,Air,KN
+4379,Sunan,FNJ,Air,KP
+4380,Gimhae,PUS,Air,KR
+4381,Cheongju,CJJ,Air,KR
+4382,Daegu,TAE,Air,KR
+4383,Gangneung,KAG,Air,KR
+4384,Heliport,JGE,Air,KR
+4385,Gunsan,KUV,Air,KR
+4386,Gunsan Airbase,KUZ,Air,KR
+4387,Gwangju,KWJ,Air,KR
+4388,Heliport,JCN,Air,KR
+4389,Chuja Heliport,JCJ,Air,KR
+4390,Jeju Airport,CJU,Air,KR
+4391,Seogwipo Heliport,JSP,Air,KR
+4392,Jeonju,CHN,Air,KR
+4393,Jinhae,CHF,Air,KR
+4394,Sacheon,HIN,Air,KR
+4395,Mokpo,MPK,Air,KR
+4396,Ab,OSN,Air,KR
+4397,Pohang,KPO,Air,KR
+4398,Samcheok,SUK,Air,KR
+4399,Seolak,SHO,Air,KR
+4400,Yeosu,SYS,Air,KR
+4401,Suwon,SWU,Air,KR
+4402,Ulsan,USN,Air,KR
+4403,WonJu,WJU,Air,KR
+4404,Yangyang,YNY,Air,KR
+4405,Yecheon,YEC,Air,KR
+4406,Yeosu,RSU,Air,KR
+4407,Seoul (Incheon),ICN,Air,KR
+4408,Ahmed Al Jaber,XIJ,Air,KW
+4409,International,KWI,Air,KW
+4410,Gerrard-Smith,CYB,Air,KY
+4411,Owen Roberts International,GCM,Air,KY
+4412,Little Cayman,LYB,Air,KY
+4413,Aktau,SCO,Air,KZ
+4414,Aktyubinsk,AKX,Air,KZ
+4415,Almaty,ALA,Air,KZ
+4416,Arkalyk,AYK,Air,KZ
+4417,Astana,TSE,Air,KZ
+4418,Atbasar,ATX,Air,KZ
+4419,Atyrau,GUW,Air,KZ
+4420,Balhash,BXH,Air,KZ
+4421,Burundai,BXJ,Air,KZ
+4422,Ekibastuz,EKB,Air,KZ
+4423,Karaganda,KGF,Air,KZ
+4424,Kokshetau,KOV,Air,KZ
+4425,Kostanay,KSN,Air,KZ
+4426,Kzyl-Orda,KZO,Air,KZ
+4427,Pavlodar,PWQ,Air,KZ
+4428,Petropavlovsk,PPK,Air,KZ
+4429,Semipalatinsk,PLX,Air,KZ
+4430,Shimkent,CIT,Air,KZ
+4431,Taldy-Kurgan,TDK,Air,KZ
+4432,Uralsk,URA,Air,KZ
+4433,Ust-kamenogorsk,UKK,Air,KZ
+4434,Zaisan,SZI,Air,KZ
+4435,Zhairem,HRC,Air,KZ
+4436,Zhambyl,DMB,Air,KZ
+4437,Zhezhazgan,DZN,Air,KZ
+4438,Attopeu,AOU,Air,LA
+4439,Ban Houei,OUI,Air,LA
+4440,Houeisay,HOE,Air,LA
+4441,Khong,KOG,Air,LA
+4442,Luang Namtha,LXG,Air,LA
+4443,Luang Prabang,LPQ,Air,LA
+4444,Muong Sai,UON,Air,LA
+4445,Oudomxay,ODY,Air,LA
+4446,Paksane,PKS,Air,LA
+4447,Pakse,PKZ,Air,LA
+4448,Bounneua,PCQ,Air,LA
+4449,Sam Neua,NEU,Air,LA
+4450,Saravane,VNA,Air,LA
+4451,Savannakhet,ZVK,Air,LA
+4452,Sayaboury,ZBY,Air,LA
+4453,Seno,SND,Air,LA
+4454,Thakhek,THK,Air,LA
+4455,Udomxay,UDO,Air,LA
+4456,Vangrieng,VGG,Air,LA
+4457,Viengxay,VNG,Air,LA
+4458,Wattay,VTE,Air,LA
+4459,Xayabury,XAY,Air,LA
+4460,Xieng Khouang,XKH,Air,LA
+4461,Xienglom,XIE,Air,LA
+4462,Beirut Rafic Hariri International Airport,BEY,Air,LB
+4463,Kleyate,KYE,Air,LB
+4464,Hewanorra,UVF,Air,LC
+4465,Vigie,SLU,Air,LC
+4466,Ampara,ADP,Air,LK
+4467,Kondavattavan Tank,AFK,Air,LK
+4468,Anuradhapura,ACJ,Air,LK
+4469,Batticaloa,BTC,Air,LK
+4470,Bentota River,BJT,Air,LK
+4471,Bandaranayake,CMB,Air,LK
+4472,Dambulu Oya Tank,DBU,Air,LK
+4473,Mawella Lagoon,DIW,Air,LK
+4474,Amparai,GOY,Air,LK
+4475,Castlereigh Reservoir,NUF,Air,LK
+4476,Hingurakgoda,HIM,Air,LK
+4477,Kankesanturai,JAF,Air,LK
+4478,Vic. Resevour Kandy,KDW,Air,LK
+4479,Polgolla Reservoir,KDZ,Air,LK
+4480,Katukurunda Slaf Base,KTY,Air,LK
+4481,Kelaniya River,KEZ,Air,LK
+4482,Koggala,KCT,Air,LK
+4483,Mahaweli,KDY,Air,LK
+4484,Minneriya,MNH,Air,LK
+4485,Sigiriya Slaf Base,GIU,Air,LK
+4486,China Bay,TRR,Air,LK
+4487,Weerawila,WRZ,Air,LK
+4488,Bella Yella,BYL,Air,LR
+4489,Buchanan,UCN,Air,LR
+4490,A. Tubman,CPA,Air,LR
+4491,Foya,FOY,Air,LR
+4492,Grand Cess,GRC,Air,LR
+4493,Roberts Intl,ROB,Air,LR
+4494,Sprigg Payne,MLW,Air,LR
+4495,Nimba,NIA,Air,LR
+4496,Rivercess,RVC,Air,LR
+4497,Sasstown,SAZ,Air,LR
+4498,AFC,XSA,Air,LR
+4499,R.E. Murray,SNI,Air,LR

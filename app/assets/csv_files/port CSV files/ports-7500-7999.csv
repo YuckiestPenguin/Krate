@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+7500,Henry Post AAF,FSI,Air,US
+7501,Municipal,FSM,Air,US
+7502,Pecos County,FST,Air,US
+7503,Fort Sumner,FSU,Air,US
+7504,Municipal/Baer Field,FWA,Air,US
+7505,Smith Field,SMD,Air,US
+7506,Carswell AFB,FWH,Air,US
+7507,Fort Worth Alliance,AFW,Air,US
+7508,Meacham Field,FTW,Air,US
+7509,Fort Yukon,FYU,Air,US
+7510,Fortuna Ledge,FTL,Air,US
+7511,Fox,FOX,Air,US
+7512,Capital City,FFT,Air,US
+7513,Chess-Lambertin,FKL,Air,US
+7514,Municipal,FKN,Air,US
+7515,Municipal,FDK,Air,US
+7516,Municipal,FDR,Air,US
+7517,Albertus,FEP,Air,US
+7518,Municipal,FET,Air,US
+7519,Municipal,FRH,Air,US
+7520,Frenchville,WFK,Air,US
+7521,Fresh Water Bay,FRP,Air,US
+7522,Airterminal,FAT,Air,US
+7523,Fresno-Chandler,FCH,Air,US
+7524,Friday Harbor,FRD,Air,US
+7525,Friday Harbor SPB,FBS,Air,US
+7526,Fort Meyers,FRR,Air,US
+7527,Fryeburg,FRY,Air,US
+7528,Municipal,FUL,Air,US
+7529,SPB,FNR,Air,US
+7530,Gabbs,GAB,Air,US
+7531,Municipal,GAD,Air,US
+7532,Gage,GAG,Air,US
+7533,Gainesville Regional,GNV,Air,US
+7534,Lee Gilmer Memorial,GVL,Air,US
+7535,Municipal,GLE,Air,US
+7536,Montgomery County,GAI,Air,US
+7537,Gakona,GAK,Air,US
+7538,Galbraith Lake,GBH,Air,US
+7539,Galena,GAL,Air,US
+7540,Galesburg,GBG,Air,US
+7541,Galion,GQQ,Air,US
+7542,Senator Clark,GUP,Air,US
+7543,Scholes Field,GLS,Air,US
+7544,Gambell,GAM,Air,US
+7545,Ganes Creek,GEK,Air,US
+7546,Municipal Airport,GCK,Air,US
+7547,Island Heliport,JHC,Air,US
+7548,Municipal,GDM,Air,US
+7549,Gatlinburg,GKT,Air,US
+7550,Otsego County,GLR,Air,US
+7551,Sussex County,GED,Air,US
+7552,Georgetown,GGE,Air,US
+7553,Gettysburg,GTY,Air,US
+7554,Campbell County,GCC,Air,US
+7555,Glacier Creek,KGZ,Air,US
+7556,Gladwin,GDW,Air,US
+7557,Municipal,GLW,Air,US
+7558,International,GGW,Air,US
+7559,Heliport,JGX,Air,US
+7560,Glendale,GWV,Air,US
+7561,Dawson Community,GDV,Air,US
+7562,Glennallen,GLQ,Air,US
+7563,Warren County,GFL,Air,US
+7564,NAS,NBU,Air,US
+7565,Glenwood Springs,GWS,Air,US
+7566,Brunswick Golden Isles,NEA,Air,US
+7567,State,GOL,Air,US
+7568,SPB,GDH,Air,US
+7569,Seymour Johnson AFB,GSB,Air,US
+7570,Golovin,GLV,Air,US
+7571,Gooding,GNG,Air,US
+7572,Renner Field,GLD,Air,US
+7573,Goodnews Bay,GNU,Air,US
+7574,Litchfield,GYR,Air,US
+7575,Gordon,GRN,Air,US
+7576,Municipal,GVE,Air,US
+7577,Goshen,GSH,Air,US
+7578,Heliport,JGC,Air,US
+7579,National Park,GCN,Air,US
+7580,North Rim,NGC,Air,US
+7581,Pulliam Field,FLG,Air,US
+7582,Grand Forks,GFK,Air,US
+7583,Grand Island,GRI,Air,US
+7584,Walker Field,GJT,Air,US
+7585,Devils Track,GRM,Air,US
+7586,Kent County Intl,GRR,Air,US
+7587,Grand Rapids,GPZ,Air,US
+7588,Richards-Gebaur,GVW,Air,US
+7589,Granite Mountain,GMT,Air,US
+7590,Milan,GNT,Air,US
+7591,Municipal,GTG,Air,US
+7592,Grayling,KGX,Air,US
+7593,Great Barrington,GBR,Air,US
+7594,Great Bend,GBD,Air,US
+7595,International,GTF,Air,US
+7596,Malmstrom AFB,GFA,Air,US
+7597,Weld County,GXY,Air,US
+7598,Austin-straubel Field,GRB,Air,US
+7599,Green River,RVR,Air,US
+7600,Pope Field,GFD,Air,US
+7601,Municipal,GRE,Air,US
+7602,Greenville,GLH,Air,US
+7603,Pitt-Greenville,PGV,Air,US
+7604,Donaldson Center,GDC,Air,US
+7605,Downtown,GMU,Air,US
+7606,Greenville-Spartanbur,GSP,Air,US
+7607,Municipal,GCY,Air,US
+7608,Majors Field,GVT,Air,US
+7609,Leflore,GWO,Air,US
+7610,Greenwood,GRD,Air,US
+7611,South Big Horn County,GEY,Air,US
+7612,New London Rail,ZGD,Air,US
+7613,Edwards,GUF,Air,US
+7614,Biloxi Regional,GPT,Air,US
+7615,Gulkana,GKN,Air,US
+7616,Gunnison,GUC,Air,US
+7617,Bartlett SPB,BQV,Air,US
+7618,Gustavus Arpt,GST,Air,US
+7619,Guthrie,GOK,Air,US
+7620,Guymon,GUY,Air,US
+7621,Wash. County Regional,HGR,Air,US
+7622,Municipal,HNS,Air,US
+7623,Half Moon,HAF,Air,US
+7624,Marion County,HAB,Air,US
+7625,Hamilton,HAO,Air,US
+7626,Municipal,HPT,Air,US
+7627,Langley AFB,LFI,Air,US
+7628,Newport News Rail,ZWW,Air,US
+7629,Williamsburg Rail,ZWB,Air,US
+7630,Hana,HNM,Air,US
+7631,Port Allen,PAK,Air,US
+7632,Houghton County,CMX,Air,US
+7633,Intermediate,HVE,Air,US
+7634,Hanna,HNX,Air,US
+7635,Hanus Bay,HBC,Air,US
+7636,Valley International,HRL,Air,US
+7637,Raleigh,HSB,Air,US
+7638,Harrisburg Intl,MDT,Air,US
+7639,Harrisburg Rail,ZUG,Air,US
+7640,Harrisburg Skyport,HAR,Air,US
+7641,Boone County,HRO,Air,US
+7642,Barnes,BNH,Air,US
+7643,Brainard,HFD,Air,US
+7644,Hartford CT Rail,ZRT,Air,US
+7645,Municipal,HVS,Air,US
+7646,Hastings,HSI,Air,US
+7647,Hatteras,HNC,Air,US
+7648,The Hattiesburg-Bobby L. Chain Mun.,HBG,Air,US
+7649,Havasupai,HAE,Air,US
+7650,City County,HVR,Air,US
+7651,SPB,HWI,Air,US
+7652,Hawthorne,HHR,Air,US
+7653,Hawthorne,HTH,Air,US
+7654,Haycock,HAY,Air,US
+7655,Yampa Valley,HDN,Air,US
+7656,Municipal,HYS,Air,US
+7657,Air Terminal,HWD,Air,US
+7658,Municipal,HYR,Air,US
+7659,Hazleton,HZL,Air,US
+7660,Healy Lake,HKB,Air,US
+7661,Thompson-Robbins,HEE,Air,US
+7662,Helena,HLN,Air,US
+7663,Ryan Field,HMT,Air,US
+7664,Asheville Regional Airport,AVL,Air,US
+7665,Herendeen,HED,Air,US
+7666,Amedee AAF,AHC,Air,US
+7667,State,HES,Air,US
+7668,Hickory,HKY,Air,US
+7669,Hidden Falls,HDA,Air,US
+7670,Piedmont Triad Intl,GSO,Air,US
+7671,Hill City,HLC,Air,US
+7672,Portland,HIO,Air,US
+7673,Hilo International,ITO,Air,US
+7674,Hilton Head,HHH,Air,US
+7675,Wright AAF,LIY,Air,US
+7676,Hobart,HBR,Air,US
+7677,Hobart Bay,HBH,Air,US
+7678,Industrial Airpark,HBB,Air,US
+7679,Lea County,HOB,Air,US
+7680,Mackall AAF,HFF,Air,US
+7681,Hogatza,HGZ,Air,US
+7682,Brewster Field,HDE,Air,US
+7683,Holikachu,HOL,Air,US
+7684,Park Township,HLM,Air,US
+7685,SPB,HYL,Air,US
+7686,Hollister,HLI,Air,US
+7687,North Perry,HWO,Air,US
+7688,Holy Cross,HCR,Air,US
+7689,Homer,HOM,Air,US
+7690,Homeshore,HMS,Air,US
+7691,AFB,HST,Air,US
+7692,Hickam AFB,HIK,Air,US
+7693,International,HNL,Air,US
+7694,Molokai,MKK,Air,US
+7695,Hoonah,HNH,Air,US
+7696,Hooper Bay,HPB,Air,US
+7697,Campbell AAF,HOP,Air,US
+7698,Bowerman,HQM,Air,US
+7699,Memorial Field,HOT,Air,US
+7700,Ingalls Field,HSP,Air,US
+7701,Roscommon County,HTL,Air,US
+7702,International,HUL,Air,US
+7703,Terrebonne,HUM,Air,US
+7704,Andrau Airpark,AAP,Air,US
+7705,Central Bus. District,JDX,Air,US
+7706,David Wayne Hooks,DWH,Air,US
+7707,Ellington Field,EFD,Air,US
+7708,George Bush Intercntl.,IAH,Air,US
+7709,Greenway Plaza H/P,JGP,Air,US
+7710,Hobby,HOU,Air,US
+7711,Marriot Astrodome,JMA,Air,US
+7712,Park Ten Heliport,JPT,Air,US
+7713,Spaceland,SPX,Air,US
+7714,Transco Twr Galleria,JGQ,Air,US
+7715,West Houston,IWS,Air,US
+7716,Westchase Hilton H/P,JWH,Air,US
+7717,Woodlawns,JWL,Air,US
+7718,Columbia County,HCC,Air,US
+7719,Municipal,HUS,Air,US
+7720,Hugo,HUJ,Air,US
+7721,Humboldt,HUD,Air,US
+7722,Municipal,HBO,Air,US
+7723,Municipal,HNB,Air,US
+7724,Tri-State/Milton,HTS,Air,US
+7725,Redstone AAF,HUA,Air,US
+7726,Huntsville,HSV,Air,US
+7727,Howes,HON,Air,US
+7728,Huslia,HSL,Air,US
+7729,Hutchinson,HUT,Air,US
+7730,Barnstable,HYA,Air,US
+7731,SPB,HYG,Air,US
+7732,SPB,WHD,Air,US
+7733,Icy Bay,ICY,Air,US
+7734,Municipal,IDG,Air,US
+7735,Fanning Field,IDA,Air,US
+7736,Igiugig,IGG,Air,US
+7737,Iliamna,ILI,Air,US
+7738,Immokalee,IMM,Air,US
+7739,Imperial County,IPL,Air,US
+7740,Imperial,IML,Air,US
+7741,NAS,NRS,Air,US
+7742,Independence,IDP,Air,US
+7743,Af Aux,INS,Air,US
+7744,Indiana,IDI,Air,US
+7745,International,IND,Air,US
+7746,Falls Intl,INL,Air,US
+7747,Kern County,IYK,Air,US
+7748,Iowa City,IOW,Air,US
+7749,Iowa Falls,IFA,Air,US
+7750,Municipal,IRB,Air,US
+7751,Ford,IMT,Air,US
+7752,Gogebic County,IWD,Air,US
+7753,Isabel Pass,ISL,Air,US
+7754,Long Island Macarthur,ISP,Air,US
+7755,Tompkins County,ITH,Air,US
+7756,SPB,KIB,Air,US
+7757,Ivishak,IVH,Air,US
+7758,Jackpot,KPT,Air,US
+7759,Reynolds Municipal,JXN,Air,US
+7760,Jackson,MJQ,Air,US
+7761,Hawkins Field,HKS,Air,US
+7762,Jackson-Evers,JAN,Air,US
+7763,Mckellar,MKL,Air,US
+7764,Jackson Hole,JAC,Air,US
+7765,Little Rock Afb,LRF,Air,US
+7766,Cecil Field NAS,NZC,Air,US
+7767,Craig Municipal,CRG,Air,US
+7768,International,JAX,Air,US
+7769,Jacksonville NAS,NIP,Air,US
+7770,Municipal,IJX,Air,US
+7771,Albert J Ellis,OAJ,Air,US
+7772,Jacksonville,JKV,Air,US
+7773,Municipal,AFN,Air,US
+7774,Jahrom,JAR,Air,US
+7775,Jamestown,JMS,Air,US
+7776,Jamestown,JHW,Air,US
+7777,Rock County,JVL,Air,US
+7778,Marion County,APT,Air,US
+7779,County,JAS,Air,US
+7780,Municipal,EFW,Air,US
+7781,Ashtabula,JFN,Air,US
+7782,Memorial,JEF,Air,US
+7783,John Day,JDA,Air,US
+7784,Johnson,JCY,Air,US
+7785,Tri-Cities Regional,TRI,Air,US
+7786,Cambria County,JST,Air,US
+7787,Municipal,JOT,Air,US
+7788,Hunter AAF,HGT,Air,US
+7789,Jonesboro,JBR,Air,US
+7790,Joplin,JLN,Air,US
+7791,Jordan,JDN,Air,US
+7792,Kimble County,JCT,Air,US
+7793,Boundary Bay,JNU,Air,US
+7794,Dodge County,UNU,Air,US
+7795,Kagvik Creek,KKF,Air,US
+7796,Kahului,OGG,Air,US
+7797,Lee C Fine Memorial,AIZ,Air,US
+7798,SPB,KAE,Air,US
+7799,Kakhonak,KNK,Air,US
+7800,Kalakaket AFS,KKK,Air,US
+7801,Battle Creek Intl,AZO,Air,US
+7802,Kalaupapa,LUP,Air,US
+7803,Glacier National Park,FCA,Air,US
+7804,Municipal,KLG,Air,US
+7805,Kaltag,KAL,Air,US
+7806,Kamuela,MUE,Air,US
+7807,Kamusi Airport,KUY,Air,US
+7808,Kanab,KNB,Air,US
+7809,Greater Kankakee,IKK,Air,US
+7810,Fairfax Municipal,KCK,Air,US
+7811,Downtown,MKC,Air,US
+7812,Kansas City International Airport,MCI,Air,US
+7813,Johnson Executive,OJC,Air,US
+7814,Johnson Industrial,JCI,Air,US
+7815,Kapalua,JHM,Air,US
+7816,Karluk,KYK,Air,US
+7817,Karluk Lake SPB,KKL,Air,US
+7818,Kasaan SPB,KXA,Air,US
+7819,Kasigluk,KUK,Air,US
+7820,Lihue,LIH,Air,US
+7821,Princeville,HPV,Air,US
+7822,Airstrip,VIK,Air,US
+7823,Monument Valley,MVM,Air,US
+7824,Kearney,EAR,Air,US
+7825,Dillant-Hopkins,EEN,Air,US
+7826,Barking Sands,BKH,Air,US
+7827,Kelly Bar,KEU,Air,US
+7828,Kelp Bay,KLP,Air,US
+7829,Longview,KLS,Air,US
+7830,Kemerer,EMM,Air,US
+7831,Kenai,ENA,Air,US
+7832,Kenmore Air Harbor,KEH,Air,US
+7833,Municipal,KNT,Air,US
+7834,Kenosha Regional Airport,ENW,Air,US
+7835,Kentland,KKT,Air,US
+7836,Keokuk,EOK,Air,US
+7837,Kerrville,ERV,Air,US
+7838,International,KTN,Air,US
+7839,Waterfront SPB,WFB,Air,US
+7840,Port Largo,KYL,Air,US
+7841,International,EYW,Air,US
+7842,NAS,NQX,Air,US
+7843,Van Service,QKS,Air,US
+7844,Bob Barker Memorial,IAN,Air,US
+7845,Kilgore,GGG,Air,US
+7846,First Flight,FFA,Air,US
+7847,Fort Hood AAF,HLR,Air,US
+7848,Gray AAF,GRK,Air,US
+7849,Municipal,ILE,Air,US
+7850,Mesa Del Rey,KIC,Air,US
+7851,King Cove,KVC,Air,US
+7852,King Khalid Military,KMC,Air,US
+7853,King Of Prussia,KPD,Air,US
+7854,King Salmon,AKN,Air,US
+7855,Kingman,IGM,Air,US
+7856,NAS,NQI,Air,US
+7857,Stallings Field,ISO,Air,US
+7858,Kipnuk SPB,KPN,Air,US
+7859,Municipal,IRK,Air,US
+7860,Kissimmee Gateway,ISM,Air,US
+7861,SPB,KKB,Air,US
+7862,Kivalina,KVL,Air,US
+7863,Kizhuyak,KZH,Air,US
+7864,Klag Bay,KBK,Air,US
+7865,Kingsley Field,LMT,Air,US
+7866,Klawock,KLW,Air,US
+7867,Mc Ghee Tyson,TYS,Air,US
+7868,Kobuk/Wien,OBU,Air,US
+7869,Kodiak Airport,ADQ,Air,US
+7870,Kodiak Fss,WDY,Air,US
+7871,Municipal,KDK,Air,US
+7872,Kokomo,OKK,Air,US
+7873,Keahole,KOA,Air,US
+7874,Kongiganak,KKH,Air,US
+7875,Attala County,OSX,Air,US
+7876,Kotlik,KOT,Air,US
+7877,Kotzebue,OTZ,Air,US
+7878,Koyuk,KKA,Air,US
+7879,Koyukuk,KYU,Air,US
+7880,Kulik Lake,LKK,Air,US
+7881,Kuparuk,UUK,Air,US
+7882,Kwethluk,KWT,Air,US
+7883,Kwigillingok,KWK,Air,US
+7884,Municipal,LSE,Air,US
+7885,La Grande,LGD,Air,US
+7886,Calloway,LGC,Air,US
+7887,Brackett Field,POC,Air,US
+7888,Labouchere Bay,WLB,Air,US
+7889,Municipal,LCI,Air,US
+7890,Purdue University,LAF,Air,US
+7891,Municipal,LCH,Air,US
+7892,Municipal,XES,Air,US
+7893,Municipal,HII,Air,US
+7894,Brazoria County,LJN,Air,US
+7895,Lake Minchumina,LMA,Air,US
+7896,Lake Placid,LKP,Air,US
+7897,Naec,NEL,Air,US
+7898,Municipal,LAL,Air,US
+7899,Lakeside,LKS,Air,US
+7900,Lake County,LKV,Air,US
+7901,Lamar Field,LAA,Air,US
+7902,Lanai City,LNY,Air,US
+7903,Quartz Hill,RZH,Air,US
+7904,William J Fox,WJF,Air,US
+7905,Lancaster,LNS,Air,US
+7906,Lancaster PA Rail,ZRL,Air,US
+7907,Hunt Field,LND,Air,US
+7908,Capital City,LAN,Air,US
+7909,Municipal,LPO,Air,US
+7910,General Brees Field,LAR,Air,US
+7911,International,LRD,Air,US
+7912,Larsen SPB,KLN,Air,US
+7913,Municipal,LRU,Air,US
+7914,Las Vegas,LVS,Air,US
+7915,Henderson Sky Harbor,HSH,Air,US
+7916,Mccarran Intl,LAS,Air,US
+7917,Nellis AFB,LSV,Air,US
+7918,North Air Terminal,VGT,Air,US
+7919,Sharpe AAF,LRO,Air,US
+7920,Lathrop Wells,LTH,Air,US
+7921,Westmoreland County,LBE,Air,US
+7922,Hattiesburg-Laurel Reg,PIB,Air,US
+7923,Hesler-Noble Field,LUL,Air,US
+7924,Lawrence,LWC,Air,US
+7925,Lawrence,LWM,Air,US
+7926,Municipal,LWV,Air,US
+7927,Lawrenceville,LVL,Air,US
+7928,Municipal,LAW,Air,US
+7929,Leadville,LXV,Air,US
+7930,Leesburg,LEE,Air,US
+7931,Municipal,LRJ,Air,US
+7932,Lemmon,LEM,Air,US
+7933,NAS/Reeves Field,NLC,Air,US
+7934,St Marys County,LTW,Air,US
+7935,Levelock,KLL,Air,US
+7936,Greenbrier Valley,LWB,Air,US
+7937,Nez Perce County Rgnl,LWS,Air,US
+7938,Auburn,LEW,Air,US
+7939,Municipal,LWT,Air,US
+7940,Blue Grass,LEX,Air,US
+7941,Creech AAF,LSD,Air,US
+7942,Lexington,LXN,Air,US
+7943,Municipal,LBL,Air,US
+7944,Allen County,AOH,Air,US
+7945,Lime Village,LVD,Air,US
+7946,Loring AFB,LIZ,Air,US
+7947,Municipal,LIC,Air,US
+7948,Municipal,LNK,Air,US
+7949,Coast Guard,LRK,Air,US
+7950,Linden,LDJ,Air,US
+7951,Little Naukati,WLN,Air,US
+7952,Little Port Walter,LPW,Air,US
+7953,Regional Airport,LIT,Air,US
+7954,Livengood,LIV,Air,US
+7955,Livermore,LVK,Air,US
+7956,Mission Field,LVM,Air,US
+7957,W T Piper Memorial,LHV,Air,US
+7958,Lewis Lockport,LOT,Air,US
+7959,Cache,LGU,Air,US
+7960,Lompoc Airport,LPC,Air,US
+7961,Vandenberg AFB,VBG,Air,US
+7962,Corbin-London,LOZ,Air,US
+7963,Tri County,LNR,Air,US
+7964,Dew Station,LNI,Air,US
+7965,Heliport,JLB,Air,US
+7966,Long Beach Municipal,LGB,Air,US
+7967,Long Island,LIJ,Air,US
+7968,Longview,LOG,Air,US
+7969,Lopez Island,LPS,Air,US
+7970,Lordsburg,LSB,Air,US
+7971,Loring,WLR,Air,US
+7972,Los Alamos,LAM,Air,US
+7973,Century City,CCD,Air,US
+7974,Citicorp Plaza H/P,JCX,Air,US
+7975,City Of Industry H/P,JID,Air,US
+7976,Commerce Bus. Plaza,JBP,Air,US
+7977,Los Angeles International,LAX,Air,US
+7978,Sherman Oaks H/P,JSN,Air,US
+7979,Union Station H/P,JLX,Air,US
+7980,Universal City H/P,JUC,Air,US
+7981,Van Nuys,VNY,Air,US
+7982,Warner Cntr Bus. Plaza,JWC,Air,US
+7983,Whiteman,WHP,Air,US
+7984,Los Banos,LSN,Air,US
+7985,Lost Harbor Sea Port,LHB,Air,US
+7986,Lost River,LSR,Air,US
+7987,Louisa,LOW,Air,US
+7988,Franklin,LFN,Air,US
+7989,Bowman Field,LOU,Air,US
+7990,Intercontinental,LJC,Air,US
+7991,Standiford Field,SDF,Air,US
+7992,Winston County,LMS,Air,US
+7993,Derby Field,LOL,Air,US
+7994,International,LBB,Air,US
+7995,Reese AFB,REE,Air,US
+7996,Mason County,LDM,Air,US
+7997,Lumberton,LBT,Air,US
+7998,Lusk,LSK,Air,US
+7999,Preston-Glenn Field,LYH,Air,US

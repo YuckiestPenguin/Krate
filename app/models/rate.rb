@@ -87,4 +87,9 @@ end
   end
 
 
+  # kaminari settings
+
+
+
+
 end

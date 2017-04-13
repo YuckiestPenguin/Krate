@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+1000,Val De Cans,BEL,Air,BR
+1001,Belmonte,BVM,Air,BR
+1002,Pampulha,PLU,Air,BR
+1003,Bento Goncalves,BGV,Air,BR
+1004,Blumenau,BNU,Air,BR
+1005,Boa Vista,BVB,Air,BR
+1006,Boca Do Acre,BCR,Air,BR
+1007,Bom Jesus Da Lapa,LAZ,Air,BR
+1008,Bonito Airport,BYO,Air,BR
+1009,Borba,RBB,Air,BR
+1010,Braganca Paulista,BJP,Air,BR
+1011,Presidente Juscelino Kubitschek International Airport,BSB,Air,BR
+1012,Breves,BVS,Air,BR
+1013,Brumado,BMS,Air,BR
+1014,Buzios,BZC,Air,BR
+1015,Cabo Frio,CFB,Air,BR
+1016,Cacador,CFC,Air,BR
+1017,Caceres,CCX,Air,BR
+1018,Cachoeira,CCQ,Air,BR
+1019,Cachoeiro Itapemirim,CDI,Air,BR
+1020,Cacoal,OAL,Air,BR
+1021,Caldas Novas,CLV,Air,BR
+1022,Cameta,CMT,Air,BR
+1023,Camocim,CMC,Air,BR
+1024,Joao Suassuna,CPV,Air,BR
+1025,International,CPQ,Air,BR
+1026,Internacional,CGR,Air,BR
+1027,Campo Mourao,CBW,Air,BR
+1028,Bartolomeu Lisandro,CAW,Air,BR
+1029,Cana Brava,NBV,Air,BR
+1030,Canarana Airport,CQA,Air,BR
+1031,Canavieiras,CNV,Air,BR
+1032,Carajas,CKS,Air,BR
+1033,Carauari,CAF,Air,BR
+1034,Caravelas,CRQ,Air,BR
+1035,Carolina,CLN,Air,BR
+1036,Caruaru,CAU,Air,BR
+1037,Carutapera,CTP,Air,BR
+1038,Cascavel,CAC,Air,BR
+1039,Cassilandia,CSS,Air,BR
+1040,Catalao,TLZ,Air,BR
+1041,Campo Dos Bugres,CXJ,Air,BR
+1042,Chapeco,XAP,Air,BR
+1043,Coari,CIZ,Air,BR
+1044,Colorado do Oeste,CSW,Air,BR
+1045,Conceicao Do Araguaia,CDJ,Air,BR
+1046,Concordia,CCI,Air,BR
+1047,Confreza,CFO,Air,BR
+1048,Cornelio Procopio,CKO,Air,BR
+1049,Internacional,CMG,Air,BR
+1050,Costa Marques,CQS,Air,BR
+1051,Criciuma,CCM,Air,BR
+1052,Carlos Ruhl,CZB,Air,BR
+1053,Campo Internacional,CZS,Air,BR
+1054,M. Rondon,CGB,Air,BR
+1055,Afonso Pena International Airport,CWB,Air,BR
+1056,Bacacheri,BFH,Air,BR
+1057,Cururupu,CPU,Air,BR
+1058,Diamantino,DMT,Air,BR
+1059,Dianopolis,DNO,Air,BR
+1060,Divinopolis,DIQ,Air,BR
+1061,Dourados,DOU,Air,BR
+1062,Eirunepe,ERN,Air,BR
+1063,Comandante Kraemer,ERM,Air,BR
+1064,Espinosa,ESI,Air,BR
+1065,Feijo,FEJ,Air,BR
+1066,Feira De Santana,FEC,Air,BR
+1067,Fernando De Noronha,FEN,Air,BR
+1068,Cangapara,FLB,Air,BR
+1069,Hercilio Luz,FLN,Air,BR
+1070,Pinto Martins,FOR,Air,BR
+1071,Franca,FRC,Air,BR
+1072,Francisco Beltrao,FBE,Air,BR
+1073,Santa Genoveva,GYN,Air,BR
+1074,Governador Valadares,GVR,Air,BR
+1075,Gravatai,GCV,Air,BR
+1076,Guadalupe,GDP,Air,BR
+1077,Guajara-Mirim,GJM,Air,BR
+1078,Guanambi,GNM,Air,BR
+1079,Guarapari,GUZ,Air,BR
+1080,Tancredo Thomaz Faria,GPB,Air,BR
+1081,Guaratingueta,GUJ,Air,BR
+1082,Guimaraes,GMS,Air,BR
+1083,Gurupi,GRP,Air,BR
+1084,Horizontina,HRZ,Air,BR
+1085,Cataratas,IGU,Air,BR
+1086,J.Batista Bos Filho,IJU,Air,BR
+1087,Ilha Solteira,ILB,Air,BR
+1088,Eduardo Gomes,IOS,Air,BR
+1089,Imperatriz,IMP,Air,BR
+1090,Usiminas,IPN,Air,BR
+1091,Ipiau,IPU,Air,BR
+1092,Ipiranga,IPG,Air,BR
+1093,Irece,IRE,Air,BR
+1094,Itabuna,ITN,Air,BR
+1095,Itacoatiara,ITA,Air,BR
+1096,Itaituba,ITB,Air,BR
+1097,Itambacuri,ITI,Air,BR
+1098,Itaperuna,ITP,Air,BR
+1099,Itaqui,ITQ,Air,BR
+1100,Itauba,AUB,Air,BR
+1101,Itubera,ITE,Air,BR
+1102,Itumbiara,ITR,Air,BR
+1103,Jacareacanga,JCR,Air,BR
+1104,Jacobina,JCM,Air,BR
+1105,Jales,JLS,Air,BR
+1106,Januaria,JNA,Air,BR
+1107,Jatai,JTI,Air,BR
+1108,Jequie,JEQ,Air,BR
+1109,Ji-Parana,JPR,Air,BR
+1110,Joacaba,JCB,Air,BR
+1111,Castro Pinto,JPA,Air,BR
+1112,Cubatao,JOI,Air,BR
+1113,Juara,JUA,Air,BR
+1114,Regional Do Cariri,JDO,Air,BR
+1115,Juina,JIA,Air,BR
+1116,Francisco De Assis,JDF,Air,BR
+1117,Juruena,JRN,Air,BR
+1118,Labrea,LBR,Air,BR
+1119,Lages,LAJ,Air,BR
+1120,Chapada Diamantina,LEC,Air,BR
+1121,Leopoldina,LEP,Air,BR
+1122,Lins,LIP,Air,BR
+1123,Dos Galpoes,LVB,Air,BR
+1124,Londrina,LDB,Air,BR
+1125,Helmuth Baungartem,LOI,Air,BR
+1126,Macae,MEA,Air,BR
+1127,Internacional,MCP,Air,BR
+1128,Palmares,MCZ,Air,BR
+1129,Eduardo Gomes Intl,MAO,Air,BR
+1130,Manicore,MNX,Air,BR
+1131,Maraba,MAB,Air,BR
+1132,Dr Gastao Vidigal,MII,Air,BR
+1133,Regional De Maringa SBMG,MGF,Air,BR
+1134,Mato Grosso,MTG,Air,BR
+1135,Matupa,MBK,Air,BR
+1136,Maues,MBZ,Air,BR
+1137,Municipal,MQH,Air,BR
+1138,Miracema Do Norte,NTM,Air,BR
+1139,Monte Alegre,MTE,Air,BR
+1140,Monte Dourado,MEU,Air,BR
+1141,Montes Claros,MOC,Air,BR
+1142,Dixsept Rosado,MVF,Air,BR
+1143,Aeroporto Max Feffer,MVS,Air,BR
+1144,Nanuque,NNU,Air,BR
+1145,Augusto Severo,NAT,Air,BR
+1146,Navegantes,NVT,Air,BR
+1147,Niquelandia,NQL,Air,BR
+1148,Nova Xavantina,NOK,Air,BR
+1149,Novo Aripuana,NVP,Air,BR
+1150,Obidos,OBI,Air,BR
+1151,Oiapoque,OYK,Air,BR
+1152,Oriximina,ORX,Air,BR
+1153,Ourilandia,OIA,Air,BR
+1154,Ourinhos,OUS,Air,BR
+1155,Palmas,PMW,Air,BR
+1156,Municipal,PNG,Air,BR
+1157,Paranaiba,PBB,Air,BR
+1158,Paranavai,PVI,Air,BR
+1159,Parintins,PIN,Air,BR
+1160,Santos Dumont,PHB,Air,BR
+1161,Passo Fundo,PFB,Air,BR
+1162,Passos,PSW,Air,BR
+1163,Municipal,PTO,Air,BR
+1164,Patos De Minas,POJ,Air,BR
+1165,Paulo Afonso,PAV,Air,BR
+1166,Federal,PET,Air,BR
+1167,Internacional,PNZ,Air,BR
+1168,Picos,PCS,Air,BR
+1169,Pimenta Bueno,PBQ,Air,BR
+1170,Pinheiro,PHI,Air,BR
+1171,Pirapora,PIV,Air,BR
+1172,Pitinga,PIG,Air,BR
+1173,Pocos De Caldas,POO,Air,BR
+1174,Ponta Pelada,PLL,Air,BR
+1175,International,PMG,Air,BR
+1176,Pontes e Lacerda,LCB,Air,BR
+1177,Salgado Filho,POA,Air,BR
+1178,Porto Alegre Do Norte,PBX,Air,BR
+1179,Porto de Moz,PTQ,Air,BR
+1180,Porto Dos Gauchos,PBV,Air,BR
+1181,Porto Nacional,PNB,Air,BR
+1182,Porto Seguro,BPS,Air,BR
+1183,Belmonte,PVH,Air,BR
+1184,Pouso Alegre,PPY,Air,BR
+1185,Prado,PDF,Air,BR
+1186,Municipal,PDR,Air,BR
+1187,A. De Barros,PPB,Air,BR
+1188,Progresso,PGG,Air,BR
+1189,Guararapes Intl,REC,Air,BR
+1190,Redencao,RDC,Air,BR
+1191,Resende,REZ,Air,BR
+1192,Leite Lopes,RAO,Air,BR
+1193,Pres. Medici,RBR,Air,BR
+1194,Galeão–Antonio Carlos Jobim International Airport,GIG,Air,BR
+1195,Santos Dumont,SDU,Air,BR
+1196,Rio Grande,RIG,Air,BR
+1197,Rio Verde,RVD,Air,BR
+1198,Rondonopolis,ROO,Air,BR
+1199,Arpt Luis R. Magalhaes,SSA,Air,BR
+1200,Santa Cruz,SNZ,Air,BR
+1201,Santa Cruz Do Sul,CSU,Air,BR
+1202,Santa Fe Do Sul,SFV,Air,BR
+1203,Rio,IDO,Air,BR
+1204,Base Aerea,RIA,Air,BR
+1205,Santa Rosa,SRA,Air,BR
+1206,Confresa,STZ,Air,BR
+1207,Campo Alegre,CMP,Air,BR
+1208,Eduardo Gomes,STM,Air,BR
+1209,Sepe Tiaraju,GEL,Air,BR
+1210,Santos,SSZ,Air,BR
+1211,Sao Felix Do Araguaia,SXO,Air,BR
+1212,Sao Felix Do Xingu,SXX,Air,BR
+1213,Da Cachoeira,SJL,Air,BR
+1214,Sao Jose Do Rio Preto,SJP,Air,BR
+1215,Sao Jose Dos Campos,SJK,Air,BR
+1216,Sao Lourenco,SSO,Air,BR
+1217,Sao Lourenco Do Sul,SQY,Air,BR
+1218,Mal. Cunha Machado,SLZ,Air,BR
+1219,Sao Mateus,SBJ,Air,BR
+1220,Sao Miguel Araguaia,SQM,Air,BR
+1221,Sao Miguel Do Oeste,SQX,Air,BR
+1222,Congonhas,CGH,Air,BR
+1223,Guarulhos Intl,GRU,Air,BR
+1224,Viracopos,VCP,Air,BR
+1225,Sena Madureira,ZMD,Air,BR
+1226,Senhor Do Bonfim,SEI,Air,BR
+1227,Serra Norte,RRN,Air,BR
+1228,Serra Pelada,RSG,Air,BR
+1229,Sinop,OPS,Air,BR
+1230,Sorocaba,SOD,Air,BR
+1231,Soure,SFK,Air,BR
+1232,Suia-Missu,SWM,Air,BR
+1233,Sumare,RWS,Air,BR
+1234,Internacional,TBT,Air,BR
+1235,Tangara da Serra,TGQ,Air,BR
+1236,Tarauaca,TRQ,Air,BR
+1237,Tefe,TFF,Air,BR
+1238,Teixeira de Freitas,TXF,Air,BR
+1239,Telemaco Borba,TEC,Air,BR
+1240,Teofilo Otoni,TFL,Air,BR
+1241,Teresina,THE,Air,BR
+1242,Toledo,TOW,Air,BR
+1243,Torres,TSQ,Air,BR
+1244,Trombetas,TMT,Air,BR
+1245,Tucuma,TUZ,Air,BR
+1246,Tucurui,TUR,Air,BR
+1247,Ubatuba,UBT,Air,BR
+1248,Uberaba,UBA,Air,BR
+1249,Eduardo Gomes,UDI,Air,BR
+1250,Ernesto Geisel,UMU,Air,BR
+1251,Una,UNA,Air,BR
+1252,Ernesto Pochler,URB,Air,BR
+1253,Ruben Berta,URG,Air,BR
+1254,Valenca,VAL,Air,BR
+1255,Maj. Brig. Trompowsky,VAG,Air,BR
+1256,Vienna,VIA,Air,BR
+1257,Municipal,VLP,Air,BR
+1258,Vilhena,BVH,Air,BR
+1259,Eurico Sales,VIX,Air,BR
+1260,Vitoria Da Conquista,VDC,Air,BR
+1261,Votuporanga,VOT,Air,BR
+1262,Xanxere,AXE,Air,BR
+1263,Municipal,XIG,Air,BR
+1264,Andros Town,ASD,Air,BS
+1265,International,BIM,Air,BS
+1266,North SPB,NSB,Air,BS
+1267,Cape Eleuthera,CEL,Air,BS
+1268,Cat Cays,CXY,Air,BS
+1269,Cat Island,CAT,Air,BS
+1270,Chub Cay,CCZ,Air,BS
+1271,Congo Town,COX,Air,BS
+1272,Crooked Island,CRI,Air,BS
+1273,Duncan Town,DCT,Air,BS
+1274,Exuma International,GGT,Air,BS
+1275,Governors Harbour,GHB,Air,BS
+1276,Aux Ab,GBI,Air,BS
+1277,Great Harbour,GHC,Air,BS
+1278,Green Turtle,GTC,Air,BS
+1279,Harbour Island,HBI,Air,BS
+1280,Inagua,IGA,Air,BS
+1281,Deadmans Cay,LGI,Air,BS
+1282,Mangrove Cay,MAY,Air,BS
+1283,International,MHH,Air,BS
+1284,Mastic Point,MSK,Air,BS
+1285,Mayaguana,MYG,Air,BS
+1286,Intl,NAS,Air,BS
+1287,Paradise Island,PID,Air,BS
+1288,Seaplane Base,WZY,Air,BS
+1289,New Bight,NET,Air,BS
+1290,International,ELH,Air,BS
+1291,Pitts Town,PWN,Air,BS
+1292,Powell Point,PPO,Air,BS
+1293,S Eleuthera,RSD,Air,BS
+1294,Rum Cay,RCY,Air,BS
+1295,San Andros,SAQ,Air,BS
+1296,South Andros,TZN,Air,BS
+1297,Spanish Wells,SWL,Air,BS
+1298,Springpoint Arpt,AXP,Air,BS
+1299,Staniel Cay,TYM,Air,BS
+1300,Estate Airstrip,SML,Air,BS
+1301,New Bright,TBI,Air,BS
+1302,Treasure Cay,TCB,Air,BS
+1303,West End,WTD,Air,BS
+1304,San Salvador,ZSA,Air,BS
+1305,Paro,PBH,Air,BT
+1306,Francistown,FRW,Air,BW
+1307,Sir Seretse Khama Int,GBE,Air,BW
+1308,Ghanzi,GNZ,Air,BW
+1309,Hukuntsi,HUK,Air,BW
+1310,Jwaneng,JWA,Air,BW
+1311,Kasane,BBK,Air,BW
+1312,Khwai River Lodge,KHW,Air,BW
+1313,Lobatse,LOQ,Air,BW
+1314,Maun,MUB,Air,BW
+1315,Orapa,ORP,Air,BW
+1316,Savuti,SVT,Air,BW
+1317,Selebi-Phikwe,PKW,Air,BW
+1318,Shakawe,SWX,Air,BW
+1319,Suapan,SXN,Air,BW
+1320,Tsabong,TBY,Air,BW
+1321,Limpopo Valley,TLD,Air,BW
+1322,Brest,BQT,Air,BY
+1323,Gomel,GME,Air,BY
+1324,Grodna,GNA,Air,BY
+1325,Minsk International 1,MHP,Air,BY
+1326,Minsk International 2,MSQ,Air,BY
+1327,Mogilev,MVQ,Air,BY
+1328,Vitebsk,VTB,Air,BY
+1329,Municipal,TZA,Air,BZ
+1330,Philip S.W.Goldson Int,BZE,Air,BZ
+1331,Belmopan,BCV,Air,BZ
+1332,Big Creek,BGK,Air,BZ
+1333,Caye Caulker,CUK,Air,BZ
+1334,Caye Chapel,CYC,Air,BZ
+1335,Corozal,CZH,Air,BZ
+1336,Dangriga,DGA,Air,BZ
+1337,Independence,INB,Air,BZ
+1338,Manatee,MZE,Air,BZ
+1339,Melinda,MDB,Air,BZ
+1340,Orange Walk,ORZ,Air,BZ
+1341,Placencia,PLJ,Air,BZ
+1342,Punta Gorda,PND,Air,BZ
+1343,Matthew Spain,SQS,Air,BZ
+1344,San Pedro,SPR,Air,BZ
+1345,Santa Cruz,STU,Air,BZ
+1346,Sartaneja,SJX,Air,BZ
+1347,Silver Creek,SVK,Air,BZ
+1348,108 Mile Ranch,ZMH,Air,CA
+1349,Abbotsford,YXX,Air,CA
+1350,Aklavik,LAK,Air,CA
+1351,Akulivik,AKV,Air,CA
+1352,Alert,YLT,Air,CA
+1353,Alert Bay,YAL,Air,CA
+1354,Alice Arm,ZAA,Air,CA
+1355,Alma,YTF,Air,CA
+1356,Alta Lake,YAE,Air,CA
+1357,Amos,YEY,Air,CA
+1358,Anahim Lake,YAA,Air,CA
+1359,Angling Lake,YAX,Air,CA
+1360,Arctic Bay,YAB,Air,CA
+1361,NS,NWP,Air,CA
+1362,Armstrong,YYW,Air,CA
+1363,Arnes,YNR,Air,CA
+1364,Arviat,YEK,Air,CA
+1365,Asbestos Hill,YAF,Air,CA
+1366,Ashcroft,YZA,Air,CA
+1367,Atikokan,YIB,Air,CA
+1368,Attawapiskat,YAT,Air,CA
+1369,Aupaluk,YPJ,Air,CA
+1370,Bagotville,YBG,Air,CA
+1371,Baie Comeau,YBC,Air,CA
+1372,Baie Johan Beetz,YBJ,Air,CA
+1373,Baker Lake,YBK,Air,CA
+1374,Bamfield,YBF,Air,CA
+1375,Banff,YBA,Air,CA
+1376,Bathurst,ZBF,Air,CA
+1377,Bearskin Lake,XBE,Air,CA
+1378,Beatton River,YZC,Air,CA
+1379,Beaver Creek,YXQ,Air,CA
+1380,Bedwell Harbor,YBW,Air,CA
+1381,Bella Bella,ZEL,Air,CA
+1382,Bella Coola,QBC,Air,CA
+1383,Berens River,YBV,Air,CA
+1384,Big Bay Marina,YIG,Air,CA
+1385,Big Bay Yacht Club,YYA,Air,CA
+1386,Big Trout,YTL,Air,CA
+1387,Black Tickle,YBI,Air,CA
+1388,Blanc Sablon,YBX,Air,CA
+1389,Bloodvein,YDV,Air,CA
+1390,Blubber Bay,XBB,Air,CA
+1391,Bobquinn Lake,YBO,Air,CA
+1392,Bonaventure,YVB,Air,CA
+1393,Bonnyville,YBY,Air,CA
+1394,Borden,YBN,Air,CA
+1395,Brandon,YBR,Air,CA
+1396,Broadview,YDR,Air,CA
+1397,Brochet,YBT,Air,CA
+1398,Brockville,XBR,Air,CA
+1399,Bromont,ZBM,Air,CA
+1400,Bronson Creek,YBM,Air,CA
+1401,Buchans,YZM,Air,CA
+1402,Buffalo Narrows,YVT,Air,CA
+1403,Bull Harbour,YBH,Air,CA
+1404,Burns Lake,YPZ,Air,CA
+1405,Yenisehir,YEI,Air,CA
+1406,Burwash Landings,YDB,Air,CA
+1407,Calgary International Airport,YYC,Air,CA
+1408,Cambridge Bay,YCB,Air,CA
+1409,Campbell River,YBL,Air,CA
+1410,Harbor SPB,YHH,Air,CA
+1411,Cape Dorset,YTE,Air,CA
+1412,Cape St James,YCJ,Air,CA
+1413,Caribou Island,YCI,Air,CA
+1414,Cartierville,YCV,Air,CA
+1415,Cartwright,YRF,Air,CA
+1416,Castlegar,YCG,Air,CA
+1417,Cat Lake,YAC,Air,CA
+1418,Centralia,YCE,Air,CA
+1419,Chapleau,YLD,Air,CA
+1420,Charlo,YCL,Air,CA
+1421,Charlottetown,YHG,Air,CA
+1422,Charlottetown,YYG,Air,CA
+1423,Chatham,XCM,Air,CA
+1424,Chesterfield Inlet,YCS,Air,CA
+1425,Chetwynd,YCQ,Air,CA
+1426,Chevery,YHR,Air,CA
+1427,Chibougamau,YMT,Air,CA
+1428,Chilko Lake,CJH,Air,CA
+1429,Chilliwack Municipal Airport,YCW,Air,CA
+1430,Chisasibi,YKU,Air,CA
+1431,Churchill Falls,ZUM,Air,CA
+1432,Chute-Des-Passes,YWQ,Air,CA
+1433,Clinton Creek,YLM,Air,CA
+1434,Cluff Lake,XCL,Air,CA
+1435,Clyde River,YCY,Air,CA
+1436,Cochrane,YCN,Air,CA
+1437,Cold Lake,YOD,Air,CA
+1438,Collins Bay,YKC,Air,CA
+1439,Colville Lake,YCK,Air,CA
+1440,Comox,YQQ,Air,CA
+1441,Co-op Point,YCP,Air,CA
+1442,Coral Harbour,YZS,Air,CA
+1443,Deer Lake/Stephenville,YNF,Air,CA
+1444,Regional,YCC,Air,CA
+1445,Coronation,YCT,Air,CA
+1446,Cortes Bay,YCF,Air,CA
+1447,Courtenay,YCA,Air,CA
+1448,Cowley,YYM,Air,CA
+1449,Cranbrook,YXC,Air,CA
+1450,Creston,CFQ,Air,CA
+1451,Cross Lake,YCR,Air,CA
+1452,Daniels Harbour,YDH,Air,CA
+1453,Dauphin,YDN,Air,CA
+1454,Davis Inlet,YDI,Air,CA
+1455,Dawson City,YDA,Air,CA
+1456,Dawson Creek,YDQ,Air,CA
+1457,Dean River,YRD,Air,CA
+1458,Dease Lake,YDL,Air,CA
+1459,Deception,YGY,Air,CA
+1460,Deer Lake,YDF,Air,CA
+1461,Deer Lake,YVZ,Air,CA
+1462,Deline,YWJ,Air,CA
+1463,Desolation Sound,YDS,Air,CA
+1464,Diavik,DVK,Air,CA
+1465,Digby,YDG,Air,CA
+1466,Doc Creek,YDX,Air,CA
+1467,St Methode,YDO,Air,CA
+1468,Industrial Airport,YDC,Air,CA
+1469,Municipal,YHD,Air,CA
+1470,Duncan/Quam,DUQ,Air,CA
+1471,Earlton,YXR,Air,CA
+1472,East Main,ZEM,Air,CA
+1473,International,YEG,Air,CA
+1474,Edmonton City Center,YXD,Air,CA
+1475,Namao Fld,YED,Air,CA
+1476,Edson,YET,Air,CA
+1477,Ekati,YOA,Air,CA
+1478,Elliot Lake,YEL,Air,CA
+1479,Esquimalt,YPF,Air,CA
+1480,Estevan,YEN,Air,CA
+1481,Estevan Point,YEP,Air,CA
+1482,Eureka,YEU,Air,CA
+1483,Fairmount Springs,YCZ,Air,CA
+1484,Fairview,ZFW,Air,CA
+1485,Falher,YOE,Air,CA
+1486,Faro,ZFA,Air,CA
+1487,Harbour,ZRR,Air,CA
+1488,Flin Flon,YFO,Air,CA
+1489,Fond Du Lac,ZFD,Air,CA
+1490,Fontanges,YFG,Air,CA
+1491,Forestville,YFE,Air,CA
+1492,Fort Albany,YFA,Air,CA
+1493,Fort Chipewyan,YPY,Air,CA
+1494,Municipal,YAG,Air,CA
+1495,Fort Good Hope,YGH,Air,CA
+1496,Fort Hope,YFH,Air,CA
+1497,Fort Liard,YJF,Air,CA
+1498,Fort Mcmurray,YMM,Air,CA
+1499,Fort Mcpherson,ZFM,Air,CA

@@ -1,0 +1,492 @@
+id,name,port_code,shipment_type_name,country_country_code
+9000,Municipal,UKN,Air,US
+9001,Central Wisconsin,CWA,Air,US
+9002,Municipal,AUW,Air,US
+9003,Ware County,AYS,Air,US
+9004,Green County,WAY,Air,US
+9005,Parker County,WEA,Air,US
+9006,Municipal,EBS,Air,US
+9007,Browns,EPG,Air,US
+9008,Harriet Field,LWL,Air,US
+9009,Municipal,ELZ,Air,US
+9010,Pangborn Field,EAT,Air,US
+9011,Wendover,ENV,Air,US
+9012,West Bend,ETB,Air,US
+9013,West Kavik,VKW,Air,US
+9014,West Kuparuk,XPU,Air,US
+9015,Municipal,AWM,Air,US
+9016,International,PBI,Air,US
+9017,Palm Beach County Park,LNA,Air,US
+9018,Village SPB,KWP,Air,US
+9019,Yellowstone,WYS,Air,US
+9020,Stamford Rail STN,ZTF,Air,US
+9021,Westchester County Apt,HPN,Air,US
+9022,Westerly State,WST,Air,US
+9023,Barnes,BAF,Air,US
+9024,Suffolk County,FOK,Air,US
+9025,Westsound,WSX,Air,US
+9026,Whale Pass,WWP,Air,US
+9027,Wharton,WHT,Air,US
+9028,Phifer Field,EAN,Air,US
+9029,Ohio County,HLG,Air,US
+9030,Ault Field,NUW,Air,US
+9031,White Mountain,WMO,Air,US
+9032,White River,WTR,Air,US
+9033,White River,LEB,Air,US
+9034,Condron AAF,WSD,Air,US
+9035,Greenbrier,SSU,Air,US
+9036,Regional,HIE,Air,US
+9037,Olf Usn,NEN,Air,US
+9038,Municipal,BRG,Air,US
+9039,Beech,BEC,Air,US
+9040,Cessna Aircraft Field,CEA,Air,US
+9041,Mcconnell AFB,IAB,Air,US
+9042,Mid-Continent,ICT,Air,US
+9043,Kickapoo,KIP,Air,US
+9044,Sheppard AFB,SPS,Air,US
+9045,Wildman Lake,EWD,Air,US
+9046,USAF Heliport,WWS,Air,US
+9047,Cape May County,WWD,Air,US
+9048,International,AVP,Air,US
+9049,Wyoming Valle,WBW,Air,US
+9050,Wilkes County,IKB,Air,US
+9051,Newport News/Williamsb,PHF,Air,US
+9052,Lycoming County,IPT,Air,US
+9053,Sloulin Field Intl,ISN,Air,US
+9054,Willmar,ILL,Air,US
+9055,Lost Nation,LNN,Air,US
+9056,Willow,WOW,Air,US
+9057,Willow Grove NAS,NXX,Air,US
+9058,Glenn County,WLW,Air,US
+9059,Greater Wilmington,ILG,Air,US
+9060,Wilmington Rail,ZWI,Air,US
+9061,New Hanover County,ILM,Air,US
+9062,Clinton Field,ILN,Air,US
+9063,Municipal,WGO,Air,US
+9064,Winder,WDR,Air,US
+9065,Bradley International,BDL,Air,US
+9066,Arkansas City,WLD,Air,US
+9067,Wink,INK,Air,US
+9068,Winnemucca,WMC,Air,US
+9069,Municipal,ONA,Air,US
+9070,Winslow,INW,Air,US
+9071,Smith-Reynolds,INT,Air,US
+9072,Gilbert Field,GIF,Air,US
+9073,Van Service,QWP,Air,US
+9074,Wiscasset,ISS,Air,US
+9075,Alexander Field,ISW,Air,US
+9076,Wise,LNP,Air,US
+9077,Wiseman,WSM,Air,US
+9078,Cummings Park,WBN,Air,US
+9079,International,OLF,Air,US
+9080,Wood River,WOD,Air,US
+9081,Woodchopper,WOO,Air,US
+9082,West Woodward,WWR,Air,US
+9083,Wayne County,BJJ,Air,US
+9084,Worcester,ORH,Air,US
+9085,Worland,WRL,Air,US
+9086,Worthington,OTG,Air,US
+9087,Wrangell SPB,WRG,Air,US
+9088,Wrench Creek,WRH,Air,US
+9089,Intermediate,CYT,Air,US
+9090,Firing Center AAF,FCT,Air,US
+9091,Yakima Air Terminal,YKM,Air,US
+9092,Yakutat,YAK,Air,US
+9093,Chan Gurney,YKN,Air,US
+9094,Yerington,EYR,Air,US
+9095,SPB,WYB,Air,US
+9096,York,THV,Air,US
+9097,Yosemite Ntl Park,OYS,Air,US
+9098,Youngstown,YNG,Air,US
+9099,Yreka,RKC,Air,US
+9100,Yucca Flat,UCC,Air,US
+9101,International,YUM,Air,US
+9102,Laguna AAF,LGF,Air,US
+9103,Zachar Bay SPB,KZB,Air,US
+9104,Zanesville,ZZV,Air,US
+9105,Zephyrhills,ZPH,Air,US
+9106,Zwara,WAX,Air,US
+9107,Ohare International,ORD,Air,US
+9108,Newark International Airport,EWR,Air,US
+9109,Lehigh Valley International,ABE,Air,US
+9110,Buffalo Niagara International,BUF,Air,US
+9111,Hendersonville Airport,0A7,Air,US
+9112,Louis Armstrong New Orleans International Airport,MSY,Air,US
+9113,Pittsburgh International Airport,PIT,Air,US
+9114,Bisbee-douglas International,DGF,Air,US
+9115,Artigas,ATI,Air,UY
+9116,Bella Union,BUV,Air,UY
+9117,Laguna De Los Patos,CYR,Air,UY
+9118,Durazno,DZO,Air,UY
+9119,Melo,MLZ,Air,UY
+9120,Carrasco International Airport,MVD,Air,UY
+9121,Paysandu,PDU,Air,UY
+9122,Capitan Corbeta CA Curbelo International Airport,PDP,Air,UY
+9123,Rivera,RVY,Air,UY
+9124,Salto,STY,Air,UY
+9125,Tacuarembo,TAW,Air,UY
+9126,Treinta-y-Tres,TYT,Air,UY
+9127,Vichadero,VCH,Air,UY
+9128,Andizhan,AZN,Air,UZ
+9129,Bukhara,BHK,Air,UZ
+9130,Fergana,FEG,Air,UZ
+9131,Karshi,KSQ,Air,UZ
+9132,Namangan,NMA,Air,UZ
+9133,Navoi,NVI,Air,UZ
+9134,Nukus,NCU,Air,UZ
+9135,Samarkand,SKD,Air,UZ
+9136,Vostochny,TAS,Air,UZ
+9137,Termez,TMJ,Air,UZ
+9138,Urgench,UGC,Air,UZ
+9139,Zarafshan,AFS,Air,UZ
+9140,Canouan Island,CIW,Air,VC
+9141,Mustique,MQS,Air,VC
+9142,Palm Island,PLI,Air,VC
+9143,Bequia Airport,BQU,Air,VC
+9144,E.T. Joshua,SVD,Air,VC
+9145,Union Island,UNI,Air,VC
+9146,Acarigua,AGV,Air,VE
+9147,Anaco,AAO,Air,VE
+9148,Gen J A Anzoategui,BLA,Air,VE
+9149,Barinas,BNS,Air,VE
+9150,Barquisimeto,BRM,Air,VE
+9151,Oro Negro,CBS,Air,VE
+9152,Caicara De Oro,CXA,Air,VE
+9153,Calabozo,CLZ,Air,VE
+9154,Canaima,CAJ,Air,VE
+9155,Maiquetia,CCS,Air,VE
+9156,Carora,VCR,Air,VE
+9157,Carupano,CUP,Air,VE
+9158,Casigua,CUV,Air,VE
+9159,Ciudad Bolivar,CBL,Air,VE
+9160,Ciudad Guayana,CGU,Air,VE
+9161,Coro,CZE,Air,VE
+9162,Cumana,CUM,Air,VE
+9163,El Dorado,EOR,Air,VE
+9164,El Tigre,ELX,Air,VE
+9165,El Vigia,VIG,Air,VE
+9166,Elorza,EOZ,Air,VE
+9167,Guanare,GUQ,Air,VE
+9168,Vare Maria,GDO,Air,VE
+9169,Guiria,GUI,Air,VE
+9170,Icabaru,ICA,Air,VE
+9171,Kamarata,KTV,Air,VE
+9172,Kavanayen,KAV,Air,VE
+9173,La Fria,LFR,Air,VE
+9174,La Guaira,LAG,Air,VE
+9175,Lagunillas,LGY,Air,VE
+9176,Josefa Camejo,LSP,Air,VE
+9177,Los Roques,LRV,Air,VE
+9178,La Chinita,MAR,Air,VE
+9179,Maracay,MYC,Air,VE
+9180,Quiriquire,MUN,Air,VE
+9181,A Carnevalli,MRD,Air,VE
+9182,Maiquetia,MIQ,Air,VE
+9183,Palmarito,PTM,Air,VE
+9184,Pedernales,PDZ,Air,VE
+9185,Peraitepuy,PPH,Air,VE
+9186,Pijiguaos,LPJ,Air,VE
+9187,DelCaribe Gen S Marino,PMV,Air,VE
+9188,Puerto Ayacucho,PYH,Air,VE
+9189,Puerto Cabello,PBL,Air,VE
+9190,Puerto Ordaz,PZO,Air,VE
+9191,Puerto Paez,PPZ,Air,VE
+9192,San Antonio,SVZ,Air,VE
+9193,San Cristobal,SCI,Air,VE
+9194,San Felipe,SNF,Air,VE
+9195,San Felix,SFX,Air,VE
+9196,Las Flecheras,SFD,Air,VE
+9197,San Salvador De,SVV,Air,VE
+9198,El Tigre,SOM,Air,VE
+9199,Santa Barbara Ba,SBB,Air,VE
+9200,L Delicias,STB,Air,VE
+9201,Santa Elena,SNV,Air,VE
+9202,Mayo Guerrero,STD,Air,VE
+9203,Tucupita,TUV,Air,VE
+9204,Tumeremo,TMO,Air,VE
+9205,Uriman,URM,Air,VE
+9206,Valencia,VLN,Air,VE
+9207,Carvajal,VLV,Air,VE
+9208,Valle De Pascua,VDP,Air,VE
+9209,Wonken,WOK,Air,VE
+9210,Anegada,NGD,Air,VG
+9211,Beef Island,EIS,Air,VG
+9212,Hovercraft/Launch Pt,NSX,Air,VG
+9213,Road Town,RAD,Air,VG
+9214,West End SPB,TOV,Air,VG
+9215,Virgin Gorda,VIJ,Air,VG
+9216,Alex Hamilton,STX,Air,VI
+9217,Downtown Heliport,JCD,Air,VI
+9218,SPB,SSB,Air,VI
+9219,St John Island,SJF,Air,VI
+9220,H.S.Truman,STT,Air,VI
+9221,SPB,SPB,Air,VI
+9222,Phung-Duc,BMV,Air,VN
+9223,Ca Mau,CAH,Air,VN
+9224,Can Tho,VCA,Air,VN
+9225,Cape St Jacques,CSJ,Air,VN
+9226,Coong,VCS,Air,VN
+9227,Da Nang,DAD,Air,VN
+9228,Lienkhang,DLI,Air,VN
+9229,Dien Bien,DIN,Air,VN
+9230,Catbi,HPH,Air,VN
+9231,Noibai International,HAN,Air,VN
+9232,Tan Son Nhat,SGN,Air,VN
+9233,Phu Bai,HUI,Air,VN
+9234,Kontum,KON,Air,VN
+9235,Long Xuyen,XLO,Air,VN
+9236,Nha Trang,NHA,Air,VN
+9237,Cam Ranh,CXR,Air,VN
+9238,Phan Rang,PHA,Air,VN
+9239,Phan Thiet,PHH,Air,VN
+9240,Duong Dang,PQC,Air,VN
+9241,Phu Vinh,PHU,Air,VN
+9242,Flamingo,HBN,Air,VN
+9243,Phuoclong,VSO,Air,VN
+9244,Pleiku,PXU,Air,VN
+9245,Nhon Co,HOO,Air,VN
+9246,Quang Ngai,XNG,Air,VN
+9247,Qui Nhon,UIH,Air,VN
+9248,Rach Gia,VKG,Air,VN
+9249,Soc Trang,SOA,Air,VN
+9250,Na-San,SQH,Air,VN
+9251,Tamky,TMK,Air,VN
+9252,Chulai,VCL,Air,VN
+9253,Tuy Hoa,TBB,Air,VN
+9254,Vinh City,VII,Air,VN
+9255,Vinh Long,XVL,Air,VN
+9256,Vung Tau,VTG,Air,VN
+9257,Aneityum,AUY,Air,VU
+9258,Aniwa,AWD,Air,VU
+9259,Big Bay,GBA,Air,VU
+9260,Craig Cove,CCV,Air,VU
+9261,Dillons Bay,DLY,Air,VU
+9262,Emae,EAE,Air,VU
+9263,Epi,EPI,Air,VU
+9264,Pekoa,SON,Air,VU
+9265,Futuna Airport,FTA,Air,VU
+9266,Gaua,ZGU,Air,VU
+9267,Ipota,IPA,Air,VU
+9268,Lamap,LPM,Air,VU
+9269,Lamen Bay,LNB,Air,VU
+9270,Longana,LOD,Air,VU
+9271,Lonorore,LNE,Air,VU
+9272,Maewo,MWF,Air,VU
+9273,Mota Lava,MTV,Air,VU
+9274,Norsup,NUS,Air,VU
+9275,Olpoi,OLJ,Air,VU
+9276,Paama,PBJ,Air,VU
+9277,Bauerfield,VLI,Air,VU
+9278,Quine Hill,UIQ,Air,VU
+9279,Redcliffe,RCL,Air,VU
+9280,Sara,SSR,Air,VU
+9281,Sola,SLH,Air,VU
+9282,South West Bay,SWJ,Air,VU
+9283,Tanna,TAH,Air,VU
+9284,Tongoa,TGH,Air,VU
+9285,Torres Airstrip,TOH,Air,VU
+9286,Ulei,ULB,Air,VU
+9287,Valesdir,VLS,Air,VU
+9288,Walaha,WLH,Air,VU
+9289,Futuna Island,FUT,Air,WF
+9290,Wallis Island,WLS,Air,WF
+9291,Fagali I,FGI,Air,WS
+9292,Faleolo,APW,Air,WS
+9293,Asau,AAU,Air,WS
+9294,Lalomalava,LAV,Air,WS
+9295,Maota Savaii Is,MXS,Air,WS
+9296,Abbse,EAB,Air,YE
+9297,International,ADE,Air,YE
+9298,Al Ghaydah,AAY,Air,YE
+9299,Albuq,BUK,Air,YE
+9300,Aljouf,AJO,Air,YE
+9301,Ataq,AXK,Air,YE
+9302,Beidah,BYD,Air,YE
+9303,Beihan,BHN,Air,YE
+9304,Dathina,DAH,Air,YE
+9305,Dhala,DHL,Air,YE
+9306,Dhamar,DMR,Air,YE
+9307,Hodeidah Arpt,HOD,Air,YE
+9308,Kamaran Is,KAM,Air,YE
+9309,Lodar,LDR,Air,YE
+9310,Mareb,MYN,Air,YE
+9311,Mukalla,MKX,Air,YE
+9312,Mukeiras,UKR,Air,YE
+9313,Qishn,IHN,Air,YE
+9314,Raudha,RXA,Air,YE
+9315,Riyan Mukalla,RIY,Air,YE
+9316,Sadah,SYE,Air,YE
+9317,Seiyun,GXF,Air,YE
+9318,Socotra,SCT,Air,YE
+9319,Al Janad,TAI,Air,YE
+9320,Wadi Ain,WDA,Air,YE
+9321,El Rahaba Airport (Sanaa Intenational),SAH,Air,YE
+9322,Rooikop,WVB,Air,ZA
+9323,Aggeneys,AGZ,Air,ZA
+9324,Kortdoorn,ALJ,Air,ZA
+9325,Alldays,ADY,Air,ZA
+9326,Babelegi Heliport,HBL,Air,ZA
+9327,Bisho,BIY,Air,ZA
+9328,Butterworth,UTE,Air,ZA
+9329,Cape Town International,CPT,Air,ZA
+9330,Cradock,CDO,Air,ZA
+9331,Dukuduk,DUK,Air,ZA
+9332,Durban International,DUR,Air,ZA
+9333,Virginia,VIR,Air,ZA
+9334,East London,ELS,Air,ZA
+9335,Ellisras,ELL,Air,ZA
+9336,Empangeni,EMG,Air,ZA
+9337,Ficksburg Sentra Oes,FCB,Air,ZA
+9338,George,GRJ,Air,ZA
+9339,Giyani,GIY,Air,ZA
+9340,Harrismith Airport,HRS,Air,ZA
+9341,Hazyview,HZV,Air,ZA
+9342,Hluhluwe,HLW,Air,ZA
+9343,Hoedspruit Airport,HDS,Air,ZA
+9344,Inyati,INY,Air,ZA
+9345,International,GCJ,Air,ZA
+9346,Randburg Heliport,HCS,Air,ZA
+9347,Randgermiston,QRA,Air,ZA
+9348,Khoka Moya,KHO,Air,ZA
+9349,Kimberley,KIM,Air,ZA
+9350,Kleinzee,KLZ,Air,ZA
+9351,Klerksdorp,KXE,Air,ZA
+9352,Koinghaas,KIG,Air,ZA
+9353,Komatipoort,KOF,Air,ZA
+9354,Kuruman,KMH,Air,ZA
+9355,Ladysmith,LAY,Air,ZA
+9356,Lanseria,HLA,Air,ZA
+9357,Lime Acres,LMR,Air,ZA
+9358,Londolozi,LDZ,Air,ZA
+9359,Louis Trichardt,LCD,Air,ZA
+9360,Lusikisiki,LUJ,Air,ZA
+9361,Mala Mala,AAM,Air,ZA
+9362,Malelane,LLE,Air,ZA
+9363,Margate,MGH,Air,ZA
+9364,Messina,MEZ,Air,ZA
+9365,Mkambati,MBM,Air,ZA
+9366,Mkuze,MZQ,Air,ZA
+9367,International,MBD,Air,ZA
+9368,Mossel Bay,MZY,Air,ZA
+9369,Motswari Airfield,MWR,Air,ZA
+9370,Mzamba(Wild Coast Sun),MZF,Air,ZA
+9371,Nelspruit International,NLP,Air,ZA
+9372,Kruger Mpumalanga,MQP,Air,ZA
+9373,Newcastle,NCS,Air,ZA
+9374,Ngala Airfield,NGL,Air,ZA
+9375,Oudtshoorn,OUH,Air,ZA
+9376,Overberg (FAOB),OVG,Air,ZA
+9377,Phalaborwa,PHW,Air,ZA
+9378,Zulu Inyala,PZL,Air,ZA
+9379,Pietermaritzburg Oribi,PZB,Air,ZA
+9380,Plettenberg Bay,PBZ,Air,ZA
+9381,Polokwane,PTG,Air,ZA
+9382,Port Alfred,AFD,Air,ZA
+9383,Port Elizabeth,PLZ,Air,ZA
+9384,Port Saint Johns,JOH,Air,ZA
+9385,Central Hpr,HPR,Air,ZA
+9386,Iscor Heliport,HIC,Air,ZA
+9387,Wonderboom Apt.,PRY,Air,ZA
+9388,Prieska,PRK,Air,ZA
+9389,Queenstown,UTW,Air,ZA
+9390,Reivilo,RVO,Air,ZA
+9391,Richards Bay,RCB,Air,ZA
+9392,Robertson,ROD,Air,ZA
+9393,Sabi Sabi,GSS,Air,ZA
+9394,Langebaanweg,SDB,Air,ZA
+9395,Secunda,ZEC,Air,ZA
+9396,Sishen,SIS,Air,ZA
+9397,Skukuza,SZK,Air,ZA
+9398,Springbok,SBU,Air,ZA
+9399,Pilanesberg,NTY,Air,ZA
+9400,Tanda Tula,TDT,Air,ZA
+9401,Thaba Nchu,TCU,Air,ZA
+9402,Thohoyandou,THY,Air,ZA
+9403,Tshipise,TSD,Air,ZA
+9404,Letaba,LTA,Air,ZA
+9405,Ulundi,ULD,Air,ZA
+9406,Ulusaba,ULX,Air,ZA
+9407,Umtata,UTT,Air,ZA
+9408,Upington,UTN,Air,ZA
+9409,Vredendal,VRE,Air,ZA
+9410,Vryburg,VRU,Air,ZA
+9411,Vryheid,VYD,Air,ZA
+9412,Waterkloof (FAWK),WKF,Air,ZA
+9413,Welkom,WEL,Air,ZA
+9414,Johannesburg International,JNB,Air,ZA
+9415,Chingola,CGJ,Air,ZM
+9416,Chipata,CIP,Air,ZM
+9417,Kalabo,KLB,Air,ZM
+9418,Kaoma,KMZ,Air,ZM
+9419,Kasaba Bay,ZKB,Air,ZM
+9420,Kasama,KAA,Air,ZM
+9421,Kasompe,ZKP,Air,ZM
+9422,Southdowns,KIW,Air,ZM
+9423,Livingstone,LVI,Air,ZM
+9424,Lukulu,LXU,Air,ZM
+9425,Lusaka,LUN,Air,ZM
+9426,Mansa,MNS,Air,ZM
+9427,Mbala,MMQ,Air,ZM
+9428,Mfuwe,MFU,Air,ZM
+9429,Mongu,MNR,Air,ZM
+9430,Ndola,NLA,Air,ZM
+9431,Ngoma,ZGM,Air,ZM
+9432,Senanga,SXG,Air,ZM
+9433,Sesheke,SJQ,Air,ZM
+9434,Solwezi,SLI,Air,ZM
+9435,Zambezi,BBZ,Air,ZM
+9436,Bandundu,FDU,Air,CD
+9437,Basankusu,BSU,Air,CD
+9438,Basongo,BAN,Air,CD
+9439,Beni,BNC,Air,CD
+9440,Boende,BNB,Air,CD
+9441,Boma,BOA,Air,CD
+9442,Kamenbe,BKY,Air,CD
+9443,Bumba,BMB,Air,CD
+9444,Bunia,BUX,Air,CD
+9445,Buta,BZU,Air,CD
+9446,Gandajika,GDJ,Air,CD
+9447,Kisangani,BDT,Air,CD
+9448,Gemena,GMA,Air,CD
+9449,Idiofa,IDF,Air,CD
+9450,Ilebo,PFR,Air,CD
+9451,Inongo,INO,Air,CD
+9452,Matari,IRP,Air,CD
+9453,Kabalo,KBO,Air,CD
+9454,Kabinda,KBN,Air,CD
+9455,Kalemie,FMI,Air,CD
+9456,Kalima,KLY,Air,CD
+9457,Kamina,KMN,Air,CD
+9458,Kananga,KGA,Air,CD
+9459,Kaniama,KNM,Air,CD
+9460,Kapanga,KAP,Air,CD
+9461,Kasenga,KEC,Air,CD
+9462,Kasongo Lunda,KGN,Air,CD
+9463,Kikwit,KKW,Air,CD
+9464,Kilwa,KIL,Air,CD
+9465,Kindu,KND,Air,CD
+9466,Kiri,KRZ,Air,CD
+9467,Kolwezi,KWZ,Air,CD
+9468,Kongolo,KOO,Air,CD
+9469,Kota Koli,KLI,Air,CD
+9470,Libenge,LIE,Air,CD
+9471,Lisala,LIQ,Air,CD
+9472,Lodja,LJA,Air,CD
+9473,Luano,FBM,Air,CD
+9474,Luiza,LZA,Air,CD
+9475,Luozi,LZI,Air,CD
+9476,Lusambo,LBO,Air,CD
+9477,Lusanga,LUS,Air,CD
+9478,Manono,MNO,Air,CD
+9479,Masi Manimba,MSM,Air,CD
+9480,Matadi,MAT,Air,CD
+9481,Mbandaka,MDK,Air,CD
+9482,Mbuji Mayi,MJM,Air,CD
+9483,Moanda,MNB,Air,CD
+9484,Moba,BDV,Air,CD
+9485,Mweka,MEW,Air,CD
+9486,Nioki,NIO,Air,CD
+9487,Nkolo,NKL,Air,CD
+9488,Punia,PUN,Air,CD
+9489,Pweto,PWO,Air,CD
+9490,Yangambi,YAN,Air,CD

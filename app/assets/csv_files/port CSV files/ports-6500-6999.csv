@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+6500,Ladouanie,LDO,Air,SR
+6501,Moengo,MOJ,Air,SR
+6502,Nieuw Nickerie,ICK,Air,SR
+6503,Vincent Fayks,OEM,Air,SR
+6504,Zanderij Intl,PBM,Air,SR
+6505,Zorg En Hoop,ORG,Air,SR
+6506,Stoelmans Eiland,SMZ,Air,SR
+6507,Coronie,TOT,Air,SR
+6508,Wageningen,AGI,Air,SR
+6509,Washabo,WSO,Air,SR
+6510,Porto Alegre,PGP,Air,ST
+6511,Principe,PCP,Air,ST
+6512,Sao Tome Is,TMS,Air,ST
+6513,Comalapa International,SAL,Air,SV
+6514,Al Thaurah,SOR,Air,SY
+6515,Nejrab,ALP,Air,SY
+6516,International,DAM,Air,SY
+6517,Al Jafrah,DEZ,Air,SY
+6518,Kameshli,KAC,Air,SY
+6519,Latakia,LTK,Air,SY
+6520,Palmyra,PMS,Air,SY
+6521,Matsapha Intl,MTS,Air,SZ
+6522,Grand Turk Is,GDT,Air,TC
+6523,Middle Caicos,MDS,Air,TC
+6524,North Caicos,NCA,Air,TC
+6525,Pine Cay,PIC,Air,TC
+6526,International,PLS,Air,TC
+6527,Salt Cay,SLX,Air,TC
+6528,International,XSC,Air,TC
+6529,Abecher,AEH,Air,TD
+6530,Abou Deia,AOD,Air,TD
+6531,Ati,ATV,Air,TD
+6532,Bokoro,BKR,Air,TD
+6533,Bol,OTC,Air,TD
+6534,Bongor,OGR,Air,TD
+6535,Bousso,OUT,Air,TD
+6536,Faya,FYT,Air,TD
+6537,Lai,LTC,Air,TD
+6538,Mao,AMO,Air,TD
+6539,Melfi,MEF,Air,TD
+6540,Mongo,MVO,Air,TD
+6541,Moundou,MQQ,Air,TD
+6542,Ndjamena,NDJ,Air,TD
+6543,Oum Hadjer,OUM,Air,TD
+6544,Pala,PLF,Air,TD
+6545,Sarh,SRH,Air,TD
+6546,Zakouma,AKM,Air,TD
+6547,Am Timan,AMC,Air,TD
+6548,Lome,LFW,Air,TG
+6549,Niamtougou,LRL,Air,TG
+6550,Udorn,BAO,Air,TH
+6551,International,BKK,Air,TH
+6552,Buri Ram,BFV,Air,TH
+6553,International,CNX,Air,TH
+6554,Chiang Rai,CEI,Air,TH
+6555,Chumphon Airport,CJM,Air,TH
+6556,Hat Yai,HDY,Air,TH
+6557,Hua Hin Airport,HHQ,Air,TH
+6558,Kamphangsaen,KDT,Air,TH
+6559,Khon Kaen,KKC,Air,TH
+6560,Koh Samui,USM,Air,TH
+6561,Krabi,KBV,Air,TH
+6562,Lampang,LPT,Air,TH
+6563,Loei,LOE,Air,TH
+6564,Lop Buri,KKM,Air,TH
+6565,Mae Hong Son,HGN,Air,TH
+6566,Mae Sot,MAQ,Air,TH
+6567,Nakhon Phanom,KOP,Air,TH
+6568,Nakhon Ratchasima,NAK,Air,TH
+6569,Nakhon Si Thammarat,NST,Air,TH
+6570,Nan,NNT,Air,TH
+6571,Narathiwat,NAW,Air,TH
+6572,Patong Beach,PBS,Air,TH
+6573,Pattani,PAN,Air,TH
+6574,Pattaya,PYX,Air,TH
+6575,Phanom Sarakham,PMM,Air,TH
+6576,Phetchabun,PHY,Air,TH
+6577,Phi Phi Island,PHZ,Air,TH
+6578,Phitsanulok,PHS,Air,TH
+6579,Phrae,PRH,Air,TH
+6580,Phuket International,HKT,Air,TH
+6581,Ranong,UNN,Air,TH
+6582,Roi Et Airport,ROI,Air,TH
+6583,Sakon Nakhon,SNO,Air,TH
+6584,Songkhla,SGZ,Air,TH
+6585,Surat Thani,URT,Air,TH
+6586,Surin,PXR,Air,TH
+6587,Tak,TKT,Air,TH
+6588,Takhli,TKH,Air,TH
+6589,Trang,TST,Air,TH
+6590,Trat,TDX,Air,TH
+6591,Muang Ubon,UBP,Air,TH
+6592,Udon Thani,UTH,Air,TH
+6593,Utapao,UTP,Air,TH
+6594,Uttaradit,UTR,Air,TH
+6595,dyu,DYU,Air,TJ
+6596,Khudzhand,LBD,Air,TJ
+6597,Ashgabat,ASB,Air,TM
+6598,Dashoguz,TAZ,Air,TM
+6599,Mary,MYP,Air,TM
+6600,Turkmenabad,CRZ,Air,TM
+6601,Turkmanbashi,KRW,Air,TM
+6602,Djerba-Zarzis,DJE,Air,TN
+6603,El Borma,EBM,Air,TN
+6604,Gabes,GAE,Air,TN
+6605,Gafsa,GAF,Air,TN
+6606,Sfax El Maou,SFA,Air,TN
+6607,Tabarka,TBJ,Air,TN
+6608,Tozeur,TOE,Air,TN
+6609,Carthage,TUN,Air,TN
+6610,Habib Bourguiba,MIR,Air,TN
+6611,Kaufana,EUA,Air,TO
+6612,Kuini Lavenia,NTT,Air,TO
+6613,Adana,ADA,Air,TR
+6614,Adana-Incirlik Airbase,UAB,Air,TR
+6615,Adiyaman,ADF,Air,TR
+6616,Afyon,AFY,Air,TR
+6617,Ağri,AJI,Air,TR
+6618,Esenboga,ESB,Air,TR
+6619,Etimesgut,ANK,Air,TR
+6620,Antalya,AYT,Air,TR
+6621,Balikesir,BZI,Air,TR
+6622,Merkez,MQJ,Air,TR
+6623,Bandirma,BDM,Air,TR
+6624,Batman,BAL,Air,TR
+6625,Imsik Airport,BXN,Air,TR
+6626,Milas Airport,BJV,Air,TR
+6627,Bursa Airport,BTZ,Air,TR
+6628,Canakkale,CKZ,Air,TR
+6629,Dalaman,DLM,Air,TR
+6630,Cardak,DNZ,Air,TR
+6631,Diyarbakir,DIY,Air,TR
+6632,Edremit/Korfez,EDO,Air,TR
+6633,Elazig,EZS,Air,TR
+6634,Erzincan,ERC,Air,TR
+6635,Erzurum,ERZ,Air,TR
+6636,Eskisehir,ESK,Air,TR
+6637,Anadolu University,AOE,Air,TR
+6638,Gaziantep,GZT,Air,TR
+6639,Isparta,ISE,Air,TR
+6640,Ataturk,IST,Air,TR
+6641,Sabiha Gokcen,SAW,Air,TR
+6642,Adnan Menderes Arpt,ADB,Air,TR
+6643,Cigli Military Arpt,IGL,Air,TR
+6644,Kahramanmaras,KCM,Air,TR
+6645,Kars,KSY,Air,TR
+6646,Kastamonu,KFS,Air,TR
+6647,Erkilet International Airport,ASR,Air,TR
+6648,Cengiz Topel,KCO,Air,TR
+6649,Konya,KYA,Air,TR
+6650,Malatya,MLX,Air,TR
+6651,Mardin,MQM,Air,TR
+6652,Merzifon,MZH,Air,TR
+6653,Mus,MSR,Air,TR
+6654,Nevsehir,NAV,Air,TR
+6655,Carsamba,SZF,Air,TR
+6656,Samsun,SSX,Air,TR
+6657,Sanliurfa,SFQ,Air,TR
+6658,Siirt,SXZ,Air,TR
+6659,Sinop,SQD,Air,TR
+6660,Sinop Airport,SIC,Air,TR
+6661,Sivas,VAS,Air,TR
+6662,Corlu,TEQ,Air,TR
+6663,Tokat,TJK,Air,TR
+6664,Trabzon,TZX,Air,TR
+6665,Usak,USQ,Air,TR
+6666,Van,VAN,Air,TR
+6667,Zonguldak,ONQ,Air,TR
+6668,Crown Point Airport,TAB,Air,TT
+6669,Trinidad,POS,Air,TT
+6670,International,FUN,Air,TV
+6671,Chi Mei,CMJ,Air,TW
+6672,Chiayi,CYI,Air,TW
+6673,Green Island,GNI,Air,TW
+6674,Hengchun,HCN,Air,TW
+6675,Hsinchu,HSZ,Air,TW
+6676,Hualien,HUN,Air,TW
+6677,International,KHH,Air,TW
+6678,Shang-Yi,KNH,Air,TW
+6679,Lishan,LHN,Air,TW
+6680,Makung,MZG,Air,TW
+6681,Matsu,MFK,Air,TW
+6682,Nangan,LZN,Air,TW
+6683,Orchid Island,KYD,Air,TW
+6684,Pingtung,PIF,Air,TW
+6685,Sun Moon Lake,SMT,Air,TW
+6686,Taichung,TXG,Air,TW
+6687,ChingChuanKang,RMQ,Air,TW
+6688,Tainan,TNN,Air,TW
+6689,Chiang Kai Shek,TPE,Air,TW
+6690,Sung Shan,TSA,Air,TW
+6691,Taitung,TTT,Air,TW
+6692,Wonan,WOT,Air,TW
+6693,Arusha,ARK,Air,TZ
+6694,Bukoba,BKZ,Air,TZ
+6695,International,DAR,Air,TZ
+6696,Dodoma,DOD,Air,TZ
+6697,Geita,GIT,Air,TZ
+6698,Nduli,IRI,Air,TZ
+6699,Kigoma,TKQ,Air,TZ
+6700,Kilimanjaro,JRO,Air,TZ
+6701,Kilwa,KIY,Air,TZ
+6702,Lake Manyara,LKY,Air,TZ
+6703,Kikwetu,LDI,Air,TZ
+6704,Lushoto,LUY,Air,TZ
+6705,Mafia,MFA,Air,TZ
+6706,Masasi,XMI,Air,TZ
+6707,Mbeya,MBI,Air,TZ
+6708,Mtwara,MYW,Air,TZ
+6709,Musoma,MUZ,Air,TZ
+6710,Mwadui,MWN,Air,TZ
+6711,Mwanza,MWZ,Air,TZ
+6712,Nachingwea,NCH,Air,TZ
+6713,Njombe,JOM,Air,TZ
+6714,Wawi,PMA,Air,TZ
+6715,Seronera,SEU,Air,TZ
+6716,Shinyanga,SHY,Air,TZ
+6717,Songea,SGX,Air,TZ
+6718,Sumbawanga,SUT,Air,TZ
+6719,Tabora,TBO,Air,TZ
+6720,Tanga,TGT,Air,TZ
+6721,Kisauni,ZNZ,Air,TZ
+6722,Berdyansk,ERD,Air,UA
+6723,Cherkassy,CKC,Air,UA
+6724,Chernigov,CEJ,Air,UA
+6725,Chernovtsy,CWC,Air,UA
+6726,Dnepropetrovsk,DNK,Air,UA
+6727,Donetsk,DOK,Air,UA
+6728,Ivano-Frankovsk,IFO,Air,UA
+6729,Kamenets-Podolskiy,KCP,Air,UA
+6730,Kerch,KHC,Air,UA
+6731,Kharkov,HRK,Air,UA
+6732,Kherson,KHE,Air,UA
+6733,Khmelnitskiy,HMJ,Air,UA
+6734,Borispol,KBP,Air,UA
+6735,Darnitsa Bus Station,QOF,Air,UA
+6736,Hotel Rus Bus Station,QOH,Air,UA
+6737,Zhulhany,IEV,Air,UA
+6738,Kirovograd,KGO,Air,UA
+6739,Kramatorsk,KRQ,Air,UA
+6740,Kremenchug,KHU,Air,UA
+6741,Krivoy Rog,KWG,Air,UA
+6742,Lugansk,VSG,Air,UA
+6743,Lutsk,UCK,Air,UA
+6744,Snilow,LWO,Air,UA
+6745,Mariupol,MPW,Air,UA
+6746,Mirgorod,MXR,Air,UA
+6747,Nikolaev,NLV,Air,UA
+6748,Central,ODS,Air,UA
+6749,Poltava,PLV,Air,UA
+6750,Rovno,RWN,Air,UA
+6751,Belbek,UKS,Air,UA
+6752,Severodoneck,SEV,Air,UA
+6753,Simferopol,SIP,Air,UA
+6754,Sumy,UMY,Air,UA
+6755,Ternopol,TNL,Air,UA
+6756,Uzhgorod,UDJ,Air,UA
+6757,Vinnica,VIN,Air,UA
+6758,Zaporozhye,OZH,Air,UA
+6759,Zhitomir,ZTR,Air,UA
+6760,Arua,RUA,Air,UG
+6761,Entebbe,EBB,Air,UG
+6762,Gulu,ULU,Air,UG
+6763,Jinja,JIN,Air,UG
+6764,Kabalega Falls,KBG,Air,UG
+6765,Kasese,KSE,Air,UG
+6766,Masindi,KCU,Air,UG
+6767,Mbarara,MBQ,Air,UG
+6768,Moyo,OYG,Air,UG
+6769,Pakuba,PAF,Air,UG
+6770,Soroti,SRT,Air,UG
+6771,Tororo,TRY,Air,UG
+6772,Johnston Island,JON,Air,UM
+6773,Sand Island Field,MDY,Air,UM
+6774,Wake Island,AWK,Air,UM
+6775,Oakland,CTQ,Air,US
+6776,Montevideo–Chippewa County Airport,MVE,Air,US
+6777,Windom Municipal Airport,MWM,Air,US
+6778,Phillips AAF,APG,Air,US
+6779,Municipal,ABR,Air,US
+6780,Dyess AFB,DYS,Air,US
+6781,Municipal,ABI,Air,US
+6782,Virginia Highlands,VJI,Air,US
+6783,Ada,ADT,Air,US
+6784,Adak Island NS,ADK,Air,US
+6785,Lenawee County,ADG,Air,US
+6786,Municipal,AFO,Air,US
+6787,Municipal,AIK,Air,US
+6788,Ainsworth,ANW,Air,US
+6789,Akhiok SPB,AKK,Air,US
+6790,Spb,KKI,Air,US
+6791,Akiak,AKI,Air,US
+6792,Washington Co,AKO,Air,US
+6793,Akron/Canton Regional,CAK,Air,US
+6794,Fulton International,AKC,Air,US
+6795,Akutan,KQA,Air,US
+6796,Alakanuk,AUK,Air,US
+6797,NAS,NGZ,Air,US
+6798,Holloman AFB,HMN,Air,US
+6799,Municipal,ALM,Air,US
+6800,Municipal,ALS,Air,US
+6801,Albany NAS,NAB,Air,US
+6802,Dougherty County,ABY,Air,US
+6803,Albany International,ALB,Air,US
+6804,Albany NY Rail,ZLY,Air,US
+6805,Albany,CVO,Air,US
+6806,Albert Lea,AEL,Air,US
+6807,Albuquerque International,ABQ,Air,US
+6808,Aleknagik,WKK,Air,US
+6809,Aleneva,AED,Air,US
+6810,Thomas C Russell Fld,ALX,Air,US
+6811,Alexandria Internation,AEX,Air,US
+6812,Esler Field,ESF,Air,US
+6813,Alexandria,AXN,Air,US
+6814,Alexandria Bay,AXB,Air,US
+6815,Algona,AXG,Air,US
+6816,International,ALI,Air,US
+6817,George Downer,AIV,Air,US
+6818,Alitak SPB,ALZ,Air,US
+6819,Allakaket,AET,Air,US
+6820,Alliance,AIA,Air,US
+6821,Gratiot Community,AMN,Air,US
+6822,Alpena County Regional,APN,Air,US
+6823,Alpine,ALE,Air,US
+6824,Alton,ALN,Air,US
+6825,Altus AFB,LTS,Air,US
+6826,Municipal,AXS,Air,US
+6827,Alyeska,AQY,Air,US
+6828,International,AMA,Air,US
+6829,Tradewind,TDW,Air,US
+6830,Ambler,ABL,Air,US
+6831,Amchitka,AHT,Air,US
+6832,Municipal,AHH,Air,US
+6833,Ames,AMW,Air,US
+6834,Zahns,AYZ,Air,US
+6835,Amook,AOS,Air,US
+6836,Anacortes,OTS,Air,US
+6837,USN Heliport,NDV,Air,US
+6838,Anaheim,ANA,Air,US
+6839,Anaktuvuk,AKP,Air,US
+6840,Elmendorf AFB,EDF,Air,US
+6841,Ted Stevens Anchorage Int'l,ANC,Air,US
+6842,Merrill Field,MRI,Air,US
+6843,Municipal,AID,Air,US
+6844,Anderson,AND,Air,US
+6845,Andrews,ADR,Air,US
+6846,Angel Fire,AXX,Air,US
+6847,Tri-State Steuben Cty,ANQ,Air,US
+6848,Angoon,AGN,Air,US
+6849,Rollang Field,RFK,Air,US
+6850,Aniak,ANI,Air,US
+6851,Anita Bay,AIB,Air,US
+6852,Municipal,ARB,Air,US
+6853,Lee,ANP,Air,US
+6854,Annette Island,ANN,Air,US
+6855,County Arpt,ANB,Air,US
+6856,Ft Mcclellan Bus Trml,QAW,Air,US
+6857,Reilly AHP,RLI,Air,US
+6858,Anthony,ANY,Air,US
+6859,Antlers,ATE,Air,US
+6860,Anvik,ANV,Air,US
+6861,Municipal,AAF,Air,US
+6862,Apple Valley,APV,Air,US
+6863,Outagamie County,ATW,Air,US
+6864,Municipal,AHF,Air,US
+6865,Arcata,ACV,Air,US
+6866,Arctic Village,ARC,Air,US
+6867,Downtown,AHD,Air,US
+6868,Ardmore Municipal Arpt,ADM,Air,US
+6869,US Army Heliport,JLH,Air,US
+6870,Artesia,ATS,Air,US
+6871,Asbury Park,ARX,Air,US
+6872,Ashland,ASX,Air,US
+6873,Ashley,ASY,Air,US
+6874,Aspen,ASE,Air,US
+6875,Astoria,AST,Air,US
+6876,Athens,AHN,Air,US
+6877,Ohio University,ATO,Air,US
+6878,McMinn County,MMI,Air,US
+6879,Atka,AKB,Air,US
+6880,Beaver Ruin,JAO,Air,US
+6881,De Kalb/Peachtree,PDK,Air,US
+6882,Fulton County,FTY,Air,US
+6883,Galleria,JGL,Air,US
+6884,Hartsfield-Jackson Atlanta Int,ATL,Air,US
+6885,Perimeter Mall,JAJ,Air,US
+6886,Technology Park,JAE,Air,US
+6887,Municipal,AIO,Air,US
+6888,Atlantic City Intl,ACY,Air,US
+6889,Bader Field,AIY,Air,US
+6890,Steel Pier Hlpt,JSL,Air,US
+6891,Atmautluak,ATT,Air,US
+6892,Atqasuk,ATK,Air,US
+6893,Casco Cove,ATU,Air,US
+6894,Auburn-Opelika,AUO,Air,US
+6895,Auburn,AUN,Air,US
+6896,Bush Field,AGS,Air,US
+6897,Daniel Field,DNL,Air,US
+6898,Augusta,AUG,Air,US
+6899,Municipal Airport,AUZ,Air,US
+6900,Austin,AUM,Air,US
+6901,Austin,ASQ,Air,US
+6902,Camp Maybry AHP,MMR,Air,US
+6903,Municipal,AVO,Air,US
+6904,Baca Grande,BCJ,Air,US
+6905,Bagdad,BGT,Air,US
+6906,Decatur County,BGE,Air,US
+6907,Baker,BKE,Air,US
+6908,Baker AAF,BAR,Air,US
+6909,Meadows Field,BFL,Air,US
+6910,Baltimore Greenbelt T,GBO,Air,US
+6911,Baltimore Rail,ZBP,Air,US
+6912,Glenn L Martin,MTN,Air,US
+6913,State,BDY,Air,US
+6914,International,BGR,Air,US
+6915,Banning,BNG,Air,US
+6916,Bar Harbor,BHB,Air,US
+6917,Warm Spring Bay SPB,BNF,Air,US
+6918,Barbers Point,NAX,Air,US
+6919,Samuels Field,BRY,Air,US
+6920,Barnwell County,BNL,Air,US
+6921,Point Barrow,PBA,Air,US
+6922,Wiley Post/W.Rogers M,BRW,Air,US
+6923,Barter Island,BTI,Air,US
+6924,Bartlesville,BVO,Air,US
+6925,Bartletts,BSZ,Air,US
+6926,Bartow,BOW,Air,US
+6927,Municipal,BVX,Air,US
+6928,Hillenbrand,HLB,Air,US
+6929,Downtown,EBR,Air,US
+6930,Ryan,BTR,Air,US
+6931,WK Kellogg Regional,BTL,Air,US
+6932,Lander County,BAM,Air,US
+6933,Baudette,BDE,Air,US
+6934,Bay City,BBC,Air,US
+6935,Baytown,HPY,Air,US
+6936,Bear Creek,BCC,Air,US
+6937,Beatrice,BIE,Air,US
+6938,Beatty,BTY,Air,US
+6939,County,BFT,Air,US
+6940,Beaumont Muni,BMT,Air,US
+6941,Jefferson County,BPT,Air,US
+6942,Beaver,WBQ,Air,US
+6943,Beaver Falls,BFP,Air,US
+6944,Sea Port,BVD,Air,US
+6945,Beckley,BKW,Air,US
+6946,Virgil I Grissom Muni,BFR,Air,US
+6947,Hanscom Field,BED,Air,US
+6948,Chase Field NAS,NIR,Air,US
+6949,Hot Springs SPB,KBE,Air,US
+6950,Antrim County,ACB,Air,US
+6951,Southern Seaplane,BCS,Air,US
+6952,Bellefonte,PSB,Air,US
+6953,Belleville,BLV,Air,US
+6954,Bellingham,BLI,Air,US
+6955,Monmouth County,BLM,Air,US
+6956,Beluga,BVU,Air,US
+6957,Bemidji,BJI,Air,US
+6958,Bennettsville,BTN,Air,US
+6959,Municipal,BBB,Air,US
+6960,Ross Field,BEH,Air,US
+6961,Berkeley,JBK,Air,US
+6962,Berlin,BML,Air,US
+6963,Bethel Airport,BET,Air,US
+6964,City Landing,JBT,Air,US
+6965,Grumman,BPA,Air,US
+6966,Bettles,BTT,Air,US
+6967,Beverly,BVY,Air,US
+6968,Bhurban Heliport,BHC,Air,US
+6969,Big Bear City Arpt,RBF,Air,US
+6970,Big Creek,BIC,Air,US
+6971,Intermediate Field,BIG,Air,US
+6972,Big Lake,BGQ,Air,US
+6973,Big Mountain,BMX,Air,US
+6974,Big Piney-marbleton,BPI,Air,US
+6975,Big Rapids,WBR,Air,US
+6976,Howard County,HCA,Air,US
+6977,Webb AFB,BGS,Air,US
+6978,Billings,BIL,Air,US
+6979,Keesler AFB,BIX,Air,US
+6980,Birch Creek,KBC,Air,US
+6981,Birmingham,BHM,Air,US
+6982,Bisbee Municipal Arpt,BSQ,Air,US
+6983,Bishe-Kola,BSM,Air,US
+6984,Bishop,BIH,Air,US
+6985,Bismarck,BIS,Air,US
+6986,Virginia Tech,BCB,Air,US
+6987,Blackstone AAF,BKT,Air,US
+6988,Blackwell,BWL,Air,US
+6989,Blaine,BWS,Air,US
+6990,Blairsville,BSI,Air,US
+6991,Blakely Island,BYW,Air,US
+6992,Blanding,BDG,Air,US
+6993,Block Island,BID,Air,US
+6994,Bloomington,BMG,Air,US
+6995,Bloomington-Normal,BMI,Air,US
+6996,Wings Field,BBX,Air,US
+6997,Blue Canyon,BLU,Air,US
+6998,Blue Fox Bay,BFB,Air,US
+6999,Blythe,BLH,Air,US

@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+8500,Princeton,PCT,Air,US
+8501,Princeton JT Rail,ZTJ,Air,US
+8502,Princeton,BLF,Air,US
+8503,Prineville,PRZ,Air,US
+8504,Prospect Creek,PPC,Air,US
+8505,Providence Rail,ZRV,Air,US
+8506,T. F. Green Airport,PVD,Air,US
+8507,Provincetown,PVC,Air,US
+8508,Provo,PVU,Air,US
+8509,Prudhoe Bay,PUO,Air,US
+8510,Prudhoe Bay/Deadhorse,SCC,Air,US
+8511,Memorial,PUB,Air,US
+8512,Pullman-Moscow Regional Airport,PUW,Air,US
+8513,Charlotte County,PGD,Air,US
+8514,Upper Bucks,UKT,Air,US
+8515,Quantanico Nas,NYG,Air,US
+8516,Queen,UQE,Air,US
+8517,Quillayute State,UIL,Air,US
+8518,Municipal,UIN,Air,US
+8519,Quincy,MQI,Air,US
+8520,Kwinhagak,KWN,Air,US
+8521,NAS,NCO,Air,US
+8522,Horlick,RAC,Air,US
+8523,Off line Point,XZU,Air,US
+8524,Raleigh-Durham International Airport,RDU,Air,US
+8525,Rampart,RMP,Air,US
+8526,French Valley,RBK,Air,US
+8527,Rangely,RNG,Air,US
+8528,Ranger Municipal,RGR,Air,US
+8529,Ellsworth AFB,RCA,Air,US
+8530,Regional,RAP,Air,US
+8531,Raspberry Strait,RSP,Air,US
+8532,Crews Field,RTN,Air,US
+8533,Rawlins,RWL,Air,US
+8534,Municipal/Spaatz Fld,RDG,Air,US
+8535,Red Bluff Fss,RBL,Air,US
+8536,Red Devil,RDV,Air,US
+8537,Red Dog,RDB,Air,US
+8538,Grand Forks AFB,RDR,Air,US
+8539,Redding,RDD,Air,US
+8540,Roberts Field,RDM,Air,US
+8541,Redwood Falls Muni,RWF,Air,US
+8542,Miller Field,RCT,Air,US
+8543,Mifflin County,RED,Air,US
+8544,Rooke Field,RFG,Air,US
+8545,Rehoboth Beach,REH,Air,US
+8546,Rensselaer,RNZ,Air,US
+8547,Renton,RNT,Air,US
+8548,Oneida County,RHI,Air,US
+8549,Rice Lake,RIE,Air,US
+8550,Reynolds,RIF,Air,US
+8551,Richland,RLD,Air,US
+8552,Richmond,RID,Air,US
+8553,Intl (Byrd Field),RIC,Air,US
+8554,Richmond VA Rail,ZRD,Air,US
+8555,Garfield County,RIL,Air,US
+8556,Heliport,JRD,Air,US
+8557,March AFB,RIV,Air,US
+8558,Riverside Fla-Bob,RIR,Air,US
+8559,Riverside Municipal,RAL,Air,US
+8560,Riverton,RIW,Air,US
+8561,Municipal,ROA,Air,US
+8562,Halifax County,RZZ,Air,US
+8563,Roche Harbor,RCE,Air,US
+8564,Fulton County,RCR,Air,US
+8565,Municipal,RST,Air,US
+8566,Municipal Heliport,JRC,Air,US
+8567,Monroe County,ROC,Air,US
+8568,Rochester NY Rail,ZTE,Air,US
+8569,Rock Hill,RKH,Air,US
+8570,Sweetwater County,RKS,Air,US
+8571,Coffield,RCK,Air,US
+8572,Machesney,RMC,Air,US
+8573,Park & Ride Bus Svc,ZRF,Air,US
+8574,VanGalder Bus Termina,ZRK,Air,US
+8575,Knox County Regional,RKD,Air,US
+8576,Aransas County,RKP,Air,US
+8577,Municipal,RKW,Air,US
+8578,Rocky Mount-Wilson,RWI,Air,US
+8579,Rogers,ROG,Air,US
+8580,National,RLA,Air,US
+8581,Falcon State,FAL,Air,US
+8582,Richard B Russell,RMG,Air,US
+8583,Griffiss AFB,RME,Air,US
+8584,State,REO,Air,US
+8585,Roosevelt,ROL,Air,US
+8586,Rosario SPB,RSJ,Air,US
+8587,Municipal,ROX,Air,US
+8588,Municipal,RBG,Air,US
+8589,Industrial,ROW,Air,US
+8590,Rotunda,RTD,Air,US
+8591,Roundup,RPX,Air,US
+8592,Rouses Point,RSX,Air,US
+8593,Rowan Bay,RWB,Air,US
+8594,Ruby,RBY,Air,US
+8595,Municipal,RUI,Air,US
+8596,Rupert,BYI,Air,US
+8597,Russell,RSL,Air,US
+8598,Russian SPB,RSH,Air,US
+8599,Ruston,RSN,Air,US
+8600,Rutland,RUT,Air,US
+8601,Executive,SAC,Air,US
+8602,Mather AFB,MHR,Air,US
+8603,Mcclellan AFB,MCC,Air,US
+8604,Sacramento International,SMF,Air,US
+8605,Stockton,SCK,Air,US
+8606,Safford,SAD,Air,US
+8607,Tri City,MBS,Air,US
+8608,Saginaw Bay,SGW,Air,US
+8609,Sagwon,SAG,Air,US
+8610,Municipal,STC,Air,US
+8611,Municipal Heliport,JSK,Air,US
+8612,Municipal,SGU,Air,US
+8613,Saint Marys,KSM,Air,US
+8614,Saint Paul Island,SNP,Air,US
+8615,Leckrone,SLO,Air,US
+8616,Mcnary Field,SLE,Air,US
+8617,Salida,SLT,Air,US
+8618,Salina,SLN,Air,US
+8619,Salina,SBO,Air,US
+8620,Salinas,SNS,Air,US
+8621,Rowan County,SRW,Air,US
+8622,Wicomico Regional,SBY,Air,US
+8623,Salmon,SMN,Air,US
+8624,International,SLC,Air,US
+8625,Salton City,SAS,Air,US
+8626,Goodfellow AFB,GOF,Air,US
+8627,Mathis Fld,SJT,Air,US
+8628,San Antonio International,SAT,Air,US
+8629,Kelly AFB,SKF,Air,US
+8630,Martindale AAF,MDA,Air,US
+8631,Randolph AFB,RND,Air,US
+8632,Stinson Municipal,SSF,Air,US
+8633,Norton Afb,SBD,Air,US
+8634,Tri-City,SBT,Air,US
+8635,San Carlos,SQL,Air,US
+8636,Brown Field Municipal,SDM,Air,US
+8637,Carlsbad,CLD,Air,US
+8638,Gillespie Field,SEE,Air,US
+8639,Lindberg Fld S. Diego,SAN,Air,US
+8640,Miramar MCAS,NKX,Air,US
+8641,Montgomery Field,MYF,Air,US
+8642,North Island Nas,NZY,Air,US
+8643,China Basin Heliport,JCC,Air,US
+8644,Embarkadero,EMB,Air,US
+8645,San Francisco International,SFO,Air,US
+8646,Mineta San Jose International Airport,SJC,Air,US
+8647,Reid-Hillview,RHV,Air,US
+8648,San Juan SPB,WSJ,Air,US
+8649,County Airport,SBP,Air,US
+8650,Roberts AAF,SYL,Air,US
+8651,Catalina SPB,SPQ,Air,US
+8652,Hamilton Field,SRF,Air,US
+8653,San Rafael H/P,JSG,Air,US
+8654,Municipal,SDP,Air,US
+8655,Griffing Sandusky,SKY,Air,US
+8656,Federal No 1,KSR,Air,US
+8657,Sanford,SFM,Air,US
+8658,Centerport Heliport,JOC,Air,US
+8659,Downtown Heliport,DNT,Air,US
+8660,John Wayne,SNA,Air,US
+8661,Municipal,SBA,Air,US
+8662,Santa Cruz Island,SZN,Air,US
+8663,Skypark,SRU,Air,US
+8664,Santa Fe,SAF,Air,US
+8665,Bus Station,ZSH,Air,US
+8666,Public,SMX,Air,US
+8667,Santa Monica,SMO,Air,US
+8668,Santa Paula,SZP,Air,US
+8669,Sonoma County,STS,Air,US
+8670,Santa Ynez,SQA,Air,US
+8671,Adirondack,SLK,Air,US
+8672,Sarasota-Bradenton International Airport,SRQ,Air,US
+8673,Shively Field,SAA,Air,US
+8674,Sarichef,WSF,Air,US
+8675,Chippewa County,CIU,Air,US
+8676,Kincheloe AFB,INR,Air,US
+8677,Marin County,JMC,Air,US
+8678,Hunter AAF,SVN,Air,US
+8679,Savannah/Hilton Head,SAV,Air,US
+8680,Savoonga,SVA,Air,US
+8681,SPB,SCM,Air,US
+8682,Marriott Heliport,JMH,Air,US
+8683,County,SCH,Air,US
+8684,Schenectady Rail,ZTD,Air,US
+8685,Scotts Bluff County,BFF,Air,US
+8686,Municipal,SCR,Air,US
+8687,State,SCB,Air,US
+8688,Seal Bay,SYB,Air,US
+8689,Searcy,SRC,Air,US
+8690,Boeing Fld Intl,BFI,Air,US
+8691,Lake Union SPB,LKE,Air,US
+8692,Seattle/tacoma International,SEA,Air,US
+8693,Air Terminal,SEF,Air,US
+8694,Sedalia,DMO,Air,US
+8695,Sedona,SDX,Air,US
+8696,Selawik,WLK,Air,US
+8697,Seldovia,SOV,Air,US
+8698,Penn Valley,SEG,Air,US
+8699,Craig AFB,SEM,Air,US
+8700,Selfield,SES,Air,US
+8701,Sequim Valley Arpt,SQV,Air,US
+8702,Franklin County,UOS,Air,US
+8703,Seward,SWD,Air,US
+8704,Freeman Municipal,SER,Air,US
+8705,Kern County,MIT,Air,US
+8706,Shageluk,SHX,Air,US
+8707,Shaktoolik,SKK,Air,US
+8708,Shangri-la,NRI,Air,US
+8709,Municipal,SNL,Air,US
+8710,Memorial,SBM,Air,US
+8711,Sheep Mountain,SMU,Air,US
+8712,Sheffield,MSL,Air,US
+8713,Shelby,SBX,Air,US
+8714,Bomar Field,SYI,Air,US
+8715,Sheldon SPB,SXP,Air,US
+8716,Sanderson Field,SHN,Air,US
+8717,Shemya AFB,SYA,Air,US
+8718,Sheridan,SHR,Air,US
+8719,Grayson County,PNX,Air,US
+8720,Brookhaven,WSH,Air,US
+8721,Shishmaref,SHH,Air,US
+8722,Shoal Cove,HCB,Air,US
+8723,Show Low,SOW,Air,US
+8724,Barksdale AFB,BAD,Air,US
+8725,Downtown,DTN,Air,US
+8726,Regional,SHV,Air,US
+8727,Shungnak,SHG,Air,US
+8728,Richland Municipal,SDY,Air,US
+8729,Sidney,SNY,Air,US
+8730,Sidney,SXY,Air,US
+8731,Municipal,FHU,Air,US
+8732,Memorial,SIK,Air,US
+8733,Smith Field,SLG,Air,US
+8734,Grant County,SVC,Air,US
+8735,Sioux Gateway,SUX,Air,US
+8736,Regional(Jo Foss Fld),FSD,Air,US
+8737,Sitka,SIT,Air,US
+8738,Sitkinak Cgs,SKJ,Air,US
+8739,Municipal,SGY,Air,US
+8740,Intermediate,SKW,Air,US
+8741,Sleetmute,SLQ,Air,US
+8742,Smith Cove,SCJ,Air,US
+8743,North Central,SFZ,Air,US
+8744,Smyrna,MQY,Air,US
+8745,Winston Field,SNK,Air,US
+8746,Socorro,ONM,Air,US
+8747,Soldotna,SXQ,Air,US
+8748,Solomon,SOL,Air,US
+8749,Pulaski County,SME,Air,US
+8750,South Bend Regional,SBN,Air,US
+8751,South Lake Tahoe,TVL,Air,US
+8752,South Naknek,WSN,Air,US
+8753,South Weymouth,NZW,Air,US
+8754,Pinehurst-S. Pines,SOP,Air,US
+8755,Sparrevohn AFS,SVW,Air,US
+8756,Sparta Community,SAR,Air,US
+8757,Camp Mccoy AAF,CMY,Air,US
+8758,Downtown Memorial,SPA,Air,US
+8759,Black Hills,SPF,Air,US
+8760,Municipal,SPW,Air,US
+8761,Spirit Lake,RTL,Air,US
+8762,Fairchild AFB,SKA,Air,US
+8763,Felts Field,SFF,Air,US
+8764,International,GEG,Air,US
+8765,Springdale Muni,SPZ,Air,US
+8766,Capital,SPI,Air,US
+8767,Springfield MA RR,ZSF,Air,US
+8768,Westover Metro Arpt,CEF,Air,US
+8769,Springfield-Branson Rg,SGF,Air,US
+8770,Springfield,SGH,Air,US
+8771,State,VSF,Air,US
+8772,St Augustine,UST,Air,US
+8773,St George Island,STG,Air,US
+8774,Municipal,SJN,Air,US
+8775,Rosecrans Memorial,STJ,Air,US
+8776,Bi-State Parks,CPS,Air,US
+8777,Lambert-St Louis Intl,STL,Air,US
+8778,Spirit Of St Louis,SUS,Air,US
+8779,St Marys,XSM,Air,US
+8780,St Marys,STQ,Air,US
+8781,St Michael,SMK,Air,US
+8782,Downtown,STP,Air,US
+8783,International,PIE,Air,US
+8784,Whitted,SPG,Air,US
+8785,Carleton,SYN,Air,US
+8786,University Park,SCE,Air,US
+8787,Municipal,TBR,Air,US
+8788,Municipal,SVH,Air,US
+8789,Shenandoah Valley,SHD,Air,US
+8790,SPB,WSB,Air,US
+8791,Steamboat Springs,SBS,Air,US
+8792,Stebbins,WBB,Air,US
+8793,Clark Field,SEP,Air,US
+8794,Crosson Field,STK,Air,US
+8795,Whiteside County,SQI,Air,US
+8796,Stevens Point,STE,Air,US
+8797,Stevens Village,SVS,Air,US
+8798,Searcy Fld,SWO,Air,US
+8799,Stony River,SRV,Air,US
+8800,Municipal,SLB,Air,US
+8801,Minute Man Airfield,MMN,Air,US
+8802,Morrisville-Stowe,MVL,Air,US
+8803,Sikorsky Heliport,JSD,Air,US
+8804,Stroud,SUD,Air,US
+8805,Witham Field,SUA,Air,US
+8806,Stuart Island,SSW,Air,US
+8807,Door County,SUE,Air,US
+8808,Kirsch Municipal,IRS,Air,US
+8809,Stuttgart,SGT,Air,US
+8810,Sugar Land Municipal,SGR,Air,US
+8811,County,SIV,Air,US
+8812,Sulphur Springs,SLR,Air,US
+8813,Summit,UMM,Air,US
+8814,Municipal,SUM,Air,US
+8815,Shaw AFB,SSC,Air,US
+8816,Sun River,SUO,Air,US
+8817,Sun Valley,SUN,Air,US
+8818,Schloredt,SUC,Air,US
+8819,Richard I Bong Arpt,SUW,Air,US
+8820,Susanville,SVE,Air,US
+8821,Sweetwater,SWW,Air,US
+8822,Sylvester,SYV,Air,US
+8823,Syracuse Hancock International Airport,SYR,Air,US
+8824,Syracuse NY Rail,ZYQ,Air,US
+8825,Gray AAF,GRF,Air,US
+8826,Industrial,TIW,Air,US
+8827,Mc Chord AFB,TCM,Air,US
+8828,Tahneta Pass,HNE,Air,US
+8829,Takotna,TCT,Air,US
+8830,Taku SPB,TKL,Air,US
+8831,Talkeetna,TKA,Air,US
+8832,Talladega,ASN,Air,US
+8833,Tallahassee Regional Airport,TLH,Air,US
+8834,Tampa International,TPA,Air,US
+8835,Mac Dill AFB,MCF,Air,US
+8836,Topp Of Tampa,KYO,Air,US
+8837,Intermediate,TSG,Air,US
+8838,Tanalian Point,TPO,Air,US
+8839,Ralph Calhoun,TAL,Air,US
+8840,Taos,TSM,Air,US
+8841,Tatalina AFS,TLJ,Air,US
+8842,Tatitlek,TEK,Air,US
+8843,Taylor,TWE,Air,US
+8844,Taylor,TYZ,Air,US
+8845,Kern County,TSP,Air,US
+8846,Telida,TLF,Air,US
+8847,Teller,TLA,Air,US
+8848,Brevig Mission,KTS,Air,US
+8849,Telluride,TEX,Air,US
+8850,Bus Station,ZTL,Air,US
+8851,Draughon-Miller,TPL,Air,US
+8852,Tenakee SPB,TKE,Air,US
+8853,Hulman Field,HUF,Air,US
+8854,Terrell Field,TRL,Air,US
+8855,Teterboro,TEB,Air,US
+8856,Tetlin,TEH,Air,US
+8857,Municipal,TXK,Air,US
+8858,The Dalles,DLS,Air,US
+8859,Thermal,TRM,Air,US
+8860,Hot Springs,THP,Air,US
+8861,Regional,TVF,Air,US
+8862,Municipal,TVI,Air,US
+8863,Thompsonfield,THM,Air,US
+8864,Thorne Bay,KTB,Air,US
+8865,Heliport,JTO,Air,US
+8866,Dr Haines,HAI,Air,US
+8867,Henry Tift Myers,TMA,Air,US
+8868,SPB,KTH,Air,US
+8869,Tin City AFS,TNC,Air,US
+8870,Municipal,VEX,Air,US
+8871,Space Center Exect.,TIX,Air,US
+8872,Toccoa,TOC,Air,US
+8873,Togiak Fish,GFB,Air,US
+8874,Togiak Village,TOG,Air,US
+8875,Tok,TKJ,Air,US
+8876,Tokeen,TKI,Air,US
+8877,Toksook Bay,OOK,Air,US
+8878,Toledo,TDZ,Air,US
+8879,Express,TOL,Air,US
+8880,Winlock,TDO,Air,US
+8881,Robert J. Miller,MJX,Air,US
+8882,Test Range,XSD,Air,US
+8883,Tonopah Arpt,TPH,Air,US
+8884,Forbes AFB,FOE,Air,US
+8885,Philip Billard,TOP,Air,US
+8886,Torrance,TOA,Air,US
+8887,Municipal,TOR,Air,US
+8888,Traverse City,TVC,Air,US
+8889,Coast Guard Heliport,TRP,Air,US
+8890,Tremonton,TRT,Air,US
+8891,Memorial,TRX,Air,US
+8892,Las Animas,TAD,Air,US
+8893,Trona,TRH,Air,US
+8894,Troutdale,TTD,Air,US
+8895,Municipal,TOI,Air,US
+8896,Truckee,TKF,Air,US
+8897,Municipal,TCS,Air,US
+8898,Tuba City,TBC,Air,US
+8899,Avra Valley,AVW,Air,US
+8900,Davis Monthan AFB,DMA,Air,US
+8901,International,TUS,Air,US
+8902,Tucumcari,TCC,Air,US
+8903,Tulare,TLR,Air,US
+8904,Arnold AFS,TUH,Air,US
+8905,Northern,THA,Air,US
+8906,International,TUL,Air,US
+8907,R.Lloyd Jones,RVS,Air,US
+8908,Tuluksak,TLT,Air,US
+8909,Tuntutuliak,WTL,Air,US
+8910,Tununak,TNK,Air,US
+8911,Lemons Municipal,TUP,Air,US
+8912,Van De Graaf,TCL,Air,US
+8913,Sharpe Field,TGE,Air,US
+8914,Nichen Cove SPB,WNC,Air,US
+8915,Twentynine Palms,TNP,Air,US
+8916,City County,TWF,Air,US
+8917,Twin Hills,TWA,Air,US
+8918,Pounds Field,TYR,Air,US
+8919,Tyonek,TYE,Air,US
+8920,Uganik,UGI,Air,US
+8921,Ugashik,UGS,Air,US
+8922,Ukiah,UKI,Air,US
+8923,Umiat,UMT,Air,US
+8924,North Shore,UMB,Air,US
+8925,Umnak,UNS,Air,US
+8926,Unalakleet,UNK,Air,US
+8927,Everett-Stewart,UCY,Air,US
+8928,Cable,CCB,Air,US
+8929,Cable Heliport,JUP,Air,US
+8930,Upolu Point,UPP,Air,US
+8931,Berz-Macomb,UIZ,Air,US
+8932,Oneida County,UCA,Air,US
+8933,Utica NNY Rail,ZUA,Air,US
+8934,Indian Mountain AFS,UTO,Air,US
+8935,Garner Fld,UVA,Air,US
+8936,Beaver Creek Van Svce.,ZBV,Air,US
+8937,Eagle County,EGE,Air,US
+8938,Vail Van Service,QBF,Air,US
+8939,Municipal,VDZ,Air,US
+8940,Moody AFB,VAD,Air,US
+8941,Regional,VLD,Air,US
+8942,Miller Field,VTN,Air,US
+8943,J t Robidoux,VLE,Air,US
+8944,Stolport,VLO,Air,US
+8945,Duke Field,EGI,Air,US
+8946,Ft. Walton Beach,VPS,Air,US
+8947,Porter County,VPZ,Air,US
+8948,Culberson County,VHN,Air,US
+8949,Vandalia,VLA,Air,US
+8950,Venetie,VEE,Air,US
+8951,Venice,VNC,Air,US
+8952,Ventura,OXR,Air,US
+8953,Vernal,VEL,Air,US
+8954,Municipal,VRB,Air,US
+8955,Versailles,VRS,Air,US
+8956,Rolla National,VIH,Air,US
+8957,Vicksburg,VKS,Air,US
+8958,County-Foster,VCT,Air,US
+8959,George AFB,VCV,Air,US
+8960,Municipal,VDI,Air,US
+8961,View Cove,VCB,Air,US
+8962,Oneal,OEA,Air,US
+8963,Visalia,VIS,Air,US
+8964,James Connall,CNW,Air,US
+8965,Municipal,ACT,Air,US
+8966,Wheeler AFB,HHI,Air,US
+8967,Wahpeton,WAH,Air,US
+8968,Waikoloa Airport,WKL,Air,US
+8969,Bellows Field,BLW,Air,US
+8970,Wainwright,AIN,Air,US
+8971,Waldron Island,WDN,Air,US
+8972,Wales,WAA,Air,US
+8973,Walla Walla,ALW,Air,US
+8974,Walnut Ridge,ARG,Air,US
+8975,Municipal,RBW,Air,US
+8976,Waltham,WLM,Air,US
+8977,Neil Armstrong,AXV,Air,US
+8978,Ware,UWA,Air,US
+8979,Whiteman AFB,SZL,Air,US
+8980,Warroad,RRT,Air,US
+8981,Balt/wash International,BWI,Air,US
+8982,Bolling AFB,BOF,Air,US
+8983,Buzzards Pt S,BZS,Air,US
+8984,Washington Dulles Intl,IAD,Air,US
+8985,New Carrolton RR,ZRZ,Air,US
+8986,Pentagon Army,JPN,Air,US
+8987,Ronald Reagan National,DCA,Air,US
+8988,Reagan National,ZWU,Air,US
+8989,Warren Field,OCW,Air,US
+8990,County,WSG,Air,US
+8991,Wasilla,WWA,Air,US
+8992,Waterfall SPB,KWF,Air,US
+8993,Waterloo,ALO,Air,US
+8994,Watertown,ART,Air,US
+8995,Watertown,ATY,Air,US
+8996,Robert Lafleur,WVL,Air,US
+8997,Watsonville,WVI,Air,US
+8998,Memorial,UGN,Air,US
+8999,Waukesha,UES,Air,US

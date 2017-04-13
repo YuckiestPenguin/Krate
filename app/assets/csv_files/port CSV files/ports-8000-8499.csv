@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+8000,Lyndonville,LLX,Air,US
+8001,Rice County Municipal,LYO,Air,US
+8002,Mackinac Island,MCD,Air,US
+8003,Municipal,MQB,Air,US
+8004,Lewis B Wilson,MCN,Air,US
+8005,Robins AFB,WRB,Air,US
+8006,Smart,MAC,Air,US
+8007,Madera,MAE,Air,US
+8008,Griswold,MPE,Air,US
+8009,Jefferson Proving Grd,MDN,Air,US
+8010,Madison,XMD,Air,US
+8011,Dane County Regional,MSN,Air,US
+8012,City-county,MDJ,Air,US
+8013,Municipal,AGO,Air,US
+8014,Malad City,MLD,Air,US
+8015,Malden,MAW,Air,US
+8016,Malta,MLK,Air,US
+8017,Mammoth Lakes,MMH,Air,US
+8018,Manassas,MNZ,Air,US
+8019,Municipal,MHT,Air,US
+8020,Municipal,MHK,Air,US
+8021,Municipal,MXA,Air,US
+8022,Blacker,MBL,Air,US
+8023,Schoolcraft County,ISQ,Air,US
+8024,Municipal,MTW,Air,US
+8025,Municipal,MKT,Air,US
+8026,Municipal Heliport,JMN,Air,US
+8027,Manley Hot Springs,MLY,Air,US
+8028,Manokotak SPB,KMO,Air,US
+8029,Lahm Municipal,MFD,Air,US
+8030,Dare County Regional,MEO,Air,US
+8031,Manti-Ephraim,NTJ,Air,US
+8032,Kupper,JVI,Air,US
+8033,Marana,MZJ,Air,US
+8034,Marathon Flight Strip,MTH,Air,US
+8035,Marble Canyon,MYH,Air,US
+8036,Marco Island,MRK,Air,US
+8037,Municipal,MRF,Air,US
+8038,Marguerite Bay,RTE,Air,US
+8039,Atlanta NAS,NCQ,Air,US
+8040,Dobbins AFB,MGE,Air,US
+8041,Williamson County,MWA,Air,US
+8042,Marion,MZZ,Air,US
+8043,Municipal,MNN,Air,US
+8044,Selfs,MMS,Air,US
+8045,Marlborough,MXG,Air,US
+8046,Sawyer International,MQT,Air,US
+8047,Marshall,MLL,Air,US
+8048,Municipal-Ryan Field,MML,Air,US
+8049,Memorial Municipal,MHL,Air,US
+8050,Harrison County,ASL,Air,US
+8051,Municipal,MIW,Air,US
+8052,Municipal,MFI,Air,US
+8053,Martinsburg,AOO,Air,US
+8054,Eastern Wv Regional Airport/Shepherd Field,MRB,Air,US
+8055,Beale AFB,BAB,Air,US
+8056,Yuba County,MYV,Air,US
+8057,Mason City,MCW,Air,US
+8058,Richards Field,MSS,Air,US
+8059,Matagorda AFB,MGI,Air,US
+8060,Coles County Memorial,MTO,Air,US
+8061,Maxton,MXE,Air,US
+8062,May Creek,MYK,Air,US
+8063,Ns,NRB,Air,US
+8064,Mc Alester,MLC,Air,US
+8065,Telfair-Wheeler,MQW,Air,US
+8066,Mccall,MYL,Air,US
+8067,Mccarthy,MXY,Air,US
+8068,Pike County,MCB,Air,US
+8069,Mccook,MCK,Air,US
+8070,Mcgrath,MCG,Air,US
+8071,Warren County,RNC,Air,US
+8072,Mcpherson,MPR,Air,US
+8073,Meadville,MEJ,Air,US
+8074,Jackson County,MFR,Air,US
+8075,Medford,MDF,Air,US
+8076,Medfra,MDR,Air,US
+8077,Ellis Field,MYU,Air,US
+8078,Melbourne Intl,MLB,Air,US
+8079,Accomack County,MFV,Air,US
+8080,International,MEM,Air,US
+8081,NAS,NQA,Air,US
+8082,Menominee,MNM,Air,US
+8083,Castle AFB,MER,Air,US
+8084,Merced Municipal Arpt,MCE,Air,US
+8085,Desert Rock,DRA,Air,US
+8086,Key Field,MEI,Air,US
+8087,Municipal,RRL,Air,US
+8088,Falcon Field,MSC,Air,US
+8089,Mesquite,MFH,Air,US
+8090,SPB,MTM,Air,US
+8091,SPB,WMK,Air,US
+8092,Dade Collier,TNT,Air,US
+8093,Downtown Heliport,JDM,Air,US
+8094,Miami International Airport,MIA,Air,US
+8095,Opa Locka,OPF,Air,US
+8096,SPB,MPB,Air,US
+8097,Tamiami,TMB,Air,US
+8098,Miami,MIO,Air,US
+8099,Michigan City Arpt,MGC,Air,US
+8100,Intermediate,MDO,Air,US
+8101,Hook Field,MWO,Air,US
+8102,Airpark,MDD,Air,US
+8103,Odessa Regional,MAF,Air,US
+8104,Municipal,MLS,Air,US
+8105,Milford,MLF,Air,US
+8106,Baldwin County,MLJ,Air,US
+8107,Millinocket,MLT,Air,US
+8108,Millville,MIV,Air,US
+8109,Whiting Field NAS,NSE,Air,US
+8110,Milwaukee,ZML,Air,US
+8111,General Mitchell,MKE,Air,US
+8112,Lawrence J Timmerman,MWC,Air,US
+8113,Intermediate,MHM,Air,US
+8114,Douglas County,MEV,Air,US
+8115,Ft Wolter AAF,CWO,Air,US
+8116,Mineral Wells Arpt,MWL,Air,US
+8117,Crystal,MIC,Air,US
+8118,Downtown Heliport,JDT,Air,US
+8119,Flying Cloud,FCM,Air,US
+8120,St Paul Intl,MSP,Air,US
+8121,Noble F. Lee,ARV,Air,US
+8122,International,MOT,Air,US
+8123,Minot AFB,MIB,Air,US
+8124,Minto,MNT,Air,US
+8125,Mission,MFE,Air,US
+8126,Johnson-Bell Field,MSO,Air,US
+8127,Municipal,MHE,Air,US
+8128,Canyonlands Field,CNY,Air,US
+8129,Moberly,MBY,Air,US
+8130,Mob Aerospace,BFM,Air,US
+8131,Mobile Regional Arpt,MOB,Air,US
+8132,Mobridge,MBG,Air,US
+8133,Municipal,MOD,Air,US
+8134,Kern County,MHV,Air,US
+8135,Quad-City,MLI,Air,US
+8136,Roy Hurd Memorial,MIF,Air,US
+8137,Municipal,MLU,Air,US
+8138,Monroe - Walton County,MVC,Air,US
+8139,Siskiyou County,SIY,Air,US
+8140,Sky Portal,MTP,Air,US
+8141,Ohara International,OAR,Air,US
+8142,Monterey Peninsula,MRY,Air,US
+8143,Dannelly Fld,MGM,Air,US
+8144,Gunter AFB,GUN,Air,US
+8145,Maxwell AFB,MXF,Air,US
+8146,Orange County,MGJ,Air,US
+8147,Municipal,MXO,Air,US
+8148,Sullivan County Intl,MSV,Air,US
+8149,San Juan County,MXC,Air,US
+8150,Edward F Knapp State,MPV,Air,US
+8151,Montrose County,MTJ,Air,US
+8152,Montvale,QMV,Air,US
+8153,Monument Valley,GMV,Air,US
+8154,Lenoir,MRN,Air,US
+8155,Morgantown,MGW,Air,US
+8156,Petit Jean Park,MPJ,Air,US
+8157,Municipal,MOX,Air,US
+8158,Municipal,MMU,Air,US
+8159,Moore-Murrell,MOR,Air,US
+8160,Moser Bay,KMY,Air,US
+8161,Grant County,MWH,Air,US
+8162,Larson AFB,LRN,Air,US
+8163,Intermediate,MOS,Air,US
+8164,Spence,MUL,Air,US
+8165,Thomasville,MGR,Air,US
+8166,Burlington County,LLY,Air,US
+8167,Municipal,MOP,Air,US
+8168,Mount Pleasant,MPS,Air,US
+8169,Rep,MHS,Air,US
+8170,Mount Union,MUU,Air,US
+8171,Skagit Regional,MVW,Air,US
+8172,Mount Wilson,MWS,Air,US
+8173,Mountain Home,WMH,Air,US
+8174,AFB,MUO,Air,US
+8175,Moffett Field,NUQ,Air,US
+8176,Mountain Village,MOU,Air,US
+8177,Detroit NAF,NFB,Air,US
+8178,Selfridge ANGB,MTC,Air,US
+8179,Mt Mckinley,MCL,Air,US
+8180,Municipal,MPZ,Air,US
+8181,Mt Pleasant,MSD,Air,US
+8182,Mt Pocono,MPO,Air,US
+8183,Mt Vernon-Outland,MVN,Air,US
+8184,Mullen,MHN,Air,US
+8185,Delaware County,MIE,Air,US
+8186,Calloway County,CEY,Air,US
+8187,Muscatine,MUT,Air,US
+8188,Muskegon,MKG,Air,US
+8189,Davis Field,MKO,Air,US
+8190,Hatbox Field,HAX,Air,US
+8191,Grand Strand Airport,CRE,Air,US
+8192,Myrtle Beach AFB,MYR,Air,US
+8193,Nacogdoches,OCH,Air,US
+8194,Lufkin Angelina County,LFK,Air,US
+8195,Naknek,NNK,Air,US
+8196,Nakolik River,NOL,Air,US
+8197,Nantucket Memorial,ACK,Air,US
+8198,Nanwalek,KEB,Air,US
+8199,Napa County,APC,Air,US
+8200,Napakiak SPB,WNA,Air,US
+8201,SPB,PKA,Air,US
+8202,Naples,APF,Air,US
+8203,Boire Field,ASH,Air,US
+8204,Metropolitan,BNA,Air,US
+8205,Hardy-Anders,HEZ,Air,US
+8206,Naukiti,NKI,Air,US
+8207,Needles,EED,Air,US
+8208,Nelson Lagoon,NLG,Air,US
+8209,Municipal,ENN,Air,US
+8210,Neosho,EOS,Air,US
+8211,Nephi,NPH,Air,US
+8212,Nevada,NVD,Air,US
+8213,New Bedford,EWB,Air,US
+8214,Simmons Nott,EWN,Air,US
+8215,New Chenega,NCN,Air,US
+8216,New Haven,HVN,Air,US
+8217,New Haven Rail,ZVE,Air,US
+8218,Acadiana Regional,ARA,Air,US
+8219,Lafayette Regional,LFT,Air,US
+8220,New Koliganek,KGK,Air,US
+8221,New London,GON,Air,US
+8222,Lakefront,NEW,Air,US
+8223,NAS/Alvin Callendar,NBG,Air,US
+8224,Harry Clever,PHD,Air,US
+8225,Municipal,RNH,Air,US
+8226,New Stuyahok,KNW,Air,US
+8227,New Ulm,ULM,Air,US
+8228,Battery Pk City/N. Cov,NBP,Air,US
+8229,Downtown Manhattan H/P,JRB,Air,US
+8230,East 34th St Heliport,TSS,Air,US
+8231,East 34th St Landing,NES,Air,US
+8232,East 60th Street H/P,JRE,Air,US
+8233,Flushing,FLU,Air,US
+8234,John F Kennedy Intl,JFK,Air,US
+8235,La Guardia,LGA,Air,US
+8236,Marine Air Terminal,QNY,Air,US
+8237,New York Penn STN,ZYP,Air,US
+8238,Pier 11/Wall St. SPB,NWS,Air,US
+8239,West 30th St Heliport,JRA,Air,US
+8240,World Trade Center,WTC,Air,US
+8241,Metropark Rail,ZME,Air,US
+8242,Newark NJ Rail,ZRP,Air,US
+8243,Stewart,SWF,Air,US
+8244,Mondell,ECS,Air,US
+8245,Parlin Field,NWH,Air,US
+8246,Newport,ONP,Air,US
+8247,State,NPT,Air,US
+8248,Newport,EFK,Air,US
+8249,Heliport,JNP,Air,US
+8250,Newtok,WWT,Air,US
+8251,Municipal,TNU,Air,US
+8252,City-County,EWK,Air,US
+8253,International,IAG,Air,US
+8254,Niblack,NIE,Air,US
+8255,Nichen Cove,NKV,Air,US
+8256,Nightmute,NME,Air,US
+8257,Nikolai,NIB,Air,US
+8258,Nikolski AFS,IKO,Air,US
+8259,Jerry Tyler Memorial,NLE,Air,US
+8260,Ninilchik,NIN,Air,US
+8261,Noatak,WTK,Air,US
+8262,International,OLS,Air,US
+8263,Nome,OME,Air,US
+8264,Nondalton,NNL,Air,US
+8265,Curtis Memorial,ORV,Air,US
+8266,Stefan Field,OFK,Air,US
+8267,International,ORF,Air,US
+8268,Nas Chambers,NGU,Air,US
+8269,Max Westheimer,OUN,Air,US
+8270,Central Maine,OWK,Air,US
+8271,North Bend,OTH,Air,US
+8272,Lee Bird Field,LBF,Air,US
+8273,Sky Harbor,OBK,Air,US
+8274,AFS,OHC,Air,US
+8275,Northway,ORT,Air,US
+8276,Heliport,ORQ,Air,US
+8277,Eaton,OIC,Air,US
+8278,Memorial,OWD,Air,US
+8279,Novato,NOT,Air,US
+8280,Nuiqsut,NUI,Air,US
+8281,Nulato,NUL,Air,US
+8282,Nunapitchuk,NUP,Air,US
+8283,Nyac,ZNC,Air,US
+8284,Dillingham Airfield,HDH,Air,US
+8285,Oak Harbor,ODW,Air,US
+8286,Convention Center H/P,JCE,Air,US
+8287,Metropolitan Oak Intl,OAK,Air,US
+8288,Oakland/Coliseum Stat,OBT,Air,US
+8289,Green,OTN,Air,US
+8290,Taylor Field,OCF,Air,US
+8291,Municipal,OCE,Air,US
+8292,Ocean Reef,OCA,Air,US
+8293,NAS,NTU,Air,US
+8294,Oceanic,OCI,Air,US
+8295,Municipal,OCN,Air,US
+8296,Searle Field,OGA,Air,US
+8297,Hill AFB,HIF,Air,US
+8298,Municipal,OGD,Air,US
+8299,Ogdensburg,OGS,Air,US
+8300,Splane Memorial,OIL,Air,US
+8301,County,OBE,Air,US
+8302,Downtown Airpark,DWN,Air,US
+8303,Tinker AFB,TIK,Air,US
+8304,Wiley Post,PWA,Air,US
+8305,Will Rogers World,OKC,Air,US
+8306,Okmulgee,OKM,Air,US
+8307,Old Harbor SPB,OLH,Air,US
+8308,Old Town,OLD,Air,US
+8309,Municipal,OLE,Air,US
+8310,Olga Bay SPB,KOY,Air,US
+8311,Olive Branch Arpt,OLV,Air,US
+8312,Olney-Noble,OLY,Air,US
+8313,Olney,ONY,Air,US
+8314,Olympia,OLM,Air,US
+8315,Eppley Airfield,OMA,Air,US
+8316,Municipal,OMK,Air,US
+8317,Municipal,ONL,Air,US
+8318,Municipal,ONH,Air,US
+8319,Onion Bay,ONN,Air,US
+8320,International,ONT,Air,US
+8321,Intl Heliport,JIO,Air,US
+8322,Ontario,ONO,Air,US
+8323,St Landry Parish,OPL,Air,US
+8324,The City Heliport,JOR,Air,US
+8325,Municipal,OGB,Air,US
+8326,Orlando Executive,ORL,Air,US
+8327,International,MCO,Air,US
+8328,Orlando Sanford Intl,SFB,Air,US
+8329,Walt Disney World,DWS,Air,US
+8330,Oroville,OVE,Air,US
+8331,Osage Beach,OSB,Air,US
+8332,Municipal,OEO,Air,US
+8333,Wurtsmith AFB,OSC,Air,US
+8334,Oshkosh,OKS,Air,US
+8335,Wittman Field,OSH,Air,US
+8336,Municipal,OOA,Air,US
+8337,Vor,OTO,Air,US
+8338,Industrial,OTM,Air,US
+8339,Ouzinkie SPB,KOZ,Air,US
+8340,Owatonna,OWA,Air,US
+8341,Daviess County,OWB,Air,US
+8342,Waterbury-Oxford,OXC,Air,US
+8343,University-Oxford,UOX,Air,US
+8344,Miami University,OXD,Air,US
+8345,Cairns AAF,OZR,Air,US
+8346,Hanchey Army Heliport,HEY,Air,US
+8347,Lowe Army Heliport,LOR,Air,US
+8348,Ozona Municipal,OZA,Air,US
+8349,State,PFC,Air,US
+8350,Pack Creek,PBK,Air,US
+8351,Barkley Regional,PAH,Air,US
+8352,Paf Warren,PFA,Air,US
+8353,Page,PGA,Air,US
+8354,Stevens Field,PGO,Air,US
+8355,Palm Beach Co Glades,PHK,Air,US
+8356,SPB,PMU,Air,US
+8357,Casement,PVZ,Air,US
+8358,Painter Creek,PCE,Air,US
+8359,Palacios,PSX,Air,US
+8360,Palestine,PSN,Air,US
+8361,Bermuda Dunes,UDD,Air,US
+8362,Municipal,PSP,Air,US
+8363,Air Force 42,PMD,Air,US
+8364,Municipal,PAQ,Air,US
+8365,Metropolitan,PMX,Air,US
+8366,Palo Alto,PAO,Air,US
+8367,Perry Lefors Field,PPA,Air,US
+8368,Bay County,PFN,Air,US
+8369,Tyndall AFB,PAM,Air,US
+8370,Panguitch,PNU,Air,US
+8371,North Fork Valley,WPO,Air,US
+8372,Municipal,PGR,Air,US
+8373,Henry County,PHT,Air,US
+8374,Cox Field,PRX,Air,US
+8375,Park Falls,PKF,Air,US
+8376,Park Rapids,PKD,Air,US
+8377,Wood County,PKB,Air,US
+8378,Parks SPB,KPK,Air,US
+8379,Tri-City,PPF,Air,US
+8380,Heliport,JPD,Air,US
+8381,Jackson County,PGL,Air,US
+8382,Tri-Cities,PSC,Air,US
+8383,Paso Robles,PRB,Air,US
+8384,Williams Memorial,PTN,Air,US
+8385,NAS,NHK,Air,US
+8386,Pauloff Harbor SPB,KPH,Air,US
+8387,Payson,PJB,Air,US
+8388,Peach Springs,PGS,Air,US
+8389,Pecos City,PEQ,Air,US
+8390,Pedro Bay,PDB,Air,US
+8391,Pelican SPB,PEC,Air,US
+8392,St Clair County,PLR,Air,US
+8393,Emmet County,PLN,Air,US
+8394,Intermediate,PMB,Air,US
+8395,Pendleton,PDT,Air,US
+8396,Ellyson NAS,NDP,Air,US
+8397,Pensacola NAS,NPA,Air,US
+8398,Regional,PNS,Air,US
+8399,Saufley NAS,NUN,Air,US
+8400,Greater Peoria,PIA,Air,US
+8401,Perry-Foley,FPY,Air,US
+8402,Municipal,PRO,Air,US
+8403,Perry SPB,PYL,Air,US
+8404,Perryville SPB,KPV,Air,US
+8405,Illinois Valley Regnl,VYS,Air,US
+8406,Grissom AFB,GUS,Air,US
+8407,Municipal,PSG,Air,US
+8408,Fort Lee AAF,FLE,Air,US
+8409,Municipal,PTB,Air,US
+8410,Grant County,PGC,Air,US
+8411,Philadelphia International,PHL,Air,US
+8412,Mustin Alf,MUV,Air,US
+8413,N Philadelphia Rail St,ZHC,Air,US
+8414,North Philadelphia,PNE,Air,US
+8415,Philadelphia Rail,ZFV,Air,US
+8416,SPB,PSQ,Air,US
+8417,Trenton Rail STN,ZTN,Air,US
+8418,Trenton-Mercer,TTN,Air,US
+8419,Philip,PHP,Air,US
+8420,Luke Afb,LUF,Air,US
+8421,Phoenix-Deer Valley,DVT,Air,US
+8422,Scottsdale Municipal,SCF,Air,US
+8423,Sky Harbor Intl,PHX,Air,US
+8424,Pearl River County,PCU,Air,US
+8425,Pickens,LQK,Air,US
+8426,Pierre,PIR,Air,US
+8427,Pilot Point Arpt,PIP,Air,US
+8428,Ugashik Bay,UGB,Air,US
+8429,Pilot Station,PQS,Air,US
+8430,Grider Field,PBF,Air,US
+8431,Garden Harris County,PIM,Air,US
+8432,Pine Ridge,XPR,Air,US
+8433,Municipal,PTS,Air,US
+8434,Allegheny County,AGC,Air,US
+8435,Civic Ar Heli,CVA,Air,US
+8436,Pittsfield,PSF,Air,US
+8437,Placerville,PVF,Air,US
+8438,Hale County,PVW,Air,US
+8439,Platinum,PTU,Air,US
+8440,AFB,PBG,Air,US
+8441,Clinton County,PLB,Air,US
+8442,Pleasant Harbour,PTR,Air,US
+8443,Hacienda Bus.Park H/P,JBS,Air,US
+8444,Sherwood,PWD,Air,US
+8445,Plymouth,PLY,Air,US
+8446,Plymouth,PYM,Air,US
+8447,Municipal,POH,Air,US
+8448,Pocatello,PIH,Air,US
+8449,Bradshaw AAF,BSF,Air,US
+8450,Point Baker SPB,KPB,Air,US
+8451,Point Hope,PHO,Air,US
+8452,Dew Station,PIZ,Air,US
+8453,Coast Guard Heliport,PRT,Air,US
+8454,Polacca,PXL,Air,US
+8455,Polk Inlet,POQ,Air,US
+8456,Pompano Beach,PPM,Air,US
+8457,Ponca City,PNC,Air,US
+8458,Pontiac,PTK,Air,US
+8459,Pope Vanoy,PVY,Air,US
+8460,Earl Fields Memorial,POF,Air,US
+8461,Porcupine Creek,PCK,Air,US
+8462,Port Alexander,PTD,Air,US
+8463,Port Alice,PTC,Air,US
+8464,Port Alsworth,PTA,Air,US
+8465,Fairchild Intl,CLM,Air,US
+8466,Port Armstrong,PTL,Air,US
+8467,Port Bailey SPB,KPY,Air,US
+8468,Port Clarence,KPC,Air,US
+8469,Port Frederick,PFD,Air,US
+8470,Port Graham,PGM,Air,US
+8471,Port Heiden,PTH,Air,US
+8472,Point Mugu NAS,NTD,Air,US
+8473,St Clair County Intl,PHN,Air,US
+8474,Port Johnson,PRF,Air,US
+8475,Port Lions SPB,ORI,Air,US
+8476,AFS,PML,Air,US
+8477,Port Oceanic,PRL,Air,US
+8478,Port Protection,PPV,Air,US
+8479,Port San Juan,PJS,Air,US
+8480,Port Townsend,TWD,Air,US
+8481,Port Walter,PWR,Air,US
+8482,Port Williams SPB,KPR,Air,US
+8483,Portage Creek,PCA,Air,US
+8484,Porterville,PTV,Air,US
+8485,Intl Jetport,PWM,Air,US
+8486,Portland International,PDX,Air,US
+8487,Regional,PMH,Air,US
+8488,Robert S Kerr,RKR,Air,US
+8489,Pottstown/Limerick,PTW,Air,US
+8490,Dutchess County,POU,Air,US
+8491,Poulsbo,PUL,Air,US
+8492,Powell,POY,Air,US
+8493,Municipal,PCD,Air,US
+8494,Pratt,PTT,Air,US
+8495,Prentice,PRW,Air,US
+8496,Prescott,PRC,Air,US
+8497,Municipal,PQI,Air,US
+8498,Carbon County,PUC,Air,US
+8499,Princeton,PNN,Air,US

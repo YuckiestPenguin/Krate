@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+1500,Fort Nelson,YYE,Air,CA
+1501,Fort Reliance,YFL,Air,CA
+1502,Fort Resolution,YFR,Air,CA
+1503,Fort Severn,YER,Air,CA
+1504,Fort Simpson,YFS,Air,CA
+1505,Fort Smith,YSM,Air,CA
+1506,Fort St John,YXJ,Air,CA
+1507,Fox Harbour (St Lewis),YFX,Air,CA
+1508,Fredericton,YFC,Air,CA
+1509,Gagetown,YCX,Air,CA
+1510,Gagnon,YGA,Air,CA
+1511,Gander International,YQX,Air,CA
+1512,Ganges Harbor,YGG,Air,CA
+1513,Geraldton,YGQ,Air,CA
+1514,Germansen,YGS,Air,CA
+1515,Gethsemani,ZGS,Air,CA
+1516,Gillam,YGX,Air,CA
+1517,Gillies Bay,YGB,Air,CA
+1518,Gimli,YGM,Air,CA
+1519,Gjoa Haven,YHK,Air,CA
+1520,Gods Narrows,YGO,Air,CA
+1521,Gods River,ZGI,Air,CA
+1522,Goose Bay,YYR,Air,CA
+1523,Gore Bay,YZE,Air,CA
+1524,Gorge Harbor,YGE,Air,CA
+1525,Grand Forks,ZGF,Air,CA
+1526,Grande Cache,YGC,Air,CA
+1527,Grande Prairie,YQU,Air,CA
+1528,Granville Lake,XGL,Air,CA
+1529,Great Bear Lake,DAS,Air,CA
+1530,Greenway Sound,YGN,Air,CA
+1531,Greenwood,YZX,Air,CA
+1532,Grise Fiord,YGZ,Air,CA
+1533,Metropolitan Area,YTO,Air,CA
+1534,Haines Junction,YHT,Air,CA
+1535,Hakai Pass,YHC,Air,CA
+1536,Dwtown Waterfront H/P,YWF,Air,CA
+1537,Halifax International,YHZ,Air,CA
+1538,Shearwater,YAW,Air,CA
+1539,Hall Beach,YUX,Air,CA
+1540,Hamilton,YHM,Air,CA
+1541,Hartley Bay,YTB,Air,CA
+1542,Hatchet Lake,YDJ,Air,CA
+1543,Havre St Pierre,YGV,Air,CA
+1544,Hay River,YHY,Air,CA
+1545,Hearst,YHF,Air,CA
+1546,Footner Lake,YOJ,Air,CA
+1547,High Prairie,ZHP,Air,CA
+1548,Holman,YHI,Air,CA
+1549,Hope,YHE,Air,CA
+1550,Hopedale,YHO,Air,CA
+1551,Hornepayne,YHN,Air,CA
+1552,Bus Station,ZHO,Air,CA
+1553,Hudson Bay,YHB,Air,CA
+1554,Igloolik,YGT,Air,CA
+1555,Ignace,ZUC,Air,CA
+1556,Iles De La Madeleine,YGR,Air,CA
+1557,Ilford,ILF,Air,CA
+1558,Inukjuak,YPH,Air,CA
+1559,Inuvik/Mike Zubko,YEV,Air,CA
+1560,Inverlake,TIL,Air,CA
+1561,Iqaluit,YFB,Air,CA
+1562,Island Lk/Garden Hill,YIV,Air,CA
+1563,Ivujivik,YIK,Air,CA
+1564,Jasper-Hinton,YJP,Air,CA
+1565,Jenpeg,ZJG,Air,CA
+1566,Johnny Mountain,YJO,Air,CA
+1567,Kamloops,YKA,Air,CA
+1568,Kangiqsualujjuaq,XGR,Air,CA
+1569,Kangiqsujuaq,YWB,Air,CA
+1570,Kangirsuk,YKG,Air,CA
+1571,Kapuskasing,YYU,Air,CA
+1572,Kasabonika,XKS,Air,CA
+1573,Kasba Lake,YDU,Air,CA
+1574,Kaschechewan,ZKE,Air,CA
+1575,Kattiniq/Donaldson,YAU,Air,CA
+1576,Keewaywin,KEW,Air,CA
+1577,Kegaska,ZKG,Air,CA
+1578,Kelowna Airport,YLW,Air,CA
+1579,Kelsey,KES,Air,CA
+1580,Kemano,XKO,Air,CA
+1581,Kennosao Lake,YKI,Air,CA
+1582,Kenora,YQK,Air,CA
+1583,Key Lake,YKJ,Air,CA
+1584,Killaloe,YXI,Air,CA
+1585,Killineq,XBW,Air,CA
+1586,Kimberley,YQE,Air,CA
+1587,Kimmirut,YLC,Air,CA
+1588,Township Airport,YKD,Air,CA
+1589,Kindersley,YKY,Air,CA
+1590,Kingfisher Lake,KIF,Air,CA
+1591,Kingston,YGK,Air,CA
+1592,Kinoosao,KNY,Air,CA
+1593,Kirkland Lake,YKX,Air,CA
+1594,Kitchener-Waterloo Reg,YKF,Air,CA
+1595,Kitkatla,YKK,Air,CA
+1596,Klemtu,YKT,Air,CA
+1597,Knee Lake,YKE,Air,CA
+1598,Knights Inlet,KNV,Air,CA
+1599,Kugaaruk,YBB,Air,CA
+1600,Kugluktuk,YCO,Air,CA
+1601,Kuujjuaq,YVP,Air,CA
+1602,Kuujjuarapik,YGW,Air,CA
+1603,La Grande,YGL,Air,CA
+1604,La Ronge,YVC,Air,CA
+1605,La Sarre,SSQ,Air,CA
+1606,La Tabatiere,ZLT,Air,CA
+1607,La Tuque,YLQ,Air,CA
+1608,Lac Biche,YLB,Air,CA
+1609,Lac Brochet,XLB,Air,CA
+1610,LaForges,YLF,Air,CA
+1611,Lagrande 3,YAR,Air,CA
+1612,Lagrande 4,YAH,Air,CA
+1613,Langara,YLA,Air,CA
+1614,Langley Regional,YLY,Air,CA
+1615,Lansdowne House,YLH,Air,CA
+1616,Laurie River,LRQ,Air,CA
+1617,Leaf Bay,XLF,Air,CA
+1618,Leaf Rapids,YLR,Air,CA
+1619,Lebel-Sur-Quevillon,YLS,Air,CA
+1620,Lethbridge,YQL,Air,CA
+1621,Little Grand Rapids,ZGR,Air,CA
+1622,Lloydminster,YLL,Air,CA
+1623,Long Point,YLX,Air,CA
+1624,Lupin,YWO,Air,CA
+1625,Lutselke,YSG,Air,CA
+1626,Lyall Harbour,YAJ,Air,CA
+1627,Lynn Lake,YYL,Air,CA
+1628,Macmillan Pass,XMP,Air,CA
+1629,Main Duck Island,YDK,Air,CA
+1630,Makkovik,YMN,Air,CA
+1631,Manitouwadge,YMG,Air,CA
+1632,East Manitoulin,YEM,Air,CA
+1633,Maniwaki,YMW,Air,CA
+1634,Maple Bay,YAQ,Air,CA
+1635,Marathon,YSP,Air,CA
+1636,Maricourt Airstrip,YMC,Air,CA
+1637,Masset,ZMT,Air,CA
+1638,Matagami,YNM,Air,CA
+1639,Matane,YME,Air,CA
+1640,Mayo,YMA,Air,CA
+1641,Meadow Lake,YLJ,Air,CA
+1642,Medicine Hat,YXH,Air,CA
+1643,Merritt,YMB,Air,CA
+1644,Merry Island,YMR,Air,CA
+1645,Minaki,YMI,Air,CA
+1646,Miners Bay,YAV,Air,CA
+1647,Mingan,YLP,Air,CA
+1648,Miramichi,YCH,Air,CA
+1649,Mont Joli,YYY,Air,CA
+1650,La Macaza,YTM,Air,CA
+1651,Montagne Harbor,YMF,Air,CA
+1652,Mirabel,YMX,Air,CA
+1653,Montreal International Airport,YUL,Air,CA
+1654,St Hubert,YHU,Air,CA
+1655,St Lambert Rail Svce.,XLM,Air,CA
+1656,Moose Jaw / Air Vice Marshal C. M. Mcewen Airport,YMJ,Air,CA
+1657,Moose Lake,YAD,Air,CA
+1658,Moosonee,YMO,Air,CA
+1659,Mould Bay,YMD,Air,CA
+1660,Charlevoix,YML,Air,CA
+1661,Muskoka,YQA,Air,CA
+1662,Muskrat Dam,MSA,Air,CA
+1663,Nain,YDP,Air,CA
+1664,Nakina,YQN,Air,CA
+1665,Namu,ZNU,Air,CA
+1666,Harbour,ZNA,Air,CA
+1667,Nanaimo Arpt,YCD,Air,CA
+1668,Nanisivik,YSR,Air,CA
+1669,Natashquan,YNA,Air,CA
+1670,Natuashish,YNP,Air,CA
+1671,Negginan,ZNG,Air,CA
+1672,Nemiscau,YNS,Air,CA
+1673,New Westminster,YBD,Air,CA
+1674,Nitchequon,YNI,Air,CA
+1675,Nootka Sound,YNK,Air,CA
+1676,Norman Wells,YVQ,Air,CA
+1677,North Battleford,YQW,Air,CA
+1678,North Bay,YYB,Air,CA
+1679,North Spirit Lake,YNO,Air,CA
+1680,Norway House,YNE,Air,CA
+1681,Obre Lake,YDW,Air,CA
+1682,Ocean Falls,ZOF,Air,CA
+1683,Ogoki,YOG,Air,CA
+1684,Old Crow,YOC,Air,CA
+1685,Old Fort Bay,ZFB,Air,CA
+1686,Musselwhite,YBS,Air,CA
+1687,Oshawa,YOO,Air,CA
+1688,Fallowfield Railway,ZIF,Air,CA
+1689,Executive Gatineau-Ottawa,YND,Air,CA
+1690,Ottawa International,YOW,Air,CA
+1691,Rockcliffe St,YRO,Air,CA
+1692,Billy Bishop Regional,YOS,Air,CA
+1693,Oxford House,YOH,Air,CA
+1694,Pakuashipi,YIF,Air,CA
+1695,Pangnirtung,YXP,Air,CA
+1696,Paradise River,YDE,Air,CA
+1697,Parry Sound,YPD,Air,CA
+1698,Paulatuk,YPC,Air,CA
+1699,Peace River,YPE,Air,CA
+1700,Peawanuck,YPO,Air,CA
+1701,Pembroke And Area Apt,YTA,Air,CA
+1702,Pender Harbor,YPT,Air,CA
+1703,Penticton,YYF,Air,CA
+1704,Petawawa,YWA,Air,CA
+1705,Peterborough,YPQ,Air,CA
+1706,Pickle Lake,YPL,Air,CA
+1707,Pikangikum,YPM,Air,CA
+1708,Pikwitonei,PIW,Air,CA
+1709,Pincher Creek,WPC,Air,CA
+1710,Pine House,ZPO,Air,CA
+1711,Pine Point,YPP,Air,CA
+1712,Points North Landing,YNL,Air,CA
+1713,Pond Inlet,YIO,Air,CA
+1714,Poplar Hill,YHP,Air,CA
+1715,Poplar River,XPP,Air,CA
+1716,Port Alberni,YPB,Air,CA
+1717,Port Hardy,YZT,Air,CA
+1718,Port Hawkesbury,YPS,Air,CA
+1719,Port Hope Simpson,YHA,Air,CA
+1720,Port McNeil,YMP,Air,CA
+1721,Port Menier,YPN,Air,CA
+1722,Port Simpson,YPI,Air,CA
+1723,Portage La Prairie,YPG,Air,CA
+1724,Postville,YSO,Air,CA
+1725,Puvirnituq,YPX,Air,CA
+1726,Powell Lake,WPL,Air,CA
+1727,Powell River,YPW,Air,CA
+1728,Prince Albert,YPA,Air,CA
+1729,Prince George,YXS,Air,CA
+1730,Pr. George Rail Stn,XDV,Air,CA
+1731,Digby Island,YPR,Air,CA
+1732,Pr. Rupert Rail Stn,XDW,Air,CA
+1733,Seal Cove,ZSW,Air,CA
+1734,Pukatawagan,XPK,Air,CA
+1735,Qikiqtarjuaq,YVM,Air,CA
+1736,Qualicum,XQU,Air,CA
+1737,Quaqtaq,YQC,Air,CA
+1738,Québec,YQB,Air,CA
+1739,Charny,XFZ,Air,CA
+1740,Quebec Stn. Rail Svce.,XLJ,Air,CA
+1741,Sainte-Foy Rail Svce.,XFY,Air,CA
+1742,Queen Charlotte Is,ZQS,Air,CA
+1743,Quesnel,YQZ,Air,CA
+1744,Rae Lakes,YRA,Air,CA
+1745,Rainbow Lake,YOP,Air,CA
+1746,Rankin Inlet,YRT,Air,CA
+1747,Red Deer,YQF,Air,CA
+1748,Red Lake,YRL,Air,CA
+1749,Red Sucker Lake,YRS,Air,CA
+1750,Regina,YQR,Air,CA
+1751,Repulse Bay,YUT,Air,CA
+1752,Resolute,YRB,Air,CA
+1753,Resolution Island,YRE,Air,CA
+1754,Revelstoke,YRV,Air,CA
+1755,Rigolet,YRG,Air,CA
+1756,Rimouski,YXK,Air,CA
+1757,Rivers,YYI,Air,CA
+1758,Rivers Inlet,YRN,Air,CA
+1759,Riviere Au Tonnerre,YTN,Air,CA
+1760,Riviere Du Loup,YRI,Air,CA
+1761,Roberval,YRJ,Air,CA
+1762,Rocky Mountain House,YRM,Air,CA
+1763,Ross River,XRR,Air,CA
+1764,Round Lake,ZRJ,Air,CA
+1765,Rouyn,YUY,Air,CA
+1766,Sable Island,YSA,Air,CA
+1767,Sachigo Lake,ZPB,Air,CA
+1768,Sachs Harbour,YSY,Air,CA
+1769,Saglek,YSV,Air,CA
+1770,Saint John,YSJ,Air,CA
+1771,Salluit,YZG,Air,CA
+1772,Salmon Arm,YSN,Air,CA
+1773,Sandspit,YZP,Air,CA
+1774,Sandy Lake,ZSJ,Air,CA
+1775,Sanikiluaq,YSK,Air,CA
+1776,Sans Souci,YSI,Air,CA
+1777,Sarnia,YZR,Air,CA
+1778,J.G. Diefenbaker International Airport,YXE,Air,CA
+1779,Sault Ste Marie,YAM,Air,CA
+1780,Schefferville,YKL,Air,CA
+1781,Sechelt,YHS,Air,CA
+1782,Sept-Iles,YZV,Air,CA
+1783,Shamattawa,ZTM,Air,CA
+1784,Shearwater,YSX,Air,CA
+1785,Sherbrooke,YSC,Air,CA
+1786,Shilo,YLO,Air,CA
+1787,Silva Bay,SYF,Air,CA
+1788,Sioux Lookout,YXL,Air,CA
+1789,Slate Island,YSS,Air,CA
+1790,Slave Lake,YZH,Air,CA
+1791,Smith Falls,YSH,Air,CA
+1792,Smithers,YYD,Air,CA
+1793,Snake River,YXF,Air,CA
+1794,Snare Lake,YFJ,Air,CA
+1795,South Indian Lake,XSI,Air,CA
+1796,South Trout Lake,ZFL,Air,CA
+1797,Spring Island,YSQ,Air,CA
+1798,Squamish,YSE,Air,CA
+1799,Squirrel Cove,YSZ,Air,CA
+1800,St Anthony,YAY,Air,CA
+1801,St Catharines,YCM,Air,CA
+1802,St Jean,YJN,Air,CA
+1803,Edmunston,YSL,Air,CA
+1804,St Paul,ZSP,Air,CA
+1805,Pembroke Area Mncpl,YQS,Air,CA
+1806,Ste Therese Point,YST,Air,CA
+1807,Stephenville,YJT,Air,CA
+1808,Stewart,ZST,Air,CA
+1809,Stony Rapids,YSF,Air,CA
+1810,Stuart Island,YRR,Air,CA
+1811,Sturdee,YTC,Air,CA
+1812,Sudbury,YSB,Air,CA
+1813,Sudbury Jct Rail Stn,XDY,Air,CA
+1814,Suffield,YSD,Air,CA
+1815,Sullivan Bay,YTG,Air,CA
+1816,Summer Beaver,SUR,Air,CA
+1817,Summerside,YSU,Air,CA
+1818,Summit Lake,IUM,Air,CA
+1819,Swan River,ZJN,Air,CA
+1820,Swift Current,YYN,Air,CA
+1821,Sydney,YQY,Air,CA
+1822,Tadoule Lake,XTL,Air,CA
+1823,Tahsis,ZTS,Air,CA
+1824,Taloyoak,YYH,Air,CA
+1825,Taltheilei Narrows,GSL,Air,CA
+1826,Tasiujuaq,YTQ,Air,CA
+1827,Tasu,YTU,Air,CA
+1828,Telegraph Creek,YTX,Air,CA
+1829,Telegraph Harbour,YBQ,Air,CA
+1830,Terrace,YXT,Air,CA
+1831,Terrace Bay,YTJ,Air,CA
+1832,Teslin,YZW,Air,CA
+1833,Tete-a-La Baleine,ZTB,Air,CA
+1834,The Pas,YQD,Air,CA
+1835,Thicket Portage,YTD,Air,CA
+1836,Thompson,YTH,Air,CA
+1837,Thunder Bay,YQT,Air,CA
+1838,Timmins,YTS,Air,CA
+1839,Tisdale,YTT,Air,CA
+1840,Seaplane Base,YTP,Air,CA
+1841,Tofino Airport,YAZ,Air,CA
+1842,Buttonville Municipal,YKZ,Air,CA
+1843,Toronto/Lester B. Pearson International,YYZ,Air,CA
+1844,Toronto Island,YTZ,Air,CA
+1845,Trenton,YTR,Air,CA
+1846,Triple Island,YTI,Air,CA
+1847,Trois-Rivieres,YRQ,Air,CA
+1848,Tuktoyaktuk,YUB,Air,CA
+1849,Tulita,ZFN,Air,CA
+1850,Tulugak,YTK,Air,CA
+1851,Tumbler Ridge,TUX,Air,CA
+1852,Tungsten,TNS,Air,CA
+1853,Umiujaq,YUD,Air,CA
+1854,Uranium City,YBE,Air,CA
+1855,Valcartier,YOY,Air,CA
+1856,Boundary Bay,YDT,Air,CA
+1857,Coal Harbour,CXH,Air,CA
+1858,Vancouver Intl,YVR,Air,CA
+1859,Vancouver Rail Stn.,XEA,Air,CA
+1860,Vermilion,YVG,Air,CA
+1861,Vernon,YVE,Air,CA
+1862,Victoria International,YYJ,Air,CA
+1863,Victoria Inner Harbor,YWH,Air,CA
+1864,Wabush,YWK,Air,CA
+1865,Waskaganish,YKQ,Air,CA
+1866,Watson Lake,YQH,Air,CA
+1867,Wawa,YXZ,Air,CA
+1868,Webequie,YWP,Air,CA
+1869,Wemindji,YNC,Air,CA
+1870,Wha Ti,YLE,Air,CA
+1871,Whale Cove,YXN,Air,CA
+1872,Whistler,YWS,Air,CA
+1873,White River,YWR,Air,CA
+1874,Whitecourt,YZU,Air,CA
+1875,Whitehorse,YXY,Air,CA
+1876,Wiarton,YVV,Air,CA
+1877,Williams Harbour,YWM,Air,CA
+1878,Williams Lake,YWL,Air,CA
+1879,Windsor,YQG,Air,CA
+1880,Winisk,YWN,Air,CA
+1881,Winnipeg,YWG,Air,CA
+1882,Wollaston Lake,ZWL,Air,CA
+1883,Wrigley,YWY,Air,CA
+1884,Wunnummin Lake,WNN,Air,CA
+1885,Yarmouth,YQI,Air,CA
+1886,Yellowknife,YZF,Air,CA
+1887,York Landing,ZAC,Air,CA
+1888,Yorkton,YQV,Air,CA
+1889,Yun Cheng,YCU,Air,CA
+1890,London International Airport,YXU,Air,CA
+1891,Downsview Airport,YZD,Air,CA
+1892,St. John´s International Airport,YYT,Air,CA
+1893,Cocos Islands,CCK,Air,CC
+1894,N’Djili Airport,FIH,Air,CD
+1895,Goma,GOM,Air,CD
+1896,Kisangani,FKI,Air,CD
+1897,Ikela,IKL,Air,CD
+1898,Dili,DIC,Air,CD
+1899,Tshikapa,TSH,Air,CD
+1900,Bakouma,BMF,Air,CF
+1901,Bambari,BBY,Air,CF
+1902,Bangassou,BGU,Air,CF
+1903,Bangui,BGF,Air,CF
+1904,Batangafo,BTG,Air,CF
+1905,Berberati,BBT,Air,CF
+1906,Birao,IRO,Air,CF
+1907,Bossangoa,BSN,Air,CF
+1908,Bossembele,BEM,Air,CF
+1909,Bouar,BOP,Air,CF
+1910,Bouca,BCF,Air,CF
+1911,Bozoum,BOZ,Air,CF
+1912,Bria,BIV,Air,CF
+1913,Carnot,CRF,Air,CF
+1914,Gordil,GDI,Air,CF
+1915,Gounda,GDA,Air,CF
+1916,Kawadjia,KWD,Air,CF
+1917,Koumala,KOL,Air,CF
+1918,Ndele,NDL,Air,CF
+1919,Ouadda,ODA,Air,CF
+1920,Ouanda Djalle,ODJ,Air,CF
+1921,Rafai,RFA,Air,CF
+1922,Yalinga,AIG,Air,CF
+1923,Zemio,IMO,Air,CF
+1924,Betou,BTB,Air,CG
+1925,Boundji,BOE,Air,CG
+1926,Maya Maya,BZV,Air,CG
+1927,Djambala,DJM,Air,CG
+1928,Epena,EPN,Air,CG
+1929,Ewo,EWO,Air,CG
+1930,Gamboma,GMM,Air,CG
+1931,Impfondo,ION,Air,CG
+1932,Kelle,KEE,Air,CG
+1933,Kindamba,KNJ,Air,CG
+1934,Lague,LCO,Air,CG
+1935,Lekana,LKC,Air,CG
+1936,Loubomo,DIS,Air,CG
+1937,Makabana,KMK,Air,CG
+1938,Makoua,MKJ,Air,CG
+1939,Mossendjo,MSX,Air,CG
+1940,Mouyondzi,MUY,Air,CG
+1941,Nkayi,NKY,Air,CG
+1942,Okoyo,OKG,Air,CG
+1943,Ouesso,OUE,Air,CG
+1944,Owando,FTX,Air,CG
+1945,Pointe Noire,PNR,Air,CG
+1946,Sibiti,SIB,Air,CG
+1947,Souanke,SOE,Air,CG
+1948,Zanaga,ANJ,Air,CG
+1949,Altenrhein,ACH,Air,CH
+1950,Ascona,ACO,Air,CH
+1951,Basil Bad - Railway,ZBA,Air,CH
+1952,Belp,BRN,Air,CH
+1953,Emmen,EML,Air,CH
+1954,Geneve-cointrin,GVA,Air,CH
+1955,Lugano,LUG,Air,CH
+1956,EuroAirport Swiss CH,BSL,Air,CH
+1957,Sion,SIR,Air,CH
+1958,Samedan,SMV,Air,CH
+1959,Zürich,ZRH,Air,CH
+1960,Abengourou,OGO,Air,CI
+1961,Felix Houphouet Boigny,ABJ,Air,CI
+1962,Aboisso,ABO,Air,CI
+1963,Bereby,BBV,Air,CI
+1964,Bondoukou,BDK,Air,CI
+1965,Bongouanou,BGG,Air,CI
+1966,Borotou,BRZ,Air,CI
+1967,Bouake,BYK,Air,CI
+1968,Bouna,BQO,Air,CI
+1969,Boundiali,BXI,Air,CI
+1970,Buyo,BUU,Air,CI
+1971,Daloa,DJO,Air,CI
+1972,Danane,DNC,Air,CI
+1973,Dimbokro,DIM,Air,CI
+1974,Divo,DIV,Air,CI
+1975,Ferkessedougou,FEK,Air,CI
+1976,Gagnoa,GGN,Air,CI
+1977,Guiglo,GGO,Air,CI
+1978,Katiola,KTC,Air,CI
+1979,Korhogo,HGO,Air,CI
+1980,Lakota,LKT,Air,CI
+1981,Man,MJC,Air,CI
+1982,Mankono,MOK,Air,CI
+1983,Odienne,KEO,Air,CI
+1984,Ouango Fitini,OFI,Air,CI
+1985,San Pedro,SPY,Air,CI
+1986,Sassandra,ZSS,Air,CI
+1987,Seguela,SEO,Air,CI
+1988,Taabo,TBX,Air,CI
+1989,Tabou,TXU,Air,CI
+1990,Tingrela,TGX,Air,CI
+1991,Touba,TOZ,Air,CI
+1992,Yamoussoukro,ASK,Air,CI
+1993,Zuenoula,ZUE,Air,CI
+1994,Aitutaki,AIT,Air,CK
+1995,Atiu Island,AIU,Air,CK
+1996,Mangaia Island,MGS,Air,CK
+1997,Manihiki Island,MHX,Air,CK
+1998,Mauke Island,MUK,Air,CK
+1999,Mitiaro Island,MOI,Air,CK

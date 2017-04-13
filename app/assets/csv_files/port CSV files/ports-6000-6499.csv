@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+6000,Wana,WAF,Air,PK
+6001,Zhob,PZH,Air,PK
+6002,Bydgoszcz I. J. Paderewski Airport,BZG,Air,PL
+6003,Czestochowa,CZW,Air,PL
+6004,Rebiechowo,GDN,Air,PL
+6005,Pyrzowice,KTW,Air,PL
+6006,Koszalin,OSZ,Air,PL
+6007,J. Paul Ii Balice Intl,KRK,Air,PL
+6008,Lodz Lublinek,LCJ,Air,PL
+6009,Lawica,POZ,Air,PL
+6010,Jasionka,RZE,Air,PL
+6011,Redzikowo,OSP,Air,PL
+6012,Goleniow,SZZ,Air,PL
+6013,Mazury,SZY,Air,PL
+6014,Frederic Chopin,WAW,Air,PL
+6015,Strachowice,WRO,Air,PL
+6016,Babimost,IEG,Air,PL
+6017,Sukhothai,THS,Air,PL
+6018,Miquelon Aprt,MQC,Air,PM
+6019,Saint-Pierre Pointe-Blanche,FSP,Air,PM
+6020,Borinquen,BQN,Air,PR
+6021,Arecibo,ARE,Air,PR
+6022,Culebra,CPX,Air,PR
+6023,Dorado Beach,DDP,Air,PR
+6024,Fajardo,FAJ,Air,PR
+6025,Humacao Arpt,HUC,Air,PR
+6026,Palmas Del Mar,PPD,Air,PR
+6027,Eugenio M De Hostos,MAZ,Air,PR
+6028,Mercedita,PSE,Air,PR
+6029,Roosevelt NAS,NRR,Air,PR
+6030,Isla Grande,SIG,Air,PR
+6031,Luis Munoz Marin Intl,SJU,Air,PR
+6032,Vieques,VQS,Air,PR
+6033,Braga,BGZ,Air,PT
+6034,Braganca,BGC,Air,PT
+6035,Chaves,CHV,Air,PT
+6036,Coimbra,CBP,Air,PT
+6037,Corvo Island,CVU,Air,PT
+6038,Covilha,COV,Air,PT
+6039,Faro,FAO,Air,PT
+6040,Faro TP,ZYF,Air,PT
+6041,Santa Cruz,FLW,Air,PT
+6042,Graciosa Island,GRW,Air,PT
+6043,Horta,HOR,Air,PT
+6044,Lisboa - Portela,LIS,Air,PT
+6045,Lisbon TP,ZYD,Air,PT
+6046,Madeira,FNC,Air,PT
+6047,Pico Island,PIX,Air,PT
+6048,Nordela,PDL,Air,PT
+6049,Portimao,PRM,Air,PT
+6050,Porto,OPO,Air,PT
+6051,Porto TP,ZYJ,Air,PT
+6052,Porto Santo,PXO,Air,PT
+6053,Vila Do Porto,SMA,Air,PT
+6054,Sao Jorge Island,SJZ,Air,PT
+6055,Sines,SIE,Air,PT
+6056,Lajes,TER,Air,PT
+6057,Vila Real,VRL,Air,PT
+6058,Viseu,VSE,Air,PT
+6059,Airai,ROR,Air,PW
+6060,Silvio Pettirossi,ASU,Air,PY
+6061,Ayolas,AYO,Air,PY
+6062,Bahia Negra,BFA,Air,PY
+6063,Alejo Garcia,AGT,Air,PY
+6064,MCAL Lopez,CIO,Air,PY
+6065,Teniente Prim Alarcon,ENO,Air,PY
+6066,Filadelfia,FLM,Air,PY
+6067,Fuerte Olimpo,OLK,Air,PY
+6068,Mariscal Estigarribia,ESG,Air,PY
+6069,Pedro Juan Caballero,PJC,Air,PY
+6070,Pilar,PIL,Air,PY
+6071,Puerto La Victoria,PCJ,Air,PY
+6072,Puerto Leda,PBT,Air,PY
+6073,INC,VMI,Air,PY
+6074,Al Udeid,XJD,Air,QA
+6075,Doha,DOH,Air,QA
+6076,Doha Free Zone,XOZ,Air,QA
+6077,Gillot,RUN,Air,RE
+6078,St Pierre dela Reunion,ZSE,Air,RE
+6079,Arad,ARW,Air,RO
+6080,Bacau,BCM,Air,RO
+6081,Baia Mare,BAY,Air,RO
+6082,Baneasa,BBU,Air,RO
+6083,Henri Coanda International,OTP,Air,RO
+6084,Caransebes,CSB,Air,RO
+6085,Someseni International Airport,CLJ,Air,RO
+6086,Kogalniceanu,CND,Air,RO
+6087,Craiova,CRA,Air,RO
+6088,Deva,DVA,Air,RO
+6089,Iasi,IAS,Air,RO
+6090,Oradea,OMR,Air,RO
+6091,Satu Mare,SUJ,Air,RO
+6092,Sibiu,SBZ,Air,RO
+6093,Salcea,SCV,Air,RO
+6094,Timisoara (Traian Vuia) International,TSR,Air,RO
+6095,Tirgu Mures,TGM,Air,RO
+6096,Tulcea,TCE,Air,RO
+6097,Khanty-Mansiysk,HMA,Air,RU
+6098,Kogalym International,KGP,Air,RU
+6099,Solovky,CSH,Air,RU
+6100,Abakan,ABA,Air,RU
+6101,Achinsk,ACS,Air,RU
+6102,Adler/Sochi,AER,Air,RU
+6103,Aldan,ADH,Air,RU
+6104,Amderma,AMV,Air,RU
+6105,Anadyr,DYR,Air,RU
+6106,Anapa,AAQ,Air,RU
+6107,Arkhangelsk,ARH,Air,RU
+6108,Astrakhan,ASF,Air,RU
+6109,Balakovo,BWO,Air,RU
+6110,Barnaul,BAX,Air,RU
+6111,Belgorod,EGO,Air,RU
+6112,Beloreck,BCX,Air,RU
+6113,Blagoveschensk,BQS,Air,RU
+6114,Bratsk,BTK,Air,RU
+6115,Briansk,BZK,Air,RU
+6116,Bugulma,UUA,Air,RU
+6117,Cheboksary,CSY,Air,RU
+6118,Chelyabinsk,CEK,Air,RU
+6119,Cherepovets,CEE,Air,RU
+6120,Cherskiy,CYX,Air,RU
+6121,Chita,HTA,Air,RU
+6122,Chkalovsky,CKL,Air,RU
+6123,Chokurdah,CKH,Air,RU
+6124,Chulman,CNN,Air,RU
+6125,Dikson,DKS,Air,RU
+6126,Ekaterinburg,SVX,Air,RU
+6127,Elista,ESL,Air,RU
+6128,Eniseysk,EIE,Air,RU
+6129,Gelendzik,GDZ,Air,RU
+6130,Groznyj,GRV,Air,RU
+6131,Hatanga,HTG,Air,RU
+6132,Igarka,IAA,Air,RU
+6133,Inta,INA,Air,RU
+6134,Irkutsk,IKT,Air,RU
+6135,Ivanova,IWA,Air,RU
+6136,Izhevsk,IJK,Air,RU
+6137,Joshkar-Ola,JOK,Air,RU
+6138,Migalovo,KLD,Air,RU
+6139,Kaliningrad,KGD,Air,RU
+6140,Kaluga,KLF,Air,RU
+6141,Kazan,KZN,Air,RU
+6142,Kemerovo,KEJ,Air,RU
+6143,Novyy,KHV,Air,RU
+6144,Kirov,KVX,Air,RU
+6145,Kirovsk,KVK,Air,RU
+6146,Komsomolsk Na Amure,KXK,Air,RU
+6147,Kostroma,KMW,Air,RU
+6148,Kotlas,KSZ,Air,RU
+6149,Rostov,KRR,Air,RU
+6150,Krasnojarsk,KJA,Air,RU
+6151,Kurgan,KRO,Air,RU
+6152,Kursk,URS,Air,RU
+6153,Kyzyl,KYZ,Air,RU
+6154,Leshukonskoye,LDG,Air,RU
+6155,Lipetsk,LPK,Air,RU
+6156,Magadan,GDX,Air,RU
+6157,Magdagachi,GDG,Air,RU
+6158,Magnitogorsk,MQF,Air,RU
+6159,Makhachkala,MCX,Air,RU
+6160,Mineralnye Vody,MRV,Air,RU
+6161,Mirnyj,MJZ,Air,RU
+6162,Bykovo,BKA,Air,RU
+6163,Domodedovo,DME,Air,RU
+6164,Leningradskiy Rail Stn,ZKD,Air,RU
+6165,Paveletskiy Rail Stn.,XRK,Air,RU
+6166,Sheremetyevo,SVO,Air,RU
+6167,Vnukovo,VKO,Air,RU
+6168,Murmansk,MMK,Air,RU
+6169,Naberevnye Chelny,NBC,Air,RU
+6170,Nadym,NYM,Air,RU
+6171,Nalchik,NAL,Air,RU
+6172,Naryan-Mar,NNM,Air,RU
+6173,Neftekamsk,NEF,Air,RU
+6174,Nefteyugansk,NFG,Air,RU
+6175,Neryungri,NER,Air,RU
+6176,Nizhnevartovsk,NJC,Air,RU
+6177,Nizhniy Novgorod,GOJ,Air,RU
+6178,Nojabrxsk,NOJ,Air,RU
+6179,Novgorod,NVR,Air,RU
+6180,Novokuznetsk,NOZ,Air,RU
+6181,Novorossijsk,NOI,Air,RU
+6182,Tolmachevo,OVB,Air,RU
+6183,Novy Urengoy,NUX,Air,RU
+6184,Okhotsk,OHO,Air,RU
+6185,Oktiabrskij,OKT,Air,RU
+6186,Omsk,OMS,Air,RU
+6187,Orel,OEL,Air,RU
+6188,Orenburg,REN,Air,RU
+6189,Orsk,OSW,Air,RU
+6190,Pechora,PEX,Air,RU
+6191,Penza,PEZ,Air,RU
+6192,Perm,PEE,Air,RU
+6193,Petropavlovsk-Kamchats,PKC,Air,RU
+6194,Petrozavodsk,PES,Air,RU
+6195,Pevek,PWE,Air,RU
+6196,Polyarnyj,PYJ,Air,RU
+6197,Provedenia,PVX,Air,RU
+6198,Provideniya,PVS,Air,RU
+6199,Pskov,PKV,Air,RU
+6200,Raduzhnyi,RAT,Air,RU
+6201,Rostov,ROV,Air,RU
+6202,Ryazan,RZN,Air,RU
+6203,Rybinsk,RYB,Air,RU
+6204,Salekhard,SLY,Air,RU
+6205,Samara,KUF,Air,RU
+6206,Saransk,SKX,Air,RU
+6207,Saratov,RTW,Air,RU
+6208,Smolensk,LNX,Air,RU
+6209,Moscovskiy Railway Stn,ZLK,Air,RU
+6210,Pulkovo,LED,Air,RU
+6211,Rzhevka,RVH,Air,RU
+6212,Stavropol,STW,Air,RU
+6213,Strzhewoi,SWT,Air,RU
+6214,Surgut,SGC,Air,RU
+6215,Syktyvkar,SCW,Air,RU
+6216,Tambov,TBW,Air,RU
+6217,Tiksi,IKS,Air,RU
+6218,Tobolsk,TOX,Air,RU
+6219,Tomsk,TOF,Air,RU
+6220,Tula,TYA,Air,RU
+6221,Tynda,TYD,Air,RU
+6222,Tyumen,TJM,Air,RU
+6223,Ufa,UFA,Air,RU
+6224,Ukhta,UCT,Air,RU
+6225,"Ulan-ude, Mukhino",UUD,Air,RU
+6226,Ulyanovsk,ULY,Air,RU
+6227,Uraj,URJ,Air,RU
+6228,Usinsk,USK,Air,RU
+6229,Ust-Ilimsk,UIK,Air,RU
+6230,Ust-Kut,UKX,Air,RU
+6231,Velikij Ustyug,VUS,Air,RU
+6232,Velikiye Luki,VLU,Air,RU
+6233,Vladikavkaz,OGZ,Air,RU
+6234,Vladivostok,VVO,Air,RU
+6235,Volgodonsk,VLK,Air,RU
+6236,Volgograd,VOG,Air,RU
+6237,Vologda,VGD,Air,RU
+6238,Vorkuta,VKT,Air,RU
+6239,Voronezh,VOZ,Air,RU
+6240,Yakutsk,YKS,Air,RU
+6241,Yaroslavl,IAR,Air,RU
+6242,Yuzhno-Sakhalinsk,UUS,Air,RU
+6243,Butare,BTQ,Air,RW
+6244,Gisenyi,GYI,Air,RW
+6245,Kamembe,KME,Air,RW
+6246,Gregoire Kayibanda,KGL,Air,RW
+6247,Ruhengeri,RHG,Air,RW
+6248,Abha,AHB,Air,SA
+6249,Prince Sultan Air Base,AKH,Air,SA
+6250,Alahsa,HOF,Air,SA
+6251,Al-Aqiq,ABT,Air,SA
+6252,Arar,RAE,Air,SA
+6253,Bisha,BHH,Air,SA
+6254,Dawadmi,DWD,Air,SA
+6255,Dhahran,DHA,Air,SA
+6256,Gassim Regional Airport,ELQ,Air,SA
+6257,Gurayat,URY,Air,SA
+6258,Hafr Albatin,HBT,Air,SA
+6259,Hail,HAS,Air,SA
+6260,Jazan,GIZ,Air,SA
+6261,Dammam Port,XZF,Air,SA
+6262,King Abdulaziz International,JED,Air,SA
+6263,Jouf,AJF,Air,SA
+6264,Khamis Mushait,KMX,Air,SA
+6265,Mohammad Bin Abdulaziz,MED,Air,SA
+6266,Majma,MJH,Air,SA
+6267,Nejran,EAM,Air,SA
+6268,Qaisumah,AQI,Air,SA
+6269,Rafha,RAH,Air,SA
+6270,King Khaled Intl,RUH,Air,SA
+6271,Sharurah,SHW,Air,SA
+6272,Sulayel,SLF,Air,SA
+6273,Tabuk,TUU,Air,SA
+6274,Taif,TIF,Air,SA
+6275,Turaif,TUI,Air,SA
+6276,Unayzah,UZH,Air,SA
+6277,Wadi Ad Dawasir,WAE,Air,SA
+6278,Wedjh,EJH,Air,SA
+6279,Yanbu,YNB,Air,SA
+6280,Zilfi,ZUL,Air,SA
+6281,King Fahd International Airport,DMM,Air,SA
+6282,Afutara Aerodrome,AFT,Air,SB
+6283,Anuha Island Resort,ANH,Air,SB
+6284,Ulawa Airport,RNA,Air,SB
+6285,Atoifi,ATD,Air,SB
+6286,Avu Avu,AVU,Air,SB
+6287,Balalae,BAS,Air,SB
+6288,Barakoma,VEV,Air,SB
+6289,Barora,RRI,Air,SB
+6290,Batuna Aerodrome,BPF,Air,SB
+6291,Bellona,BNY,Air,SB
+6292,Choiseul Bay,CHY,Air,SB
+6293,Fera Island,FRE,Air,SB
+6294,Gatokae Aerodrom,GTA,Air,SB
+6295,Geva Airstrip,GEF,Air,SB
+6296,Gizo,GZO,Air,SB
+6297,Guadalcanal,GSI,Air,SB
+6298,Henderson Intl,HIR,Air,SB
+6299,Kagau,KGE,Air,SB
+6300,Kirakira,IRA,Air,SB
+6301,Kukundu,KUE,Air,SB
+6302,Kwai Harbour,KWR,Air,SB
+6303,Kwailabesi Aerodrom,KWS,Air,SB
+6304,Marau Sound,RUS,Air,SB
+6305,Mbambanakira,MBU,Air,SB
+6306,Mono,MNY,Air,SB
+6307,Munda,MUA,Air,SB
+6308,Onepusu,ONE,Air,SB
+6309,Ontong Java,OTV,Air,SB
+6310,Parasi,PRS,Air,SB
+6311,Ramata,RBV,Air,SB
+6312,Rennell,RNL,Air,SB
+6313,Ringi Cove,RIN,Air,SB
+6314,Santa Ana,NNB,Air,SB
+6315,Santa Cruz Is,SCZ,Air,SB
+6316,Savo,SVY,Air,SB
+6317,Sege,EGM,Air,SB
+6318,Nana,NAZ,Air,SB
+6319,Suavanao Airstrip,VAO,Air,SB
+6320,Tarapaina,TAA,Air,SB
+6321,Tulagi Island,TLG,Air,SB
+6322,Viru Harbour Airstrip,VIU,Air,SB
+6323,Yandina,XYA,Air,SB
+6324,Bird Island,BDI,Air,SC
+6325,Denis Island,DEI,Air,SC
+6326,Desroches,DES,Air,SC
+6327,Fregate Is,FRK,Air,SC
+6328,Seychelles International Airport,SEZ,Air,SC
+6329,Praslin Island,PRI,Air,SC
+6330,Nis,INI,Air,SC
+6331,Ad-Dabbah,AAD,Air,SD
+6332,Atbara,ATB,Air,SD
+6333,Galegu,DNX,Air,SD
+6334,Dongola,DOG,Air,SD
+6335,El Fasher,ELF,Air,SD
+6336,El Obeid,EBD,Air,SD
+6337,Eldebba,EDB,Air,SD
+6338,En Nahud,NUD,Air,SD
+6339,Gedaref,GSU,Air,SD
+6340,Geneina,EGN,Air,SD
+6341,Higlieg,HGI,Air,SD
+6342,Juba,JUB,Air,SD
+6343,Kassala,KSL,Air,SD
+6344,Civil,KRT,Air,SD
+6345,Khashm El Girba,GBU,Air,SD
+6346,Kosti,KST,Air,SD
+6347,Malakal,MAK,Air,SD
+6348,Merowe,MWE,Air,SD
+6349,New Halfa,NHF,Air,SD
+6350,Nyala,UYL,Air,SD
+6351,Port Sudan,PZU,Air,SD
+6352,Roseires,RSS,Air,SD
+6353,Wad Medani,DNI,Air,SD
+6354,Wadi Halfa,WHF,Air,SD
+6355,Wau,WUU,Air,SD
+6356,Alvesta,XXA,Air,SE
+6357,Angelholm,AGH,Air,SE
+6358,Angelholm Railway Svc.,XYQ,Air,SE
+6359,Heliport,JHE,Air,SE
+6360,Helsingborg Railway,XYH,Air,SE
+6361,Arvidsjaur,AJR,Air,SE
+6362,Avesta Krylbo,XYP,Air,SE
+6363,Borlange Railway Svc.,XYB,Air,SE
+6364,Dala,BLE,Air,SE
+6365,Enkoping,XWQ,Air,SE
+6366,Eskilstuna,EKT,Air,SE
+6367,Falkenberg Rail,XYM,Air,SE
+6368,Flen,XYI,Air,SE
+6369,Gallivare,GEV,Air,SE
+6370,Sandviken,GVX,Air,SE
+6371,Gothenburg Rail,XWL,Air,SE
+6372,Landvetter,GOT,Air,SE
+6373,Saeve,GSE,Air,SE
+6374,Hagfors,HFS,Air,SE
+6375,Halmstad,HAD,Air,SE
+6376,Hassleholm,XWP,Air,SE
+6377,Hedemora,XXU,Air,SE
+6378,Hemavan,HMV,Air,SE
+6379,Herrljunga,XYC,Air,SE
+6380,Hudiksvall,HUV,Air,SE
+6381,Hultsfred,HLF,Air,SE
+6382,Idre,IDB,Air,SE
+6383,Axamo,JKG,Air,SE
+6384,Kalmar,KLR,Air,SE
+6385,Karlshamn,XYO,Air,SE
+6386,Karlskoga,KSK,Air,SE
+6387,Karlstad,KSD,Air,SE
+6388,Katrineholm,XXK,Air,SE
+6389,Kiruna,KRN,Air,SE
+6390,Kramfors,KRF,Air,SE
+6391,Kristianstad,KID,Air,SE
+6392,Kristinehamn Rail,XYN,Air,SE
+6393,Heliport,JLD,Air,SE
+6394,Hovby,LDK,Air,SE
+6395,Linkoping,LPI,Air,SE
+6396,Kallax,LLA,Air,SE
+6397,Lycksele,LYC,Air,SE
+6398,Malmo Harbour Heliport,JMM,Air,SE
+6399,Malmo South Railway,XFR,Air,SE
+6400,Sturup,MMX,Air,SE
+6401,Mora,MXX,Air,SE
+6402,Kungsangen,NRK,Air,SE
+6403,Nykoping,XWZ,Air,SE
+6404,Orebro-bofors,ORB,Air,SE
+6405,Ornskoldsvik,OER,Air,SE
+6406,Oskarshamn,OSK,Air,SE
+6407,Froesoe,OSD,Air,SE
+6408,Pajala,PJA,Air,SE
+6409,Pass Rail,XZQ,Air,SE
+6410,Kallinge,RNB,Air,SE
+6411,Karlskrona Rail Svc.,XWK,Air,SE
+6412,Sala,XYX,Air,SE
+6413,Skelleftea,SFT,Air,SE
+6414,Skovde,KVB,Air,SE
+6415,Soderhamn,SOO,Air,SE
+6416,Sodertalje Heliport,JSO,Air,SE
+6417,Sodertalje S Railway,XEZ,Air,SE
+6418,Solvesborg,XYU,Air,SE
+6419,Arlanda,ARN,Air,SE
+6420,Bromma,BMA,Air,SE
+6421,Skavsta,NYO,Air,SE
+6422,Vasteras/Hasslo,VST,Air,SE
+6423,Gunnarn,SQO,Air,SE
+6424,Sundsvall/Harnosand,SDL,Air,SE
+6425,Sveg,EVG,Air,SE
+6426,Torsby Airport,TYF,Air,SE
+6427,Trollhattan,THN,Air,SE
+6428,Umea,UME,Air,SE
+6429,Vastervik,VVK,Air,SE
+6430,Vaxjo,VXO,Air,SE
+6431,Vilhelmina,VHM,Air,SE
+6432,Visby,VBY,Air,SE
+6433,Changi,SIN,Air,SG
+6434,Paya Lebar,QPG,Air,SG
+6435,Seletar,XSP,Air,SG
+6436,Wideawake Fld,ASI,Air,SH
+6437,Brnik,LJU,Air,SI
+6438,Maribor,MBX,Air,SI
+6439,Portoroz,POW,Air,SI
+6440,Ivanka,BTS,Air,SK
+6441,Barca,KSC,Air,SK
+6442,Lucenec,LUE,Air,SK
+6443,Piestany,PZY,Air,SK
+6444,Poprad/Tatry,TAT,Air,SK
+6445,Sliac,SLD,Air,SK
+6446,Zilina,ILZ,Air,SK
+6447,Bo,KBS,Air,SL
+6448,Bonthe,BTE,Air,SL
+6449,Daru,DSL,Air,SL
+6450,Hastings,HGS,Air,SL
+6451,Lungi International,FNA,Air,SL
+6452,Mammy Yoko Heliport,JMY,Air,SL
+6453,Gbangbatok,GBK,Air,SL
+6454,Kabala,KBA,Air,SL
+6455,Kenema,KEN,Air,SL
+6456,Sierra Leone,SRK,Air,SL
+6457,Yengema,WYE,Air,SL
+6458,San Marino,SAI,Air,SM
+6459,Bakel,BXE,Air,SN
+6460,Cap Skirring,CSK,Air,SN
+6461,Yoff,DKR,Air,SN
+6462,Kaolack,KLC,Air,SN
+6463,Kedougou,KGG,Air,SN
+6464,Kolda,KDA,Air,SN
+6465,Matam,MAX,Air,SN
+6466,Niokolo Koba,NIK,Air,SN
+6467,Podor,POD,Air,SN
+6468,Richard Toll,RDT,Air,SN
+6469,Simenti,SMY,Air,SN
+6470,St Louis,XLS,Air,SN
+6471,Tambacounda,TUD,Air,SN
+6472,Ziguinchor,ZIG,Air,SN
+6473,Alula,ALU,Air,SO
+6474,Baidoa,BIB,Air,SO
+6475,Bardera,BSY,Air,SO
+6476,Berbera,BBO,Air,SO
+6477,Borama,BXX,Air,SO
+6478,Bossaso,BSA,Air,SO
+6479,Burao,BUO,Air,SO
+6480,Candala,CXN,Air,SO
+6481,Eil,HCM,Air,SO
+6482,Erigavo,ERA,Air,SO
+6483,Galcaio,GLK,Air,SO
+6484,Garbaharey,GBM,Air,SO
+6485,Gardo,GSR,Air,SO
+6486,Garoe,GGR,Air,SO
+6487,Hargeisa,HGA,Air,SO
+6488,Kismayu,KMU,Air,SO
+6489,Las Khoreh,LKR,Air,SO
+6490,Lugh Ganane,LGX,Air,SO
+6491,International,MGQ,Air,SO
+6492,Obbia,CMO,Air,SO
+6493,Scusciuban,CMS,Air,SO
+6494,Albina,ABN,Air,SR
+6495,Cayana Airstrip,AAJ,Air,SR
+6496,Botopasie,BTO,Air,SR
+6497,Djoemoe,DOE,Air,SR
+6498,Drietabbetje,DRJ,Air,SR
+6499,Tepoe Airstrip,KCB,Air,SR

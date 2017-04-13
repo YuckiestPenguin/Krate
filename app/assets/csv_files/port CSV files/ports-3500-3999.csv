@@ -1,0 +1,501 @@
+id,name,port_code,shipment_type_name,country_country_code
+3500,Agana Nas,NGM,Air,GU
+3501,Anderson AFB,UAM,Air,GU
+3502,Osvaldo Vieira,OXB,Air,GW
+3503,Bubaque,BQE,Air,GW
+3504,Buochs,BXO,Air,GW
+3505,Aishalton,AHL,Air,GY
+3506,Annai,NAI,Air,GY
+3507,Baramita,BMJ,Air,GY
+3508,Bartica,GFO,Air,GY
+3509,Bemichi,BCG,Air,GY
+3510,Ekereku,EKE,Air,GY
+3511,Imbaimadai,IMB,Air,GY
+3512,Kaieteur,KAI,Air,GY
+3513,Kamarang,KAR,Air,GY
+3514,Karanambo,KRM,Air,GY
+3515,Karasabai,KRG,Air,GY
+3516,Kato,KTO,Air,GY
+3517,Konawaruk,KKG,Air,GY
+3518,Kurupung,KPG,Air,GY
+3519,Lethem,LTM,Air,GY
+3520,Lumid Pau,LUB,Air,GY
+3521,Mabaruma,USI,Air,GY
+3522,Mahdia,MHA,Air,GY
+3523,Maikwak,VEG,Air,GY
+3524,Matthews Ridge,MWJ,Air,GY
+3525,Monkey Mountain,MYM,Air,GY
+3526,Ogle,OGL,Air,GY
+3527,Orinduik,ORJ,Air,GY
+3528,Paramakotoi,PMT,Air,GY
+3529,Paruima,PRR,Air,GY
+3530,Pipillipai,PIQ,Air,GY
+3531,Port Kaituma,PKM,Air,GY
+3532,Sandcreek,SDC,Air,GY
+3533,Skeldon,SKM,Air,GY
+3534,Hong Kong International,HKG,Air,HK
+3535,Off Line Point,ZJK,Air,HK
+3536,H K Heliport,HHP,Air,HK
+3537,Kwun Tong,KTZ,Air,HK
+3538,Shek Mum,QDM,Air,HK
+3539,Ahuas,AHS,Air,HN
+3540,Brus Laguna,BHG,Air,HN
+3541,Catacamas,CAA,Air,HN
+3542,Cauquira,CDD,Air,HN
+3543,Palmerola Air Base,XPL,Air,HN
+3544,Copan,RUY,Air,HN
+3545,Coronel E Soto Cano AB,ENQ,Air,HN
+3546,Coyoles,CYL,Air,HN
+3547,Erandique,EDQ,Air,HN
+3548,Gracias,GAC,Air,HN
+3549,Gualaco,GUO,Air,HN
+3550,Guanaja,GJA,Air,HN
+3551,Iriona,IRN,Air,HN
+3552,Juticalpa,JUT,Air,HN
+3553,Goloson International,LCE,Air,HN
+3554,La Esperanza,LEZ,Air,HN
+3555,La Union,LUI,Air,HN
+3556,Las Limas,LLH,Air,HN
+3557,Limon,LMH,Air,HN
+3558,Marcala,MRJ,Air,HN
+3559,Olanchito,OAN,Air,HN
+3560,Palacios,PCH,Air,HN
+3561,Puerto Lempira,PEU,Air,HN
+3562,Roatan,RTB,Air,HN
+3563,San Esteban,SET,Air,HN
+3564,Ramon Villeda Morales,SAP,Air,HN
+3565,Santa Rosa Copan,SDH,Air,HN
+3566,Sulaco,SCD,Air,HN
+3567,Toncontin,TGU,Air,HN
+3568,Tela,TEA,Air,HN
+3569,Tocoa,TCF,Air,HN
+3570,Capiro,TJI,Air,HN
+3571,Utila,UII,Air,HN
+3572,Victoria,VTA,Air,HN
+3573,Yoro,ORO,Air,HN
+3574,Bol,BWK,Air,HR
+3575,Dubrovnik,DBV,Air,HR
+3576,Losinj Arpt,LSZ,Air,HR
+3577,Osijek,OSI,Air,HR
+3578,Pula,PUY,Air,HR
+3579,Rijeka,RJK,Air,HR
+3580,Split,SPU,Air,HR
+3581,Zadar,ZAD,Air,HR
+3582,Pleso,ZAG,Air,HR
+3583,Cap Haitien,CAP,Air,HT
+3584,Jacmel,JAK,Air,HT
+3585,Jeremie,JEE,Air,HT
+3586,Les Cayes,CYA,Air,HT
+3587,Mais Gate,PAP,Air,HT
+3588,Port De Paix,PAX,Air,HT
+3589,Saarmelleek/Balaton,SOB,Air,HU
+3590,Deli Railway,XXJ,Air,HU
+3591,Ferihegy,BUD,Air,HU
+3592,Keleti Railway,XXQ,Air,HU
+3593,Debrecen,DEB,Air,HU
+3594,Miskolc,MCQ,Air,HU
+3595,Aek Godang,AEG,Air,ID
+3596,Alor Island,ARD,Air,ID
+3597,Amahai,AHI,Air,ID
+3598,Pattimura,AMQ,Air,ID
+3599,Anggi,AGD,Air,ID
+3600,Apalapsili,AAS,Air,ID
+3601,Arso,ARJ,Air,ID
+3602,Gunung Batin,AKQ,Air,ID
+3603,Atambua,ABU,Air,ID
+3604,Atauro,AUT,Air,ID
+3605,Ayawasi,AYW,Air,ID
+3606,Babo,BXB,Air,ID
+3607,Bade,BXD,Air,ID
+3608,Bajawa,BJW,Air,ID
+3609,Sepingan,BPN,Air,ID
+3610,Banaina,NAF,Air,ID
+3611,Blang Bintang,BTJ,Air,ID
+3612,Bandanaira,NDA,Air,ID
+3613,Branti,TKG,Air,ID
+3614,Husein Sastranegara,BDO,Air,ID
+3615,Sjamsudin Noor,BDJ,Air,ID
+3616,Hang Nadim,BTH,Air,ID
+3617,Batom,BXM,Air,ID
+3618,Batu Licin,BTW,Air,ID
+3619,Baubau,BUW,Air,ID
+3620,Padangkemiling,BKS,Air,ID
+3621,Benjina,BJK,Air,ID
+3622,Berau,BEJ,Air,ID
+3623,Mokmer,BIK,Air,ID
+3624,Bima,BMU,Air,ID
+3625,Bintuni,NTI,Air,ID
+3626,Bokondini,BUI,Air,ID
+3627,Bolaang,BJG,Air,ID
+3628,Bontang,BXT,Air,ID
+3629,Bunyu,BYQ,Air,ID
+3630,Buol,UOL,Air,ID
+3631,Cepu,CPF,Air,ID
+3632,Tunggul Wulung,CXP,Air,ID
+3633,Penggung,CBN,Air,ID
+3634,Dabra,DRH,Air,ID
+3635,Datadawai,DTD,Air,ID
+3636,Ngurah Rai,DPS,Air,ID
+3637,Comoro,DIL,Air,ID
+3638,Dobo Airport,DOB,Air,ID
+3639,Pinang Kampai,DUM,Air,ID
+3640,Elelim,ELR,Air,ID
+3641,Enarotali,EWI,Air,ID
+3642,Ende,ENE,Air,ID
+3643,Ewer,EWE,Air,ID
+3644,Fak Fak,FKQ,Air,ID
+3645,Gag Island,GAV,Air,ID
+3646,Galela,GLX,Air,ID
+3647,Gebe,GEB,Air,ID
+3648,Tolotio,GTO,Air,ID
+3649,Gunungsitoli,GNS,Air,ID
+3650,Illaga,ILA,Air,ID
+3651,Ilu,IUL,Air,ID
+3652,Inanwatan,INX,Air,ID
+3653,Halim Perdana Kusuma,HLP,Air,ID
+3654,Soekarno-Hatta Intl,JKT,Air,ID
+3655,Sultan Taha Syarifudn,DJB,Air,ID
+3656,Sentani,DJJ,Air,ID
+3657,Kaimana,KNG,Air,ID
+3658,Kambuaya,KBX,Air,ID
+3659,Kamur,KCD,Air,ID
+3660,Karimunjawa,KWB,Air,ID
+3661,Karubaga,KBF,Air,ID
+3662,Kau,KAZ,Air,ID
+3663,Kebar,KEQ,Air,ID
+3664,Keisah,KEA,Air,ID
+3665,Kelila,LLN,Air,ID
+3666,Keluang,KLQ,Air,ID
+3667,Wolter Monginsidi,KDI,Air,ID
+3668,Kepi,KEI,Air,ID
+3669,Kerinci,KRC,Air,ID
+3670,Ketapang,KTG,Air,ID
+3671,Kimam,KMM,Air,ID
+3672,Kokonao,KOX,Air,ID
+3673,Kon,KCI,Air,ID
+3674,Kotabangun,KOD,Air,ID
+3675,Kotabaru,KBU,Air,ID
+3676,Eltari,KOE,Air,ID
+3677,Mutiara,LBJ,Air,ID
+3678,Labuha,LAH,Air,ID
+3679,Langgur,LUV,Air,ID
+3680,Larantuka,LKA,Air,ID
+3681,Lereh,LHI,Air,ID
+3682,Lewoleba,LWE,Air,ID
+3683,Lhok Sukon,LSX,Air,ID
+3684,Lhoksumawe,LSW,Air,ID
+3685,Long Apung,LPU,Air,ID
+3686,Long Bawan,LBW,Air,ID
+3687,Lunyuk,LYK,Air,ID
+3688,Luwuk,LUW,Air,ID
+3689,Abdul Rahman Saleh,MLG,Air,ID
+3690,Maliana,MPT,Air,ID
+3691,Mamuju,MJU,Air,ID
+3692,Samratulangi,MDC,Air,ID
+3693,Mangole,MAL,Air,ID
+3694,Mangunjaya,MJY,Air,ID
+3695,Rendani,MKW,Air,ID
+3696,Masalembo,MSI,Air,ID
+3697,Masamba,MXB,Air,ID
+3698,Matak,MWK,Air,ID
+3699,Selaparang,AMI,Air,ID
+3700,Waioti,MOF,Air,ID
+3701,Polania,MES,Air,ID
+3702,Melangguane,MNA,Air,ID
+3703,Mopah,MKQ,Air,ID
+3704,Merdey,RDE,Air,ID
+3705,Seunagan,MEQ,Air,ID
+3706,Mindiptana,MDP,Air,ID
+3707,Moanamani,ONI,Air,ID
+3708,Morotai Island,OTI,Air,ID
+3709,Muko-Muko,MPC,Air,ID
+3710,Mulia,LII,Air,ID
+3711,Muting,MUF,Air,ID
+3712,Nabire,NBX,Air,ID
+3713,Naha,NAH,Air,ID
+3714,Namlea,NAM,Air,ID
+3715,Namrole,NRE,Air,ID
+3716,Nangapinoh,NPO,Air,ID
+3717,Natuna Ranai,NTX,Air,ID
+3718,Numfoor,FOO,Air,ID
+3719,Nunukan,NNX,Air,ID
+3720,Obano,OBD,Air,ID
+3721,Ocussi,OEC,Air,ID
+3722,Okaba,OKQ,Air,ID
+3723,Oksibil,OKL,Air,ID
+3724,Minangkabau International Airport,PDG,Air,ID
+3725,Palangkaraya,PKY,Air,ID
+3726,Mahmud Badaruddin Ii,PLM,Air,ID
+3727,Palibelo,PBW,Air,ID
+3728,Mutiara,PLW,Air,ID
+3729,Pangkalanbuun,PKN,Air,ID
+3730,Pangkalpinang,PGK,Air,ID
+3731,Pasir Pangarayan,PPR,Air,ID
+3732,Simpang Tiga,PKU,Air,ID
+3733,Pendopo,PDO,Air,ID
+3734,Pomala,PUM,Air,ID
+3735,Pondok Cabe,PCB,Air,ID
+3736,Supadio,PNK,Air,ID
+3737,Poso,PSJ,Air,ID
+3738,Pulau Panjang,PPJ,Air,ID
+3739,Purwokerto,PWL,Air,ID
+3740,Putussibau,PSU,Air,ID
+3741,Sugimanuru,RAQ,Air,ID
+3742,Ransiki,RSK,Air,ID
+3743,Japura,RGT,Air,ID
+3744,Rokot,RKI,Air,ID
+3745,Roti,RTI,Air,ID
+3746,Ruteng,RTG,Air,ID
+3747,Narita,SBG,Air,ID
+3748,Samarinda,SRI,Air,ID
+3749,Sampit,SMQ,Air,ID
+3750,Sanana,SQN,Air,ID
+3751,Sanggata,SGQ,Air,ID
+3752,Sangir,SAE,Air,ID
+3753,Sarmi,ZRM,Air,ID
+3754,Saumlaki,SXK,Air,ID
+3755,Sawu,SAU,Air,ID
+3756,Achmad Yani,SRG,Air,ID
+3757,Senggeh,SEH,Air,ID
+3758,Senggo,ZEG,Air,ID
+3759,Senipah,SZH,Air,ID
+3760,Serui,ZRI,Air,ID
+3761,Sibisa,SIW,Air,ID
+3762,Sinak,NKD,Air,ID
+3763,Dabo,SIQ,Air,ID
+3764,Sintang,SQG,Air,ID
+3765,Sipora,RKO,Air,ID
+3766,Adi Sumarmo,SOC,Air,ID
+3767,Soroako,SQR,Air,ID
+3768,Jefman,SOQ,Air,ID
+3769,Steenkool,ZKL,Air,ID
+3770,Suai,UAI,Air,ID
+3771,Brang Bidji,SWQ,Air,ID
+3772,Trunojoyo,SUP,Air,ID
+3773,Sungai Pakning,SEQ,Air,ID
+3774,Juanda,SUB,Air,ID
+3775,Taliabu,TAX,Air,ID
+3776,Tjilik Riwut,TMC,Air,ID
+3777,Tana Toraja,TTR,Air,ID
+3778,Tanah Grogot,TNB,Air,ID
+3779,Tanahmerah,TMH,Air,ID
+3780,Tanjung Balai,TJB,Air,ID
+3781,Bulutumbang,TJQ,Air,ID
+3782,Kidjang,TNJ,Air,ID
+3783,Tanjung Santan,TSX,Air,ID
+3784,Tanjung Selor,TJS,Air,ID
+3785,Tanjung Warukin,TJG,Air,ID
+3786,Tapaktuan,TPK,Air,ID
+3787,Tarakan,TRK,Air,ID
+3788,Tasikmalaya,TSY,Air,ID
+3789,Timika,TIM,Air,ID
+3790,Teminabuan,TXM,Air,ID
+3791,Babullah,TTE,Air,ID
+3792,Tiom,TMY,Air,ID
+3793,Tolitoli,TLI,Air,ID
+3794,Tumbang Samba,TBM,Air,ID
+3795,Ubrub,UBR,Air,ID
+3796,Hasanudin,UPG,Air,ID
+3797,Viqueque,VIQ,Air,ID
+3798,Wagethe,WET,Air,ID
+3799,Waingapu,WGP,Air,ID
+3800,Wamena,WMX,Air,ID
+3801,Waris,WAR,Air,ID
+3802,Wasior,WSR,Air,ID
+3803,Adisutjipto,JOG,Air,ID
+3804,Yuruf,RUF,Air,ID
+3805,Zugapa,UGU,Air,ID
+3806,English Madeira,BCH,Air,ID
+3807,Bantry,BYT,Air,IE
+3808,Belmullet,BLY,Air,IE
+3809,Reenroe,CHE,Air,IE
+3810,Castlebar,CLB,Air,IE
+3811,Cork,ORK,Air,IE
+3812,Donegal,CFN,Air,IE
+3813,Dublin,DUB,Air,IE
+3814,Carnmore,GWY,Air,IE
+3815,Inisheer,INQ,Air,IE
+3816,Inishmaan,IIA,Air,IE
+3817,Kilronan,IOR,Air,IE
+3818,Kerry Airport (Farranfore),KIR,Air,IE
+3819,Kilkenny,KKY,Air,IE
+3820,Ireland West Airport Knock,NOC,Air,IE
+3821,Letterkenny,LTR,Air,IE
+3822,Shannon,SNN,Air,IE
+3823,Bus Station,ZSL,Air,IE
+3824,Collooney,SXL,Air,IE
+3825,Connemara,NNR,Air,IE
+3826,Waterford,WAT,Air,IE
+3827,Castlebridge,WEX,Air,IE
+3828,Beer Sheba,BEV,Air,IL
+3829,Ein Yahav,EIY,Air,IL
+3830,Elat,ETH,Air,IL
+3831,Gush Katif,GHK,Air,IL
+3832,Haifa,HFA,Air,IL
+3833,Jerusalem,JRS,Air,IL
+3834,Kiryat Shmona,KSW,Air,IL
+3835,Masada,MTZ,Air,IL
+3836,Mitspeh Ramon,MIP,Air,IL
+3837,Ovda,VDA,Air,IL
+3838,Rosh Pina,RPN,Air,IL
+3839,Ben Gurion Intl,TLV,Air,IL
+3840,Sde Dov,SDV,Air,IL
+3841,Yotvata,YOT,Air,IL
+3842,Singerbhil,IXA,Air,IN
+3843,Agatti Island,AGX,Air,IN
+3844,Kheria,AGR,Air,IN
+3845,Ahmedabad,AMD,Air,IN
+3846,Aizawl,AJL,Air,IN
+3847,Akola,AKD,Air,IN
+3848,Bamrauli,IXD,Air,IN
+3849,Along,IXV,Air,IN
+3850,Raja Sansi,ATQ,Air,IN
+3851,Chikkalthana,IXU,Air,IN
+3852,Bagdogra,IXB,Air,IN
+3853,Balurghat,RGH,Air,IN
+3854,Hal,BLR,Air,IN
+3855,Bareli,BEK,Air,IN
+3856,Sambre,IXG,Air,IN
+3857,Bellary,BEP,Air,IN
+3858,Bhatinda,BUP,Air,IN
+3859,Bhavnagar,BHU,Air,IN
+3860,Bhopal,BHO,Air,IN
+3861,Bhubaneswar,BBI,Air,IN
+3862,Rudra Mata,BHJ,Air,IN
+3863,Bikaner,BKB,Air,IN
+3864,Bilaspur,PAB,Air,IN
+3865,Car Nicobar,CBD,Air,IN
+3866,Chandigarh,IXC,Air,IN
+3867,Meenambakkam,MAA,Air,IN
+3868,Peelamedu,CJB,Air,IN
+3869,Cooch Behar,COH,Air,IN
+3870,Cuddapah,CDP,Air,IN
+3871,Daman,NMB,Air,IN
+3872,Daparizo,DAE,Air,IN
+3873,Darjeeling,DAI,Air,IN
+3874,Dehra Dun,DED,Air,IN
+3875,Indira Gandhi Intl,DEL,Air,IN
+3876,Deparizo,DEP,Air,IN
+3877,Dhanbad,DBD,Air,IN
+3878,Gaggal Airport,DHM,Air,IN
+3879,Chabua,DIB,Air,IN
+3880,Dimapur,DMU,Air,IN
+3881,Diu,DIU,Air,IN
+3882,Borjhar,GAU,Air,IN
+3883,Gaya,GAY,Air,IN
+3884,Dabolim,GOI,Air,IN
+3885,Gorakhpur,GOP,Air,IN
+3886,Guna,GUX,Air,IN
+3887,Gwalior,GWL,Air,IN
+3888,Hissar,HSS,Air,IN
+3889,Hubli,HBX,Air,IN
+3890,Begumpet Airport,HYD,Air,IN
+3891,Municipal,IMF,Air,IN
+3892,Indore,IDR,Air,IN
+3893,Jabalpur,JLR,Air,IN
+3894,Jagdalpur,JGB,Air,IN
+3895,Sanganeer,JAI,Air,IN
+3896,Jaisalmer,JSA,Air,IN
+3897,Satwari,IXJ,Air,IN
+3898,Govardhanpur,JGA,Air,IN
+3899,Sonari,IXW,Air,IN
+3900,Jeypore,PYB,Air,IN
+3901,Jodhpur,JDH,Air,IN
+3902,Rowriah,JRH,Air,IN
+3903,Kailashahar,IXH,Air,IN
+3904,Kamalpur,IXQ,Air,IN
+3905,Kandla,IXY,Air,IN
+3906,Kanpur,KNU,Air,IN
+3907,Keshod,IXK,Air,IN
+3908,Khajuraho,HJR,Air,IN
+3909,Khowai,IXN,Air,IN
+3910,Kochi,COK,Air,IN
+3911,Kolhapur,KLH,Air,IN
+3912,Netaji Subhas Chandra,CCU,Air,IN
+3913,Kota,KTU,Air,IN
+3914,Kozhikode Airport,CCJ,Air,IN
+3915,Kullu Manali,KUU,Air,IN
+3916,Bakula Rimpoche,IXL,Air,IN
+3917,Lilabari,IXI,Air,IN
+3918,Amausi,LKO,Air,IN
+3919,Ludhiana,LUH,Air,IN
+3920,Madurai,IXM,Air,IN
+3921,Malda,LDA,Air,IN
+3922,Bajpe,IXE,Air,IN
+3923,Mohanbari,MOH,Air,IN
+3924,Chhatrapati Shivaji,BOM,Air,IN
+3925,Muzaffarnagar,MZA,Air,IN
+3926,Muzaffarpur,MZU,Air,IN
+3927,Mysore,MYQ,Air,IN
+3928,Sonegaon,NAG,Air,IN
+3929,Nanded,NDC,Air,IN
+3930,Gandhinagar Arpt,ISK,Air,IN
+3931,Neyveli,NVY,Air,IN
+3932,Osmanabad,OMN,Air,IN
+3933,Pantnagar,PGH,Air,IN
+3934,Pasighat,IXT,Air,IN
+3935,Pathankot,IXP,Air,IN
+3936,Patna,PAT,Air,IN
+3937,Pondicherry,PNY,Air,IN
+3938,Porbandar,PBD,Air,IN
+3939,Port Blair,IXZ,Air,IN
+3940,Lohegaon,PNQ,Air,IN
+3941,Puttaprathe,PUT,Air,IN
+3942,Raipur,RPR,Air,IN
+3943,Rajahmundry,RJA,Air,IN
+3944,Civil,RAJ,Air,IN
+3945,Rajouri,RJI,Air,IN
+3946,Ramagundam,RMD,Air,IN
+3947,Ranchi,IXR,Air,IN
+3948,Ratnagiri,RTC,Air,IN
+3949,Rewa,REW,Air,IN
+3950,Rourkela,RRK,Air,IN
+3951,Rupsi,RUP,Air,IN
+3952,Salem,SXV,Air,IN
+3953,Satna,TNI,Air,IN
+3954,Shillong,SHL,Air,IN
+3955,Sholapur,SSE,Air,IN
+3956,Kumbhirgram,IXS,Air,IN
+3957,Simla,SLV,Air,IN
+3958,Srinagar,SXR,Air,IN
+3959,Surat,STV,Air,IN
+3960,Salonibari,TEZ,Air,IN
+3961,Tezu,TEI,Air,IN
+3962,Thanjavur,TJV,Air,IN
+3963,International,TRV,Air,IN
+3964,Civil,TRZ,Air,IN
+3965,Tirupati,TIR,Air,IN
+3966,Tuticorin,TCR,Air,IN
+3967,Dabok,UDR,Air,IN
+3968,Vadodara,BDQ,Air,IN
+3969,Varanasi,VNS,Air,IN
+3970,Vijayawada,VGA,Air,IN
+3971,Vishakhapatnam,VTZ,Air,IN
+3972,Warangal,WGC,Air,IN
+3973,Zero,ZER,Air,IN
+3974,Al Muthana,BGW,Air,IQ
+3975,Baghdad International,SDA,Air,IQ
+3976,Balad,XQC,Air,IQ
+3977,Bamerny,BMN,Air,IQ
+3978,Baqubah,XQV,Air,IQ
+3979,International,BSR,Air,IQ
+3980,Khan Al Baghdadi,XIH,Air,IQ
+3981,Kirkuk,KIK,Air,IQ
+3982,Mosul,OSM,Air,IQ
+3983,Nasiriyah,XNH,Air,IQ
+3984,Ramidi,XTM,Air,IQ
+3985,Tikrit,XTV,Air,IQ
+3986,Abadan,ABD,Air,IR
+3987,Abu Musa,AEU,Air,IR
+3988,Aghajari,AKW,Air,IR
+3989,Ahwaz,AWZ,Air,IR
+3990,Araak,AJK,Air,IR
+3991,Ardabil,ADU,Air,IR
+3992,Asaloyeh,YEH,Air,IR
+3993,Babolsar,BBL,Air,IR
+3994,Bahregan,IAQ,Air,IR
+3995,Bam,BXR,Air,IR
+3996,Bandar Abbas,BND,Air,IR
+3997,Bandar Lengeh,BDH,Air,IR
+3998,Mahshahr,MRX,Air,IR
+3999,Birjand,XBJ,Air,IR

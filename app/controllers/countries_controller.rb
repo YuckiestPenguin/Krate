@@ -5,7 +5,8 @@ class CountriesController < ApplicationController
   # GET /countries.json
   def index
     @search = Country.search(params[:q])
-    @countries =  @search.result.order(:name)
+    @countries =  @search.result.order(:name).page(params[:page])
+
   end
 
   # GET /countries/1

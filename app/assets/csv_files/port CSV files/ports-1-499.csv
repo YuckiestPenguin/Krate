@@ -1,0 +1,500 @@
+id,name,port_code,shipment_type_name,country_country_code
+1,Andorra La Vella H/P,ALV,Air,AD
+2,Abu Dhabi Intl,AUH,Air,AE
+3,Al Dhafra Military Apt,DHF,Air,AE
+4,Bateen,AZI,Air,AE
+5,Al Ain,AAN,Air,AE
+6,Fujairah Intl Arpt,FJR,Air,AE
+7,Dubai,DXB,Air,AE
+8,Military Airport,NHD,Air,AE
+9,Ras Al Khaimah,RKT,Air,AE
+10,Sharjah,SHJ,Air,AE
+11,Bamiyan,BIN,Air,AF
+12,Bost,BST,Air,AF
+13,Chakcharan,CCN,Air,AF
+14,Darwaz,DAZ,Air,AF
+15,Faizabad,FBD,Air,AF
+16,Farah,FAH,Air,AF
+17,Gardez,GRG,Air,AF
+18,Ghazni,GZI,Air,AF
+19,Herat,HEA,Air,AF
+20,Jalalabad,JAA,Air,AF
+21,Khwaja Rawash,KBL,Air,AF
+22,Kandahar,KDH,Air,AF
+23,Khost,KHT,Air,AF
+24,Khwahan,KWH,Air,AF
+25,Kunduz,UND,Air,AF
+26,Kuran-O-Munjan,KUR,Air,AF
+27,Maimana,MMZ,Air,AF
+28,Mazar-I-Sharif,MZR,Air,AF
+29,Nimroz,IMZ,Air,AF
+30,Qala Nau,LQN,Air,AF
+31,Sardeh Band,SBF,Air,AF
+32,Sheghnan,SGA,Air,AF
+33,Taluqan,TQN,Air,AF
+34,Tirinkot,TII,Air,AF
+35,Urgoon,URN,Air,AF
+36,Uruzgan,URZ,Air,AF
+37,Zaranj,ZAJ,Air,AF
+38,V.C. Bird Intl,ANU,Air,AG
+39,Barbuda,BBQ,Air,AG
+40,Wallblake,AXA,Air,AI
+41,Rinas,TIA,Air,AL
+42,Gyoumri,LWN,Air,AM
+43,Yerevan,EVN,Air,AM
+44,Flamingo International,BON,Air,AN
+45,Hato International Airport,CUR,Air,AN
+46,J. Yrausquin,SAB,Air,AN
+47,F D Roosevelt,EUX,Air,AN
+48,Princess Juliana,SXM,Air,AN
+49,Ambriz,AZZ,Air,AO
+50,Andulo,ANL,Air,AO
+51,Gen V Deslandes,BUG,Air,AO
+52,Cabinda,CAB,Air,AO
+53,Cafunfo,CFF,Air,AO
+54,Cangamba,CNZ,Air,AO
+55,Capanda,KNP,Air,AO
+56,Catumbela,CBT,Air,AO
+57,Cazombo,CAV,Air,AO
+58,Chitato,PGI,Air,AO
+59,Cuito Cuanavale,CTI,Air,AO
+60,Dirico,DRC,Air,AO
+61,Dundo,DUE,Air,AO
+62,Huambo,NOV,Air,AO
+63,Jamba,JMB,Air,AO
+64,Kuito (Silva Porto),SVP,Air,AO
+65,4 de Fevereiro,LAD,Air,AO
+66,Luau,UAL,Air,AO
+67,Lubango,SDD,Air,AO
+68,Luena,LUO,Air,AO
+69,Lukapa,LBZ,Air,AO
+70,Lumbala,GGC,Air,AO
+71,Luzamba,LZM,Air,AO
+72,Malange,MEG,Air,AO
+73,Menongue,SPP,Air,AO
+74,Namibe,MSZ,Air,AO
+75,Ndalatandos,NDF,Air,AO
+76,Negage,GXG,Air,AO
+77,Ngiva,NGV,Air,AO
+78,Nzagi,NZA,Air,AO
+79,Ongiva,VPE,Air,AO
+80,Porto Amboim,PBN,Air,AO
+81,Saurimo,VHC,Air,AO
+82,Soyo,SZA,Air,AO
+83,Sumbe,NDD,Air,AO
+84,Uige,UGO,Air,AO
+85,Waco Kungo,CEO,Air,AO
+86,Xangongo,XGN,Air,AO
+87,Teniente R. Marsh,TNM,Air,AQ
+88,Alto Rio Senguerr,ARR,Air,AR
+89,Comandante,BHI,Air,AR
+90,Arpt. Jorge Newbery,AEP,Air,AR
+91,Ezeiza Ministro Pistarini,EZE,Air,AR
+92,Caleta Olivia,CVI,Air,AR
+93,Carmen De Patagones,CPG,Air,AR
+94,Catamarca,CTC,Air,AR
+95,Caviahue,CVH,Air,AR
+96,Ceres,CRR,Air,AR
+97,Charata,CNT,Air,AR
+98,Oscar Reguera,HOS,Air,AR
+99,Clorinda,CLX,Air,AR
+100,Colonia Catriel,CCT,Air,AR
+101,Colonia Sarmiento,OLN,Air,AR
+102,Comodoro Rivadavia,CRD,Air,AR
+103,Concordia,COC,Air,AR
+104,Pajas Blancas,COR,Air,AR
+105,Brigadier Hector Ruiz,CSZ,Air,AR
+106,Camba Punta,CNQ,Air,AR
+107,Curuzu Cuatia,UZU,Air,AR
+108,Cutral,CUT,Air,AR
+109,El Bolson,EHL,Air,AR
+110,El Calafate,FTE,Air,AR
+111,El Maiten,EMX,Air,AR
+112,El Palomar,EPA,Air,AR
+113,Eldorado,ELO,Air,AR
+114,Esquel,EQS,Air,AR
+115,El Pucu,FMA,Air,AR
+116,General Pico,GPO,Air,AR
+117,General Roca,GNR,Air,AR
+118,General Villegas,VGS,Air,AR
+119,Gobernador Gregores,GGS,Air,AR
+120,Goya,OYA,Air,AR
+121,Gualeguaychu,GHU,Air,AR
+122,Cataratas,IGR,Air,AR
+123,Ingeniero Jacobacci,IGB,Air,AR
+124,Jose De San Martin,JSM,Air,AR
+125,El Cadillal,JUJ,Air,AR
+126,Junin,JNI,Air,AR
+127,La Cumbre,LCM,Air,AR
+128,La Plata,LPG,Air,AR
+129,La Rioja,IRJ,Air,AR
+130,Lago Argentino,ING,Air,AR
+131,Las Heras,LHS,Air,AR
+132,Las Lomitas,LLS,Air,AR
+133,Loncopue,LCP,Air,AR
+134,Los Menucos,LMD,Air,AR
+135,Malargue,LGS,Air,AR
+136,Maquinchao,MQD,Air,AR
+137,Mar Del Plata,MDQ,Air,AR
+138,El Plumerillo,MDZ,Air,AR
+139,Mercedes,MDX,Air,AR
+140,Valle Del Conlara,RLO,Air,AR
+141,Miramar,MJR,Air,AR
+142,Monte Caseros,MCS,Air,AR
+143,Necochea,NEC,Air,AR
+144,Neuquen,NQN,Air,AR
+145,Olavarria,OVR,Air,AR
+146,Oran,ORA,Air,AR
+147,Parana,PRA,Air,AR
+148,Paso De Los Libres,AOL,Air,AR
+149,Pehuajo,PEH,Air,AR
+150,Perito Moreno,PMQ,Air,AR
+151,Posadas,PSS,Air,AR
+152,Pres. Roque Saenz Pena,PRQ,Air,AR
+153,Puerto Deseado,PUD,Air,AR
+154,El Tehuelche,PMY,Air,AR
+155,Reconquista,RCQ,Air,AR
+156,Resistencia,RES,Air,AR
+157,Rincon de los Sauces,RDS,Air,AR
+158,Rio Cuarto,RCU,Air,AR
+159,Internacional,RGL,Air,AR
+160,Rio Grande,RGA,Air,AR
+161,Rio Hondo,RHD,Air,AR
+162,Rio Mayo,ROY,Air,AR
+163,Rio Turbio,RYO,Air,AR
+164,Fisherton,ROS,Air,AR
+165,Saenz Pena,SZQ,Air,AR
+166,Gen Belgrano,SLA,Air,AR
+167,San Antonio Oeste,OES,Air,AR
+168,International,BRC,Air,AR
+169,San Juan,UAQ,Air,AR
+170,San Julian,ULA,Air,AR
+171,San Luis,LUQ,Air,AR
+172,Chapelco,CPC,Air,AR
+173,San Rafael,AFA,Air,AR
+174,Santa Cruz,RZA,Air,AR
+175,Santa Fe,SFN,Air,AR
+176,Santa Rosa,RSA,Air,AR
+177,Santa Teresita,SST,Air,AR
+178,Santiago Del Estero,SDE,Air,AR
+179,Sierra Grande,SGV,Air,AR
+180,Tandil,TDL,Air,AR
+181,Tartagal,TTG,Air,AR
+182,Trelew,REL,Air,AR
+183,Tres Arroyos,OYO,Air,AR
+184,Benj Matienzo,TUC,Air,AR
+185,Islas Malvinas,USH,Air,AR
+186,Valcheta,VCF,Air,AR
+187,Viedma,VDM,Air,AR
+188,Villa Dolores,VDR,Air,AR
+189,Villa Gesell,VLG,Air,AR
+190,Villa Mercedes,VME,Air,AR
+191,Zapala,APZ,Air,AR
+192,Fitiuta,FTI,Air,AS
+193,Ofu,OFU,Air,AS
+194,International,PPG,Air,AS
+195,Tau,TAV,Air,AS
+196,Railway Station,XGZ,Air,AT
+197,Thalerhof,GRZ,Air,AT
+198,Hohenems,HOH,Air,AT
+199,Kranebitten,INN,Air,AT
+200,Kitzbuehl Railway,XJS,Air,AT
+201,Alpe Adria,KLU,Air,AT
+202,Lauterach,QLX,Air,AT
+203,Blue Danube,LNZ,Air,AT
+204,W.A. Mozart,SZG,Air,AT
+205,St Anton,ANT,Air,AT
+206,Suedbahnhof Rail,XWC,Air,AT
+207,Vienna Danubepier Hov,VDD,Air,AT
+208,Schwechat International,VIE,Air,AT
+209,Westbahnhof Rail,XWW,Air,AT
+210,Flexenpass Heliport,ZRS,Air,AT
+211,Abingdon,ABG,Air,AU
+212,Adelaide,ADL,Air,AU
+213,Adelaide Keswick Rail,XHX,Air,AU
+214,Agnew,AGW,Air,AU
+215,Whitsunday Airstrip,WSY,Air,AU
+216,Albany,ALH,Air,AU
+217,Albury,ABX,Air,AU
+218,Alexandria,AXL,Air,AU
+219,Alice Springs,ASP,Air,AU
+220,Alice Springs Railway,XHW,Air,AU
+221,Alpha,ABH,Air,AU
+222,Alroy Downs,AYD,Air,AU
+223,Alton Downs,AWN,Air,AU
+224,Amata,AMT,Air,AU
+225,American River,RCN,Air,AU
+226,Ammaroo,AMX,Air,AU
+227,Andamooka,ADO,Air,AU
+228,Angus Downs,ANZ,Air,AU
+229,Anthony Lagoon,AYL,Air,AU
+230,Aramac,AXC,Air,AU
+231,Ararat,ARY,Air,AU
+232,Argyle,GYL,Air,AU
+233,Argyle Downs,AGY,Air,AU
+234,Armidale,ARM,Air,AU
+235,Arrabury,AAB,Air,AU
+236,Augustus Downs,AUD,Air,AU
+237,Aurukun Mission,AUU,Air,AU
+238,Austral Downs,AWP,Air,AU
+239,Auvergne,AVG,Air,AU
+240,Connellan,AYQ,Air,AU
+241,Ayr,AYR,Air,AU
+242,Badu Island,BDD,Air,AU
+243,Bairnsdale,BSJ,Air,AU
+244,Balcanoona,LCN,Air,AU
+245,Balgo Hills,BQW,Air,AU
+246,Ballina Byron Gateway,BNK,Air,AU
+247,Balranald,BZD,Air,AU
+248,Bamaga,ABM,Air,AU
+249,Baniyala,BYX,Air,AU
+250,Sydney Bankstown,BWU,Air,AU
+251,Barcaldine,BCI,Air,AU
+252,Barkly Downs,BKP,Air,AU
+253,Barrow Island,BWB,Air,AU
+254,Batavia Downs,BVW,Air,AU
+255,Raglan,BHS,Air,AU
+256,Bathurst Island,BRT,Air,AU
+257,Beagle Bay,BEE,Air,AU
+258,Bedford Downs,BDW,Air,AU
+259,Bedourie,BEU,Air,AU
+260,Belburn,BXF,Air,AU
+261,Benalla,BLN,Air,AU
+262,Bendigo,BXG,Air,AU
+263,Betoota,BTX,Air,AU
+264,Beverley Springs,BVZ,Air,AU
+265,Bickerton Island,BCZ,Air,AU
+266,Big Bell,BBE,Air,AU
+267,Billiluna,BIW,Air,AU
+268,Biloela,ZBL,Air,AU
+269,Birdsville,BVI,Air,AU
+270,Bizant,BZP,Air,AU
+271,Blackall,BKQ,Air,AU
+272,Blackwater,BLT,Air,AU
+273,Bloomfield,BFC,Air,AU
+274,Boigu Island,GIC,Air,AU
+275,Bollon,BLS,Air,AU
+276,Bolwarra,BCK,Air,AU
+277,Borroloola,BOX,Air,AU
+278,Boulia,BQL,Air,AU
+279,Bourke,BRK,Air,AU
+280,Bowen,ZBO,Air,AU
+281,Brampton Island,BMP,Air,AU
+282,Brewarrina,BWQ,Air,AU
+283,Bright,BRJ,Air,AU
+284,Brighton Downs,BHT,Air,AU
+285,Brisbane International,BNE,Air,AU
+286,Broken Hill,BHQ,Air,AU
+287,Broome,BME,Air,AU
+288,Brunette Downs,BTD,Air,AU
+289,Bulimba,BIP,Air,AU
+290,Bunbury,BUY,Air,AU
+291,Bundaberg,BDB,Air,AU
+292,Burketown,BUC,Air,AU
+293,Burnie Wynyard,BWT,Air,AU
+294,Bussellton Airport,BQB,Air,AU
+295,Caiguna,CGV,Air,AU
+296,Cairns,CNS,Air,AU
+297,Caloundra,CUD,Air,AU
+298,Camden,CDU,Air,AU
+299,Camfield,CFI,Air,AU
+300,Camooweal,CML,Air,AU
+301,Canberra,CBR,Air,AU
+302,Canobie,CBY,Air,AU
+303,Cape Barren Island,CBI,Air,AU
+304,Cape Flattery,CQP,Air,AU
+305,Carlton Hill,CRY,Air,AU
+306,Carnarvon,CVQ,Air,AU
+307,Carpentaria Downs,CFP,Air,AU
+308,Casino,CSI,Air,AU
+309,Cattle Creek,CTR,Air,AU
+310,Ceduna,CED,Air,AU
+311,Cessnock,CES,Air,AU
+312,Charleville,CTL,Air,AU
+313,Charters Towers,CXT,Air,AU
+314,Cherrabun,CBC,Air,AU
+315,Cherribah,CRH,Air,AU
+316,Chillagoe,LLG,Air,AU
+317,Chinchilla,CCL,Air,AU
+318,Christmas Creek,CXQ,Air,AU
+319,Clermont,CMQ,Air,AU
+320,Cleve,CVC,Air,AU
+321,Clifton Hills,CFH,Air,AU
+322,Cloncurry,CNJ,Air,AU
+323,Cluny,CZY,Air,AU
+324,Cobar,CAZ,Air,AU
+325,Coconut Island,CNC,Air,AU
+326,Coen,CUQ,Air,AU
+327,Coffs Harbour,CFS,Air,AU
+328,Colac,XCO,Air,AU
+329,Collarenebri,CRB,Air,AU
+330,Collie,CIE,Air,AU
+331,Collinsville,KCE,Air,AU
+332,Condobolin,CBX,Air,AU
+333,Coober Pedy,CPD,Air,AU
+334,Cooinda,CDA,Air,AU
+335,Cooktown,CTN,Air,AU
+336,Coolah,CLH,Air,AU
+337,Coolawanyah,COY,Air,AU
+338,Coolibah,COB,Air,AU
+339,Cooma,OOM,Air,AU
+340,Coonabarabran,COJ,Air,AU
+341,Coonamble,CNB,Air,AU
+342,Coorabie,CRJ,Air,AU
+343,Cootamundra,CMD,Air,AU
+344,Cordillo Downs,ODL,Air,AU
+345,Corowa,CWW,Air,AU
+346,Corryong,CYG,Air,AU
+347,Cowarie,CWR,Air,AU
+348,Cowell,CCW,Air,AU
+349,Cowra,CWT,Air,AU
+350,Cresswell Downs,CSD,Air,AU
+351,Croker Island,CKI,Air,AU
+352,Croydon,CDQ,Air,AU
+353,Cudal,CUG,Air,AU
+354,Cue,CUY,Air,AU
+355,Cunnamulla,CMA,Air,AU
+356,Dalby,DBY,Air,AU
+357,Dalgaranga,DGD,Air,AU
+358,Daly River,DVR,Air,AU
+359,Daly Waters,DYW,Air,AU
+360,Darnley Island,NLF,Air,AU
+361,Darwin,DRW,Air,AU
+362,Darwin Railway,XJG,Air,AU
+363,Dauan Island,DAJ,Air,AU
+364,Davenport Downs,DVP,Air,AU
+365,Daydream Is,DDI,Air,AU
+366,Delissaville,DLV,Air,AU
+367,Delta Downs,DDN,Air,AU
+368,Denham,DNM,Air,AU
+369,Deniliquin,DNQ,Air,AU
+370,Derby,DRB,Air,AU
+371,Devonport,DPO,Air,AU
+372,Diamantina Lakes,DYM,Air,AU
+373,Dirranbandi,DRN,Air,AU
+374,Dixie,DXD,Air,AU
+375,Docker River,DKV,Air,AU
+376,Dongara,DOX,Air,AU
+377,Doomadgee,DMD,Air,AU
+378,Doongan,DNG,Air,AU
+379,Dorunda Station,DRD,Air,AU
+380,Drumduff,DFP,Air,AU
+381,Drysdale River,DRY,Air,AU
+382,Dubbo,DBO,Air,AU
+383,Dulkaninna,DLK,Air,AU
+384,Dunbar,DNB,Air,AU
+385,Dunk Island,DKI,Air,AU
+386,Durham Downs,DHD,Air,AU
+387,Durrie,DRR,Air,AU
+388,Dysart,DYA,Air,AU
+389,Echuca,ECH,Air,AU
+390,Edward River,EDR,Air,AU
+391,Einasleigh,EIH,Air,AU
+392,Elcho Island,ELC,Air,AU
+393,Elkedra,EKD,Air,AU
+394,Emerald,EMD,Air,AU
+395,Eneabba West,ENB,Air,AU
+396,Erldunda,EDD,Air,AU
+397,Ernabella,ERB,Air,AU
+398,Esperance,EPR,Air,AU
+399,Etadunna,ETD,Air,AU
+400,Eucla,EUC,Air,AU
+401,Eva Downs,EVD,Air,AU
+402,Evans Head,EVH,Air,AU
+403,Exmouth Gulf,EXM,Air,AU
+404,Falls Creek,FLC,Air,AU
+405,Finke,FIK,Air,AU
+406,Finley,FLY,Air,AU
+407,Fitzroy Crossing,FIZ,Air,AU
+408,Flinders Island,FLS,Air,AU
+409,Flora Valey,FVL,Air,AU
+410,Forbes,FRB,Air,AU
+411,Forrest,FOS,Air,AU
+412,Forrest River Airport,FVR,Air,AU
+413,Forster,FOT,Air,AU
+414,Fossil Downs,FSL,Air,AU
+415,Heliport,JFM,Air,AU
+416,Gamboola,GBP,Air,AU
+417,Garden Point,GPN,Air,AU
+418,Gascoyne Junction,GSC,Air,AU
+419,Gayndah,GAH,Air,AU
+420,Geelong,GEX,Air,AU
+421,George Town,GEE,Air,AU
+422,Georgetown,GTT,Air,AU
+423,Geraldton,GET,Air,AU
+424,Gibb River,GBV,Air,AU
+425,Gladstone,GLT,Air,AU
+426,Glen Innes,GLI,Air,AU
+427,Glengyle,GLG,Air,AU
+428,Glenormiston,GLM,Air,AU
+429,Gold Coast (Coolangatta),OOL,Air,AU
+430,Goldsworthy,GLY,Air,AU
+431,Goondiwindi,GOO,Air,AU
+432,Gordon Downs,GDD,Air,AU
+433,Gosford,GOS,Air,AU
+434,Goulburn,GUL,Air,AU
+435,Goulburn Island,GBL,Air,AU
+436,Nhulunbuy,GOV,Air,AU
+437,Grafton,GFN,Air,AU
+438,Granites,GTS,Air,AU
+439,Great Keppel Island,GKL,Air,AU
+440,Greenvale,GVP,Air,AU
+441,Gregory Downs,GGD,Air,AU
+442,Grenfell,GFE,Air,AU
+443,Griffith,GFF,Air,AU
+444,Alyangula,GTE,Air,AU
+445,Gunnedah,GUH,Air,AU
+446,Gympie,GYP,Air,AU
+447,Halls Creek,HCQ,Air,AU
+448,Hamilton,HLT,Air,AU
+449,Hamilton Island,HTI,Air,AU
+450,Wilpena Pound,HWK,Air,AU
+451,Hay,HXX,Air,AU
+452,Hayman Island,HIS,Air,AU
+453,Headingly,HIP,Air,AU
+454,Heathlands,HAT,Air,AU
+455,Helenvale,HLV,Air,AU
+456,Henbury,HRY,Air,AU
+457,Hermannsburg,HMG,Air,AU
+458,Heliport,HRN,Air,AU
+459,Hervey Bay,HVB,Air,AU
+460,Highbury,HIG,Air,AU
+461,Hillside,HLL,Air,AU
+462,Hinchinbrook Island,HNK,Air,AU
+463,Hobart,HBA,Air,AU
+464,Hook Island,HIH,Air,AU
+465,Hooker Creek,HOK,Air,AU
+466,Hope Vale,HPE,Air,AU
+467,Hopetoun,HTU,Air,AU
+468,Horn Island,HID,Air,AU
+469,Horsham,HSM,Air,AU
+470,Hughenden,HGD,Air,AU
+471,Humbert River,HUB,Air,AU
+472,Iffley,IFF,Air,AU
+473,Indulkana,IDK,Air,AU
+474,Ingham,IGH,Air,AU
+475,Injune,INJ,Air,AU
+476,Inkerman,IKP,Air,AU
+477,Innamincka,INM,Air,AU
+478,Innisfail,IFL,Air,AU
+479,Inverell,IVR,Air,AU
+480,Inverway,IVW,Air,AU
+481,Isisford,ISI,Air,AU
+482,Jabiru,JAB,Air,AU
+483,Jandakot,JAD,Air,AU
+484,Julia Creek,JCK,Air,AU
+485,Jundah,JUN,Air,AU
+486,Jurien Bay,JUR,Air,AU
+487,Kalbarri,KAX,Air,AU
+488,Kalgoorlie,KGI,Air,AU
+489,Kalkurung,KFG,Air,AU
+490,Kalpowar,KPP,Air,AU
+491,Kalumburu,UBU,Air,AU
+492,Kamaran Downs,KDS,Air,AU
+493,Kambalda,KDB,Air,AU
+494,Kamileroi,KML,Air,AU
+495,Karratha,KTA,Air,AU
+496,Karumba,KRB,Air,AU
+497,Katanning,KNI,Air,AU
+498,Tindal,KTR,Air,AU
+499,Kempsey,KPS,Air,AU
